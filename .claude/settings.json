@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install)",
+      "Bash(npm install *)",
+      "Bash(npm run ingest)",
+      "Bash(npx tsc --noEmit)",
+      "Bash(npx tsx *)",
+      "Bash(curl -s -o /dev/null -w *)",
+      "Bash(curl -s -D - -o /dev/null *)",
+      "Bash(curl -s -L -A *)",
+      "Bash(curl -s -L -o /dev/null -w *)",
+      "Bash(curl -s \"https://boards-api.greenhouse.io/*)",
+      "Bash(curl -s \"https://api.lever.co/*)",
+      "Bash(curl -s \"https://api.ashbyhq.com/*)",
+      "Bash(curl -s \"https://api.smartrecruiters.com/*)",
+      "Bash(curl -s \"https://www.workable.com/*)"
+    ]
+  }
+}

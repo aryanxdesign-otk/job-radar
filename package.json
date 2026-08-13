@@ -1,0 +1,19 @@
+{
+  "name": "job-radar",
+  "private": true,
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "ingest": "tsx src/ingest.ts",
+    "filter": "tsx src/filter.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "fast-xml-parser": "^5.10.1"
+  }
+}
