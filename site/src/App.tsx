@@ -117,11 +117,13 @@ export default function App() {
           {TEXTURE}
         </div>
         <div className="hero__inner">
-          <h1>Design roles you can actually take</h1>
+          <h1>
+            <span className="hero__line-a">Design roles</span>
+            <span className="hero__line-b">you can actually take.</span>
+          </h1>
           <p className="hero__sub">
-            Senior and lead product design, UI/UX, and product owner roles — filtered for remote work in
-            the UTC+0 to UTC+9 band. Pulled straight from company boards and remote job feeds, refreshed
-            daily.
+            Senior product design, UI/UX, and product owner roles — remote, UTC+0 to UTC+9. Straight from
+            company boards and remote job feeds, refreshed daily.
           </p>
         </div>
       </header>

@@ -9,8 +9,8 @@
   --btn-fill: #141414;
   --btn-ink: #fafafa;
 
-  --serif: "New York", "SF Pro Serif", Georgia, "Times New Roman", serif;
-  --sans: "SF Pro Rounded", -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+  --serif: "Playfair Display", Georgia, "Times New Roman", serif;
+  --sans: "Inter", -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
   --mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
 }
 
@@ -29,6 +29,9 @@ body {
   font-family: var(--sans);
   font-size: 16px;
   line-height: 1.5;
+  /* Inter sits a touch wide at UI sizes; a hair of negative tracking keeps
+     the table from feeling airy. */
+  letter-spacing: -0.006em;
 }
 
 .page {
@@ -75,14 +78,34 @@ body {
   position: relative;
 }
 
+/* Two voices, one headline: a tight grotesque statement resolved by an
+   italic didone. Both lines share a size so the shift reads as tone, not
+   hierarchy. */
 .hero h1 {
-  font-family: var(--serif);
-  font-size: clamp(38px, 5.2vw, 64px);
-  font-weight: 500;
-  line-height: 1.1;
-  letter-spacing: -0.02em;
   margin: 0;
-  max-width: 15ch;
+  font-size: clamp(36px, 5.4vw, 64px);
+  line-height: 1.06;
+  max-width: 16ch;
+}
+
+.hero h1 span {
+  display: block;
+}
+
+.hero__line-a {
+  font-family: var(--sans);
+  font-weight: 700;
+  letter-spacing: -0.035em;
+}
+
+.hero__line-b {
+  font-family: var(--serif);
+  font-style: italic;
+  font-weight: 400;
+  /* Playfair's extenders run long, so it needs slightly less optical size
+     than Inter Bold to sit level with it. */
+  font-size: 0.98em;
+  letter-spacing: -0.005em;
 }
 
 .hero__sub {
@@ -294,6 +317,8 @@ td {
 .cell-posted {
   color: var(--muted);
   white-space: nowrap;
+  /* Tabular figures so the ages form a clean column instead of jittering. */
+  font-variant-numeric: tabular-nums;
 }
 
 .cell-action {
@@ -393,12 +418,14 @@ td {
   border-color: var(--muted);
 }
 
+/* Sans here on purpose: Playfair is loaded in its italic display cut for the
+   hero, and a job title is functional text, not a flourish. */
 .sheet h2 {
-  font-family: var(--serif);
-  font-size: 28px;
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: -0.015em;
+  font-family: var(--sans);
+  font-size: 26px;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: -0.025em;
   margin: 0 40px 10px 0;
 }
 
