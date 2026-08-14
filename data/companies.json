@@ -1,0 +1,214 @@
+[
+  {
+    "name": "Stripe",
+    "atsProvider": "greenhouse",
+    "atsSlug": "stripe",
+    "region": "global",
+    "tags": [],
+    "addedAt": "2026-08-13T12:00:00.000Z",
+    "lastSeenJobsAt": "2026-08-14T16:27:50.014Z",
+    "status": "active"
+  },
+  {
+    "name": "Airbnb",
+    "atsProvider": "greenhouse",
+    "atsSlug": "airbnb",
+    "region": "us",
+    "tags": [],
+    "addedAt": "2026-08-13T12:00:00.000Z",
+    "lastSeenJobsAt": "2026-08-14T16:27:51.814Z",
+    "status": "active"
+  },
+  {
+    "name": "Coinbase",
+    "atsProvider": "greenhouse",
+    "atsSlug": "coinbase",
+    "region": "us",
+    "tags": [
+      "crypto"
+    ],
+    "addedAt": "2026-08-13T12:00:00.000Z",
+    "lastSeenJobsAt": "2026-08-14T16:27:53.153Z",
+    "status": "active"
+  },
+  {
+    "name": "Figma",
+    "atsProvider": "greenhouse",
+    "atsSlug": "figma",
+    "region": "us",
+    "tags": [
+      "design-tool"
+    ],
+    "addedAt": "2026-08-13T12:00:00.000Z",
+    "lastSeenJobsAt": "2026-08-14T16:27:54.485Z",
+    "status": "active"
+  },
+  {
+    "name": "Palantir",
+    "atsProvider": "lever",
+    "atsSlug": "palantir",
+    "region": "us",
+    "tags": [],
+    "addedAt": "2026-08-13T12:00:00.000Z",
+    "lastSeenJobsAt": "2026-08-14T16:28:17.357Z",
+    "status": "active"
+  },
+  {
+    "name": "Gopuff",
+    "atsProvider": "lever",
+    "atsSlug": "gopuff",
+    "region": "us",
+    "tags": [],
+    "addedAt": "2026-08-13T12:00:00.000Z",
+    "lastSeenJobsAt": "2026-08-14T16:28:38.962Z",
+    "status": "active"
+  },
+  {
+    "name": "Ashby",
+    "atsProvider": "ashby",
+    "atsSlug": "ashby",
+    "region": "us",
+    "tags": [],
+    "addedAt": "2026-08-13T12:00:00.000Z",
+    "lastSeenJobsAt": "2026-08-14T16:28:40.632Z",
+    "status": "active"
+  },
+  {
+    "name": "Linear",
+    "atsProvider": "ashby",
+    "atsSlug": "linear",
+    "region": "us",
+    "tags": [],
+    "addedAt": "2026-08-13T12:00:00.000Z",
+    "lastSeenJobsAt": "2026-08-14T16:28:41.958Z",
+    "status": "active"
+  },
+  {
+    "name": "Urban Sports Club",
+    "atsProvider": "personio",
+    "atsSlug": "urbansportsclub",
+    "region": "dach",
+    "tags": [],
+    "addedAt": "2026-08-13T12:00:00.000Z",
+    "lastSeenJobsAt": "2026-08-14T16:28:43.884Z",
+    "status": "active"
+  },
+  {
+    "name": "Clark",
+    "atsProvider": "personio",
+    "atsSlug": "clark",
+    "region": "dach",
+    "tags": [
+      "fintech"
+    ],
+    "addedAt": "2026-08-13T12:00:00.000Z",
+    "lastSeenJobsAt": "2026-08-14T16:28:45.437Z",
+    "status": "active"
+  },
+  {
+    "name": "Storytel",
+    "atsProvider": "teamtailor",
+    "atsSlug": "storytel",
+    "region": "nordics",
+    "tags": [],
+    "addedAt": "2026-08-13T12:00:00.000Z",
+    "lastSeenJobsAt": "2026-08-14T16:28:48.374Z",
+    "status": "active"
+  },
+  {
+    "name": "Lunar",
+    "atsProvider": "teamtailor",
+    "atsSlug": "lunar",
+    "region": "nordics",
+    "tags": [
+      "fintech"
+    ],
+    "addedAt": "2026-08-13T12:00:00.000Z",
+    "lastSeenJobsAt": "2026-08-14T16:28:50.511Z",
+    "status": "active"
+  },
+  {
+    "name": "Channable",
+    "atsProvider": "recruitee",
+    "atsSlug": "channable",
+    "region": "benelux",
+    "tags": [],
+    "addedAt": "2026-08-13T12:00:00.000Z",
+    "lastSeenJobsAt": "2026-08-14T16:28:52.307Z",
+    "status": "active"
+  },
+  {
+    "name": "Bunq",
+    "atsProvider": "recruitee",
+    "atsSlug": "bunq",
+    "region": "benelux",
+    "tags": [
+      "fintech"
+    ],
+    "addedAt": "2026-08-13T12:00:00.000Z",
+    "lastSeenJobsAt": "2026-08-14T16:28:53.930Z",
+    "status": "active"
+  },
+  {
+    "name": "JustPark",
+    "atsProvider": "workable",
+    "atsSlug": "justpark",
+    "region": "uk",
+    "tags": [],
+    "addedAt": "2026-08-13T12:00:00.000Z",
+    "lastSeenJobsAt": "2026-08-14T16:28:56.050Z",
+    "status": "active"
+  },
+  {
+    "name": "Zego",
+    "atsProvider": "workable",
+    "atsSlug": "zego",
+    "region": "uk",
+    "tags": [
+      "insurtech"
+    ],
+    "addedAt": "2026-08-13T12:00:00.000Z",
+    "lastSeenJobsAt": "2026-08-14T16:28:58.058Z",
+    "status": "active"
+  },
+  {
+    "name": "SmartRecruiters",
+    "atsProvider": "smartrecruiters",
+    "atsSlug": "SmartRecruiters",
+    "region": "us",
+    "tags": [],
+    "addedAt": "2026-08-13T12:00:00.000Z",
+    "lastSeenJobsAt": "2026-08-14T16:28:59.487Z",
+    "status": "active"
+  },
+  {
+    "name": "Delivery Hero",
+    "atsProvider": "smartrecruiters",
+    "atsSlug": "DeliveryHero",
+    "region": "dach",
+    "tags": [],
+    "addedAt": "2026-08-13T12:00:00.000Z",
+    "lastSeenJobsAt": "2026-08-14T16:29:13.735Z",
+    "status": "active"
+  },
+  {
+    "name": "Vercel",
+    "atsProvider": "greenhouse",
+    "atsSlug": "vercel",
+    "region": "unknown",
+    "tags": [],
+    "addedAt": "2026-08-14T16:27:28.759Z",
+    "lastSeenJobsAt": "2026-08-14T16:29:15.251Z",
+    "status": "active"
+  },
+  {
+    "name": "Notion",
+    "atsProvider": "ashby",
+    "atsSlug": "notion",
+    "region": "unknown",
+    "tags": [],
+    "addedAt": "2026-08-14T16:27:42.780Z",
+    "lastSeenJobsAt": "2026-08-14T16:29:16.812Z",
+    "status": "active"
+  }
+]

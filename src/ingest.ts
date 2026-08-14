@@ -1,7 +1,8 @@
-import { writeFile, mkdir } from "node:fs/promises";
+import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import type { Job } from "./types/job.js";
+import type { CompanyRecord } from "./types/company.js";
 import { fetchGreenhouseJobs } from "./adapters/greenhouse.js";
 import { fetchLeverJobs } from "./adapters/lever.js";
 import { fetchAshbyJobs } from "./adapters/ashby.js";
@@ -22,15 +23,7 @@ import { fetchDesignXJobs } from "./adapters/designx.js";
 import { dedupeJobs } from "./lib/dedupe.js";
 import { sleep } from "./lib/util.js";
 
-type Source =
-  | { provider: "greenhouse"; token: string }
-  | { provider: "lever"; token: string }
-  | { provider: "ashby"; token: string }
-  | { provider: "personio"; token: string }
-  | { provider: "teamtailor"; token: string }
-  | { provider: "recruitee"; token: string }
-  | { provider: "workable"; token: string }
-  | { provider: "smartrecruiters"; token: string }
+type AggregatorSource =
   | { provider: "remoteok"; token: string }
   | { provider: "weworkremotely"; token: string }
   | { provider: "remotive"; token: string }
@@ -41,26 +34,7 @@ type Source =
   | { provider: "remote3"; token: string }
   | { provider: "designx"; token: string };
 
-const SOURCES: Source[] = [
-  { provider: "greenhouse", token: "stripe" },
-  { provider: "greenhouse", token: "airbnb" },
-  { provider: "greenhouse", token: "coinbase" },
-  { provider: "greenhouse", token: "figma" },
-  { provider: "lever", token: "palantir" },
-  { provider: "lever", token: "gopuff" },
-  { provider: "ashby", token: "ashby" },
-  { provider: "ashby", token: "linear" },
-  { provider: "personio", token: "urbansportsclub" },
-  { provider: "personio", token: "clark" },
-  { provider: "teamtailor", token: "storytel" },
-  { provider: "teamtailor", token: "lunar" },
-  { provider: "recruitee", token: "channable" },
-  { provider: "recruitee", token: "bunq" },
-  { provider: "workable", token: "justpark" },
-  { provider: "workable", token: "zego" },
-  { provider: "smartrecruiters", token: "SmartRecruiters" },
-  { provider: "smartrecruiters", token: "DeliveryHero" },
-  { provider: "smartrecruiters", token: "ThisCompanyDoesNotExist" },
+const AGGREGATOR_SOURCES: AggregatorSource[] = [
   { provider: "remoteok", token: "" },
   { provider: "weworkremotely", token: "remote-design-jobs" },
   { provider: "weworkremotely", token: "remote-product-jobs" },
@@ -74,24 +48,8 @@ const SOURCES: Source[] = [
   { provider: "designx", token: "" },
 ];
 
-async function fetchSource(source: Source): Promise<Job[]> {
+async function fetchAggregator(source: AggregatorSource): Promise<Job[]> {
   switch (source.provider) {
-    case "greenhouse":
-      return fetchGreenhouseJobs(source.token);
-    case "lever":
-      return fetchLeverJobs(source.token);
-    case "ashby":
-      return fetchAshbyJobs(source.token);
-    case "personio":
-      return fetchPersonioJobs(source.token);
-    case "teamtailor":
-      return fetchTeamtailorJobs(source.token);
-    case "recruitee":
-      return fetchRecruiteeJobs(source.token);
-    case "workable":
-      return fetchWorkableJobs(source.token);
-    case "smartrecruiters":
-      return fetchSmartRecruitersJobs(source.token);
     case "remoteok":
       return fetchRemoteOkJobs();
     case "weworkremotely":
@@ -113,22 +71,80 @@ async function fetchSource(source: Source): Promise<Job[]> {
   }
 }
 
+async function fetchCompany(company: CompanyRecord): Promise<Job[]> {
+  switch (company.atsProvider) {
+    case "greenhouse":
+      return fetchGreenhouseJobs(company.atsSlug);
+    case "lever":
+      return fetchLeverJobs(company.atsSlug);
+    case "ashby":
+      return fetchAshbyJobs(company.atsSlug);
+    case "personio":
+      return fetchPersonioJobs(company.atsSlug);
+    case "teamtailor":
+      return fetchTeamtailorJobs(company.atsSlug);
+    case "recruitee":
+      return fetchRecruiteeJobs(company.atsSlug);
+    case "workable":
+      return fetchWorkableJobs(company.atsSlug);
+    case "smartrecruiters":
+      return fetchSmartRecruitersJobs(company.atsSlug);
+  }
+}
+
 const PROJECT_ROOT = dirname(dirname(fileURLToPath(import.meta.url)));
 const DATA_PATH = `${PROJECT_ROOT}/data/jobs.json`;
+const COMPANIES_PATH = `${PROJECT_ROOT}/data/companies.json`;
+const DORMANT_AFTER_DAYS = 180;
+
+async function loadRegistry(): Promise<CompanyRecord[]> {
+  const raw = await readFile(COMPANIES_PATH, "utf-8");
+  return JSON.parse(raw) as CompanyRecord[];
+}
+
+function daysSince(iso: string | null): number {
+  if (!iso) return Infinity;
+  return (Date.now() - new Date(iso).getTime()) / (24 * 60 * 60 * 1000);
+}
 
 async function main() {
+  const registry = await loadRegistry();
+  const activeCompanies = registry.filter((c) => c.status === "active");
+  const skipped = registry.length - activeCompanies.length;
+
+  console.log(`companies: ${registry.length} in registry, ${activeCompanies.length} active, ${skipped} skipped (dormant/unsupported)`);
+
   const allJobs: Job[] = [];
 
-  for (const source of SOURCES) {
+  for (const company of activeCompanies) {
     try {
-      const jobs = await fetchSource(source);
+      const jobs = await fetchCompany(company);
+      console.log(`${company.atsProvider}:${company.atsSlug} — ${jobs.length} jobs`);
+      allJobs.push(...jobs);
+
+      if (jobs.length > 0) {
+        company.lastSeenJobsAt = new Date().toISOString();
+      } else if (daysSince(company.lastSeenJobsAt ?? company.addedAt) > DORMANT_AFTER_DAYS) {
+        company.status = "dormant";
+        console.log(`  -> marked dormant (0 jobs for ${DORMANT_AFTER_DAYS}+ days)`);
+      }
+    } catch (err) {
+      console.error(`  failed: ${(err as Error).message}`);
+    }
+
+    await sleep(1000); // 1 req/sec politeness
+  }
+
+  for (const source of AGGREGATOR_SOURCES) {
+    try {
+      const jobs = await fetchAggregator(source);
       console.log(`${source.provider}:${source.token} — ${jobs.length} jobs`);
       allJobs.push(...jobs);
     } catch (err) {
       console.error(`  failed: ${(err as Error).message}`);
     }
 
-    await sleep(1000); // 1 req/sec politeness
+    await sleep(1000);
   }
 
   const deduped = dedupeJobs(allJobs);
@@ -148,7 +164,8 @@ async function main() {
 
   await mkdir(dirname(DATA_PATH), { recursive: true });
   await writeFile(DATA_PATH, JSON.stringify(output, null, 2));
-  console.log(`\nwrote ${deduped.length} jobs to data/jobs.json`);
+  await writeFile(COMPANIES_PATH, JSON.stringify(registry, null, 2));
+  console.log(`\nwrote ${deduped.length} jobs to data/jobs.json, updated registry`);
 }
 
 main();

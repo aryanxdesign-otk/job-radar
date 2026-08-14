@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-14T03:07:26.703Z",
-  "filteredAt": "2026-08-14T03:07:27.213Z",
+  "generatedAt": "2026-08-14T16:29:43.385Z",
+  "filteredAt": "2026-08-14T16:30:06.755Z",
   "funnel": {
-    "raw": 4040,
-    "deduped": 3484,
-    "titleMatched": 80,
-    "recencyPassed": 26,
-    "geoPassed": 25
+    "raw": 4258,
+    "deduped": 3700,
+    "titleMatched": 82,
+    "recencyPassed": 27,
+    "geoPassed": 26
   },
   "jobs": [
     {
@@ -85,6 +85,17 @@
       "postedAt": "2026-08-06 12:04:48 UTC",
       "description": "<p>At bunq, we're not just building a banking app; we're reshaping how people around the world experience financial freedom. As a Product Lead - Credit, you’ll be instrumental in empowering our users with the flexible credit they need to support their lifestyle. You'll spearhead the entire credit domain, from ideation to international launch, building innovative solutions that are simple, transparent, and instantly accessible.</p><p style=\"min-height: 1.7em;\"></p><p><strong>Take Ownership</strong></p><p>As Product Lead - Credit, you’ll play a critical role in building a product that truly supports our users' lifestyles. You'll be the driving force behind the mission: \"Give me a credit line to support my lifestyle.\"</p><ul><li><p>Own the entire product lifecycle for our credit offerings, from designing and implementing the product and its underlying infrastructure to continuous maintenance and improvement.</p></li><li><p>Drive the strategic launch and expansion of our credit products into our current and new markets, navigating the unique complexities of each region.</p></li><li><p>Obsess over the user journey, collaborating with design and engineering teams to craft a world-class, seamless, and bug-free credit experience.</p></li><li><p>Work hand-in-hand with legal, risk, and compliance teams to ensure our credit products are not only innovative but also fully compliant with all regulatory requirements.</p></li></ul><p style=\"min-height: 1.7em;\"></p>",
       "roleFamily": "product-owner"
+    },
+    {
+      "id": "greenhouse:vercel:6131210004",
+      "atsProvider": "greenhouse",
+      "company": "Vercel",
+      "title": "Senior Product Designer, Growth",
+      "location": "Hybrid - San Francisco, New York City",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6131210004",
+      "postedAt": "2026-07-30T17:52:24-04:00",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;About Vercel:&lt;/h2&gt;\n&lt;p&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;Vercel is the agentic infrastructure company. We free people and agents to ship what’s next.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;For more than a decade, Vercel has shaped how the web is built. As the team behind Next.js, v0, and AI SDK, we create products that help builders move from idea to production with speed, security, and exceptional developer experience.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;Now, software is entering a new era, and the next generation of products will not just be used by people. They will be built, extended, and operated by agents.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;We are building the platform for that future, trusted by companies like&amp;nbsp;&lt;strong&gt;OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide&lt;/strong&gt;. Whether you’re building our products, supporting our customers, growing our community, or shaping our story, you’ll help define what comes next.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;About the Role:&lt;/h2&gt;\n&lt;p&gt;You’ll help define Growth Design at Vercel and shape the complete self-serve journey: signup, onboarding, first project and deployment, adoption, conversion, expansion, and retention. The work spans people, agents, and the handoffs between them.&lt;/p&gt;\n&lt;p&gt;You’ll report into Product Design and work closely with Growth Product, Engineering and Data. You’ll have the authority and support to move from an observed problem to a working prototype, shipped experience, and measured result.&lt;/p&gt;\n&lt;p&gt;Vercel gives you unlimited access to leading LLMs and in-house tools that make product data easier to explore. If a tool limits the work, you can partner directly with its builders or improve it yourself.&lt;/p&gt;\n&lt;p&gt;This role does not come with a mature Growth Design playbook, stable briefs, or one bounded product surface. Priorities change as evidence arrives. Some experiments will not ship. Our data and tools allow us to validate hypotheses. You should enjoy finding the right problem, making something real, working through implementation, and staying accountable after launch.&lt;/p&gt;\n&lt;p&gt;&lt;/p&gt;\n&lt;p&gt;If you’re based within a pre-determined commuting distance of one of our offices (SF, NY, London, or Berlin), the role includes in-office anchor days on Monday, Tuesday, and Friday. If you&#39;re located beyond that distance, the role is fully remote. For location-specific details, please connect with our recruiting team.&lt;/p&gt;\n&lt;h2&gt;What You Will Do:&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Own the self-serve experience across onboarding, activation, adoption, monetization, and retention for people and agents.&lt;/li&gt;\n&lt;li&gt;Find high-impact opportunities through customer research, product data, and direct use of Vercel.&lt;/li&gt;\n&lt;li&gt;Co-own Growth strategy, priorities, hypotheses, and success measures with Growth Product, Engineering, and Data.&lt;/li&gt;\n&lt;li&gt;Build and test working prototypes using the right tools for the question, including Figma, v0, Cursor, and Claude Code.&lt;/li&gt;\n&lt;li&gt;Design and ship experiments, stay involved through implementation, and interpret results without losing sight of trust, accessibility, or the broader funnel.&lt;/li&gt;\n&lt;li&gt;Turn what works into durable product improvements, reusable patterns, and better internal tools. Share the learning so Design and Growth improve with every experiment.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;/h2&gt;\n&lt;h2&gt;About You:&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Your portfolio demonstrates strong product design fundamentals and measurable outcomes. It shows how you identified opportunities, understood a funnel, chose what to measure, tested ideas, and improved a shipped product.&lt;/li&gt;\n&lt;li&gt;You have owned ambiguous, complex work from problem framing through launch and iteration. You create clarity and make progress without waiting for a complete brief.&lt;/li&gt;\n&lt;li&gt;You can form useful hypotheses, choose success and guardrail measures, and interpret quantitative and qualitative evidence with Data partners.&lt;/li&gt;\n&lt;li&gt;You build interactive prototypes independently using modern AI tools. You are comfortable prompting, working near code, and learning whatever helps you validate an idea.&lt;/li&gt;\n&lt;li&gt;You design clear, trustworthy experiences across skill levels and abilities. You care about interaction details, edge cases, language, accessibility, and recovery.&lt;/li&gt;\n&lt;li&gt;You work directly with Product, Engineering, and Data, explain tradeoffs clearly, seek feedback early, and stay involved through implementation. You know when to use or evolve a system and when a one-off is the fastest responsible way to learn.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;/h2&gt;\n&lt;h2&gt;Bonus If You:&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Have shipped AI or agent experiences.&lt;/li&gt;\n&lt;li&gt;Have an engineering background or experience contributing production web code.&lt;/li&gt;\n&lt;li&gt;Have designed developer tools, infrastructure, or other technical products, or are already familiar with Vercel.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;/h2&gt;\n&lt;h2&gt;Benefits:&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Competitive compensation package, including equity.&lt;/li&gt;\n&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Inclusive Healthcare Package.&lt;/li&gt;\n&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Learn and Grow - we provide mentorship and send you to events that help you build your network and skills.&lt;/li&gt;\n&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;Flexible Time Off.&lt;/li&gt;\n&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;We will provide you the gear you need to do your role, and a WFH budget for you to outfit your space as needed.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;The San Francisco, CA base pay range for this role is $172,000 - $258,000. Actual salary will be based on job-related skills, experience, and location. Compensation outside of San Francisco may be adjusted based on employee location. The total compensation package may include benefits, equity-based compensation, and eligibility for a company bonus or variable pay program depending on the role. Your recruiter can share more details during the hiring process.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Vercel is committed to fostering and empowering an inclusive community within our organization. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, national origin, citizenship, age, marital status, veteran status, disability status, or any other characteristic protected by law. Vercel encourages everyone to apply for our available positions, even if they don&#39;t necessarily check every box on the job description.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;div id=&quot;te-floating-button-container&quot;&gt;&lt;/div&gt;",
+      "roleFamily": "senior-pd"
     },
     {
       "id": "weworkremotely:remote-design-jobs:https://weworkremotely.com/remote-jobs/pixel-one-senior-product-designer",
@@ -181,7 +192,7 @@
       "title": "Senior Product Designer",
       "location": "United States",
       "url": "https://jobspresso.co/job/senior-product-designer-22/",
-      "postedAt": "2026-08-09T00:00:00.000Z",
+      "postedAt": "2026-08-08T18:30:00.000Z",
       "description": "Powered by one of the largest global newsrooms in sports media, The Athletic brings sports fans the most comprehensive stories about the teams, sports and athletes they love. The Athletic’s newsroom of 500+ full-time staff delivers in-depth coverage of hundreds of professional and college teams across more than 47 North American markets and all 20",
       "roleFamily": "senior-pd"
     },
@@ -192,7 +203,7 @@
       "title": "Senior Product Designer",
       "location": "United States",
       "url": "https://jobspresso.co/job/senior-product-designer-20/",
-      "postedAt": "2026-08-12T00:00:00.000Z",
+      "postedAt": "2026-08-11T18:30:00.000Z",
       "description": "You could work anywhere. Why join Jerry.ai? Your car and your home are the two most expensive things you’ll ever own — and the hardest to manage. At Jerry, we’re building the first super app to help everyday Americans take control of both. From insurance and financing to repairs and real estate, we’re reimagining what it",
       "roleFamily": "senior-pd"
     },
@@ -203,7 +214,7 @@
       "title": "Staff and Senior Product Designer",
       "location": "United States or Canada",
       "url": "https://jobspresso.co/job/staff-senior-product-designer/",
-      "postedAt": "2026-08-12T00:00:00.000Z",
+      "postedAt": "2026-08-11T18:30:00.000Z",
       "description": "Your career is an investment that grows over time! Wealthsimple is on a mission to help everyone achieve financial freedom by reimagining what it means to manage your money. Using smart technology, we take financial services that are often confusing, opaque and expensive and make them transparent and low-cost for everyone. We’re the largest fintech",
       "roleFamily": "senior-pd"
     },
@@ -214,7 +225,7 @@
       "title": "Senior Product Designer Securities",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-securities-bitpanda/151678",
-      "postedAt": "2026-08-12T03:07:21.986Z",
+      "postedAt": "2026-08-11T16:29:36.798Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -225,7 +236,7 @@
       "title": "Principal Product Designer",
       "location": "Remote",
       "url": "https://web3.career/principal-product-designer-bitpanda/150682",
-      "postedAt": "2026-08-12T03:07:21.987Z",
+      "postedAt": "2026-08-11T16:29:36.798Z",
       "description": "",
       "roleFamily": "lead-pd"
     },
@@ -236,7 +247,7 @@
       "title": "Lead Product Designer OG",
       "location": "United States",
       "url": "https://web3.career/lead-product-designer-og-crypto-com/152306",
-      "postedAt": "2026-08-05T03:07:21.987Z",
+      "postedAt": "2026-08-05T16:29:36.798Z",
       "description": "",
       "roleFamily": "lead-pd"
     },
@@ -247,7 +258,7 @@
       "title": "Product Designer",
       "location": "Remote",
       "url": "https://web3.career/product-designer-jito/152289",
-      "postedAt": "2026-08-05T03:07:21.987Z",
+      "postedAt": "2026-08-04T16:29:36.798Z",
       "description": "",
       "roleFamily": "uiux"
     },
@@ -258,7 +269,7 @@
       "title": "Product Designer",
       "location": "United States",
       "url": "https://web3.career/product-designer-ondofinance/152099",
-      "postedAt": "2026-07-31T03:07:21.987Z",
+      "postedAt": "2026-07-31T16:29:36.798Z",
       "description": "",
       "roleFamily": "uiux"
     },
@@ -269,7 +280,7 @@
       "title": "Ethereum Community Fund Product Designer | SmartRecruiters",
       "location": "Worldwide",
       "url": "https://www.remote3.co/remote-jobs/ethereum-community-fund-product-designer-smartrecruiters-ethereum-community-fund-3",
-      "postedAt": "2026-08-11T03:07:23.798Z",
+      "postedAt": "2026-08-10T16:29:39.361Z",
       "description": "",
       "roleFamily": "uiux"
     },
@@ -280,7 +291,7 @@
       "title": "UX Designer (1-Week Contract)",
       "location": "Remote",
       "url": "https://designx.community/jobs/ux-designer-1-week-contract-stealth-startup",
-      "postedAt": "2026-08-14T03:07:25.690Z",
+      "postedAt": "2026-08-14T16:29:42.371Z",
       "description": "“Our project teaches electronic music arrangement inside the DAW while producers are making music. We are looking for an…”",
       "roleFamily": "uiux"
     }

@@ -100,6 +100,12 @@ Three bootstrap paths, build all three:
 2. **Slug probing.** The subdomain-pattern ATSs (Recruitee, Teamtailor, Personio, Workable) have highly guessable slugs. Take open company-name corpora (YC's public directory is a good start; European startup lists too) and probe each name — lowercase, hyphenated, no-space variants — against every ATS. Valid response → written into the registry permanently. Prioritize European corpora over US ones.
 3. **Manual seeds.** A CSV drop point where I paste company names and they get auto-resolved.
 
+**Status:** path 3 (manual seeds) is built — paste names into `data/seeds.csv`, run `npm run discover`, and each name is probed against all 8 per-company ATS types (lowercase and hyphenated slug variants) and merged into `data/companies.json`. Idempotent: already-known names and slugs are skipped, so it's safe to re-run. `discover` also runs in the daily Action, so pasted names get picked up automatically.
+
+A resolver match requires **at least one live posting**, not just an HTTP 200 — several ATSs serve an empty shell for slugs that were never provisioned (verified: `ashby:vercel` and `workable:notion` both return 200 with zero jobs while the real boards are `greenhouse:vercel` and `ashby:notion`). Accepting bare 200s pollutes the registry with dead entries that waste a request every run.
+
+Paths 1 (public slug lists) and 2 (corpus-based probing) are still to build.
+
 Companies with zero matching jobs for 180 days → `dormant`, skipped on future runs, never deleted. Companies returning 404 on a tier-gated ATS → `unsupported`.
 
 `discover.ts` must be idempotent, resumable, and safe to run for hours.
