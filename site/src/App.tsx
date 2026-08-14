@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from "react";
 import type { Job, JobsFile, RoleFamily } from "./types/job";
 import { JobRow } from "./components/JobRow";
 import { JobDetail } from "./components/JobDetail";
+import { HeroField } from "./components/HeroField";
 import { getLastVisit, setLastVisit } from "./lib/status";
 
 const ROLE_FAMILIES: RoleFamily[] = ["senior-pd", "lead-pd", "uiux", "product-owner"];
@@ -22,17 +23,6 @@ const COLUMNS: { key: SortKey; label: string; className?: string }[] = [
   { key: "location", label: "Location", className: "cell-location" },
   { key: "postedAt", label: "Posted", className: "cell-posted" },
 ];
-
-// Deterministic per-render texture; regenerating it on every keystroke would
-// make the hero visibly shimmer.
-const TEXTURE = (() => {
-  const glyphs = "!<>-_\\/[]{}—=+*^?#$%&()~|;:,.01";
-  let out = "";
-  for (let i = 0; i < 3600; i++) {
-    out += Math.random() < 0.28 ? " " : glyphs[Math.floor(Math.random() * glyphs.length)];
-  }
-  return out;
-})();
 
 function useJobsFile() {
   const [data, setData] = useState<JobsFile | null>(null);
@@ -113,9 +103,7 @@ export default function App() {
   return (
     <div className="page">
       <header className="hero">
-        <div className="hero__texture" aria-hidden="true">
-          {TEXTURE}
-        </div>
+        <HeroField />
         <div className="hero__inner">
           <h1>
             <span className="hero__line-a">Design roles</span>

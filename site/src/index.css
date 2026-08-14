@@ -54,24 +54,19 @@ body {
   overflow: hidden;
 }
 
-/* Faint character-grid texture, echoing the reference's ASCII field.
-   Purely decorative and drawn in CSS — no image asset, no network cost. */
-.hero__texture {
+/* Cursor-reactive character field. The canvas paints itself (see
+   HeroField.tsx); the mask keeps it from competing with the headline, and
+   `color` is what the canvas samples for its ink. */
+.hero__field {
   position: absolute;
-  inset: -20% 0 auto 0;
-  height: 460px;
+  inset: 0;
+  width: 100%;
+  height: 100%;
   pointer-events: none;
   user-select: none;
-  font-family: var(--mono);
-  font-size: 11px;
-  line-height: 13px;
-  letter-spacing: 2px;
   color: var(--ink);
-  opacity: 0.06;
-  white-space: pre-wrap;
-  word-break: break-all;
-  -webkit-mask-image: radial-gradient(120% 90% at 62% 6%, #000 0%, transparent 72%);
-  mask-image: radial-gradient(120% 90% at 62% 6%, #000 0%, transparent 72%);
+  -webkit-mask-image: radial-gradient(125% 95% at 64% 4%, #000 0%, transparent 74%);
+  mask-image: radial-gradient(125% 95% at 64% 4%, #000 0%, transparent 74%);
 }
 
 .hero__inner {
@@ -528,13 +523,13 @@ td {
   .hero {
     padding: 48px 0 32px;
   }
-  /* At narrow widths the texture sits behind the headline instead of beside
-     it, so pull it up and back to keep the type legible. */
-  .hero__texture {
-    height: 260px;
-    opacity: 0.04;
-    -webkit-mask-image: radial-gradient(90% 70% at 78% 0%, #000 0%, transparent 70%);
-    mask-image: radial-gradient(90% 70% at 78% 0%, #000 0%, transparent 70%);
+  /* At narrow widths the field sits behind the headline instead of beside
+     it, so pull it up and back to keep the type legible. Touch devices never
+     fire the hover interaction anyway, so this is the resting look. */
+  .hero__field {
+    opacity: 0.7;
+    -webkit-mask-image: radial-gradient(85% 65% at 80% 0%, #000 0%, transparent 70%);
+    mask-image: radial-gradient(85% 65% at 80% 0%, #000 0%, transparent 70%);
   }
   .search {
     flex-basis: 100%;
