@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-15T01:57:21.397Z",
-  "filteredAt": "2026-08-15T01:57:21.948Z",
+  "generatedAt": "2026-08-16T02:06:23.912Z",
+  "filteredAt": "2026-08-16T02:06:24.432Z",
   "funnel": {
-    "raw": 4267,
-    "deduped": 3703,
-    "titleMatched": 85,
+    "raw": 4255,
+    "deduped": 3680,
+    "titleMatched": 83,
     "recencyPassed": 30,
     "geoPassed": 28
   },
@@ -258,7 +258,7 @@
       "title": "Senior Product Designer Securities",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-securities-bitpanda/151678",
-      "postedAt": "2026-08-12T01:57:15.802Z",
+      "postedAt": "2026-08-12T02:06:17.493Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -269,7 +269,7 @@
       "title": "Principal Product Designer",
       "location": "Remote",
       "url": "https://web3.career/principal-product-designer-bitpanda/150682",
-      "postedAt": "2026-08-12T01:57:15.802Z",
+      "postedAt": "2026-08-12T02:06:17.493Z",
       "description": "",
       "roleFamily": "lead-pd"
     },
@@ -280,7 +280,7 @@
       "title": "Lead Product Designer OG",
       "location": "United States",
       "url": "https://web3.career/lead-product-designer-og-crypto-com/152306",
-      "postedAt": "2026-08-05T01:57:15.803Z",
+      "postedAt": "2026-08-05T02:06:17.494Z",
       "description": "",
       "roleFamily": "lead-pd"
     },
@@ -291,7 +291,7 @@
       "title": "Product Designer",
       "location": "Remote",
       "url": "https://web3.career/product-designer-jito/152289",
-      "postedAt": "2026-08-05T01:57:15.803Z",
+      "postedAt": "2026-08-05T02:06:17.494Z",
       "description": "",
       "roleFamily": "uiux"
     },
@@ -302,7 +302,7 @@
       "title": "Product Designer",
       "location": "United States",
       "url": "https://web3.career/product-designer-ondofinance/152099",
-      "postedAt": "2026-07-31T01:57:15.803Z",
+      "postedAt": "2026-07-31T02:06:17.495Z",
       "description": "",
       "roleFamily": "uiux"
     },
@@ -313,7 +313,7 @@
       "title": "UX Designer (1-Week Contract)",
       "location": "Remote",
       "url": "https://designx.community/jobs/ux-designer-1-week-contract-stealth-startup",
-      "postedAt": "2026-08-15T01:57:20.385Z",
+      "postedAt": "2026-08-16T02:06:22.895Z",
       "description": "“Our project teaches electronic music arrangement inside the DAW while producers are making music. We are looking for an…”",
       "roleFamily": "uiux"
     }
