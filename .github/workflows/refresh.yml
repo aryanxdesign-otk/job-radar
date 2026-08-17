@@ -37,10 +37,23 @@ jobs:
       - name: Filter jobs
         run: npm run filter
 
-      - name: Commit and push if changed
+      # Every run rewrites generatedAt/filteredAt and the registry's
+      # lastSeenJobsAt, so `git diff` is never empty and would commit daily
+      # even when the listings are identical. Compare the job set itself.
+      - name: Commit and push if the listings changed
         run: |
-          if git diff --quiet -- data/jobs.json data/companies.json; then
-            echo "No changes to data files"
+          CHANGED=$(node -e "
+            const { execSync } = require('child_process');
+            const fs = require('fs');
+            const ids = (o) => (o && o.jobs ? o.jobs.map(j => j.id).sort().join('|') : null);
+            const now = ids(JSON.parse(fs.readFileSync('data/jobs.json', 'utf8')));
+            let before = null;
+            try { before = ids(JSON.parse(execSync('git show HEAD:data/jobs.json').toString())); } catch {}
+            console.log(now === before ? 'no' : 'yes');
+          ")
+
+          if [ "$CHANGED" = "no" ]; then
+            echo "Same listings as the last commit — nothing to publish."
             exit 0
           fi
 
@@ -49,6 +62,6 @@ jobs:
 
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/jobs.json data/companies.json
+          git add data/jobs.json data/companies.json data/first-seen.json
           git commit -m "chore: refresh jobs ($COUNT jobs, $COMPANIES companies)"
           git push

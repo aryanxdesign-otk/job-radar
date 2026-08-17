@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-17T02:01:57.071Z",
-  "filteredAt": "2026-08-17T02:01:57.605Z",
+  "generatedAt": "2026-08-17T13:11:25.770Z",
+  "filteredAt": "2026-08-17T13:11:26.131Z",
   "funnel": {
-    "raw": 4252,
-    "deduped": 3679,
+    "raw": 4232,
+    "deduped": 3667,
     "titleMatched": 83,
     "recencyPassed": 30,
     "geoPassed": 28
@@ -225,7 +225,7 @@
       "title": "Senior Product Designer",
       "location": "United States",
       "url": "https://jobspresso.co/job/senior-product-designer-22/",
-      "postedAt": "2026-08-09T00:00:00.000Z",
+      "postedAt": "2026-08-08T18:30:00.000Z",
       "description": "Powered by one of the largest global newsrooms in sports media, The Athletic brings sports fans the most comprehensive stories about the teams, sports and athletes they love. The Athletic’s newsroom of 500+ full-time staff delivers in-depth coverage of hundreds of professional and college teams across more than 47 North American markets and all 20",
       "roleFamily": "senior-pd"
     },
@@ -236,7 +236,7 @@
       "title": "Senior Product Designer",
       "location": "United States",
       "url": "https://jobspresso.co/job/senior-product-designer-20/",
-      "postedAt": "2026-08-12T00:00:00.000Z",
+      "postedAt": "2026-08-11T18:30:00.000Z",
       "description": "You could work anywhere. Why join Jerry.ai? Your car and your home are the two most expensive things you’ll ever own — and the hardest to manage. At Jerry, we’re building the first super app to help everyday Americans take control of both. From insurance and financing to repairs and real estate, we’re reimagining what it",
       "roleFamily": "senior-pd"
     },
@@ -247,7 +247,7 @@
       "title": "Staff and Senior Product Designer",
       "location": "United States or Canada",
       "url": "https://jobspresso.co/job/staff-senior-product-designer/",
-      "postedAt": "2026-08-12T00:00:00.000Z",
+      "postedAt": "2026-08-11T18:30:00.000Z",
       "description": "Your career is an investment that grows over time! Wealthsimple is on a mission to help everyone achieve financial freedom by reimagining what it means to manage your money. Using smart technology, we take financial services that are often confusing, opaque and expensive and make them transparent and low-cost for everyone. We’re the largest fintech",
       "roleFamily": "senior-pd"
     },
@@ -258,7 +258,7 @@
       "title": "Senior Product Designer Securities",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-securities-bitpanda/151678",
-      "postedAt": "2026-08-12T02:01:52.039Z",
+      "postedAt": "2026-08-11T13:11:19.068Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -269,7 +269,7 @@
       "title": "Principal Product Designer",
       "location": "Remote",
       "url": "https://web3.career/principal-product-designer-bitpanda/150682",
-      "postedAt": "2026-08-12T02:01:52.040Z",
+      "postedAt": "2026-08-11T13:11:19.068Z",
       "description": "",
       "roleFamily": "lead-pd"
     },
@@ -280,7 +280,7 @@
       "title": "Lead Product Designer OG",
       "location": "United States",
       "url": "https://web3.career/lead-product-designer-og-crypto-com/152306",
-      "postedAt": "2026-08-05T02:01:52.040Z",
+      "postedAt": "2026-08-05T13:11:19.068Z",
       "description": "",
       "roleFamily": "lead-pd"
     },
@@ -291,7 +291,7 @@
       "title": "Product Designer",
       "location": "Remote",
       "url": "https://web3.career/product-designer-jito/152289",
-      "postedAt": "2026-08-05T02:01:52.040Z",
+      "postedAt": "2026-08-04T13:11:19.069Z",
       "description": "",
       "roleFamily": "uiux"
     },
@@ -302,7 +302,7 @@
       "title": "Product Designer",
       "location": "United States",
       "url": "https://web3.career/product-designer-ondofinance/152099",
-      "postedAt": "2026-07-31T02:01:52.041Z",
+      "postedAt": "2026-07-31T13:11:19.069Z",
       "description": "",
       "roleFamily": "uiux"
     },
@@ -313,7 +313,7 @@
       "title": "UX Designer (1-Week Contract)",
       "location": "Remote",
       "url": "https://designx.community/jobs/ux-designer-1-week-contract-stealth-startup",
-      "postedAt": "2026-08-17T02:01:56.061Z",
+      "postedAt": "2026-08-17T13:05:28.354Z",
       "description": "“Our project teaches electronic music arrangement inside the DAW while producers are making music. We are looking for an…”",
       "roleFamily": "uiux"
     }

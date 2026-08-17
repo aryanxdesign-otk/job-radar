@@ -95,11 +95,49 @@ async function fetchCompany(company: CompanyRecord): Promise<Job[]> {
 const PROJECT_ROOT = dirname(dirname(fileURLToPath(import.meta.url)));
 const DATA_PATH = `${PROJECT_ROOT}/data/jobs.json`;
 const COMPANIES_PATH = `${PROJECT_ROOT}/data/companies.json`;
+const FIRST_SEEN_PATH = `${PROJECT_ROOT}/data/first-seen.json`;
 const DORMANT_AFTER_DAYS = 180;
 
 async function loadRegistry(): Promise<CompanyRecord[]> {
   const raw = await readFile(COMPANIES_PATH, "utf-8");
   return JSON.parse(raw) as CompanyRecord[];
+}
+
+/**
+ * Some boards publish no date at all. Those adapters leave postedAt empty and
+ * we date the job from the first run that saw it — stamping "now" each run
+ * would keep re-dating the posting, so it would sit at the top forever and
+ * never age out of the recency window.
+ *
+ * The dates live in their own ledger rather than being read back out of
+ * jobs.json, because filter.ts rewrites that file with only the survivors: a
+ * job that aged out would lose its date and come back as new on the next run.
+ */
+async function backfillPostedAt(jobs: Job[]): Promise<number> {
+  let ledger: Record<string, string> = {};
+  try {
+    ledger = JSON.parse(await readFile(FIRST_SEEN_PATH, "utf-8")) as Record<string, string>;
+  } catch {
+    // No ledger yet; everything undated is new today.
+  }
+
+  const now = new Date().toISOString();
+  let backfilled = 0;
+  for (const job of jobs) {
+    if (job.postedAt) continue;
+    ledger[job.id] ??= now;
+    job.postedAt = ledger[job.id]!;
+    backfilled++;
+  }
+
+  // Keep the ledger from growing without bound; well past the 21-day window.
+  const cutoff = Date.now() - 180 * 24 * 60 * 60 * 1000;
+  for (const [id, seen] of Object.entries(ledger)) {
+    if (new Date(seen).getTime() < cutoff) delete ledger[id];
+  }
+
+  await writeFile(FIRST_SEEN_PATH, JSON.stringify(ledger, null, 2));
+  return backfilled;
 }
 
 function daysSince(iso: string | null): number {
@@ -147,9 +185,11 @@ async function main() {
     await sleep(1000);
   }
 
+  const backfilled = await backfillPostedAt(allJobs);
   const deduped = dedupeJobs(allJobs);
 
   console.log(`\nraw: ${allJobs.length} — deduped: ${deduped.length} (${allJobs.length - deduped.length} dropped)`);
+  if (backfilled > 0) console.log(`dated ${backfilled} undated job(s) from first-seen`);
 
   console.log("\nsample:");
   for (const job of deduped.slice(0, 10)) {

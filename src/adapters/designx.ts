@@ -1,6 +1,10 @@
-// DesignX Community adapter — no API, no date field on the listing page, so
-// postedAt falls back to fetch time. Explicitly allows AI crawlers (GPTBot,
-// ClaudeBot) in robots.txt.
+// DesignX Community adapter — no API, and the listing page carries no date.
+// postedAt is left empty rather than stamped with fetch time: stamping it
+// would re-date every posting on every run, so nothing here would ever age
+// out of the recency window. ingest.ts backfills it with the date we first
+// saw the job.
+//
+// Explicitly allows AI crawlers (GPTBot, ClaudeBot) in robots.txt.
 
 import * as cheerio from "cheerio";
 import type { Job } from "../types/job.js";
@@ -15,7 +19,6 @@ export async function fetchDesignXJobs(): Promise<Job[]> {
   const html = await res.text();
   const $ = cheerio.load(html);
   const jobs: Job[] = [];
-  const now = new Date().toISOString();
 
   $('a[href^="/jobs/"]')
     .filter((_, el) => $(el).attr("href") !== "/jobs/post-a-job")
@@ -36,7 +39,7 @@ export async function fetchDesignXJobs(): Promise<Job[]> {
         title,
         location,
         url: new URL(href, "https://designx.community").toString(),
-        postedAt: now,
+        postedAt: "", // backfilled from first-seen in ingest.ts
         description,
       });
     });
