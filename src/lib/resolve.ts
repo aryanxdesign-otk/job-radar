@@ -77,22 +77,37 @@ const CHECKERS: [CompanyAtsProvider, Checker][] = [
   ],
 ];
 
-/** Probes one company name against every ATS type. Politeness: 1 req/sec. */
+/**
+ * Probes one company name against every ATS type.
+ *
+ * The eight checks run together rather than in sequence: each one targets a
+ * different provider's host, so concurrency here still leaves at most one
+ * request per second against any single host — the pause between slug
+ * variants is what paces each of them. Sequentially this cost eight seconds
+ * per name, which put a registry of any real size out of reach.
+ */
 export async function resolveCompany(name: string): Promise<ResolveMatch[]> {
   const matches: ResolveMatch[] = [];
   const seen = new Set<string>();
 
   for (const slug of slugVariants(name)) {
-    for (const [atsProvider, checker] of CHECKERS) {
+    const pending = CHECKERS.filter(([atsProvider]) => {
       const key = `${atsProvider}:${slug}`;
-      if (seen.has(key)) continue;
+      if (seen.has(key)) return false;
       seen.add(key);
+      return true;
+    });
+    if (pending.length === 0) continue;
 
-      if (await checker(slug)) {
-        matches.push({ atsProvider, atsSlug: slug });
-      }
-      await sleep(1000);
+    const hits = await Promise.all(
+      pending.map(async ([atsProvider, checker]) => ((await checker(slug)) ? atsProvider : null)),
+    );
+
+    for (const atsProvider of hits) {
+      if (atsProvider) matches.push({ atsProvider, atsSlug: slug });
     }
+
+    await sleep(1000);
   }
 
   return matches;

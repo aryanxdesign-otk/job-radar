@@ -159,24 +159,41 @@ async function main() {
 
   const allJobs: Job[] = [];
 
+  // One sequential track per provider, all tracks running together. Every
+  // company on a given provider shares a host, so those stay one-at-a-time at
+  // 1 req/sec; separate providers are separate hosts and have no reason to
+  // wait on each other. Walking all of them in a single line made the run
+  // take as long as the whole registry rather than as long as its largest
+  // provider, which does not scale as the registry grows.
+  const byProvider = new Map<string, CompanyRecord[]>();
   for (const company of activeCompanies) {
-    try {
-      const jobs = await fetchCompany(company);
-      console.log(`${company.atsProvider}:${company.atsSlug} — ${jobs.length} jobs`);
-      allJobs.push(...jobs);
-
-      if (jobs.length > 0) {
-        company.lastSeenJobsAt = new Date().toISOString();
-      } else if (daysSince(company.lastSeenJobsAt ?? company.addedAt) > DORMANT_AFTER_DAYS) {
-        company.status = "dormant";
-        console.log(`  -> marked dormant (0 jobs for ${DORMANT_AFTER_DAYS}+ days)`);
-      }
-    } catch (err) {
-      console.error(`  failed: ${(err as Error).message}`);
-    }
-
-    await sleep(1000); // 1 req/sec politeness
+    const bucket = byProvider.get(company.atsProvider) ?? [];
+    bucket.push(company);
+    byProvider.set(company.atsProvider, bucket);
   }
+
+  await Promise.all(
+    Array.from(byProvider.values()).map(async (companies) => {
+      for (const company of companies) {
+        try {
+          const jobs = await fetchCompany(company);
+          console.log(`${company.atsProvider}:${company.atsSlug} — ${jobs.length} jobs`);
+          allJobs.push(...jobs);
+
+          if (jobs.length > 0) {
+            company.lastSeenJobsAt = new Date().toISOString();
+          } else if (daysSince(company.lastSeenJobsAt ?? company.addedAt) > DORMANT_AFTER_DAYS) {
+            company.status = "dormant";
+            console.log(`  -> marked dormant (0 jobs for ${DORMANT_AFTER_DAYS}+ days)`);
+          }
+        } catch (err) {
+          console.error(`  ${company.atsProvider}:${company.atsSlug} failed: ${(err as Error).message}`);
+        }
+
+        await sleep(1000); // 1 req/sec against this provider's host
+      }
+    }),
+  );
 
   for (const source of AGGREGATOR_SOURCES) {
     try {
