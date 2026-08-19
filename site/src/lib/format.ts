@@ -29,6 +29,7 @@ const SOURCE_LABELS: Record<string, string> = {
   web3career: "web3.career",
   remote3: "Remote3",
   designx: "DesignX",
+  a16z: "a16z",
 };
 
 export function sourceLabel(atsProvider: string): string {

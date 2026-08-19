@@ -16,7 +16,8 @@ export type AtsProvider =
   | "web3career"
   | "remote3"
   | "laborx"
-  | "designx";
+  | "designx"
+  | "a16z";
 
 export interface Job {
   id: string; // `${atsProvider}:${company slug}:${source id}` — stable across runs

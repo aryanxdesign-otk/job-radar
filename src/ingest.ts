@@ -20,6 +20,7 @@ import { fetchJobspressoJobs } from "./adapters/jobspresso.js";
 import { fetchWeb3CareerJobs } from "./adapters/web3career.js";
 import { fetchRemote3Jobs } from "./adapters/remote3.js";
 import { fetchDesignXJobs } from "./adapters/designx.js";
+import { fetchA16zJobs } from "./adapters/a16z.js";
 import { dedupeJobs } from "./lib/dedupe.js";
 import { sleep } from "./lib/util.js";
 
@@ -32,7 +33,8 @@ type AggregatorSource =
   | { provider: "jobspresso"; token: string }
   | { provider: "web3career"; token: string }
   | { provider: "remote3"; token: string }
-  | { provider: "designx"; token: string };
+  | { provider: "designx"; token: string }
+  | { provider: "a16z"; token: string };
 
 const AGGREGATOR_SOURCES: AggregatorSource[] = [
   { provider: "remoteok", token: "" },
@@ -46,6 +48,7 @@ const AGGREGATOR_SOURCES: AggregatorSource[] = [
   { provider: "web3career", token: "product-designer-jobs" },
   { provider: "remote3", token: "remote-web3-jobs" },
   { provider: "designx", token: "" },
+  { provider: "a16z", token: "" },
 ];
 
 async function fetchAggregator(source: AggregatorSource): Promise<Job[]> {
@@ -68,6 +71,8 @@ async function fetchAggregator(source: AggregatorSource): Promise<Job[]> {
       return fetchRemote3Jobs(source.token);
     case "designx":
       return fetchDesignXJobs();
+    case "a16z":
+      return fetchA16zJobs();
   }
 }
 

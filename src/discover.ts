@@ -15,6 +15,13 @@ import { resolveCompany } from "./lib/resolve.js";
 const PROJECT_ROOT = dirname(dirname(fileURLToPath(import.meta.url)));
 const COMPANIES_PATH = `${PROJECT_ROOT}/data/companies.json`;
 const SEEDS_PATH = `${PROJECT_ROOT}/data/seeds.csv`;
+const UNRESOLVED_PATH = `${PROJECT_ROOT}/data/unresolved.json`;
+
+// A name that matched nothing is remembered so it isn't re-probed on every
+// run — that cost 8 requests per name, daily, forever. Not remembered
+// permanently either: companies do move onto a public ATS later, so the
+// entry expires and the name gets another chance.
+const RETRY_UNRESOLVED_AFTER_DAYS = 30;
 
 async function loadRegistry(): Promise<CompanyRecord[]> {
   try {
@@ -33,15 +40,35 @@ async function loadSeeds(): Promise<string[]> {
     .filter((line) => line.length > 0 && line.toLowerCase() !== "name");
 }
 
+async function loadUnresolved(): Promise<Record<string, string>> {
+  try {
+    return JSON.parse(await readFile(UNRESOLVED_PATH, "utf-8")) as Record<string, string>;
+  } catch {
+    return {};
+  }
+}
+
+function isStillCooling(seenAt: string | undefined): boolean {
+  if (!seenAt) return false;
+  const ageDays = (Date.now() - new Date(seenAt).getTime()) / (24 * 60 * 60 * 1000);
+  return ageDays < RETRY_UNRESOLVED_AFTER_DAYS;
+}
+
 async function main() {
   const registry = await loadRegistry();
   const knownNames = new Set(registry.map((c) => c.name.toLowerCase()));
   const knownSlugs = new Set(registry.map((c) => `${c.atsProvider}:${c.atsSlug.toLowerCase()}`));
 
   const seeds = await loadSeeds();
-  const pending = seeds.filter((name) => !knownNames.has(name.toLowerCase()));
+  const unresolved = await loadUnresolved();
+  const notInRegistry = seeds.filter((name) => !knownNames.has(name.toLowerCase()));
+  const pending = notInRegistry.filter((name) => !isStillCooling(unresolved[name.toLowerCase()]));
+  const cooling = notInRegistry.length - pending.length;
 
-  console.log(`seeds: ${seeds.length} total, ${pending.length} not yet in registry`);
+  console.log(
+    `seeds: ${seeds.length} total, ${pending.length} to probe` +
+      (cooling > 0 ? `, ${cooling} skipped (matched nothing within ${RETRY_UNRESOLVED_AFTER_DAYS}d)` : ""),
+  );
 
   let added = 0;
   for (const name of pending) {
@@ -50,8 +77,10 @@ async function main() {
 
     if (matches.length === 0) {
       console.log("  no match on any ATS");
+      unresolved[name.toLowerCase()] = new Date().toISOString();
       continue;
     }
+    delete unresolved[name.toLowerCase()];
 
     for (const match of matches) {
       const key = `${match.atsProvider}:${match.atsSlug.toLowerCase()}`;
@@ -75,6 +104,7 @@ async function main() {
     }
   }
 
+  await writeFile(UNRESOLVED_PATH, JSON.stringify(unresolved, null, 2));
   await writeFile(COMPANIES_PATH, JSON.stringify(registry, null, 2));
   console.log(`\nregistry: ${registry.length} companies (${added} new)`);
 }
