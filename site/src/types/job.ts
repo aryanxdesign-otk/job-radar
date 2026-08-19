@@ -16,7 +16,8 @@ export type AtsProvider =
   | "web3career"
   | "remote3"
   | "designx"
-  | "a16z";
+  | "a16z"
+  | "getro";
 
 export type RoleFamily = "senior-pd" | "lead-pd" | "uiux" | "product-owner";
 

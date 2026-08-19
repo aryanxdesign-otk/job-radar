@@ -30,6 +30,7 @@ const SOURCE_LABELS: Record<string, string> = {
   remote3: "Remote3",
   designx: "DesignX",
   a16z: "a16z",
+  getro: "VC board",
 };
 
 export function sourceLabel(atsProvider: string): string {

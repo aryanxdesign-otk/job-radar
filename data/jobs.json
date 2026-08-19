@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-19T07:50:49.210Z",
-  "filteredAt": "2026-08-19T07:50:50.030Z",
+  "generatedAt": "2026-08-19T08:33:57.085Z",
+  "filteredAt": "2026-08-19T10:44:06.742Z",
   "funnel": {
-    "raw": 15492,
-    "deduped": 13051,
-    "titleMatched": 243,
-    "recencyPassed": 92,
-    "geoPassed": 39
+    "raw": 17553,
+    "deduped": 14603,
+    "titleMatched": 443,
+    "recencyPassed": 214,
+    "geoPassed": 98
   },
   "jobs": [
     {
@@ -29,6 +29,28 @@
       "url": "https://careers.bunq.com/o/product-owner-credit",
       "postedAt": "2026-08-06 12:04:48 UTC",
       "description": "<p>At bunq, we're not just building a banking app; we're reshaping how people around the world experience financial freedom. As a Product Lead - Credit, you’ll be instrumental in empowering our users with the flexible credit they need to support their lifestyle. You'll spearhead the entire credit domain, from ideation to international launch, building innovative solutions that are simple, transparent, and instantly accessible.</p><p style=\"min-height: 1.7em;\"></p><p><strong>Take Ownership</strong></p><p>As Product Lead - Credit, you’ll play a critical role in building a product that truly supports our users' lifestyles. You'll be the driving force behind the mission: \"Give me a credit line to support my lifestyle.\"</p><ul><li><p>Own the entire product lifecycle for our credit offerings, from designing and implementing the product and its underlying infrastructure to continuous maintenance and improvement.</p></li><li><p>Drive the strategic launch and expansion of our credit products into our current and new markets, navigating the unique complexities of each region.</p></li><li><p>Obsess over the user journey, collaborating with design and engineering teams to craft a world-class, seamless, and bug-free credit experience.</p></li><li><p>Work hand-in-hand with legal, risk, and compliance teams to ensure our credit products are not only innovative but also fully compliant with all regulatory requirements.</p></li></ul><p style=\"min-height: 1.7em;\"></p>",
+      "roleFamily": "product-owner"
+    },
+    {
+      "id": "workable:smartnews:0B21F4AE74",
+      "atsProvider": "workable",
+      "company": "SmartNews",
+      "title": "AI-First Product Designer 【AIファースト プロダクトデザイナー】",
+      "location": "Shibuya, Japan",
+      "url": "https://apply.workable.com/j/0B21F4AE74",
+      "postedAt": "2026-08-07",
+      "description": "<p><strong>Note:</strong> Japanese text is followed by English in each section below.</p><p><strong>※注:</strong> 本文書は全項目「日本語 ➔ 英語」の順で記載されています。</p><h3>スマートニュース株式会社について</h3><p>スマートニュース株式会社は2012年6月15日の設立以来、「世界中の良質な情報を必要な人に送り届ける」をミッションに掲げ、日本と米国でニュースアプリ「SmartNews（スマートニュース）」を開発、国内のニュースアプリとしては最大級のユーザー数を誇ります。</p><p>2023年末からは初めてのサブスクリプションサービス「SmartNews＋」を開始、子会社のスローニュースとともに、優れたジャーナリズムによって生まれた良質な報道や多様なコンテンツを一人でも多くの利用者に届けることに力を注いでいます。世界中の膨大な情報を日夜解析し続けるアルゴリズムと国内外の3,000媒体以上ものメディアパートナーとの強力な提携関係のもと、スマートデバイスに最適化された快適なインターフェースを通じて、良質な情報を一人でも多くの利用者に効果的に届けることで、これからも社会に貢献していく考えです。</p><p>スマートニュースは東京、大阪（関西オフィス）、パロアルト、ニューヨーク、シンガポールにオフィスを構えています。私たちとともにグローバルスタートアップとして、ミッションの実現を目指していただける方は、ぜひご応募ください。</p><h3>About SmartNews&nbsp;</h3><p>SmartNews is a leading global information and news discovery company dedicated to delivering quality information to the people who need it. Thanks to our unique machine-learning technology and relationships with more than 3,000 global publisher partners, we provide news that matters to millions of users.</p><p>Founded in 2012 in Tokyo, SmartNews also has offices in Osaka (Kansai Office), Palo Alto, New York and Singapore.</p><p>If you share our vision and are passionate about our mission, we encourage you to apply! </p><p><img src=\"https://workablehr.s3.amazonaws.com/uploads/photos/237414/8cb62f65c06e06700073bfb644043400.jpg\" alt=\"Photo of the office\" width=\"787px\" height=\"auto\" style=\"width:787px;height:auto;\"></p><h3>チームについて</h3><p>スマートニュースのデザインチームは、ユーザー中心のデザインを通じて、人々のニュース消費のあり方を革新することに専念しています。私たちのミッションは、日本および米国市場のプロダクトをさらに発展させ、ユーザーにより良い情報を提供し、エンゲージメントを高め、日々の生活を豊かにすると同時に、ビジネスやメディアエコシステム全体に大きな価値をもたらすことです。</p><h3>The Team</h3><p>The Design team at SmartNews is dedicated to revolutionizing how people consume news through user-centric design. Our mission is to build upon our Japan and US products to better inform, engage, and empower our users, while delivering significant value to our business and the broader media ecosystem.</p><h3></h3><h3>ミッション</h3><p>コンシューマープロダクトデザインチームのAIファーストなプロダクトデザイナーとして、数百万人の日本のユーザーが毎日ニュースに触れる体験を定義する、エンドツーエンドのデザインソリューションを担当していただきます。ユーザーのニーズ、ビジネス目標、そしてAI技術の架け橋となり、インサイトを直感的かつインパクトのある体験へと昇華させる役割を担います。</p><p>主な注力領域:</p><ul><li>AI-First Innovation &amp; Prototyping (AIによるイノベーションとプロトタイピング): AIを活用したニュース要約、パーソナライズされた発見ツール、LLMを活用したインタラクティブなコンテンツ機能など、スマートニュースの「新しい時代」を築く次世代の体験設計とプロトタイピングを牽引していただきます。静的なデザインツール（Figmaなど）だけに依存するのではなく、実際に動作するプロトタイプ（functional prototypes）の構築からスタートすることで、従来のプロダクトデザインの限界を押し広げていただきます。</li><li>Core UX Excellence（コアUXの追求）: ニュースフィードの最適化、コンテンツのエンゲージメントと発見機能、記事の閲覧体験、シームレスな広告統合、ナビゲーションパターンの改善に取り組みます。日本市場におけるデイリーのエンゲージメントとリテンションを最大化する、ストレスのない（摩擦のない）ユーザー体験の構築を目指します。</li></ul><p>担当プロジェクトにおけるデザインクラフトの第一責任者（Primary owner）として活躍していただきながら、プロダクトマネージャー、エンジニア、ビジネスメンバーなどと密接に連携し、インタラクティブなコードベースのプロトタイプ開発における中心的な貢献者として機能していただきます。</p><h3>Role Mission</h3><p>As an AI-first Product Designer on our Consumer Product Design team, you will be responsible for executing end-to-end design solutions that define how millions of users in Japan interact with news every day. You will bridge the gap between user needs, business goals, and AI technology by transforming insights into intuitive, high-impact experiences.&nbsp;&nbsp;</p><p>Your Likely Focus Areas:</p><ul><li>AI-First Innovation &amp; Prototyping: You will lead the next phase of SmartNews by designing and prototyping next-generation experiences, including AI-powered news summaries, personalized discovery tools, and interactive content features that leverage LLMs. You will push the boundaries of traditional product design by starting with functional prototypes, rather than solely relying on static design tools.&nbsp;</li><li>Core UX Excellence: You will iterate on and optimize our news feed, content engagement and discovery features, article browsing, seamless ads integration, and navigation patterns. Your goal is to create frictionless experiences that maximize daily engagement and retention for the Japanese market.</li></ul><p>While you will be the primary owner of the design craft for your workstream, you will collaborate closely with Product Managers, Engineers, Business members, and others, acting as a key contributor to the development of interactive, code-built prototypes.&nbsp;</p><h3></h3><p><strong>主な業務内容</strong></p><p>本ポジションでは、初期のプロトタイピングやディスカバリー段階から、高精度な（high-fidelity）デザインの実行、そしてリリースに至るまで、ユーザー体験を牽引する実務担当者として活躍していただきます。</p><ul><li>エンドツーエンドのプロダクトデザインとAIプロトタイピング: 日本向けプロダクト機能のデザインプロセスを主導する。従来のFigmaによるワークフローと並行して、AIコーディングツール（Claude Code、Cursorなど）を活用してインタラクティブなプロトタイプを構築・テスト・検証し、プロダクトデザインの限界を押し広げる。</li><li>コラボレーティブ・プロトタイピング: PMやエンジニアと密接に連携し、インタラクティブなコードベースのプロトタイプを構築、テスト、改善することで、デザインコンセプトと開発ワークフローのギャップを埋める。</li><li>ビジュアル＆インタラクションクラフト: ビジュアルおよびインタラクションデザインにおいて高い基準を維持し、デザインやライブプロトタイプが日本のモバイルユーザー特有のニュアンスに最適化されていることを確実にする。</li><li>クロスファンクショナルなアライメント: クロスファンクショナルなメンバーと連携し、デザインが技術的に実現可能であり、ビジネスKPIに沿っており、開発サイクルへシームレスに統合されていることを確実にする。</li><li>ユーザーリサーチとデータに基づくデザイン: リサーチ結果や定量データを統合し、実行可能なデザインの改善案へと落とし込むことで、すべてのプロダクトや機能の変更がユーザーの真の課題を解決するようにする。</li></ul><h3><strong>Responsibilities</strong></h3><p>In this role, you will be a hands-on driver of user experience, moving projects from early-stage prototyping and discovery, through to high-fidelity execution and launch.</p><ul><li>End-to-End Product Design &amp; AI Prototyping: Own the design process for JP product features. Push the boundaries of product design by utilizing AI coding tools (e.g. Claude Code, Cursor) to build, test, and validate interactive prototypes alongside traditional Figma workflows.</li><li>Collaborative Prototyping: Partner closely with PMs and Engineers to build, test, and refine interactive, code-built prototypes, helping bridge the gap between design concepts and development workflows.&nbsp;&nbsp;</li><li>Visual &amp; Interaction Craft: Maintain a high bar for craft, ensuring designs and live prototypes are specifically tailored to the nuances of the Japanese mobile consumer market.</li><li>Cross-Functional Alignment: Work with cross-functional members to ensure designs are technically feasible, aligned with business KPIs, and seamlessly integrated into the development cycle.</li><li>User Research &amp; Data-Informed Design: Synthesize findings from research and quantitative data into actionable design improvements, ensuring every product or feature change solves a real pain point.</li></ul><p><strong>Requirements</strong></p><p><strong>応募要件（必須）</strong></p><ul><li>優れたビジュアルおよびインタラクションデザインのスキルに加え、AI技術や効率的なデザイン・開発ワークフローへの情熱、そして実用的（pragmatic）な問題解決アプローチを兼ね備えたデザイナーを求めています。</li><li>AIファーストのデザインとプロトタイピング: 従来のプロダクトデザインの枠組みを越えた実務経験。Figmaだけに依存せず、AIコーディングツールを活用してインタラクティブなプロトタイプを構築・検証することに非常に長けていること。</li><li>市場への知見とデザインクラフト: 日本市場向けの大規模で成功しているコンシューマーモバイルプロダクトにおける設計実績。日本のUIパターン、美意識のニュアンスに対する深い理解と、細部への鋭いこだわり。</li><li>プロダクトオーナーシップ精神と問題解決能力: ユーザーニーズ、ビジネス目標、技術的制約、そしてプロダクト戦略のバランスをいかに取るかについての深い理解。担当する機能の戦略的価値と技術的実現可能性に完全な責任（Accountability）を持ち、複雑な機能をシンプルで優れたユーザー体験へと落とし込めること。</li><li>コラボレーティブなコミュニケーション: PMやエンジニアに対して、デザインの選択とその「なぜ（背景や意図）」を明確に説明できる優れたコミュニケーション能力。デザインコンセプトと開発サイドのギャップを埋め、円滑なアライメントを推進できること。</li><li>言語能力:</li><li>日本語: 会話レベル以上（ローカルチームと効果的に協働し、デザインのアイデアについて議論できるレベル）。</li><li>英語: 会話レベル以上（グローバル組織内での円滑な連携に必要なレベル）。</li></ul><p><a href=\"https://speakerdeck.com/smartnews/b91e5ef5a43e3c839b52d0286f84ddb8\" target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external\"></a><strong>Minimum Experience</strong></p><ul><li>AI-First Design &amp; Prototyping: Experience with pushing the boundaries of traditional product design. Highly proficient in using AI coding tools to build interactive prototypes rather than relying solely on Figma.&nbsp;&nbsp;</li><li>Market Expertise &amp; Design Craft: A proven track record of designing for large-scale, successful consumer mobile products for the Japanese market, with a strong grasp of local UI patterns and aesthetic nuances.&nbsp;&nbsp;</li><li>Product Owner Mindset &amp; Problem Solving: Deep understanding of how to balance user needs with business goals, technical constraints, and product strategy. You take full accountability for a feature’s strategic value and technical feasibility, distilling complex capabilities into simple user experiences.</li><li>Collaborative Communication: Excellent cross-functional communicator who can clearly explain the \"why\" behind design choices to PMs and Engineers. Comfortable bridging the gap between design concepts and engineering to ensure smooth alignment.</li><li>Language Skills: Conversational proficiency in both Japanese (to collaborate with local teams and discuss design ideas) and English (for global organization alignment).&nbsp;&nbsp;</li></ul><p></p><p><strong>歓迎する経験・スキル</strong></p><ul><li>プロジェクトマネジメントまたはプロダクトマネジメント（PdM）の実務経験。</li><li>ニュース、メディア、またはコンテンツプラットフォームでの実務経験。</li><li>ユーザーインタビューを通じたUXリサーチの計画および実施における豊富な経験。</li><li>デザインシステムの構築および運用の経験。</li></ul><p><strong>Nice-to-have skills</strong></p><ul><li>Project Management or Product Management experience.</li><li>Experience with news, media, or content platforms.</li><li>Strong experience in both planning and conducting UX research through user interviews.</li><li>Experience building and maintaining Design Systems</li></ul><p></p><p><strong>関連リンクと勤務条件</strong></p><ul><li><a href=\"https://careers.smartnews.com/ja/blog/\" target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external\">Employee's Interview</a></li><li>勤務地：東京<a rel=\"nofollow noreferrer noopener\" class=\"external\"></a></li><li>詳細は、<a href=\"https://speakerdeck.com/smartnews/b91e5ef5a43e3c839b52d0286f84ddb8\" target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external\">こちらをクリックするか、弊社の採用サイトをご覧ください</a>。</li></ul><p><strong>Related Links &amp; Working condition</strong></p><ul><li><a href=\"https://careers.smartnews.com/ja/blog/\" target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external\">Click here or visit our careers site to check employee interviews</a></li><li>Office Location: Tokyo </li><li><a href=\"https://speakerdeck.com/smartnews/b91e5ef5a43e3c839b52d0286f84ddb8\" target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external\">Click here or visit our careers site for more info.</a></li></ul><p><strong>Benefits</strong></p><p><strong>スマートニュース東京オフィスにおけるサポート</strong></p><ul><li>毎年の健康診断</li><li>日本の労働法で必要とされるすべての医療保険と社会保険の適用</li><li>福利厚生の詳しくは、<a href=\"https://speakerdeck.com/smartnews/jp-office-benefits-overview-japanese\" rel=\"nofollow noreferrer noopener\" class=\"external\">こちらをクリックするか、弊社の採用サイトをご覧ください。</a></li></ul><p><strong>Benefits available at the SmartNews Tokyo Office</strong></p><ul><li>All healthcare and social insurance required by the Japanese labor law, plus annual health check </li><li>Visa sponsorship and overseas relocation support available for eligible candidates </li><li><a href=\"https://speakerdeck.com/smartnews/jp-office-benefits-overview-april-2024-eng\" rel=\"nofollow noreferrer noopener\" class=\"external\"></a><a href=\"https://speakerdeck.com/smartnews/jp-office-benefits-overview-april-2024-eng\" target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external\">Click here or visit our careers site for more info about our benefits.</a>　</li></ul>",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "workable:adverity:B53E37B803",
+      "atsProvider": "workable",
+      "company": "Adverity",
+      "title": "Product Owner",
+      "location": "Sofia, Bulgaria",
+      "url": "https://apply.workable.com/j/B53E37B803",
+      "postedAt": "2026-08-14",
+      "description": "<p>We are looking for a proactive and detail-oriented Product Owner who thrives working shoulder-to-shoulder with engineers and turns customer, market and stakeholder signal into clear priorities. In this role, you will sit inside a product engineering team, alongside the lead and product engineers, shaping problem statements, backlog and sprint plans that the whole team believes in.</p><p>This is a full-time role based in Sofia, Bulgaria. We value in person collaboration and meet in the office at least 3 times a week.</p><h3><strong>Some of the things you'll work on:</strong></h3><p>Bring outside context into the team, including customer feedback, support trends, usage data and competitive landscape.</p><ul><li>Write clear, honest problem statements that a product engineer can pick up and run with.</li><li>Track outcomes after a feature ships, not just whether it ships.</li><li>Keep the backlog tidy and up to date in Jira, drafting new items and retiring stale ones.</li><li>Draft problem statements and acceptance criteria for new tickets, finishing acceptance criteria jointly with a product engineer where needed.</li><li>Run backlog grooming as a working session with product engineers.</li><li>Bring a clear \"why it matters\" into sprint planning and set the sprint goal together with the lead and product engineers.</li><li>Surface new signal that could shift priorities and work through trade-offs before committing to changes mid-sprint.</li><li>Shape and sequence the roadmap together with the lead and engineers, and own the \"what problem is worth solving\" call.</li><li>Join sprint reviews and demos to check delivered work against the original problem.</li></ul><h3><strong>We're excited if you have:</strong></h3><ul><li>3+ years of experience as a Product Owner, Product Manager or similar role, with real day-to-day ownership of a backlog.</li><li>Hands-on experience running Jira, including writing tickets and running or co-running grooming sessions.</li><li>Comfort working shoulder-to-shoulder with engineers rather than handing off finished specs.</li><li>Strong plain-language writing skills for problem statements and acceptance criteria.</li><li>Enough technical fluency to follow a trade-off conversation and ask the right questions.</li><li>A track record of prioritising under pressure, including saying no and explaining why.</li><li>Genuine curiosity about the \"why\" behind customer and business problems.</li><li>Familiarity with tools like Notion, Mixpanel or Amplitude for tracking outcomes post-launch.</li><li>Some direct customer-facing experience, such as support, sales engineering, customer success or research.</li></ul><p></p><h3><strong>Why you'll love it here:</strong></h3><p>Flexible working hours and home-office (2x per week)</p><ul><li>Internal shares programme (EDPP)</li><li>Ergonomic workspace and cutting-edge technology</li><li>Regular team events</li><li>Modern and stylish offices</li><li>Sustainable merch for all employees</li><li>Adverity Social Responsibility Days (+2 days paid off)</li></ul><p></p><p><strong>Are you ready to apply?</strong></p><p>Apply now if you are ready to revolutionise the way businesses work with marketing data.</p><p>We look forward to meeting you!</p>",
       "roleFamily": "product-owner"
     },
     {
@@ -109,28 +131,6 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "ashby:nord-security:76ed04d7-2a09-4702-9440-2c669148631a",
-      "atsProvider": "ashby",
-      "company": "Nord Security",
-      "title": "UX/UI Designer | Mid-Senior | Apps | Saily",
-      "location": "Warsaw",
-      "url": "https://jobs.ashbyhq.com/nord-security/76ed04d7-2a09-4702-9440-2c669148631a",
-      "postedAt": "2026-07-29T11:53:38.521+00:00",
-      "description": "At Saily, we’re removing the hassle of staying connected while traveling — no roaming fees, no plastic SIM cards, just lightning-fast, secure mobile data in 200+ destinations. Saily has millions of paying customers and hundreds of thousands travelers browsing through Saily at any given moment.\n\nTo build the best product for our customers we foster AI-native Product Engineering culture, where:\n\n- The Engineer is the builder, who is responsible for solving customer problems end-to-end (idea to production)\n- AI Agents are the enablers who write most of the code and solve repeatable tasks to help the Engineers maximize their impact\n- Everyone contributes to making Saily effective by suggesting new areas for improvement to delegate to agents and then implementing the changes\n- Curiosity, learning and sharing are everyone's responsibility\n- Customer, having a comfortable, connected, hassle-free journey is never lost from the focus\n\nWe value growth over comfort, contribution over hierarchy, and impact over process. At Saily, we believe in giving sharp people context, autonomy, and AI as their multiplier to allow them to just do their best work.\n\n\n\nMAIN RESPONSIBILITIES\n\n - Design features on Saily's mobile app.\n\n - Uncover user experience issues and validate solutions by carrying out user interviews\n\n - Cooperate with CEO, Product Owners, Engineers, Copywriters, and other colleagues\n\n - Elevate the team across all product life-cycle stages by providing user-centric insights, mapping out the flows, framing problems, and designing user interactions\n\n - Make clear and intuitive prototypes out of broad and complex ideas\n\n - Iterate on design solutions based on user testing, business, and technical considerations\n\n\nCORE REQUIREMENTS\n\n - Experience with user interface design & interaction design\n\n - Experience working with mobile app design\n\n - Excellent knowledge of user-centred design best practices and proven ability to apply them\n\n - Understanding of native app design systems\n\n - Knowledge on haptics, microanimations, etc\n\n - Ability to create lo-fi and hi-fi prototypes and present them in clear and well-reasoned ways\n\n - Proficiency in working with design and prototyping tools (Figma)\n\n - Strong problem-solving and data-backed decision-making skills\n\n - Strong ownership mindset and analytical thinking\n\n - Evidence of experience in shipping product design solutions\n\n\n\n\nWHAT WE OFFER\n\nInnovate with industry leaders\n\nWork alongside global experts to build world-leading cybersecurity tools, impacting millions of users around the world.\n\nLearn & grow\n\nBoost your skills via our extensive training programs (online and offline) & other resources. Benefit from mentorship and career-switch opportunities to grow within the company.\n\nWork from anywhere\n\nRecharge with a change of scenery – choose work from any location when you feel a need to power your creativity and drive.\n\nPhysical well-being\n\nFuel your active lifestyle with online workouts led by our Physical Well-Being experts. Unlock a variety of sports and wellness facilities, like gyms, swimming pools, and fitness classes, with the Multisport card.\n\nMental & emotional health\n\nNurture your mind with free psychologist consultations, dedicated mental health events, and premium access to top-rated wellness apps like Calm, Headspace, and Mindletic.\n\nPremium healthcare\n\nReceive private health insurance giving you peace of mind for your health needs.\n\nJoyful moments – special treats\n\nCelebrate life’s big moments with special gifts from us on your birthday, anniversary, and other major events, such as weddings or the arrival of a new family member.\n\nCompany events & team-building\n\nExperience iconic Nord Security celebrations, team-buildings, and knowledge-sharing events, nurturing bonds that fuel our success.\n\nWorkation\n\nEmbark on a legendary company getaway abroad, filled with exciting activities, live concerts, engaging workshops, and epic time together.\n\nKindly refer to our Privacy Notice for Recruitment Candidates https://drive.google.com/file/d/1b2tV684_SYV1jQ4kuf91cnzrRBk3ef-5/view for comprehensive information regarding our data handling procedures throughout recruitment processes.\n\nWe expect all candidates to provide accurate and complete information during the recruitment process. While limited use of AI tools to refine application materials is acceptable, candidates remain fully responsible for ensuring that their submissions reflect their own qualifications, skills, and experience. Any failure to do so may negatively affect participation in the recruitment process. If broader AI assistance is allowed for a particular role or stage, we’ll let you know in advance.\n\nBy submitting your application, you acknowledge that it may be processed using automated tools for evaluation purposes. As part of our recruitment process, we may use an AI-based application review tool to help assess applications based on skills and experience relevant to the role. This technology is used to support - not replace - human decision-making, and every application is ultimately reviewed by a recruiter.\n\nIf you would like more information about how AI is used in this process or wish to exercise your rights under applicable data privacy laws, please contact us at privacy@nordaccount.com. Should you prefer to opt out of the automated evaluation, please submit your application directly to career@nordsec.com.",
-      "roleFamily": "uiux"
-    },
-    {
-      "id": "ashby:nord-security:1984edfd-eeed-4de5-93e5-b60b48fa596f",
-      "atsProvider": "ashby",
-      "company": "Nord Security",
-      "title": "Senior Product Owner | Mobile | Coveron",
-      "location": "Vilnius",
-      "url": "https://jobs.ashbyhq.com/nord-security/1984edfd-eeed-4de5-93e5-b60b48fa596f",
-      "postedAt": "2026-07-31T12:39:34.757+00:00",
-      "description": "AT COVERON, WE’RE BUILDING A COMPLETE IDENTITY THEFT PROTECTION SERVICE.\n\nJoin the team behind Nord Security’s latest product—combining dark web monitoring, credit tracking, and identity theft insurance into one powerful platform.\n\n\nYOUR IMPACT? HELPING PEOPLE PROTECT THEIR IDENTITIES, SPOT THREATS EARLY, AND RECOVER STRONGER.\n\nMAIN RESPONSIBILITIES\n\n - Own the mobile app product (iOS & Android) and its development roadmap;\n\n - Initiate new features that drive business value and unlock new acquisition tactics;\n\n - Align objectives, expectations, and timeframes across developers, designers, and stakeholders;\n\n - Manage and prioritize the backlog;\n\n - Drive team priorities tied to organizational goals;\n\n - Own business decisions and set feature direction;\n\n - Monitor product performance and customer behaviour to find growth opportunities;\n\n - Ensure user privacy and data protection across the product;\n\n - Define mobile app product requirements, write clear user stories and acceptance criteria for the development team;\n\n\n\nCORE REQUIREMENTS\n\n - 3+ years experience as a Product Owner on mobile app products (iOS & Android);\n\n - Knowledge of Google Play / App Store requirements and review processes;\n\n - Understanding of mobile payment ecosystems (in-app purchases, subscriptions, store billing);\n\n - Experience in a startup or fast-paced environment;\n\n - Ability to navigate ambiguity independently;\n\n - Proactivity in raising challenges and identifying solutions;\n\n - Business-driven mindset: connecting features to growth and monetization;\n\n - Familiarity with Agile/Scrum and backlog tools (e.g. Jira);\n\n - Subscription-based B2C product experience is a plus;\n\n - Digital marketing knowledge is a plus.\n\n\n\nWHAT WE OFFER\n\nInnovate with industry leaders\n\nWork alongside global experts to build world-leading cybersecurity tools, impacting millions of users around the world.\n\nLearn & grow\n\nBoost your skills via our extensive training programs (online and offline) & other resources. Benefit from mentorship and career-switch opportunities to grow within the company.\n\nWork in a next-gen Cyber City office\n\nThrive in our bustling office, featuring ergonomic workspaces, modern meeting rooms, engaging events, and specialty coffee to fuel your day.\n\nWork from anywhere\n\nRecharge with a change of scenery – choose work from any location when you feel a need to power your creativity and drive.\n\nPhysical well-being\n\nBoost your health with free-of-charge 24/7 gym access, onsite and online workouts, and consultations led by in-house Physical Well-Being experts.\n\nMental & emotional health\n\nNurture your mind with free psychologist consultations, dedicated mental health events, and premium access to top-rated wellness apps like Calm, Headspace, and Mindletic.\n\nPremium healthcare\n\nReceive private health insurance giving you peace of mind for your health needs.\n\nExtra days off\n\nEnjoy additional vacation days off as you grow with us. Plus, get extra days for sick leave, special occasions, or parenting needs.\n\nJoyful moments – special treats\n\nCelebrate life’s big moments with special gifts from us on your birthday, anniversary, and other major events, such as weddings or the arrival of a new family member.\n\nCompany events & team-building\n\nExperience iconic Nord Security celebrations, team-buildings, and knowledge-sharing events, nurturing bonds that fuel our success.\n\nWorkation\n\nEmbark on a legendary company getaway abroad, filled with exciting activities, live concerts, engaging workshops, and epic time together.\n\n \n\nKindly refer to our Privacy Notice for Recruitment Candidates https://drive.google.com/file/d/1b2tV684_SYV1jQ4kuf91cnzrRBk3ef-5/view for comprehensive information regarding our data handling procedures throughout recruitment processes.\n\nWe expect all candidates to provide accurate and complete information during the recruitment process. While limited use of AI tools to refine application materials is acceptable, candidates remain fully responsible for ensuring that their submissions reflect their own qualifications, skills, and experience. Any failure to do so may negatively affect participation in the recruitment process. If broader AI assistance is allowed for a particular role or stage, we’ll let you know in advance.\n\nBy submitting your application, you acknowledge that it may be processed using automated tools for evaluation purposes. As part of our recruitment process, we may use an AI-based application review tool to help assess applications based on skills and experience relevant to the role. This technology is used to support - not replace - human decision-making, and every application is ultimately reviewed by a recruiter.\n\nIf you would like more information about how AI is used in this process or wish to exercise your rights under applicable data privacy laws, please contact us at privacy@nordaccount.com. Should you prefer to opt out of the automated evaluation, please submit your application directly to career@nordsec.com.",
-      "roleFamily": "product-owner"
-    },
-    {
       "id": "smartrecruiters:grab:744000143433549",
       "atsProvider": "smartrecruiters",
       "company": "Grab",
@@ -164,6 +164,39 @@
       "roleFamily": "senior-pd"
     },
     {
+      "id": "ashby:nord-security:76ed04d7-2a09-4702-9440-2c669148631a",
+      "atsProvider": "ashby",
+      "company": "Nord Security",
+      "title": "UX/UI Designer | Mid-Senior | Apps | Saily",
+      "location": "Warsaw",
+      "url": "https://jobs.ashbyhq.com/nord-security/76ed04d7-2a09-4702-9440-2c669148631a",
+      "postedAt": "2026-07-29T11:53:38.521+00:00",
+      "description": "At Saily, we’re removing the hassle of staying connected while traveling — no roaming fees, no plastic SIM cards, just lightning-fast, secure mobile data in 200+ destinations. Saily has millions of paying customers and hundreds of thousands travelers browsing through Saily at any given moment.\n\nTo build the best product for our customers we foster AI-native Product Engineering culture, where:\n\n- The Engineer is the builder, who is responsible for solving customer problems end-to-end (idea to production)\n- AI Agents are the enablers who write most of the code and solve repeatable tasks to help the Engineers maximize their impact\n- Everyone contributes to making Saily effective by suggesting new areas for improvement to delegate to agents and then implementing the changes\n- Curiosity, learning and sharing are everyone's responsibility\n- Customer, having a comfortable, connected, hassle-free journey is never lost from the focus\n\nWe value growth over comfort, contribution over hierarchy, and impact over process. At Saily, we believe in giving sharp people context, autonomy, and AI as their multiplier to allow them to just do their best work.\n\n\n\nMAIN RESPONSIBILITIES\n\n - Design features on Saily's mobile app.\n\n - Uncover user experience issues and validate solutions by carrying out user interviews\n\n - Cooperate with CEO, Product Owners, Engineers, Copywriters, and other colleagues\n\n - Elevate the team across all product life-cycle stages by providing user-centric insights, mapping out the flows, framing problems, and designing user interactions\n\n - Make clear and intuitive prototypes out of broad and complex ideas\n\n - Iterate on design solutions based on user testing, business, and technical considerations\n\n\nCORE REQUIREMENTS\n\n - Experience with user interface design & interaction design\n\n - Experience working with mobile app design\n\n - Excellent knowledge of user-centred design best practices and proven ability to apply them\n\n - Understanding of native app design systems\n\n - Knowledge on haptics, microanimations, etc\n\n - Ability to create lo-fi and hi-fi prototypes and present them in clear and well-reasoned ways\n\n - Proficiency in working with design and prototyping tools (Figma)\n\n - Strong problem-solving and data-backed decision-making skills\n\n - Strong ownership mindset and analytical thinking\n\n - Evidence of experience in shipping product design solutions\n\n\n\n\nWHAT WE OFFER\n\nInnovate with industry leaders\n\nWork alongside global experts to build world-leading cybersecurity tools, impacting millions of users around the world.\n\nLearn & grow\n\nBoost your skills via our extensive training programs (online and offline) & other resources. Benefit from mentorship and career-switch opportunities to grow within the company.\n\nWork from anywhere\n\nRecharge with a change of scenery – choose work from any location when you feel a need to power your creativity and drive.\n\nPhysical well-being\n\nFuel your active lifestyle with online workouts led by our Physical Well-Being experts. Unlock a variety of sports and wellness facilities, like gyms, swimming pools, and fitness classes, with the Multisport card.\n\nMental & emotional health\n\nNurture your mind with free psychologist consultations, dedicated mental health events, and premium access to top-rated wellness apps like Calm, Headspace, and Mindletic.\n\nPremium healthcare\n\nReceive private health insurance giving you peace of mind for your health needs.\n\nJoyful moments – special treats\n\nCelebrate life’s big moments with special gifts from us on your birthday, anniversary, and other major events, such as weddings or the arrival of a new family member.\n\nCompany events & team-building\n\nExperience iconic Nord Security celebrations, team-buildings, and knowledge-sharing events, nurturing bonds that fuel our success.\n\nWorkation\n\nEmbark on a legendary company getaway abroad, filled with exciting activities, live concerts, engaging workshops, and epic time together.\n\nKindly refer to our Privacy Notice for Recruitment Candidates https://drive.google.com/file/d/1b2tV684_SYV1jQ4kuf91cnzrRBk3ef-5/view for comprehensive information regarding our data handling procedures throughout recruitment processes.\n\nWe expect all candidates to provide accurate and complete information during the recruitment process. While limited use of AI tools to refine application materials is acceptable, candidates remain fully responsible for ensuring that their submissions reflect their own qualifications, skills, and experience. Any failure to do so may negatively affect participation in the recruitment process. If broader AI assistance is allowed for a particular role or stage, we’ll let you know in advance.\n\nBy submitting your application, you acknowledge that it may be processed using automated tools for evaluation purposes. As part of our recruitment process, we may use an AI-based application review tool to help assess applications based on skills and experience relevant to the role. This technology is used to support - not replace - human decision-making, and every application is ultimately reviewed by a recruiter.\n\nIf you would like more information about how AI is used in this process or wish to exercise your rights under applicable data privacy laws, please contact us at privacy@nordaccount.com. Should you prefer to opt out of the automated evaluation, please submit your application directly to career@nordsec.com.",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "ashby:nord-security:1984edfd-eeed-4de5-93e5-b60b48fa596f",
+      "atsProvider": "ashby",
+      "company": "Nord Security",
+      "title": "Senior Product Owner | Mobile | Coveron",
+      "location": "Vilnius",
+      "url": "https://jobs.ashbyhq.com/nord-security/1984edfd-eeed-4de5-93e5-b60b48fa596f",
+      "postedAt": "2026-07-31T12:39:34.757+00:00",
+      "description": "AT COVERON, WE’RE BUILDING A COMPLETE IDENTITY THEFT PROTECTION SERVICE.\n\nJoin the team behind Nord Security’s latest product—combining dark web monitoring, credit tracking, and identity theft insurance into one powerful platform.\n\n\nYOUR IMPACT? HELPING PEOPLE PROTECT THEIR IDENTITIES, SPOT THREATS EARLY, AND RECOVER STRONGER.\n\nMAIN RESPONSIBILITIES\n\n - Own the mobile app product (iOS & Android) and its development roadmap;\n\n - Initiate new features that drive business value and unlock new acquisition tactics;\n\n - Align objectives, expectations, and timeframes across developers, designers, and stakeholders;\n\n - Manage and prioritize the backlog;\n\n - Drive team priorities tied to organizational goals;\n\n - Own business decisions and set feature direction;\n\n - Monitor product performance and customer behaviour to find growth opportunities;\n\n - Ensure user privacy and data protection across the product;\n\n - Define mobile app product requirements, write clear user stories and acceptance criteria for the development team;\n\n\n\nCORE REQUIREMENTS\n\n - 3+ years experience as a Product Owner on mobile app products (iOS & Android);\n\n - Knowledge of Google Play / App Store requirements and review processes;\n\n - Understanding of mobile payment ecosystems (in-app purchases, subscriptions, store billing);\n\n - Experience in a startup or fast-paced environment;\n\n - Ability to navigate ambiguity independently;\n\n - Proactivity in raising challenges and identifying solutions;\n\n - Business-driven mindset: connecting features to growth and monetization;\n\n - Familiarity with Agile/Scrum and backlog tools (e.g. Jira);\n\n - Subscription-based B2C product experience is a plus;\n\n - Digital marketing knowledge is a plus.\n\n\n\nWHAT WE OFFER\n\nInnovate with industry leaders\n\nWork alongside global experts to build world-leading cybersecurity tools, impacting millions of users around the world.\n\nLearn & grow\n\nBoost your skills via our extensive training programs (online and offline) & other resources. Benefit from mentorship and career-switch opportunities to grow within the company.\n\nWork in a next-gen Cyber City office\n\nThrive in our bustling office, featuring ergonomic workspaces, modern meeting rooms, engaging events, and specialty coffee to fuel your day.\n\nWork from anywhere\n\nRecharge with a change of scenery – choose work from any location when you feel a need to power your creativity and drive.\n\nPhysical well-being\n\nBoost your health with free-of-charge 24/7 gym access, onsite and online workouts, and consultations led by in-house Physical Well-Being experts.\n\nMental & emotional health\n\nNurture your mind with free psychologist consultations, dedicated mental health events, and premium access to top-rated wellness apps like Calm, Headspace, and Mindletic.\n\nPremium healthcare\n\nReceive private health insurance giving you peace of mind for your health needs.\n\nExtra days off\n\nEnjoy additional vacation days off as you grow with us. Plus, get extra days for sick leave, special occasions, or parenting needs.\n\nJoyful moments – special treats\n\nCelebrate life’s big moments with special gifts from us on your birthday, anniversary, and other major events, such as weddings or the arrival of a new family member.\n\nCompany events & team-building\n\nExperience iconic Nord Security celebrations, team-buildings, and knowledge-sharing events, nurturing bonds that fuel our success.\n\nWorkation\n\nEmbark on a legendary company getaway abroad, filled with exciting activities, live concerts, engaging workshops, and epic time together.\n\n \n\nKindly refer to our Privacy Notice for Recruitment Candidates https://drive.google.com/file/d/1b2tV684_SYV1jQ4kuf91cnzrRBk3ef-5/view for comprehensive information regarding our data handling procedures throughout recruitment processes.\n\nWe expect all candidates to provide accurate and complete information during the recruitment process. While limited use of AI tools to refine application materials is acceptable, candidates remain fully responsible for ensuring that their submissions reflect their own qualifications, skills, and experience. Any failure to do so may negatively affect participation in the recruitment process. If broader AI assistance is allowed for a particular role or stage, we’ll let you know in advance.\n\nBy submitting your application, you acknowledge that it may be processed using automated tools for evaluation purposes. As part of our recruitment process, we may use an AI-based application review tool to help assess applications based on skills and experience relevant to the role. This technology is used to support - not replace - human decision-making, and every application is ultimately reviewed by a recruiter.\n\nIf you would like more information about how AI is used in this process or wish to exercise your rights under applicable data privacy laws, please contact us at privacy@nordaccount.com. Should you prefer to opt out of the automated evaluation, please submit your application directly to career@nordsec.com.",
+      "roleFamily": "product-owner"
+    },
+    {
+      "id": "teamtailor:yulife:3719bd56-6766-4163-8380-d674363770a1",
+      "atsProvider": "teamtailor",
+      "company": "Yulife",
+      "title": "Product Owner",
+      "location": "UK - LONDON",
+      "url": "https://careers.yulife.engineering/jobs/8217928-product-owner",
+      "postedAt": "2026-08-13T13:21:31.000Z",
+      "description": "<h2>About us:</h2><p>YuLife is a tech driven insurance company on a mission to transform insurance into a force for good. We work with employers and insurer partners to deliver group insurance products that people actually engage with, helping shift the industry from claims led to prevention focused outcomes.</p><p>Our model combines insurance, technology, and behavioural science to create hyper engaging insurance experiences. Through our award winning platform, employees interact with their insurance every day, building healthier habits while staying protected. This engagement benefits everyone involved. Individuals are more proactive about their health, employers see stronger engagement and retention, and insurers benefit from improved risk profiles over time.</p><p>At YuLife, we are building a game changing insurance business with a clear commercial edge and a strong sense of purpose. Our culture reflects that ambition. We are a people first, values led company that believes great products are built by teams who feel trusted, supported, and inspired by the mission they are working on.</p><p>If you want to help reinvent a global industry, work on products with real world impact, and build alongside smart, kind, driven people, YuLife is a place where you can do meaningful work and grow with the business.</p><h2>The role:</h2><p>Our Activation squad owns the journey that turns a signed employer into engaged members: onboarding, the employer portal experience, member activation flows, and the top of the engagement funnel. It is the squad where product work most directly moves the company's revenue metrics.</p><p>We are hiring a Product Owner to drive delivery within the Activation squad. You will own the squad backlog and turn a prioritised product roadmap into well-sequenced, buildable work that ships. You will work shoulder to shoulder with a Lead Engineer who owns the technical side, partner closely with Design and Data, and report to the Head of Product, who will invest properly in your development. It is a hands-on delivery role with real ownership of how work flows through the squad, and a strong seat from which to grow your product career.</p><h3>Day to day responsibilities include, but are not limited to:</h3><ul><li><p><span>Own and prioritise the squad backlog, turning roadmap priorities into clear user stories and buildable tickets with the Lead Engineer</span></p></li><li><p><span>Run the squad's delivery day to day: standups, refinement, sprint or flow management, unblocking, and fast decisions on in-flight scope questions</span></p></li><li><p><span>Manage the flow of smaller improvements and fixes alongside larger initiatives</span></p></li><li><p><span>Coordinate releases and own launch readiness: QA, customer support briefing, rollout plan, and live tracking in place</span></p></li><li><p><span>Track delivery progress and feature performance after release, feeding what you learn back into the roadmap</span></p></li><li><p><span>Get in front of customers regularly, at least once a month, with a bias towards HR buyers and brokers, given how directly Activation's work affects onboarding and engagement, joining research sessions, and running your own conversations</span></p></li></ul><h3>The ideal candidate will have:</h3><ul><li><p><span>2 to 4 years in a delivery-side product role: Product Owner, associate Product Manager, delivery manager, or similar, ideally in B2B2C SaaS, onboarding, or growth-adjacent product work</span></p></li><li><p><span>Organised to a fault: you run a clean backlog, you sequence well, and nothing falls through the cracks</span></p></li><li><p><span>Comfortable with agile delivery and the tools that support it (for example, Jira), and confident in writing clear user stories with solid acceptance criteria</span></p></li><li><p><span>Hungry and high energy: you want to be around senior product people and learn fast. Energy matters as much as experience for this role</span></p></li><li><p><span>A clear communicator with engineers: you know what to escalate and what to decide, and you keep stakeholders informed</span></p></li><li><p><span>Genuinely curious about users and comfortable getting in front of them to understand their problems</span></p></li></ul><h2>What you’ll get:</h2><p>We like to give more than we take so here are some of our benefits:</p><ul><li><p>Competitive base salary</p></li><li><p>Potential to earn share options</p></li><li><p>6x salary life assurance</p></li><li><p>Private Medical Insurance via Bupa</p></li><li><p>Health Cash Plan via Medicash</p></li><li><p>Income protection</p></li><li><p>3% company contribution to pension via salary sacrifice scheme</p></li><li><p>25 days Annual Leave + 1 Love being Yu (e.g your birthday, moving house anything else that is for Yu!)</p></li></ul><p><strong>Additional Perks:</strong></p><ul><li><p>Access to the YuLife app (which includes a tonne of well-being rewards, discounts and exclusive offers as well as access to <a target=\"_blank\" href=\"https://meditopia.com/\">Meditopia</a> and <a target=\"_blank\" href=\"https://fiit.tv/\">Fiit</a>)</p></li><li><p>£20 per month to a \"be your best Yu\" budget</p></li><li><p>Unlimited Monthly professional coaching with <a target=\"_blank\" href=\"https://www.morehappi.com/\">More Happi</a></p></li><li><p><a target=\"_blank\" href=\"https://www.beonhand.co.uk/\">OnHand</a> Volunteering app</p></li><li><p>Financial coaching with Octopus Money</p></li><li><p>Generous parental leave</p></li><li><p>Remote working package; includes laptop, desk, chair etc.</p></li><li><p>Flexible and hybrid working with a lovely office between Moorgate &amp; Old Street</p></li></ul><p>Our framework and principles around <a target=\"_blank\" href=\"https://yulife.com/team/hybrid-working/\">hybrid working</a> at YuLife.</p><p>Here at YuLife our values encompasses <a target=\"_blank\" href=\"https://yulife.com/blog/yulife-company-values/\"><strong>Love Being Yu</strong> </a>and as a result we’re committed to diversity and inclusion. We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, colour, sex, age, national origin, religion, sexual orientation, gender identity and/or expression, disability or any other protected class.&nbsp;</p><p><a target=\"_blank\" href=\"https://blog.creandum.com/yulife-the-unfair-advantage-of-strong-company-culture-1afaaeb9f48c\">Read what one of our key investors has to say about our culture ›</a></p><figure data-alignment=\"left\" class=\"relative\" style=\"width:fit-content;margin-left:0px;margin-right:auto;\"><img src=\"https://images.teamtailor-cdn.com/images/s3/teamtailor-production/gallery_picture-v6/image_uploads/f2557443-cfd4-4b19-8abe-c43955d5d6e6/original.jpeg\" alt=\"Awards 24 colour.jpg\" title=\"\" data-alignment=\"left\"></figure>",
+      "roleFamily": "product-owner"
+    },
+    {
       "id": "ashby:opensea:1ad9f09a-3331-4f2b-b0f5-c739580bb243",
       "atsProvider": "ashby",
       "company": "Opensea",
@@ -184,17 +217,6 @@
       "postedAt": "2026-08-04T18:04:39.059+00:00",
       "description": "What do we do?\n\nPaddle offers digital product companies a completely different approach to their payments infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. That means we take away 100% of the pain of payments fragmentation. It’s faster, safer, cheaper, and, above all, way better.\n\nWe’re backed by investors including KKR, FTV Capital, Kindred, Notion, and 83North and serve over 5000 software sellers in 245 territories globally.\n\n\n\nThe Role\n\nWe're looking for a Senior Product Designer to lead design for Paddle's Core Experience team, the horizontal team responsible for the foundations every other product is built on: sign-up, onboarding, the design system, and the overall Seller Experience. The Core Experience team owns the connective, cross-cutting experience that ties Paddle's products together.\n\nThis is a different kind of design role. Rather than owning a single product surface, you'll own the connective tissue that makes Paddle feel like one coherent product. When a seller signs up, gets onboarded, moves between products, or encounters an AI-powered or integrated experience, your work is what makes it feel effortless.\n\nYou'll be an active contributor to Paddle's integration and AI experiences, helping shape how Paddle connects to the wider tooling ecosystem and where AI genuinely improves the seller experience. This role asks for exceptional UI craft, deep design systems expertise, and a genuine curiosity about how AI can change both the products we build and the way we design them.\n\nAs a holistic problem solver, you'll operate well beyond pixels, balancing hands-on execution with systems thinking, influence, and a high bar for quality. Embedded in a cross-functional team alongside Product and Engineering, you'll work in an environment that values ownership, autonomy, and accountability.\n\n\n\nWhat you'll do:\n\n - Own the end-to-end design of Paddle's foundational seller experiences, sign-up, onboarding, and the surfaces that connect our products together, from discovery and concepting through delivery, iteration, and long-term evolution.\n\n - Act as a horizontal partner to all other product teams, creating the guidelines, principles, and reusable patterns that keep the experience consistent across the platform as Paddle grows.\n\n - Contribute actively to integration and AI experiences, shaping interaction patterns and surfaces, and forming a clear point of view on where AI delivers real user value (and where it gets in the way).\n\n - Lead design thinking for foundational work, including information architecture, interaction patterns, accessibility, and scalable component design.\n\n - Partner closely with Product, Engineering, and Stakeholders to define problems, shape solutions, influence roadmaps, and ship high-quality outcomes.\n\n - Use research, data, and customer feedback to validate decisions and continuously improve the experience.\n\n - Set and uphold quality and craft standards across the product organisation, advocating for user-centred design and a high design bar.\n\n - Use storytelling to build alignment and secure buy-in for foundational, cross-cutting work that often spans many teams.\n\n - Mentor and support other designers through collaboration, feedback, and critique.\n\n - Own and improve the customer experience across a complex B2B platform used by thousands of SaaS companies and millions of their customers.\n\nWe'd love to hear from you if you:\n\n - Bring a strong portfolio with exceptional UI craft, showcasing end-to-end product design with clear problem-solving, interaction design, and visual clarity in complex domains.\n\n - Have proven experience owning, building, and maintaining design systems, leading their direction, designing components, writing documentation, establishing governance, and driving adoption across teams.\n\n - Are curious about adopting AI in the design process and in the products you build, and can critically assess where AI delivers real user value and translate it into thoughtful, usable experiences.\n\n - Are comfortable working horizontally across many teams, aligning stakeholders, balancing competing needs, and creating consistency without slowing teams down.\n\n - Communicate design decisions clearly and confidently, with the ability to influence stakeholders at all levels.\n\n - Are a self-starter comfortable with ambiguity, able to own work from discovery through delivery with minimal oversight.\n\n - Have a solid understanding of implementation constraints, responsive design, and accessibility, and collaborate effectively with engineers on delivery.\n\n - Possess strong UI design and prototyping skills using Figma, Claude Code (or similar tools).\n\n - Have experience designing high-scale, consumer-facing or B2B products, experience in SaaS or fintech, with onboarding journeys, or in foundational/platform design is a plus.\n\n \nEveryone is welcome at Paddle\n\nAt Paddle, we’re committed to removing invisible barriers, both for our customers and within our own teams. We recognise and celebrate that every Paddler is unique and we welcome every individual perspective. As an inclusive employer we don’t care if, or where, you studied, what you look like or where you’re from. We’re more interested in your craft, curiosity, passion for learning and what you’ll add to our culture. We encourage you to apply even if you don’t match every part of the job ad, especially if you’re part of an underrepresented group.\n\n Please let us know if there’s anything we can do to better support you through the application process and in the workplace. We will do everything we can to support any accommodations needed. We’re committed to building a diverse team where everyone feels safe to be their authentic self. Let’s grow together.\n\n\nWhy you’ll love working at Paddle\n\nWe are a diverse, growing group of Paddlers across the globe who pride ourselves on our transparent, collaborative and respectful culture.\n\nWe live and breathe our values, which are:\n\nPaddle for others\n\nPaddle together\n\nPaddle simply\n\nWe offer a full suite of benefits, including attractive salaries, stock options, retirement plans, private healthcare and wellbeing initiatives.\n\nWe are a ‘digital-first’ company, which means you can work remotely, from one of our stylish  hubs, or even a bit of both! We offer all team members unlimited holidays and 4 months paid family leave regardless of gender. We invest in learning and will help you with your personal development via constant exposure to new challenges, an annual learning fund, and regular internal and external training.\n\n",
       "roleFamily": "senior-pd"
-    },
-    {
-      "id": "teamtailor:yulife:3719bd56-6766-4163-8380-d674363770a1",
-      "atsProvider": "teamtailor",
-      "company": "Yulife",
-      "title": "Product Owner",
-      "location": "UK - LONDON",
-      "url": "https://careers.yulife.engineering/jobs/8217928-product-owner",
-      "postedAt": "2026-08-13T13:21:31.000Z",
-      "description": "<h2>About us:</h2><p>YuLife is a tech driven insurance company on a mission to transform insurance into a force for good. We work with employers and insurer partners to deliver group insurance products that people actually engage with, helping shift the industry from claims led to prevention focused outcomes.</p><p>Our model combines insurance, technology, and behavioural science to create hyper engaging insurance experiences. Through our award winning platform, employees interact with their insurance every day, building healthier habits while staying protected. This engagement benefits everyone involved. Individuals are more proactive about their health, employers see stronger engagement and retention, and insurers benefit from improved risk profiles over time.</p><p>At YuLife, we are building a game changing insurance business with a clear commercial edge and a strong sense of purpose. Our culture reflects that ambition. We are a people first, values led company that believes great products are built by teams who feel trusted, supported, and inspired by the mission they are working on.</p><p>If you want to help reinvent a global industry, work on products with real world impact, and build alongside smart, kind, driven people, YuLife is a place where you can do meaningful work and grow with the business.</p><h2>The role:</h2><p>Our Activation squad owns the journey that turns a signed employer into engaged members: onboarding, the employer portal experience, member activation flows, and the top of the engagement funnel. It is the squad where product work most directly moves the company's revenue metrics.</p><p>We are hiring a Product Owner to drive delivery within the Activation squad. You will own the squad backlog and turn a prioritised product roadmap into well-sequenced, buildable work that ships. You will work shoulder to shoulder with a Lead Engineer who owns the technical side, partner closely with Design and Data, and report to the Head of Product, who will invest properly in your development. It is a hands-on delivery role with real ownership of how work flows through the squad, and a strong seat from which to grow your product career.</p><h3>Day to day responsibilities include, but are not limited to:</h3><ul><li><p><span>Own and prioritise the squad backlog, turning roadmap priorities into clear user stories and buildable tickets with the Lead Engineer</span></p></li><li><p><span>Run the squad's delivery day to day: standups, refinement, sprint or flow management, unblocking, and fast decisions on in-flight scope questions</span></p></li><li><p><span>Manage the flow of smaller improvements and fixes alongside larger initiatives</span></p></li><li><p><span>Coordinate releases and own launch readiness: QA, customer support briefing, rollout plan, and live tracking in place</span></p></li><li><p><span>Track delivery progress and feature performance after release, feeding what you learn back into the roadmap</span></p></li><li><p><span>Get in front of customers regularly, at least once a month, with a bias towards HR buyers and brokers, given how directly Activation's work affects onboarding and engagement, joining research sessions, and running your own conversations</span></p></li></ul><h3>The ideal candidate will have:</h3><ul><li><p><span>2 to 4 years in a delivery-side product role: Product Owner, associate Product Manager, delivery manager, or similar, ideally in B2B2C SaaS, onboarding, or growth-adjacent product work</span></p></li><li><p><span>Organised to a fault: you run a clean backlog, you sequence well, and nothing falls through the cracks</span></p></li><li><p><span>Comfortable with agile delivery and the tools that support it (for example, Jira), and confident in writing clear user stories with solid acceptance criteria</span></p></li><li><p><span>Hungry and high energy: you want to be around senior product people and learn fast. Energy matters as much as experience for this role</span></p></li><li><p><span>A clear communicator with engineers: you know what to escalate and what to decide, and you keep stakeholders informed</span></p></li><li><p><span>Genuinely curious about users and comfortable getting in front of them to understand their problems</span></p></li></ul><h2>What you’ll get:</h2><p>We like to give more than we take so here are some of our benefits:</p><ul><li><p>Competitive base salary</p></li><li><p>Potential to earn share options</p></li><li><p>6x salary life assurance</p></li><li><p>Private Medical Insurance via Bupa</p></li><li><p>Health Cash Plan via Medicash</p></li><li><p>Income protection</p></li><li><p>3% company contribution to pension via salary sacrifice scheme</p></li><li><p>25 days Annual Leave + 1 Love being Yu (e.g your birthday, moving house anything else that is for Yu!)</p></li></ul><p><strong>Additional Perks:</strong></p><ul><li><p>Access to the YuLife app (which includes a tonne of well-being rewards, discounts and exclusive offers as well as access to <a target=\"_blank\" href=\"https://meditopia.com/\">Meditopia</a> and <a target=\"_blank\" href=\"https://fiit.tv/\">Fiit</a>)</p></li><li><p>£20 per month to a \"be your best Yu\" budget</p></li><li><p>Unlimited Monthly professional coaching with <a target=\"_blank\" href=\"https://www.morehappi.com/\">More Happi</a></p></li><li><p><a target=\"_blank\" href=\"https://www.beonhand.co.uk/\">OnHand</a> Volunteering app</p></li><li><p>Financial coaching with Octopus Money</p></li><li><p>Generous parental leave</p></li><li><p>Remote working package; includes laptop, desk, chair etc.</p></li><li><p>Flexible and hybrid working with a lovely office between Moorgate &amp; Old Street</p></li></ul><p>Our framework and principles around <a target=\"_blank\" href=\"https://yulife.com/team/hybrid-working/\">hybrid working</a> at YuLife.</p><p>Here at YuLife our values encompasses <a target=\"_blank\" href=\"https://yulife.com/blog/yulife-company-values/\"><strong>Love Being Yu</strong> </a>and as a result we’re committed to diversity and inclusion. We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, colour, sex, age, national origin, religion, sexual orientation, gender identity and/or expression, disability or any other protected class.&nbsp;</p><p><a target=\"_blank\" href=\"https://blog.creandum.com/yulife-the-unfair-advantage-of-strong-company-culture-1afaaeb9f48c\">Read what one of our key investors has to say about our culture ›</a></p><figure data-alignment=\"left\" class=\"relative\" style=\"width:fit-content;margin-left:0px;margin-right:auto;\"><img src=\"https://images.teamtailor-cdn.com/images/s3/teamtailor-production/gallery_picture-v6/image_uploads/f2557443-cfd4-4b19-8abe-c43955d5d6e6/original.jpeg\" alt=\"Awards 24 colour.jpg\" title=\"\" data-alignment=\"left\"></figure>",
-      "roleFamily": "product-owner"
     },
     {
       "id": "teamtailor:skello:63f55258-4558-455e-a2ac-62277aa6cbc3",
@@ -219,17 +241,6 @@
       "roleFamily": "lead-pd"
     },
     {
-      "id": "ashby:unmind:6928a12e-06af-40db-b383-02267eb1fa55",
-      "atsProvider": "ashby",
-      "company": "Unmind",
-      "title": "Principal Product Designer",
-      "location": "London, HQ",
-      "url": "https://jobs.ashbyhq.com/unmind/6928a12e-06af-40db-b383-02267eb1fa55",
-      "postedAt": "2026-08-13T13:01:36.148+00:00",
-      "description": "Location: UK Based, Remote-first (with monthly travel to London)\n\n\n\nAt Unmind, we're here to create better mental health.\n\nWe believe mental health should be a source of strength, not struggle – for people, teams, and entire organisations.\n\nWe combine science, technology, and human care to help companies like Uber, Disney, Major League Baseball, and the NHS improve mental health and drive performance.\n\nNow we’re looking for more brilliant people to help us do it.\n\n\n\n🚀 Our Values\n\nWe’re building a company where ambition and empathy go hand in hand.\n\nOutpace the rest – Move fast. Deliver excellence.\n\nStronger together – We go further, faster, together.\n\nClient first – We win, when our clients win.\n\n\n\n🌈 Inclusion & Belonging\n\nWe’re building a place where everyone feels seen, heard, and supported – and where difference is celebrated.\n\nIf you need adjustments during the process, tell us when you apply or email talent@unmind.com.\n\nLearn more about how we hire and our commitment to equity in our Candidate FAQ → https://unmind.notion.site/Unmind-Candidate-FAQs-b2f30c27bc57453b8edaee099aad4596\n\n\n\n\n🎯 THE ROLE — PRINCIPAL PRODUCT DESIGNER\n\nWe’re looking for a Principal Product Designer to shape complex, cross-platform journeys that help members find the right support at the right moment — and help that support create measurable, lasting change.\n\nYou’ll bring design-led thinking to roadmap and strategy, own high-impact experiences across our B2B2C platform, and model beautiful, rigorous product design for complex member and client needs.\n\nWhat you'll do\n\n - Lead the design of complex journeys across web and mobile, helping members find, understand, and access the right support at the right moment.\n\n - Shape product strategy and roadmap conversations through research synthesis, analytics, concept exploration, and future-state prototypes — connecting design decisions to measurable member, client, and business outcomes.\n\n - Produce high-quality design work across web and mobile experiences, including complex workflows, edge cases, error states, and moments where trust, clarity, and human care matter.\n\n - Explore how AI-enabled, personalised, or data-informed experiences can help members access support in ways that feel useful, transparent, safe, and human.\n\n - Design clear, actionable client-facing experiences that help organisations understand engagement, outcomes, and the value Unmind is creating.\n\n - Build lightweight research and learning practices that help teams understand member and client needs, test assumptions quickly, and make better product decisions.\n\n - Support the evolution of our design system and product patterns at scale, helping strengthen consistency, accessibility, adoption, and craft across the product experience.\n\n\n\n\n🌟 ABOUT YOU\n\nIn the spirit of equity and continuous growth, we invite you to remove education from your CV. Qualifications are not a factor in our decision-making. However, some experience in the following is important for this position:\n\n - You have significant product design experience, ideally in complex B2B2C enterprise SaaS environments.\n\n - You’re able to shape coherent product experiences across web and mobile, balancing system-wide consistency with platform-specific interaction patterns.\n\n - You’ve developed a portfolio that shows end-to-end ownership: framing ambiguous problems, shaping strategy, and shipping detailed, high-quality product design.\n\n - You have owned or significantly shaped a design system at scale, including governance and adoption.\n\n - You’re comfortable holding a high bar with autonomy, setting direction as well as following it.\n\n - Strong written and verbal communication, with the ability to tell the story of a design decision clearly to engineers, product managers, and executives.\n\n - You mentor or elevate other designers, even without formal management responsibility.\n\n - You know how to use AI thoughtfully as part of the design process, from discovery and synthesis through to prototyping and product delivery.\n\nTip for candidates: If you’re unsure whether to apply – do. We know great people don't always tick every box.\n\n\n\n\n💚 LIFE AT UNMIND\n\nWe believe wellbeing and performance go hand-in-hand – and we build our environment to support both.\n\nA few highlights:\n\n✅ Private medical for you & your family\n\n✅ Equity in Unmind\n\n✅ Generous gender-neutral parental leave\n\n✅ 25 days holiday + birthday + celebration days\n\n✅ Revive & Thrive Days – company-wide Friday off monthly\n\n✅ Flexible working + early Friday summers\n\n✅ Remote-first within the UK, with monthly in-person meet-ups and access to a London co-working space\n\n✅ Annual learning budget + learning leave\n\n✅ Free weekly therapy or coaching sessions\n\n✅ Wellbeing support via WellHub & Bippit\n\nSee all benefits on our Careers Page → https://unmind.com/unmind-careers?utm_source=xKmMdllMOD",
-      "roleFamily": "lead-pd"
-    },
-    {
       "id": "greenhouse:coupang:8093975",
       "atsProvider": "greenhouse",
       "company": "Coupang",
@@ -238,6 +249,17 @@
       "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8093975",
       "postedAt": "2026-07-29T21:40:24-04:00",
       "description": "&lt;p&gt;&lt;strong&gt;회사 소개&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;쿠팡은 고객 감동 실현을 위해 존재합니다. 고객들이 &quot;쿠팡 없이 그동안 어떻게 살았을까?&quot; 라고 말할 때, 비로소 우리의 미션을 실현하고 있음을 알 수 있습니다. 고객들의 쇼핑과 식사, 생활 전반을 편하게 만들겠다는 유일한 집념으로 쿠팡은 수억 달러 규모의 이커머스 산업 전반의 혁신을 이끌고 있습니다. 쿠팡은 가장 빠르게 성장하는 이커머스 기업 중 하나로, 국내 커머스 업계에서의 독보적인 입지와, 고객 신뢰를 구축했습니다.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;쿠팡은 스타트업 문화를 기반으로 한 글로벌 대형 상장사라고 자부합니다. 이것이 창립 당시의 기민함을 지하며, 신규 서비스를 끊임없이 출시하며 비즈니스를 확장해 나가는 우리의 성장 동력입니다. 쿠팡의 모든 임직원에게는 기업가 정신을 갖추고 새로운 혁신과 이니셔티브를 추진할 수 있는 기회가 주어집니다. 주저 없이 일에 뛰어들어 성과를 이루고자 하는 과감성이, 바로 쿠팡이 일하는 방식의 본질입니다. 쿠팡에서는 여러분 자신, 동료, 팀 그리고 회사 전체가 매일 성장하는 모습을 목격할 것입니다.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;쿠팡의 모든 직원은 커머스의 미래를 만들겠다는 쿠팡의 미션에 진심입니다. 우리는 고객의 문제를 해결해 나가고, 전통적인 관념과 통념에 맞서며 실현 가능한 한계를 뛰어넘고 있습니다. 고가용성 (always-on) 과 최첨단의 앞선 기술 (high-tech), 초연결사회 (hyper-connected world) 에서의 놀라운 업무 경험을 원하신다면, 지금 바로 쿠팡에 합류하세요.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;직무 소개&lt;/strong&gt;&lt;/p&gt;\n&lt;div&gt;Staff Product Designer는 디자인 리드로서 빠르게 변화하는 비즈니스 환경에서 고객의 문제를 해결하기 위해 2~5명의 다른 디자이너 분들을 이끌며 Design Thinking을 바탕으로 Ideation부터 최종 개발 단계까지, 프로덕트 제작의 전 과정을 책임집니다.&lt;/div&gt;\n&lt;div&gt;사용자 시나리오, 사용자 여정, 와이어 프레임, UI 디자인과 프로토타입을 능숙하게 제작할 수 있으며, 비즈니스 요구 사항을 이해하고, 정성적, 정량적 데이터를 근거로 활용하여 디자인의 방향성을 제시할 수 있습니다. 이를 이루어 내기 위해 개발 조직, PM(Product Manager), 마케팅, 법무, 인사 등 다양한 팀과의 업무를 조율하게 됩니다. 나아가 비즈니스가 성장하는데 있어 필요한 크고 작은 프로젝트와 전략에 기여하며, 팀 문화 형성과 프로세스 수립을 주도합니다.&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;p&gt;&lt;strong&gt;업무 내용&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;비지니스, 엔지니어, 프로덕트 팀과 커뮤니케이션하며 전반적인 디자인 프로젝트를 리드&lt;/li&gt;\n&lt;li&gt;제품 비전과 로드맵 수립에 적극 참여하고 전략적 의사결정에 기여&lt;/li&gt;\n&lt;li&gt;Product UX 안에서 다른 디자인 리드들과 업무 협의를 통한 효율적 프로세스 강화&lt;/li&gt;\n&lt;li&gt;As-is 프로덕트, 서비스의 문제점을 발굴하고 분석하여 개선 방향을 우선 순위로 제시&lt;/li&gt;\n&lt;li&gt;효율적인 디자인팀 리소스 운영과 디자인팀 채용에도 기여&lt;/li&gt;\n&lt;li&gt;디자인 퀄리티 책임과 개선 방향성 제시&lt;/li&gt;\n&lt;li&gt;주니어 디자이너 커리어 코칭과 멘토링&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;자격&lt;/strong&gt; &lt;strong&gt;요건&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;그래픽 디자인, 인터랙션 디자인, 산업 디자인, HCI, 컴퓨터 공학, 심리학 학사 학위 또는 이에 준하는 경력을 보유하신 분&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;타이포그라피, 인터랙션 디자인, 시각 디자인 및 사용자 연구를 잘 보여주는 우수한 포트폴리오&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;피그마, 로티, 클로드 등 디자인과 AI툴을 능숙하게 사용하는 능력을 보유하신 분&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;8년 이상의 프로덕트 디자인 경력을 보유하신 분&lt;/li&gt;\n&lt;li&gt;팀 단위의 프로젝트를 통해 다른 디자이너들을 이끄신 경험을 보유하신 분&lt;/li&gt;\n&lt;li&gt;프로젝트의 전체적인 전략을 세우고 결과물의 근거를 만든 경험을 보유하신 분&lt;/li&gt;\n&lt;li&gt;커뮤니케이션과 스토리텔링 능력이 우수하신 분&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;한국어 필수&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;우대&lt;/strong&gt; &lt;strong&gt;사항&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;빠르게 성장하는 환경에서 다양한 팀과 협업한 경험이 있는 분&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;UX 리서치에서 도출한 인사이트를 활용하여 프로젝트를 시작부터 끝까지 제작한 경험이 있는 분&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;데이터를 분석하여 디자인에 반영하는 능력이 있는 분&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;다양한 업무관계자를 이끌며, 복잡한 프로젝트를 운영하고 관리한 경험이 있는 분&lt;/li&gt;\n&lt;li&gt;고객, 셀러 그리고 비즈니스에 대해 다각도로 파악할 수 있는 이커머스 업계에 대한 지식을 가지신 분&lt;/li&gt;\n&lt;li&gt;업무에 임하는 진지한 자세와 리더십이 있는 분&lt;/li&gt;\n&lt;li&gt;주니어 디자이너와 시니어 디자이너에 대한 멘토링 능력이 있는 분&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;전형 절차 및&lt;/strong&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;안내&lt;/strong&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;사항&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;전형&lt;/strong&gt;&lt;strong&gt;절차&lt;/strong&gt;\n&lt;ul&gt;\n&lt;li&gt;서류전형 - 1차화상면접 - 2차화상면접 – 최종 합격&lt;/li&gt;\n&lt;li&gt;전형절차는 직무별로 다르게 운영될 수 있으며, 일정 및 상황에 따라 변동될 수 있습니다.&lt;/li&gt;\n&lt;li&gt;전형 일정 및 결과는 지원서에 등록하신 이메일로 개별 안내 드립니다.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;참고&lt;/strong&gt;&lt;strong&gt;사항&lt;/strong&gt;\n&lt;ul&gt;\n&lt;li&gt;본 공고는 모집 완료 시 조기 마감될 수 있습니다.&lt;/li&gt;\n&lt;li&gt;지원서 내용 중 허위사실이 있는 경우에는 합격이 취소될 수 있습니다.&lt;/li&gt;\n&lt;li&gt;취업 보호 대상자(보훈대상자, 장애인 등)는 관련 법률에 따라 채용우대를 받을 수 있습니다.&lt;/li&gt;\n&lt;li&gt;직급과 담당 업무 범위는 후보자의 전반적인 경력과 경험 등 제반사정을 고려하여 변경될 수 있습니다. 이러한 변경이 필요할 경우, 최종 합격 통지 전 적절한 시기에 후보자와 커뮤니케이션 될 예정입니다.&lt;/li&gt;\n&lt;li&gt;채용 및 업무 수행과 관련하여 요구되는 법령상 자격이 갖추어지지 않은 경우 채용이 제한될 수 있습니다.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;개인정보 처리방침&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;쿠팡 그룹은 입사지원자 개인정보 처리방침(아래 링크)에 따라 귀하의 개인정보를 수집하여 처리합니다.&amp;nbsp;&lt;a href=&quot;https://www.coupang.jobs/kr/privacy-policy/&quot;&gt;https://www.coupang.jobs/kr/privacy-policy/&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;서류&lt;/strong&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;반환 정책&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;\n&lt;ol&gt;\n&lt;li&gt;본 고지는 『채용절차의공정화에관한법률』 제11조제6항에 따른 것 입니다.&lt;/li&gt;\n&lt;li&gt;당사 채용에 응시한 구직자 중 최종 합격이 되지 못한 구직자는 『채용절차의 공정화에 관한 법률』에 따라 제출한 채용서류의 반환을 청구할 수 있음을 알려 드립니다. 다만, 홈페이지 또는 전자우편으로 제출된 경우나 구직자가 당사의 요구 없이 자발적으로 제출한 경우에는 그러하지 아니하며, 천재지변이나 그 밖에 당사에게 책임 없는 사유로 채용서류가 멸실된 경우에는 반환한 것으로 봅니다.&lt;/li&gt;\n&lt;li&gt;위2항 본문에 따라 채용 서류 반환 청구를 하는 구직자는 채용 서류 반환 청구서 [채용절차의 공정화에 관한 법률 시행규칙 별지 제 3 호 서식]를 작성하여 이메일 (&lt;a href=&quot;mailto:recruitingops@coupang.com&quot;&gt;recruitingops@coupang.com&lt;/a&gt;) 로 제출하면, 제출이 확인된 날로부터 14 일 이내에 지정한 주소지로 등기우편을 통하여 발송해 드립니다. 이 경우 등기우편요금은 수신자 부담으로 하게 되오니 유념하시기 바랍니다.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;당사는 위2항 본문에 따른 구직자의 반환 청구에 대비하여 채용 여부가 확정된 날로부터 180 일간 구직자가 제출한 채용서류 원본을 보관하게 되며, 그때까지 채용서류의 반환을 청구하지 아니할 경우에는 『개인정보 보호법』에 따라 지체 없이 채용서류 일체를 파기할 예정입니다.&lt;/li&gt;\n&lt;li&gt;단, 위 1항 내지 4항의 내용은 대한민국의 노동 관계 법령이 적용되는 경우에만 적용됩니다. 그 이외의 경우에는 적용되지 않습니다.&lt;/li&gt;\n&lt;/ol&gt;",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "ashby:unmind:6928a12e-06af-40db-b383-02267eb1fa55",
+      "atsProvider": "ashby",
+      "company": "Unmind",
+      "title": "Principal Product Designer",
+      "location": "London, HQ",
+      "url": "https://jobs.ashbyhq.com/unmind/6928a12e-06af-40db-b383-02267eb1fa55",
+      "postedAt": "2026-08-13T13:01:36.148+00:00",
+      "description": "Location: UK Based, Remote-first (with monthly travel to London)\n\n\n\nAt Unmind, we're here to create better mental health.\n\nWe believe mental health should be a source of strength, not struggle – for people, teams, and entire organisations.\n\nWe combine science, technology, and human care to help companies like Uber, Disney, Major League Baseball, and the NHS improve mental health and drive performance.\n\nNow we’re looking for more brilliant people to help us do it.\n\n\n\n🚀 Our Values\n\nWe’re building a company where ambition and empathy go hand in hand.\n\nOutpace the rest – Move fast. Deliver excellence.\n\nStronger together – We go further, faster, together.\n\nClient first – We win, when our clients win.\n\n\n\n🌈 Inclusion & Belonging\n\nWe’re building a place where everyone feels seen, heard, and supported – and where difference is celebrated.\n\nIf you need adjustments during the process, tell us when you apply or email talent@unmind.com.\n\nLearn more about how we hire and our commitment to equity in our Candidate FAQ → https://unmind.notion.site/Unmind-Candidate-FAQs-b2f30c27bc57453b8edaee099aad4596\n\n\n\n\n🎯 THE ROLE — PRINCIPAL PRODUCT DESIGNER\n\nWe’re looking for a Principal Product Designer to shape complex, cross-platform journeys that help members find the right support at the right moment — and help that support create measurable, lasting change.\n\nYou’ll bring design-led thinking to roadmap and strategy, own high-impact experiences across our B2B2C platform, and model beautiful, rigorous product design for complex member and client needs.\n\nWhat you'll do\n\n - Lead the design of complex journeys across web and mobile, helping members find, understand, and access the right support at the right moment.\n\n - Shape product strategy and roadmap conversations through research synthesis, analytics, concept exploration, and future-state prototypes — connecting design decisions to measurable member, client, and business outcomes.\n\n - Produce high-quality design work across web and mobile experiences, including complex workflows, edge cases, error states, and moments where trust, clarity, and human care matter.\n\n - Explore how AI-enabled, personalised, or data-informed experiences can help members access support in ways that feel useful, transparent, safe, and human.\n\n - Design clear, actionable client-facing experiences that help organisations understand engagement, outcomes, and the value Unmind is creating.\n\n - Build lightweight research and learning practices that help teams understand member and client needs, test assumptions quickly, and make better product decisions.\n\n - Support the evolution of our design system and product patterns at scale, helping strengthen consistency, accessibility, adoption, and craft across the product experience.\n\n\n\n\n🌟 ABOUT YOU\n\nIn the spirit of equity and continuous growth, we invite you to remove education from your CV. Qualifications are not a factor in our decision-making. However, some experience in the following is important for this position:\n\n - You have significant product design experience, ideally in complex B2B2C enterprise SaaS environments.\n\n - You’re able to shape coherent product experiences across web and mobile, balancing system-wide consistency with platform-specific interaction patterns.\n\n - You’ve developed a portfolio that shows end-to-end ownership: framing ambiguous problems, shaping strategy, and shipping detailed, high-quality product design.\n\n - You have owned or significantly shaped a design system at scale, including governance and adoption.\n\n - You’re comfortable holding a high bar with autonomy, setting direction as well as following it.\n\n - Strong written and verbal communication, with the ability to tell the story of a design decision clearly to engineers, product managers, and executives.\n\n - You mentor or elevate other designers, even without formal management responsibility.\n\n - You know how to use AI thoughtfully as part of the design process, from discovery and synthesis through to prototyping and product delivery.\n\nTip for candidates: If you’re unsure whether to apply – do. We know great people don't always tick every box.\n\n\n\n\n💚 LIFE AT UNMIND\n\nWe believe wellbeing and performance go hand-in-hand – and we build our environment to support both.\n\nA few highlights:\n\n✅ Private medical for you & your family\n\n✅ Equity in Unmind\n\n✅ Generous gender-neutral parental leave\n\n✅ 25 days holiday + birthday + celebration days\n\n✅ Revive & Thrive Days – company-wide Friday off monthly\n\n✅ Flexible working + early Friday summers\n\n✅ Remote-first within the UK, with monthly in-person meet-ups and access to a London co-working space\n\n✅ Annual learning budget + learning leave\n\n✅ Free weekly therapy or coaching sessions\n\n✅ Wellbeing support via WellHub & Bippit\n\nSee all benefits on our Careers Page → https://unmind.com/unmind-careers?utm_source=xKmMdllMOD",
       "roleFamily": "lead-pd"
     },
     {
@@ -270,7 +292,7 @@
       "location": "India",
       "url": "https://remoteOK.com/remote-jobs/remote-lead-product-designer-highlevel-1136841",
       "postedAt": "2026-08-17T08:00:03+00:00",
-      "description": "<h2 style=\"margin-top: 18pt; margin-bottom: 6pt;\"><strong><span style=\"font-size: 16pt; font-family: Arial, sans-serif;\">About us</span></strong></h2>\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif;\">HighLevel is an AI-powered business operating system that gives agencies, entrepreneurs and SMBs the infrastructure to build, automate and scale. Today, HighLevel supports SMBs across 150+ countries, fueling community-driven growth rooted in real customer outcomes.To date, businesses operating on HighLevel have generated over $7 billion in ecosystem value, demonstrating the impact of shared infrastructure at scale. By centralizing conversations, automation and intelligence into one system, we help businesses move faster, reduce complexity and execute efficiently.Behind the platform, HighLevel powers more than 4 billion API hits and 2.5 billion message events daily. With 250 terabytes of distributed data, 250+ microservices and over 1 million domain names supported, our architecture is built for performance, resilience and long-term scalability.</span></p>\n<h2 style=\"margin-top: 18pt; margin-bottom: 6pt;\"><strong><span style=\"font-size: 16pt; font-family: Arial, sans-serif;\">Our People</span></strong></h2>\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif;\">With over 2,000 team members across 10+ countries, HighLevel operates as a global, remote-first organization built for speed and ownership. We value initiative, clarity and execution, creating space for ambitious people to build systems that support millions of businesses worldwide. Here, innovation thrives, ideas are celebrated and people come first, no matter where they call home.</span></p>\n<h2 style=\"margin-top: 18pt; margin-bottom: 6pt;\"><strong><span style=\"font-size: 16pt; font-family: Arial, sans-serif;\">Our Impact</span></strong></h2>\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif;\">Every month, HighLevel enables more than 1.5 billion messages, 200 million leads and 20 million conversations for the more than 1 million businesses we support. Behind those numbers are real people building independence, expanding opportunity and creating measurable impact. Weâre proud to be a part of that.Learn more about us on our</span><a href=\"https://www.youtube.com/channel/UCXFiV4qDX5ipE-DQcsm1j4g\" style=\"text-decoration: none;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000;\"> </span><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #1155cc; text-decoration: underline; text-decoration-skip-ink: none;\">YouTube Channel</span></a><span style=\"font-size: 11pt; font-family: Arial, sans-serif;\"> or</span><a href=\"https://blog.gohighlevel.com/general-atlantic-joins-highlevel/\" style=\"text-decoration: none;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000;\"> </span><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #1155cc; text-decoration: underline; text-decoration-skip-ink: none;\">Blog Posts</span></a></p>\n<h2 style=\"margin-top: 18pt; margin-bottom: 6pt;\"><strong><span style=\"font-size: 16pt; font-family: Arial, sans-serif;\">About the Role</span></strong></h2>\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif;\">We are seeking a Lead Product Designer who can elevate HighLevel's product experiences through exceptional craft, product vision, systems thinking and influence. You have spent 7+ years designing complex digital products, ideally including SaaS, B2B, platform, workflow-heavy or similarly sophisticated product experiences, and are ready to shape product direction, design standards and team culture across one or more product pillars.</span></p>\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif;\">As a lead individual contributor, you will partner deeply with product and engineering leaders, mentor other designers and help teams define and improve strategically important product experiences across the HighLevel platform. You will connect customer needs, business goals, technical constraints and long-term product strategy to clear, useful and highly polished product design.</span></p>\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif;\">We expect candidates at this level to demonstrate an extraordinarily high bar for design craft and visual sophistication, and to raise that bar for the teams around them. You should care deeply about hierarchy, layout, typography, grids, spacing, interaction quality, usability, accessibility and the standards that make product experiences feel refined, trustworthy and coherent at scale. We want candidates who can ship truly world-class product design.</span></p>\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif;\">Experience using AI-powered tools for exploration, prototyping, critique, synthesis or workflow acceleration is mandatory. Applications without a portfolio will not be considered.</span></p>\n<h2 style=\"margin-top: 18pt; margin-bottom: 6pt;\"><strong><span style=\"font-size: 16pt; font-family: Arial, sans-serif;\">What You Can Expect</span></strong></h2>\n<ul style=\"margin-top: 0px; margin-bottom: 0px; padding-inline-start: 48px;\">\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Autonomy to shape design direction across one or more strategically important product pillars.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Meaningful influence with product, engineering and senior leadership on product quality, customer outcomes and roadmap direction.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">The opportunity to raise the design bar across multiple teams through critique, standards, mentorship and systems thinking.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Partnership with ambitious product, engineering, data and design peers who value clarity, speed, craft and customer outcomes.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">A craft-forward design culture where lead designers help strengthen design practice, improve team rituals and grow other designers.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">A 100% remote environment where distributed collaboration is normal. Employees in all geographies are expected to be flexible and thoughtful about working hours so US- and India-based colleagues can collaborate effectively.</span></p>\n</li>\n</ul>\n<h2 style=\"margin-top: 18pt; margin-bottom: 6pt;\"><strong><span style=\"font-size: 16pt; font-family: Arial, sans-serif;\">What We Are Looking For</span></strong></h2>\n<ul style=\"margin-top: 0px; margin-bottom: 0px; padding-inline-start: 48px;\">\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">7+ years of relevant product design experience, with 2+ years in a leadership, mentorship or design direction capacity; experience in SaaS, B2B, platform, workflow-heavy or other complex digital product environments is highly valuable.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">An exceptionally strong portfolio that demonstrates systematic thinking, customer empathy, exceptional craft, measurable product impact and leadership beyond individual execution.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Proven experience leading data-informed product design across the full lifecycle, including research, information architecture, interaction design, visual design, prototyping, content strategy and usability testing.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Exceptional visual and interaction design craft, with deep care for hierarchy, layout, typography, grids, spacing, motion, usability, accessibility and product quality.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Experience designing for AI-driven or intelligent interfaces, including collaboration with machine learning, data, automation or platform teams.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Deep fluency in design systems, accessibility standards, reusable patterns and scalable product experience decisions.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Experience influencing design direction for high-impact product areas, systems, platforms or pillars, not only individual features or flows.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Strong cross-functional leadership skills and the ability to work fluently with product managers, engineers, data partners, customer-facing teams, senior stakeholders and other designers.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Excellent communication and facilitation skills, with the ability to simplify complex ideas, lead critiques and workshops and persuade through rationale, evidence and craft.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Passion for improving team operations, design standards, processes, tools, documentation and better ways for teams to work.</span></p>\n</li>\n</ul>\n<h2 style=\"margin-top: 18pt; margin-bottom: 6pt;\"><strong><span style=\"font-size: 16pt; font-family: Arial, sans-serif;\">In This Role, You Will</span></strong></h2>\n<ul style=\"margin-top: 0px; margin-bottom: 0px; padding-inline-start: 48px;\">\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Lead design strategy and execution for one or more product pillars from discovery through delivery.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Translate customer needs, business goals, product strategy and technical constraints into clear experience direction and design roadmaps.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Partner with product and engineering leaders to define product vision, prioritize opportunities and align teams around high-quality outcomes.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Influence leadership decisions through customer empathy, data synthesis, product judgment, storytelling and strong design rationale.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Drive design quality reviews and set standards for usability, accessibility, interaction quality, visual consistency and design system alignment.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Raise the quality of multiple teams by mentoring designers, improving critique, strengthening shared patterns and making standards easier to adopt.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Define and socialize metrics for design quality and impact, such as usability signals, accessibility compliance, task success, adoption, retention or customer satisfaction.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Lead complex discovery and design efforts through ambiguity by synthesizing inputs, framing decisions and helping teams move with clarity.</span></p>\n</li>\n</ul>\n<h2 style=\"margin-top: 18pt; margin-bottom: 6pt;\"><strong><span style=\"font-size: 16pt; font-family: Arial, sans-serif;\">How You Work</span></strong></h2>\n<ul style=\"margin-top: 0px; margin-bottom: 0px; padding-inline-start: 48px;\">\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">You raise the bar for craft, visual sophistication and product quality across the teams around you.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">You move comfortably between product strategy, customer insight, systems thinking and hands-on design execution.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">You balance speed, detail, scalability and quality without losing sight of the customer.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">You build trust through warmth, candor, accountability and genuine respect for your teammates as people.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">You enjoy leading collaboration across time zones and cultural contexts, including with US- and India-based teammates.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">You communicate in ways that help distributed teams work with clarity, care, trust and momentum.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">You advocate for accessibility, inclusion and ethical design.</span></p>\n</li>\n</ul>\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\">&nbsp;</p>\\n<p></p><p><br></p><p></p>\\n<p>\n</p><h2 style=\"margin-top: 18pt; margin-bottom: 6pt;\"><strong><span style=\"font-size: 16pt; font-family: Arial, sans-serif;\">Equal Employment Opportunity Information</span></strong></h2>\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif;\">The company is an Equal Opportunity Employer. As an employer subject to affirmative action regulations, we invite you to voluntarily provide the following demographic information. This information is used solely for compliance with government recordkeeping, reporting, and other legal requirements. Providing this information is voluntary and refusal to do so will not affect your application status. This data will be kept separate from your application and will not be used in the hiring decision.</span></p>\n<p></p><br/><br/>Please mention the word **ENTERTAINING** and tag RMjQwMTo0OTAwOjg4MWU6NWEzYzo1Y2FhOmI4YjA6ZGI0NToyODA0 when applying to show you read the job post completely (#RMjQwMTo0OTAwOjg4MWU6NWEzYzo1Y2FhOmI4YjA6ZGI0NToyODA0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "<h2 style=\"margin-top: 18pt; margin-bottom: 6pt;\"><strong><span style=\"font-size: 16pt; font-family: Arial, sans-serif;\">About us</span></strong></h2>\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif;\">HighLevel is an AI-powered business operating system that gives agencies, entrepreneurs and SMBs the infrastructure to build, automate and scale. Today, HighLevel supports SMBs across 150+ countries, fueling community-driven growth rooted in real customer outcomes.To date, businesses operating on HighLevel have generated over $7 billion in ecosystem value, demonstrating the impact of shared infrastructure at scale. By centralizing conversations, automation and intelligence into one system, we help businesses move faster, reduce complexity and execute efficiently.Behind the platform, HighLevel powers more than 4 billion API hits and 2.5 billion message events daily. With 250 terabytes of distributed data, 250+ microservices and over 1 million domain names supported, our architecture is built for performance, resilience and long-term scalability.</span></p>\n<h2 style=\"margin-top: 18pt; margin-bottom: 6pt;\"><strong><span style=\"font-size: 16pt; font-family: Arial, sans-serif;\">Our People</span></strong></h2>\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif;\">With over 2,000 team members across 10+ countries, HighLevel operates as a global, remote-first organization built for speed and ownership. We value initiative, clarity and execution, creating space for ambitious people to build systems that support millions of businesses worldwide. Here, innovation thrives, ideas are celebrated and people come first, no matter where they call home.</span></p>\n<h2 style=\"margin-top: 18pt; margin-bottom: 6pt;\"><strong><span style=\"font-size: 16pt; font-family: Arial, sans-serif;\">Our Impact</span></strong></h2>\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif;\">Every month, HighLevel enables more than 1.5 billion messages, 200 million leads and 20 million conversations for the more than 1 million businesses we support. Behind those numbers are real people building independence, expanding opportunity and creating measurable impact. Weâre proud to be a part of that.Learn more about us on our</span><a href=\"https://www.youtube.com/channel/UCXFiV4qDX5ipE-DQcsm1j4g\" style=\"text-decoration: none;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000;\"> </span><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #1155cc; text-decoration: underline; text-decoration-skip-ink: none;\">YouTube Channel</span></a><span style=\"font-size: 11pt; font-family: Arial, sans-serif;\"> or</span><a href=\"https://blog.gohighlevel.com/general-atlantic-joins-highlevel/\" style=\"text-decoration: none;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #000000;\"> </span><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #1155cc; text-decoration: underline; text-decoration-skip-ink: none;\">Blog Posts</span></a></p>\n<h2 style=\"margin-top: 18pt; margin-bottom: 6pt;\"><strong><span style=\"font-size: 16pt; font-family: Arial, sans-serif;\">About the Role</span></strong></h2>\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif;\">We are seeking a Lead Product Designer who can elevate HighLevel's product experiences through exceptional craft, product vision, systems thinking and influence. You have spent 7+ years designing complex digital products, ideally including SaaS, B2B, platform, workflow-heavy or similarly sophisticated product experiences, and are ready to shape product direction, design standards and team culture across one or more product pillars.</span></p>\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif;\">As a lead individual contributor, you will partner deeply with product and engineering leaders, mentor other designers and help teams define and improve strategically important product experiences across the HighLevel platform. You will connect customer needs, business goals, technical constraints and long-term product strategy to clear, useful and highly polished product design.</span></p>\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif;\">We expect candidates at this level to demonstrate an extraordinarily high bar for design craft and visual sophistication, and to raise that bar for the teams around them. You should care deeply about hierarchy, layout, typography, grids, spacing, interaction quality, usability, accessibility and the standards that make product experiences feel refined, trustworthy and coherent at scale. We want candidates who can ship truly world-class product design.</span></p>\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif;\">Experience using AI-powered tools for exploration, prototyping, critique, synthesis or workflow acceleration is mandatory. Applications without a portfolio will not be considered.</span></p>\n<h2 style=\"margin-top: 18pt; margin-bottom: 6pt;\"><strong><span style=\"font-size: 16pt; font-family: Arial, sans-serif;\">What You Can Expect</span></strong></h2>\n<ul style=\"margin-top: 0px; margin-bottom: 0px; padding-inline-start: 48px;\">\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Autonomy to shape design direction across one or more strategically important product pillars.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Meaningful influence with product, engineering and senior leadership on product quality, customer outcomes and roadmap direction.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">The opportunity to raise the design bar across multiple teams through critique, standards, mentorship and systems thinking.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Partnership with ambitious product, engineering, data and design peers who value clarity, speed, craft and customer outcomes.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">A craft-forward design culture where lead designers help strengthen design practice, improve team rituals and grow other designers.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">A 100% remote environment where distributed collaboration is normal. Employees in all geographies are expected to be flexible and thoughtful about working hours so US- and India-based colleagues can collaborate effectively.</span></p>\n</li>\n</ul>\n<h2 style=\"margin-top: 18pt; margin-bottom: 6pt;\"><strong><span style=\"font-size: 16pt; font-family: Arial, sans-serif;\">What We Are Looking For</span></strong></h2>\n<ul style=\"margin-top: 0px; margin-bottom: 0px; padding-inline-start: 48px;\">\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">7+ years of relevant product design experience, with 2+ years in a leadership, mentorship or design direction capacity; experience in SaaS, B2B, platform, workflow-heavy or other complex digital product environments is highly valuable.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">An exceptionally strong portfolio that demonstrates systematic thinking, customer empathy, exceptional craft, measurable product impact and leadership beyond individual execution.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Proven experience leading data-informed product design across the full lifecycle, including research, information architecture, interaction design, visual design, prototyping, content strategy and usability testing.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Exceptional visual and interaction design craft, with deep care for hierarchy, layout, typography, grids, spacing, motion, usability, accessibility and product quality.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Experience designing for AI-driven or intelligent interfaces, including collaboration with machine learning, data, automation or platform teams.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Deep fluency in design systems, accessibility standards, reusable patterns and scalable product experience decisions.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Experience influencing design direction for high-impact product areas, systems, platforms or pillars, not only individual features or flows.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Strong cross-functional leadership skills and the ability to work fluently with product managers, engineers, data partners, customer-facing teams, senior stakeholders and other designers.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Excellent communication and facilitation skills, with the ability to simplify complex ideas, lead critiques and workshops and persuade through rationale, evidence and craft.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Passion for improving team operations, design standards, processes, tools, documentation and better ways for teams to work.</span></p>\n</li>\n</ul>\n<h2 style=\"margin-top: 18pt; margin-bottom: 6pt;\"><strong><span style=\"font-size: 16pt; font-family: Arial, sans-serif;\">In This Role, You Will</span></strong></h2>\n<ul style=\"margin-top: 0px; margin-bottom: 0px; padding-inline-start: 48px;\">\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Lead design strategy and execution for one or more product pillars from discovery through delivery.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Translate customer needs, business goals, product strategy and technical constraints into clear experience direction and design roadmaps.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Partner with product and engineering leaders to define product vision, prioritize opportunities and align teams around high-quality outcomes.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Influence leadership decisions through customer empathy, data synthesis, product judgment, storytelling and strong design rationale.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Drive design quality reviews and set standards for usability, accessibility, interaction quality, visual consistency and design system alignment.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Raise the quality of multiple teams by mentoring designers, improving critique, strengthening shared patterns and making standards easier to adopt.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Define and socialize metrics for design quality and impact, such as usability signals, accessibility compliance, task success, adoption, retention or customer satisfaction.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Lead complex discovery and design efforts through ambiguity by synthesizing inputs, framing decisions and helping teams move with clarity.</span></p>\n</li>\n</ul>\n<h2 style=\"margin-top: 18pt; margin-bottom: 6pt;\"><strong><span style=\"font-size: 16pt; font-family: Arial, sans-serif;\">How You Work</span></strong></h2>\n<ul style=\"margin-top: 0px; margin-bottom: 0px; padding-inline-start: 48px;\">\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">You raise the bar for craft, visual sophistication and product quality across the teams around you.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">You move comfortably between product strategy, customer insight, systems thinking and hands-on design execution.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">You balance speed, detail, scalability and quality without losing sight of the customer.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">You build trust through warmth, candor, accountability and genuine respect for your teammates as people.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">You enjoy leading collaboration across time zones and cultural contexts, including with US- and India-based teammates.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">You communicate in ways that help distributed teams work with clarity, care, trust and momentum.</span></p>\n</li>\n<li style=\"font-size: 11pt; font-family: Arial, sans-serif;\">\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">You advocate for accessibility, inclusion and ethical design.</span></p>\n</li>\n</ul>\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\">&nbsp;</p>\\n<p></p><p><br></p><p></p>\\n<p>\n</p><h2 style=\"margin-top: 18pt; margin-bottom: 6pt;\"><strong><span style=\"font-size: 16pt; font-family: Arial, sans-serif;\">Equal Employment Opportunity Information</span></strong></h2>\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif;\">The company is an Equal Opportunity Employer. As an employer subject to affirmative action regulations, we invite you to voluntarily provide the following demographic information. This information is used solely for compliance with government recordkeeping, reporting, and other legal requirements. Providing this information is voluntary and refusal to do so will not affect your application status. This data will be kept separate from your application and will not be used in the hiring decision.</span></p>\n<p></p><br/><br/>Please mention the word **ENTERTAINING** and tag RMjQwMTo0OTAwOjg4MWU6NWEzYzphOTYxOmZjYTc6ZDg2Mjo0ZTE3 when applying to show you read the job post completely (#RMjQwMTo0OTAwOjg4MWU6NWEzYzphOTYxOmZjYTc6ZDg2Mjo0ZTE3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "roleFamily": "lead-pd"
     },
     {
@@ -357,7 +379,7 @@
       "title": "Senior Product Designer Securities",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-securities-bitpanda/151678",
-      "postedAt": "2026-08-18T18:50:34.072Z",
+      "postedAt": "2026-08-18T18:30:55.152Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -368,7 +390,7 @@
       "title": "Lead Product Designer Growth",
       "location": "Australia",
       "url": "https://web3.career/lead-product-designer-growth-magiceden/152850",
-      "postedAt": "2026-08-18T08:50:34.072Z",
+      "postedAt": "2026-08-18T08:30:55.152Z",
       "description": "",
       "roleFamily": "lead-pd"
     },
@@ -379,7 +401,7 @@
       "title": "Principal Product Designer",
       "location": "Remote",
       "url": "https://web3.career/principal-product-designer-bitpanda/150682",
-      "postedAt": "2026-08-11T07:50:34.072Z",
+      "postedAt": "2026-08-11T08:30:55.153Z",
       "description": "",
       "roleFamily": "lead-pd"
     },
@@ -390,7 +412,7 @@
       "title": "Product Designer",
       "location": "Remote",
       "url": "https://web3.career/product-designer-jito/152289",
-      "postedAt": "2026-08-05T07:50:34.072Z",
+      "postedAt": "2026-08-05T08:30:55.153Z",
       "description": "",
       "roleFamily": "uiux"
     },
@@ -437,6 +459,633 @@
       "postedAt": "2026-08-14T00:00:00.000Z",
       "description": "",
       "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:point-nine:90325490",
+      "atsProvider": "getro",
+      "company": "Laserhub",
+      "title": "Senior Product Designer (m/w/d)",
+      "location": "Delaware, USA, Baden-Württemberg, Germany, Stuttgart, Germany, Europe, Europe, Paris, France",
+      "url": "https://laserhub-gmbh.jobs.personio.de/job/2756663",
+      "postedAt": "2026-08-18T13:32:24.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:point-nine:89908041",
+      "atsProvider": "getro",
+      "company": "Revolut",
+      "title": "Product Designer (Platform)",
+      "location": "Ireland, France, Brazil, Mexico, Germany, Argentina, Dubai - United Arab Emirates, Czechia, Lisbon, Portugal, Cyprus",
+      "url": "https://www.revolut.com/careers/position/product-designer-platform-1182efdd-0355-4b8e-8d09-975f04aef43b/",
+      "postedAt": "2026-08-14T11:21:15.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:point-nine:89907472",
+      "atsProvider": "getro",
+      "company": "Revolut",
+      "title": "Graduate Programme 2027: Product Designer",
+      "location": "Spain, Dubai - United Arab Emirates, United Arab Emirates, Portugal, Lisbon, Portugal, United Kingdom, poland, oh, usa, Ely, UK, Ash, UK",
+      "url": "https://www.revolut.com/careers/position/graduate-programme-2027-product-designer-6487c60b-fff9-4519-aa1d-f5c6b26f7602/",
+      "postedAt": "2026-08-14T11:20:19.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:point-nine:89133610",
+      "atsProvider": "getro",
+      "company": "Clio",
+      "title": "Senior Product Designer, Clio Operate",
+      "location": "London, UK",
+      "url": "https://www.clio.com/about/careers/job_id=JOB_POSTING-3-6507/",
+      "postedAt": "2026-08-07T13:15:03.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:point-nine:89133615",
+      "atsProvider": "getro",
+      "company": "Clio",
+      "title": "Senior Product Designer, Integrations & APIs, Vincent",
+      "location": "London, UK",
+      "url": "https://www.clio.com/about/careers/job_id=JOB_POSTING-3-6525/",
+      "postedAt": "2026-08-07T13:15:03.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:point-nine:89133606",
+      "atsProvider": "getro",
+      "company": "Clio",
+      "title": "Senior Product Designer",
+      "location": "Dublin, Ireland",
+      "url": "https://www.clio.com/about/careers/job_id=JOB_POSTING-3-6528/",
+      "postedAt": "2026-08-07T13:15:03.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:accel:89876025",
+      "atsProvider": "getro",
+      "company": "Astro",
+      "title": "Product Designer",
+      "location": "Jakarta, Indonesia",
+      "url": "https://id.linkedin.com/jobs/view/product-designer-at-astro-4445483283",
+      "postedAt": "2026-08-14T07:20:18.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:accel:89691125",
+      "atsProvider": "getro",
+      "company": "Space Ape Games",
+      "title": "UX Designer, LiveOps Tooling",
+      "location": "Helsinki, Finland",
+      "url": "https://supercell.com/en/careers/ux-designer-liveops-tooling/d65a9741-cf71-4065-a2cc-bf3780ee7ee5/?source=Supercell.com",
+      "postedAt": "2026-08-12T13:51:11.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:accel:89645534",
+      "atsProvider": "getro",
+      "company": "Lyst",
+      "title": "Senior Product Designer Full-time",
+      "location": "",
+      "url": "https://apply.workable.com/j/88AA75B934",
+      "postedAt": "2026-08-12T12:19:04.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:accel:89390910",
+      "atsProvider": "getro",
+      "company": "Xendit",
+      "title": "UX Designer - Developer Experience (DevEx)",
+      "location": "Jakarta, Indonesia",
+      "url": "https://boards.greenhouse.io/xendit/jobs/7847359003",
+      "postedAt": "2026-08-10T17:11:06.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:accel:89390908",
+      "atsProvider": "getro",
+      "company": "Xendit",
+      "title": "Senior Design System and Product Designer | Operational Journey",
+      "location": "Jakarta, Indonesia",
+      "url": "https://boards.greenhouse.io/xendit/jobs/7846781003",
+      "postedAt": "2026-08-10T17:11:05.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:accel:89251490",
+      "atsProvider": "getro",
+      "company": "Squarespace",
+      "title": "Senior Product Designer, Client Engagement",
+      "location": "Dublin, Ireland",
+      "url": "https://boards.greenhouse.io/squarespace/jobs/8103438",
+      "postedAt": "2026-08-08T12:06:26.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:accel:89024799",
+      "atsProvider": "getro",
+      "company": "Polar",
+      "title": "Senior Product Designer",
+      "location": "Stockholm, Sweden",
+      "url": "https://jobs.ashbyhq.com/polar/ec140cc5-fe50-4c7a-9131-3dd718d2b02d",
+      "postedAt": "2026-08-06T15:17:25.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:accel:89512589",
+      "atsProvider": "getro",
+      "company": "Speak",
+      "title": "Assessment Design Lead",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/speak/e247baa3-af8e-4ea4-a2db-d6f7395e1f5c",
+      "postedAt": "2026-08-11T12:30:49.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:accel:88927985",
+      "atsProvider": "getro",
+      "company": "Cortex by Palo Alto Networks",
+      "title": "Senior UX Designer, Digital Marketing",
+      "location": "",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-ux-designer-digital-marketing/47263/97478981312",
+      "postedAt": "2026-08-06T11:22:16.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:accel:88844851",
+      "atsProvider": "getro",
+      "company": "Personio",
+      "title": "Product Designer (Senior/Staff) (d/f/m)",
+      "location": "Munich, Germany",
+      "url": "https://www.personio.com/careers/510e5762-f9d1-45c6-844e-5f29d3e2ed1d",
+      "postedAt": "2026-08-05T14:09:25.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:accel:88599018",
+      "atsProvider": "getro",
+      "company": "Personio",
+      "title": "Staff Technical Product Designer, AI (d/f/m)",
+      "location": "London, UK",
+      "url": "https://www.personio.com/careers/90baf20b-6785-4dcc-bbe9-609f7b709d98",
+      "postedAt": "2026-08-04T11:28:23.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:accel:88894565",
+      "atsProvider": "getro",
+      "company": "Vinted",
+      "title": "Director of Product Design, Frontend Technologies (Limited-time Relocation Bonus)",
+      "location": "Lithuania",
+      "url": "https://careers.vinted.com/jobs/j/4928855101",
+      "postedAt": "2026-08-06T00:14:01.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:accel:88414437",
+      "atsProvider": "getro",
+      "company": "Ethos Life",
+      "title": "Staff/Principal Product Designer, Partnerships",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://boards.greenhouse.io/ethoslife/jobs/8660436002",
+      "postedAt": "2026-08-01T13:37:17.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:accel:87875782",
+      "atsProvider": "getro",
+      "company": "Frame.io",
+      "title": "Product Designer",
+      "location": "Bengaluru, Karnataka, India, Noida, Uttar Pradesh, India",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Product-Designer_R170598-1",
+      "postedAt": "2026-07-29T12:01:36.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:accel:89901873",
+      "atsProvider": "getro",
+      "company": "Frame.io",
+      "title": "Compliance Product Owner, Japan",
+      "location": "Tokyo, Japan",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Tokyo/Compliance-Product-Owner--Japan_R171238",
+      "postedAt": "2026-08-14T11:08:55.000Z",
+      "description": "",
+      "roleFamily": "product-owner"
+    },
+    {
+      "id": "getro:accel:88515069",
+      "atsProvider": "getro",
+      "company": "Cortex by Palo Alto Networks",
+      "title": "Sr Staff Product Owner (Conjur Cloud)",
+      "location": "",
+      "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/sr-staff-product-owner-conjur-cloud/47263/98689166624",
+      "postedAt": "2026-08-03T12:06:53.000Z",
+      "description": "",
+      "roleFamily": "product-owner"
+    },
+    {
+      "id": "getro:earlybird:87937083",
+      "atsProvider": "getro",
+      "company": "QuantumDiamonds",
+      "title": "(Senior) Product Designer (f/m/d)",
+      "location": "Munich, Germany",
+      "url": "https://quantum-diamond.jobs.personio.de/job/2733695",
+      "postedAt": "2026-07-29T14:39:31.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:hv-capital:89400187",
+      "atsProvider": "getro",
+      "company": "Everdrop",
+      "title": "(Senior) Industrial Product Designer & Engineer - Home Accessories (m/w/d)",
+      "location": "Munich, Germany",
+      "url": "https://everdrop.recruitee.com/o/senior-industrial-product-designer-engineer-home-accessories-mwd",
+      "postedAt": "2026-08-10T17:36:07.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:hv-capital:89384612",
+      "atsProvider": "getro",
+      "company": "Nabla",
+      "title": "Senior Product Designer",
+      "location": "Paris, France",
+      "url": "https://jobs.ashbyhq.com/nabla/97679de0-52bd-49e8-8c92-25bd21c10e21",
+      "postedAt": "2026-08-10T16:58:10.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:hv-capital:89384610",
+      "atsProvider": "getro",
+      "company": "Nabla",
+      "title": "Product Designer",
+      "location": "Paris, France",
+      "url": "https://jobs.ashbyhq.com/nabla/d3f336e9-bf79-4ab8-918c-36b143066234",
+      "postedAt": "2026-08-10T16:58:10.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:hv-capital:88306456",
+      "atsProvider": "getro",
+      "company": "Complyance",
+      "title": "Senior Product Designer",
+      "location": "Berlin, Germany",
+      "url": "https://careers.complyance.com/Senior-Product-Designer-1a0c74dbdc6780ec8849d18cacabc894",
+      "postedAt": "2026-07-31T14:40:25.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:seedcamp:90329463",
+      "atsProvider": "getro",
+      "company": "9fin",
+      "title": "Senior Product Designer",
+      "location": "London, UK",
+      "url": "https://jobs.ashbyhq.com/9fin/b4cff1ed-3608-46b6-bb1c-fdc136cd4e1f",
+      "postedAt": "2026-08-18T13:40:53.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:seedcamp:89336211",
+      "atsProvider": "getro",
+      "company": "Murphy",
+      "title": "Founding Product Designer",
+      "location": "Barcelona, Spain",
+      "url": "https://careers.getmurphy.ai/jobs/8195463-founding-product-designer",
+      "postedAt": "2026-08-09T12:24:49.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:seedcamp:89670520",
+      "atsProvider": "getro",
+      "company": "Orbital Witness",
+      "title": "Head of Design",
+      "location": "London, UK",
+      "url": "https://jobs.ashbyhq.com/orbital/324861e4-1b18-4c43-ab23-12c661e2e652",
+      "postedAt": "2026-08-12T13:21:47.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:seedcamp:89018356",
+      "atsProvider": "getro",
+      "company": "Risk Ledger",
+      "title": "Senior Product Designer",
+      "location": "London, UK",
+      "url": "https://boards.greenhouse.io/riskledger/jobs/4944606101",
+      "postedAt": "2026-08-06T15:00:26.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:seedcamp:88739845",
+      "atsProvider": "getro",
+      "company": "EverSettled",
+      "title": "Product designer",
+      "location": "",
+      "url": "https://eversettled.notion.site/Product-designer-39e58e68364581db8e96c3ac877852d2?pvs=25",
+      "postedAt": "2026-08-05T10:07:06.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:seedcamp:89140997",
+      "atsProvider": "getro",
+      "company": "Uncapped",
+      "title": "Product Owner",
+      "location": "London, UK",
+      "url": "https://apply.workable.com/uncapped/j/0DE75DE680",
+      "postedAt": "2026-08-07T13:29:26.000Z",
+      "description": "",
+      "roleFamily": "product-owner"
+    },
+    {
+      "id": "getro:insight-partners:90308878",
+      "atsProvider": "getro",
+      "company": "Conga",
+      "title": "Senior UX Designer",
+      "location": "Bulgaria",
+      "url": "https://boards.greenhouse.io/conga/jobs/5213455007",
+      "postedAt": "2026-08-18T13:05:21.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:insight-partners:90169450",
+      "atsProvider": "getro",
+      "company": "Moon Active",
+      "title": "Product UX Designer",
+      "location": "Tel Aviv-Yafo, Israel",
+      "url": "https://www.moonactive.com/moonactive-position/?uid=6140b3a4-417d-4aa4-a19e-808b8faf17f0",
+      "postedAt": "2026-08-17T06:58:52.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:insight-partners:89966337",
+      "atsProvider": "getro",
+      "company": "Checkout.com",
+      "title": "Staff Product Designer",
+      "location": "London, UK",
+      "url": "https://jobs.ashbyhq.com/checkout.com/9e47404d-ae39-4080-b054-4b5bdd35cec7",
+      "postedAt": "2026-08-14T13:18:56.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:insight-partners:89954843",
+      "atsProvider": "getro",
+      "company": "OneTrust",
+      "title": "Staff UX Designer",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.onetrust.com/careers/staff-ux-designer-8121683/",
+      "postedAt": "2026-08-14T12:57:37.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:insight-partners:89903481",
+      "atsProvider": "getro",
+      "company": "Conga",
+      "title": "Staff UX Designer",
+      "location": "Bulgaria",
+      "url": "https://boards.greenhouse.io/conga/jobs/5211290007",
+      "postedAt": "2026-08-14T11:10:56.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:insight-partners:89620773",
+      "atsProvider": "getro",
+      "company": "Xelix",
+      "title": "Senior Product Designer",
+      "location": "London, UK",
+      "url": "https://careers.xelix.com/jobs/8207714-senior-product-designer",
+      "postedAt": "2026-08-12T11:22:35.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:insight-partners:89297943",
+      "atsProvider": "getro",
+      "company": "DataSnipper",
+      "title": "Senior Product Designer (UX)",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://nl.linkedin.com/jobs/view/senior-product-designer-ux-at-datasnipper-4450266549",
+      "postedAt": "2026-08-08T14:07:14.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:insight-partners:89297944",
+      "atsProvider": "getro",
+      "company": "DataSnipper",
+      "title": "Senior Product Designer (UI)",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://nl.linkedin.com/jobs/view/senior-product-designer-ui-at-datasnipper-4448474206",
+      "postedAt": "2026-08-08T14:07:14.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:insight-partners:89133347",
+      "atsProvider": "getro",
+      "company": "StackBlitz",
+      "title": "Staff Product Designer",
+      "location": "Remote",
+      "url": "https://boards.greenhouse.io/stackblitz/jobs/4354791009",
+      "postedAt": "2026-08-07T13:14:35.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:insight-partners:89784636",
+      "atsProvider": "getro",
+      "company": "project44",
+      "title": "Manager, Product Design",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://boards.greenhouse.io/project44/jobs/8122375",
+      "postedAt": "2026-08-13T12:13:20.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:insight-partners:89061026",
+      "atsProvider": "getro",
+      "company": "Checkout.com",
+      "title": "Staff Product Designer, Acquiring & Design System",
+      "location": "London, UK",
+      "url": "https://jobs.ashbyhq.com/checkout.com/52155ca0-ad5d-4373-b64d-a49eed6af1cd",
+      "postedAt": "2026-08-07T10:17:35.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:insight-partners:88744656",
+      "atsProvider": "getro",
+      "company": "Dotmatics",
+      "title": "UX Designer (6 Months Fixed Term Contract)",
+      "location": "Remote, United Kingdom",
+      "url": "https://boards.greenhouse.io/dotmatics/jobs/4691588005",
+      "postedAt": "2026-08-05T10:24:54.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:insight-partners:88531048",
+      "atsProvider": "getro",
+      "company": "Attentive.ai",
+      "title": "Product Designer",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://attentiveos.keka.com/careers/jobdetails/154534",
+      "postedAt": "2026-08-03T13:31:23.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:insight-partners:89122196",
+      "atsProvider": "getro",
+      "company": "Auditdata",
+      "title": "Product Owner",
+      "location": "Kraków, Poland, Ukraine, Odessa Oblast, Ukraine, Remote, Greater Poland Voivodeship, Poland, Łódź Voivodeship, Poland, Kiev, Ukraine, Lviv, Lviv Oblast, Ukraine,, Lower Silesian Voivodeship, Poland, Silesian Voivodeship, Poland, Vinnytsia, Vinnytsia Oblast, Ukraine, Omsk, Omsk Oblast, Russia, Wysokie Mazowieckie, Poland",
+      "url": "https://auditdata.recruitee.com/o/product-owner-4",
+      "postedAt": "2026-08-07T12:54:07.000Z",
+      "description": "",
+      "roleFamily": "product-owner"
+    },
+    {
+      "id": "getro:general-catalyst:90062062",
+      "atsProvider": "getro",
+      "company": "TRACTIAN",
+      "title": "Senior Product Designer",
+      "location": "",
+      "url": "https://careers.tractian.com/jobs/am9icG9zdDod58f3r0BFX9vRAbEsBQUZ",
+      "postedAt": "2026-08-15T11:46:33.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:general-catalyst:89980313",
+      "atsProvider": "getro",
+      "company": "Dwelly",
+      "title": "Product Designer",
+      "location": "Barcelona, Spain",
+      "url": "https://es.linkedin.com/jobs/view/product-designer-at-dwelly-4453133621",
+      "postedAt": "2026-08-14T13:48:58.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:general-catalyst:89874399",
+      "atsProvider": "getro",
+      "company": "Coda",
+      "title": "Senior Product Designer, Android",
+      "location": "Berlin, Germany",
+      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/568a65dc-7396-431f-b655-8e8c9470c864",
+      "postedAt": "2026-08-14T04:12:52.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:general-catalyst:89874363",
+      "atsProvider": "getro",
+      "company": "Coda",
+      "title": "Staff Product Designer",
+      "location": "Berlin, Germany",
+      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/14eadb8a-d67c-421d-bf9b-5a6c0387e209",
+      "postedAt": "2026-08-14T04:12:45.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:general-catalyst:89508622",
+      "atsProvider": "getro",
+      "company": "Menlo Security",
+      "title": "Senior Product Designer",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://jobs.ashbyhq.com/menlosecurity/786af3bb-1d59-495e-a665-cce6831d3dbd",
+      "postedAt": "2026-08-11T12:18:23.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:general-catalyst:89770292",
+      "atsProvider": "getro",
+      "company": "Aidoc",
+      "title": "Director of Product Design",
+      "location": "Tel Aviv District, Israel, Tel Aviv-Yafo, Israel",
+      "url": "https://boards.greenhouse.io/aidocmedical/jobs/4951044101",
+      "postedAt": "2026-08-13T11:47:10.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:general-catalyst:89692395",
+      "atsProvider": "getro",
+      "company": "Canva",
+      "title": "Design Lead, South Korea (24-month contract)",
+      "location": "Seoul, South Korea",
+      "url": "https://jobs.smartrecruiters.com/Canva/6000000001308527",
+      "postedAt": "2026-08-12T13:52:52.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:general-catalyst:88921831",
+      "atsProvider": "getro",
+      "company": "Finom",
+      "title": "Senior Product Designer (German-speaking) Remote",
+      "location": "Austria",
+      "url": "https://jobs.eu.lever.co/pnlfin/09d67787-30bc-451c-a1bc-527c4f4c9695",
+      "postedAt": "2026-08-06T11:09:44.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:general-catalyst:88338080",
+      "atsProvider": "getro",
+      "company": "Plume",
+      "title": "Product Owner",
+      "location": "Remote",
+      "url": "https://jobs.lever.co/plume/f5e55d58-f597-4bd4-91ee-df3ea341c2af",
+      "postedAt": "2026-08-01T10:23:39.000Z",
+      "description": "",
+      "roleFamily": "product-owner"
+    },
+    {
+      "id": "getro:mmc-ventures:89758582",
+      "atsProvider": "getro",
+      "company": "Modo Energy",
+      "title": "Product Designer",
+      "location": "London, UK",
+      "url": "https://boards.greenhouse.io/modoenergy/jobs/4942078101",
+      "postedAt": "2026-08-13T11:23:04.000Z",
+      "description": "",
+      "roleFamily": "uiux"
     }
   ]
 }

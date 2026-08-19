@@ -20,6 +20,11 @@ import { fetchJobspressoJobs } from "./adapters/jobspresso.js";
 import { fetchWeb3CareerJobs } from "./adapters/web3career.js";
 import { fetchRemote3Jobs } from "./adapters/remote3.js";
 import { fetchDesignXJobs } from "./adapters/designx.js";
+import { fetchGetroJobs, GETRO_NETWORKS } from "./adapters/getro.js";
+
+// "designer" covers product/UX/UI/design-lead titles in one pass; product
+// owner shares no keyword with them and needs its own.
+const GETRO_QUERIES = ["designer", "product owner"];
 import { fetchA16zJobs } from "./adapters/a16z.js";
 import { dedupeJobs } from "./lib/dedupe.js";
 import { sleep } from "./lib/util.js";
@@ -205,6 +210,24 @@ async function main() {
     }
 
     await sleep(1000);
+  }
+
+  // Every fund board is served by api.getro.com, so these stay sequential
+  // rather than joining the per-provider fan-out above. Searching by term
+  // instead of pulling whole boards keeps the request count proportional to
+  // the roles we actually want.
+  for (const [network, networkId] of GETRO_NETWORKS) {
+    for (const query of GETRO_QUERIES) {
+      try {
+        const jobs = await fetchGetroJobs(network, networkId, query);
+        console.log(`getro:${network} "${query}" — ${jobs.length} jobs`);
+        allJobs.push(...jobs);
+      } catch (err) {
+        console.error(`  getro:${network} failed: ${(err as Error).message}`);
+      }
+
+      await sleep(1000);
+    }
   }
 
   const backfilled = await backfillPostedAt(allJobs);
