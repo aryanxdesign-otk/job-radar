@@ -1,25 +1,14 @@
 {
-  "generatedAt": "2026-08-26T02:11:52.215Z",
-  "filteredAt": "2026-08-26T02:11:53.518Z",
+  "generatedAt": "2026-08-27T10:09:50.151Z",
+  "filteredAt": "2026-08-27T10:09:51.483Z",
   "funnel": {
-    "raw": 17532,
-    "deduped": 14596,
-    "titleMatched": 424,
-    "recencyPassed": 198,
-    "geoPassed": 109
+    "raw": 17555,
+    "deduped": 14613,
+    "titleMatched": 419,
+    "recencyPassed": 203,
+    "geoPassed": 110
   },
   "jobs": [
-    {
-      "id": "greenhouse:stripe:8096726",
-      "atsProvider": "greenhouse",
-      "company": "Stripe",
-      "title": "Product Design Manager, Global Payments",
-      "location": "United Kingdom",
-      "url": "https://stripe.com/jobs/search?gh_jid=8096726",
-      "postedAt": "2026-08-05T04:59:36-04:00",
-      "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The Product Design team is composed of several teams that work together to help define, create, and deliver all user-facing aspects of the Stripe brand and product. Product Design Managers work directly with Engineering leaders, Product Managers, Data Scientists, and Marketers in each product area. Together, they identify the strategy and vision, and drive execution for critical initiatives that create a world-class support experience for all Stripe customers and users.&lt;/p&gt;\n&lt;p&gt;Global Payments builds on core Stripe financial products and creates solutions that empower businesses to expand into new markets worldwide without the friction of complex global operations. The sheer volume of payments that flow through Stripe on an hourly basis necessitates the highest level of craft and reliability, which means that Global Payments product designers have the chance to create and ship the best work of their careers.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;As the leader of the Global Payments Design team, you will shape the products and experiences that make it as easy for businesses to sell globally as it is to sell locally. This team oversees product experiences around cross-border commerce, covering local payment methods, global tax compliance, localized consumer experiences, and moving money across borders. You&#39;ll ensure that any business can use Stripe to reach customers anywhere in the world, including fast-growing companies that expect to operate globally from day one.&lt;/p&gt;\n&lt;p&gt;You&#39;ll lead and grow a team of experienced designers who have a track record of navigating ambiguity and delivering high-impact solutions that improve payments experiences for Stripe users.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Manage a growing, business-critical team of designers distributed across EMEA and APAC&lt;/li&gt;\n&lt;li&gt;Expand the team to meet business demands and employee development needs&lt;/li&gt;\n&lt;li&gt;Partner closely with Product Management leaders to identify, shape, and prioritize current and new product initiatives&lt;/li&gt;\n&lt;li&gt;Work across Stripe teams and establish collaboration practices that result in holistic solutions for a horizontal product space&lt;/li&gt;\n&lt;li&gt;Work closely with Product Management, Product Engineering, Marketing, and senior leadership to drive fast decision making, create clarity, and raise the bar for craft and impact&lt;/li&gt;\n&lt;li&gt;Inspire, motivate, and lead designers across experience levels to do the best work of their careers&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Minimum requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;You have 5+ years of people management experience&lt;/li&gt;\n&lt;li&gt;You have 8+ years of relevant design experience at a tech or product-driven company&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Preferred qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;You excel at motivating and inspiring people to do their best work&lt;/li&gt;\n&lt;li&gt;You have experience recruiting and building product design teams&lt;/li&gt;\n&lt;li&gt;You are relentlessly user-focused&lt;/li&gt;\n&lt;li&gt;You have experience designing for complex platforms and enterprise software&lt;/li&gt;\n&lt;li&gt;You excel at both written and spoken communication&lt;/li&gt;\n&lt;li&gt;You do your best work collaboratively&lt;/li&gt;\n&lt;li&gt;You find a meaningful balance between speed, quality, and risky but interesting work&lt;/li&gt;\n&lt;/ul&gt;",
-      "roleFamily": "uiux"
-    },
     {
       "id": "recruitee:bunq:2478238",
       "atsProvider": "recruitee",
@@ -50,8 +39,19 @@
       "location": "Sofia, Bulgaria",
       "url": "https://apply.workable.com/j/B53E37B803",
       "postedAt": "2026-08-14",
-      "description": "<p>We are looking for a proactive and detail-oriented Product Owner who thrives working shoulder-to-shoulder with engineers and turns customer, market and stakeholder signal into clear priorities. In this role, you will sit inside a product engineering team, alongside the lead and product engineers, shaping problem statements, backlog and sprint plans that the whole team believes in.</p><p>This is a full-time role based in Sofia, Bulgaria. We value in person collaboration and meet in the office at least 3 times a week.</p><h3><strong>Some of the things you'll work on:</strong></h3><p>Bring outside context into the team, including customer feedback, support trends, usage data and competitive landscape.</p><ul><li>Write clear, honest problem statements that a product engineer can pick up and run with.</li><li>Track outcomes after a feature ships, not just whether it ships.</li><li>Keep the backlog tidy and up to date in Jira, drafting new items and retiring stale ones.</li><li>Draft problem statements and acceptance criteria for new tickets, finishing acceptance criteria jointly with a product engineer where needed.</li><li>Run backlog grooming as a working session with product engineers.</li><li>Bring a clear \"why it matters\" into sprint planning and set the sprint goal together with the lead and product engineers.</li><li>Surface new signal that could shift priorities and work through trade-offs before committing to changes mid-sprint.</li><li>Shape and sequence the roadmap together with the lead and engineers, and own the \"what problem is worth solving\" call.</li><li>Join sprint reviews and demos to check delivered work against the original problem.</li></ul><h3><strong>We're excited if you have:</strong></h3><ul><li>3+ years of experience as a Product Owner, Product Manager or similar role, with real day-to-day ownership of a backlog.</li><li>Hands-on experience running Jira, including writing tickets and running or co-running grooming sessions.</li><li>Comfort working shoulder-to-shoulder with engineers rather than handing off finished specs.</li><li>Strong plain-language writing skills for problem statements and acceptance criteria.</li><li>Enough technical fluency to follow a trade-off conversation and ask the right questions.</li><li>A track record of prioritising under pressure, including saying no and explaining why.</li><li>Genuine curiosity about the \"why\" behind customer and business problems.</li><li>Familiarity with tools like Notion, Mixpanel or Amplitude for tracking outcomes post-launch.</li><li>Some direct customer-facing experience, such as support, sales engineering, customer success or research.</li></ul><p></p><h3><strong>Why you'll love it here:</strong></h3><p>Flexible working hours and home-office (2x per week)</p><ul><li>Internal shares programme (EDPP)</li><li>Ergonomic workspace and cutting-edge technology</li><li>Regular team events</li><li>Modern and stylish offices</li><li>Sustainable merch for all employees</li><li>Adverity Social Responsibility Days (+2 days paid off)</li></ul><p></p><p><strong>Are you ready to apply?</strong></p><p>Apply now if you are ready to revolutionise the way businesses work with marketing data.</p><p>We look forward to meeting you!</p>",
+      "description": "<p>We are looking for a proactive and detail-oriented Product Owner who thrives working shoulder-to-shoulder with engineers and turns customer, market and stakeholder signal into clear priorities. In this role, you will sit inside a product engineering team, alongside the lead and product engineers, shaping problem statements, backlog and sprint plans that the whole team believes in.</p><p>This is a full-time role based in Sofia, Bulgaria. We value in person collaboration and meet in the office at least 3 times a week.</p><h3><strong>Some of the things you'll work on:</strong></h3><p>Bring outside context into the team, including customer feedback, support trends, usage data and competitive landscape.</p><ul><li>Write clear, honest problem statements that a product engineer can pick up and run with.</li><li>Track outcomes after a feature ships, not just whether it ships.</li><li>Keep the backlog tidy and up to date in Jira, drafting new items and retiring stale ones.</li><li>Draft problem statements and acceptance criteria for new tickets, finishing acceptance criteria jointly with a product engineer where needed.</li><li>Run backlog grooming as a working session with product engineers.</li><li>Bring a clear \"why it matters\" into sprint planning and set the sprint goal together with the lead and product engineers.</li><li>Surface new signal that could shift priorities and work through trade-offs before committing to changes mid-sprint.</li><li>Shape and sequence the roadmap together with the lead and engineers, and own the \"what problem is worth solving\" call.</li><li>Join sprint reviews and demos to check delivered work against the original problem.</li></ul><h3><strong>We're excited if you have:</strong></h3><ul><li>3+ years of experience as a Product Owner, Product Manager or similar role, with real day-to-day ownership of a backlog.</li><li>Hands-on experience running Jira, including writing tickets and running or co-running grooming sessions.</li><li>Comfort working shoulder-to-shoulder with engineers rather than handing off finished specs.</li><li>Strong plain-language writing skills for problem statements and acceptance criteria.</li><li>Enough technical fluency to follow a trade-off conversation and ask the right questions.</li><li>A track record of prioritising under pressure, including saying no and explaining why.</li><li>Genuine curiosity about the \"why\" behind customer and business problems.</li><li>Familiarity with tools like Notion, Mixpanel or Amplitude for tracking outcomes post-launch.</li><li>Some direct customer-facing experience, such as support, sales engineering, customer success or research.</li></ul><h3><strong>Why you'll love it here:</strong></h3><ul><li>Flexible working hours and home-office (2x per week)</li></ul><ul><li>Internal shares programme (EDPP)</li><li>Ergonomic workspace and cutting-edge technology</li><li>Regular team events</li><li>Modern and stylish offices</li><li>Sustainable merch for all employees</li><li>Adverity Social Responsibility Days (+2 days paid off)</li></ul><p></p><p><strong>Are you ready to apply?</strong></p><p>Apply now if you are ready to revolutionise the way businesses work with marketing data.</p><p>We look forward to meeting you!</p>",
       "roleFamily": "product-owner"
+    },
+    {
+      "id": "lever:malt:910560d4-80ce-41c7-9a5b-b3e714ce0f78",
+      "atsProvider": "lever",
+      "company": "Malt",
+      "title": "Head of Product Design",
+      "location": "Paris",
+      "url": "https://jobs.lever.co/malt/910560d4-80ce-41c7-9a5b-b3e714ce0f78",
+      "postedAt": "2026-08-26T13:16:57.528Z",
+      "description": "🪐 Discover our galaxy\n \nJoin the Future of Work ! Malt is Europe's leading freelance marketplace, connecting over 1,000,000 talented freelancers with 100,000+ companies. Founded in 2013, we're transforming how work gets done through our tech-powered, human-centered platform. What makes us different:\n \n- A diverse team of 600 Malters across 6 European countries\n- A culture that champions equality (50% of our Comex are women) and inclusive growth\n- Backed by top investors including ISAI, Serena Capital, Eurazeo Growth, Goldman Sachs, and BPI\n- A mission to give everyone the freedom to work differently\n \nReady to help shape the future of work? Your next chapter starts here! 🪐\n\n\nExplore your future career  🔭\nAs the Head of Product Design at Malt, you will lead a high-impact segment of our design organization, acting as a strategic partner in shaping how freelancers and clients connect, transact, and collaborate globally.\nYour mission is to elevate Malt’s core product experience by connecting exceptional user experiences directly to commercial growth. Under your leadership, your initiatives will drive demonstrable lifts in core user health metrics, conversion funnels, and key commercial KPIs. You will ensure the product design function is staffed with top talent, fostering a culture of strong psychological safety and maintaining a high craft quality bar.\nReporting to Stefanie Fleisch (VP of Design), you will take a holistic view of our primary product domains. Your goal is to break down feature silos across multi-squad streams, delivering cohesive user journeys that are intuitive, clean, and built to scale.\n",
+      "roleFamily": "uiux"
     },
     {
       "id": "teamtailor:propertyfinder:88627867-38df-47d6-aba4-1b440d84fa5f",
@@ -164,6 +164,17 @@
       "roleFamily": "product-owner"
     },
     {
+      "id": "greenhouse:hellofresh:8125694",
+      "atsProvider": "greenhouse",
+      "company": "HelloFresh",
+      "title": "Director, Global WMS Software Engineering and Product Design",
+      "location": "Warszawa, Masovian Voivodeship, Poland",
+      "url": "https://careers.hellofresh.com/global/en/job/8125694?gh_jid=8125694",
+      "postedAt": "2026-08-26T12:07:49-04:00",
+      "description": "&lt;h3&gt;&lt;strong&gt;Join our R&amp;amp;D Tech Hub in Warsaw&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We’re building a new R&amp;amp;D Tech Hub in Poland and are looking for people who want to make a real impact from day one. You’ll be part of a globally connected team, helping to shape the culture and ways of working at our new location. This is a hands-on role in a supportive environment, where collaboration, learning, and adaptability are key.&lt;/p&gt;\n&lt;p&gt;We value practical problem-solving, diverse perspectives, and people who take ownership. If you&#39;re ready to contribute to meaningful projects and help lay the foundation for a growing team, we’d like to hear from you.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About the role: What&#39;s in the Box&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;HelloFresh is searching for an action-oriented servant leader&amp;nbsp; for our warehouse management system (WMS) Software Engineering and Product functions. This leader owns the full software delivery lifecycle for HelloFresh&#39;s global&amp;nbsp; warehouse fulfillment and inventory control domain — from architecture and product design through engineering execution, quality assurance, and operational reliability. You will drive a culture of product &amp;amp; engineering excellence, leveraging modern agentic tooling and AI-assisted workflows to increase team velocity, reduce defect escape rates, and accelerate deployment confidence.&lt;/p&gt;\n&lt;p&gt;You will collaborate closely with stakeholders across technology, operations, automation/production technology, procurement, and finance to deliver innovative solutions on our strategic WMS platform — Infios&#39;s Warehouse Advantage (Körber/Highjump) — while balancing competing priorities and technical resource demand.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;The &lt;strong&gt;Director of WMS Engineering and Product will&lt;/strong&gt; work with key technology and product leaders across HelloFresh to enable the inventory management and control domain strategy, evaluate technology-related priorities, and translate stakeholder needs into actionable roadmaps. The ideal candidate combines impeccable management and communication skills with a practitioner&#39;s instinct for modern software delivery — knowing how to build high-performing teams, establish engineering health metrics, and integrate AI-assisted tooling that meaningfully accelerates quality and velocity.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What you’ll do: The Recipe&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;WMS Solution Ownership: &lt;/strong&gt;Provide technical direction, development oversight, and performance accountability for HelloFresh&#39;s deployment of Infios&#39;s Warehouse Advantage (Körber/Highjump) WMS platform across all global locations&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Integration Architecture &amp;amp; Reliability: &lt;/strong&gt;Drive WMS application layer Integration architecture to upstream tooling and host systems via CI/CD pipelines [Debezium/Kafka to Snowflake/Databricks]&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Platform Architecture: &lt;/strong&gt;Partner/ support as needed the Hosting Architecture team in the optimal sizing and performance of WMS Architecture in AWS&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Agentic Engineering &amp;amp; Developer Productivity: &lt;/strong&gt;Champion and drive adoption of agentic engineering practices across the team: automated code review tooling (e.g., AI-assisted PR analysis, static analysis agents, LLM-powered code quality gates), AI-augmented test generation and execution, and intelligent deployment pipelines. Measure and report the impact of these practices on delivery velocity and defect escape rate&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;CI/CD &amp;amp; Deployment Automation: &lt;/strong&gt;Own the maturity roadmap for CI/CD pipelines. Establish automated deployment workflows with robust rollback strategies, feature flagging, environment-specific gate checks, and infrastructure-as-code practices — enabling high-confidence, low-friction releases across all WMS environments&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Quality Engineering &amp;amp; Test Automation: &lt;/strong&gt;Partner with WMS Services and Support leadership to build a world-class QA function. Drive adoption of automated regression suites, AI-assisted edge case generation, and contract testing for integrations. Push teams beyond happy-path coverage toward comprehensive scenario validation, including automated performance and load testing for peak fulfillment periods&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Engineering Metrics &amp;amp; Continuous Improvement: &lt;/strong&gt;Establish DORA metrics (deployment frequency, lead time for change, change failure rate, and mean time to restore) as the foundation of engineering health reporting for the WMS organization. Set baselines, publish improvement targets, and use metric trends to identify bottlenecks, prioritize tooling and process investments, and communicate engineering performance to senior leadership&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Technical Roadmap &amp;amp; Architecture Governance: &lt;/strong&gt;Partner with peers and senior leadership on architectural decision-making for WMS platform evolution, integration patterns, and technology transitions. Champion the use of structured design reviews to maintain coherent, scalable technical direction. Lead evaluations to refactor or replace legacy systems, including risk mitigation and transition planning&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Vendor &amp;amp; Capacity Management: &lt;/strong&gt;Work with department leadership to source and partner with 3rd-party vendors to augment internal engineering capacity and expertise. Maintain vendor performance accountability and ensure structured knowledge transfer to build durable internal capability&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;People Leadership &amp;amp; Talent Development: &lt;/strong&gt;Coach, develop, and retain high-performing engineers, product managers, and team leads. Partner with HR and Talent Acquisition to build organizational depth — playing an active role in recruiting, onboarding, and career development&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;International Standardization/ Release Consolidation. &lt;/strong&gt;Partner with departmental leadership, peer domains,&amp;nbsp; and executive leadership to own the long term roadmap for product consolidation to a single application release version administered globally&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Cross-functional Leadership. &lt;/strong&gt;Serve on both the Fulfillment Technology and overall Automation &amp;amp; Technology leadership teams, reinforcing HelloFresh DNA values, establishing KPIs, and prioritizing strategic initiatives at a departmental level&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;What you’ll bring: The Ingredients&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;strong&gt;Technical/Engineering Experience&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years of warehouse management system (WMS) software engineering and implementation experience with a tier-one WMS in an RF-based distribution, manufacturing, or e-commerce fulfillment environment&lt;/li&gt;\n&lt;li&gt;3+ years of direct hands-on experience with Infios&#39;s Warehouse Advantage (Körber/Highjump) WMS platform with SQL Server&lt;/li&gt;\n&lt;li&gt;3+ years managing application integrations via microservices and associated toolsets, including REST APIs, event-driven architectures, and ETL pipelines&lt;/li&gt;\n&lt;li&gt;Demonstrated experience implementing or scaling CI/CD pipelines, including automated testing gates, deployment automation, and infrastructure-as-code (IaC) practices across multi-environment WMS or fulfillment technology stacks&lt;/li&gt;\n&lt;li&gt;Hands-on familiarity with agentic and AI-assisted engineering tools — including automated code review platforms, AI-assisted test generation, and LLM-powered developer productivity tools (e.g., GitHub Copilot, CodeRabbit, SonarQube AI, or equivalent) — with a track record of driving meaningful team-wide adoption and measurable impact&lt;/li&gt;\n&lt;li&gt;Experience defining and tracking engineering delivery and quality metrics (DORA metrics or equivalent) and using data to drive process improvement and leadership reporting&lt;/li&gt;\n&lt;li&gt;Experience leading evaluations to refactor or replace legacy systems, including developing and executing technology transition plans with appropriate risk mitigation strategies&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Product Experience&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience leading a design and product process that scales a digital technology operations ecosystem across volume growth, multiple brands, and new digital properties&lt;/li&gt;\n&lt;li&gt;Strategic thinker with the ability to build and execute innovative digital product strategy while executing tactically against multiple competing priorities simultaneously&lt;/li&gt;\n&lt;li&gt;Proven ability to translate business requirements into technical specifications, roadmaps, and delivery plans — and to communicate progress and tradeoffs clearly to both technical and non-technical stakeholders&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to build leadership support for proactive technology investments, making the business case for engineering quality, automation, and platform modernization&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Above all, we are looking for people who will &lt;strong&gt;make HelloFresh Group better.&lt;/strong&gt; We believe there are many different ways of developing skills and we love diverse experiences! So even if you don’t “tick all the boxes” but think you’d thrive in this role, we would really like to learn more about you.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What we offer: The Toppings&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Health - &lt;/strong&gt;You’re covered from your first day with&amp;nbsp; private health insurance.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Flexible Working - &lt;/strong&gt;We work in-office 3 days a week to align on goals, with flexible hours to support work-life balance and personal needs&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Time Off - &lt;/strong&gt;You receive 26 days of paid vacation each year, providing you time to rest and recharge.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Learning and Development - &lt;/strong&gt;An annual Learning &amp;amp; Development budget and a Mentoring Program to support your ongoing professional growth.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Employee Referral Program - &lt;/strong&gt;Our team members can take part in our internal employee referral program and receive a bonus for recommending successful candidates to open roles.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Daily Comforts - &lt;/strong&gt;Free coffee, drinks, and fresh fruit are available to keep you refreshed throughout the day.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+      "roleFamily": "uiux"
+    },
+    {
       "id": "teamtailor:skello:63f55258-4558-455e-a2ac-62277aa6cbc3",
       "atsProvider": "teamtailor",
       "company": "Skello",
@@ -182,7 +193,7 @@
       "location": "Berlin",
       "url": "https://flix.careers/job/8726634002?gh_jid=8726634002",
       "postedAt": "2026-08-19T08:43:23-04:00",
-      "description": "&lt;p style=&quot;line-height: 1.4;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;At Flix, we offer a tech-driven environment where innovation meets real-world impact, with competitive pay, strong growth opportunities, and a culture of collaboration and ownership. &amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;123&quot; data-local-id=&quot;89a0e047ba4c&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Flix is building the global platform for affordable and sustainable ground travel, from next-generation train offerings in Europe to rapid expansion in high-growth markets such as India. As our network becomes broader and more complex, Search plays a critical role in helping millions of customers find the right journey quickly, confidently, and intuitively.&lt;/span&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;485&quot; data-local-id=&quot;7a3ca574c08a&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;As a &lt;strong&gt;Senior Product Owner/Manager&lt;/strong&gt; in Demand Division you will be able to turn Search into a true growth engine for Flix: a product experience that understands customer intent, reduces complexity, improves conversion, and creates valuable demand signals for the business across web, app, and emerging AI-native channels.&lt;/span&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;485&quot; data-local-id=&quot;7a3ca574c08a&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;In this role, you will define the north star for Flix Search and own the roadmap through a major product and technical transformation. You will work closely with engineering, UX, data, commercial, and operational stakeholders to evolve Search from a functional step in the booking funnel into a personalised, intelligent, and scalable discovery experience.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 24pt;&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;About the Role&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;1163&quot; data-local-id=&quot;36e69d70&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Set and communicate a compelling product vision and strategy for Search, grounded in customer needs, business impact, and market opportunity&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;1308&quot; data-local-id=&quot;2f29e1d8&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Identify and prioritise opportunities across ranking, relevance, comparison, query understanding, personalisation, and zero-result recovery&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;1452&quot; data-local-id=&quot;67351169&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Use data such as conversion impact, query behaviour, and customer feedback to diagnose problems and guide product decisions&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;1581&quot; data-local-id=&quot;70e7638c&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Lead discovery and delivery with cross-functional teams, balancing quick customer-facing improvements with long-term platform and architectural needs&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;1735&quot; data-local-id=&quot;33fd64b9&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Align stakeholders around trade-offs, success metrics, and roadmap priorities in an ambiguous and strategically important product area&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;1874&quot; data-local-id=&quot;43cb25eb&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Explore how Search can support new surfaces and behaviours, including AI-native discovery and conversational travel planning&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 24pt;&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;About You&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;2016&quot; data-local-id=&quot;560ed1c2&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;You have 8+ years of product management experience, ideally including ownership of a search, discovery, marketplace, recommendation, or other high-intent digital product&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;2190&quot; data-local-id=&quot;3e9cd0de&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;You have led meaningful product change in complex environments and can connect product strategy with hands-on execution&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;2314&quot; data-local-id=&quot;4e15a792&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;You are highly data-informed and know how to turn behavioural, funnel, and query-level insights into clear product direction&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;2443&quot; data-local-id=&quot;4d6067d1&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;You are comfortable partnering with engineering on technical topics such as APIs, ranking, machine learning, performance, and architectural trade-offs&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;2598&quot; data-local-id=&quot;272a4379&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;You are a strong communicator who can build trust across engineering, UX, data, and business teams and create alignment when priorities compete.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;2746&quot; data-local-id=&quot;0b19d415&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;You are energised by unsolved problems and motivated to understand why a customer experience is not working, not only how to close the next ticket&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;2897&quot; data-local-id=&quot;4ec8e61d&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;You are fluent in English&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p data-renderer-start-pos=&quot;2927&quot; data-local-id=&quot;72f3f906&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Nice to have:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;2944&quot; data-local-id=&quot;74030f30&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Experience with travel, mobility, marketplaces, e-commerce, or other high-scale consumer platforms&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;3047&quot; data-local-id=&quot;4ad03a2f&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Experience building or improving AI-assisted, personalised, or conversational discovery experiences&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;3151&quot; data-local-id=&quot;19e90ea4&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;German or another European language&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p style=&quot;line-height: 1.4;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;We recognize that everyone carries a unique set of valuable skills and experiences. If you think you could have an impact even though you don&#39;t meet 100% of the requirements, we still encourage you to apply. We want to hear from you! &amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 24pt;&quot;&gt;&lt;strong&gt;What We Offer&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li data-renderer-start-pos=&quot;11445&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Travel perks&lt;/strong&gt;: 12 free Flix vouchers + 12 discount vouchers for friends &amp;amp; family.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;11530&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Work from (M)Anywhere&lt;/strong&gt;: Depending on your role, work from another location for up to 60 days per year.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;11636&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Hybrid work model&lt;/strong&gt;: We are an office-first company, but we offer flexibility to balance work and life.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;11742&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Wellbeing support&lt;/strong&gt;: Access confidential 1:1 counselling, courses, and stress management for yourself and up to four family members.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;11877&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Learning &amp;amp; Development&lt;/strong&gt;: Take advantage of language classes, training courses, and expert-led sessions to grow your skills.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;12004&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Mentoring Program&lt;/strong&gt;: Connect with experienced colleagues to gain insights and accelerate your career.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p style=&quot;line-height: 1.4;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;To view more local benefits specific to each office location, please check out this link:&amp;nbsp;&lt;a href=&quot;https://flix.careers/locations/&quot;&gt;Locations - Flix Career&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;hr&gt;\n&lt;p style=&quot;line-height: 1.4;&quot;&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;&lt;strong&gt;Why Join Flix?&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;line-height: 1.4;&quot; data-renderer-start-pos=&quot;14351&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;At Flix, we empower our teams to push boundaries and shape the future of mobility. As we continue to scale globally, we harness cutting-edge technology to make mobility smarter, more sustainable, and more affordable.&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;line-height: 1.4;&quot; data-renderer-start-pos=&quot;14569&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;If you’re looking for a place where you can drive change and redefine how millions of people travel, Flix is the place where you can lead your journey!&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;line-height: 1.4;&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/YlHz7TiiRAw&quot; width=&quot;560&quot; height=&quot;314&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;\n&lt;p style=&quot;line-height: 1.4;&quot;&gt;&amp;nbsp;&lt;/p&gt;",
+      "description": "&lt;p style=&quot;line-height: 1.4;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;At Flix, we offer a tech-driven environment where innovation meets real-world impact, with competitive pay, strong growth opportunities, and a culture of collaboration and ownership. &amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;123&quot; data-local-id=&quot;89a0e047ba4c&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Flix is building the global platform for affordable and sustainable ground travel, from next-generation train offerings in Europe to rapid expansion in high-growth markets such as India. As our network becomes broader and more complex, Search plays a critical role in helping millions of customers find the right journey quickly, confidently, and intuitively.&lt;/span&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;485&quot; data-local-id=&quot;7a3ca574c08a&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;As a &lt;strong&gt;Senior Product Owner/Manager&lt;/strong&gt; in Demand Division you will be able to turn Search into a true growth engine for Flix: a product experience that understands customer intent, reduces complexity, improves conversion, and creates valuable demand signals for the business across web, app, and emerging AI-native channels.&lt;/span&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;485&quot; data-local-id=&quot;7a3ca574c08a&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;In this role, you will define the north star for Flix Search and own the roadmap through a major product and technical transformation. You will work closely with engineering, UX, data, commercial, and operational stakeholders to evolve Search from a functional step in the booking funnel into a personalised, intelligent, and scalable discovery experience.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 24pt;&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;About the Role&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;1163&quot; data-local-id=&quot;36e69d70&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Set and communicate a compelling product vision and strategy for Search, grounded in customer needs, business impact, and market opportunity&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;1308&quot; data-local-id=&quot;2f29e1d8&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Identify and prioritise opportunities across ranking, relevance, comparison, query understanding, personalisation, and zero-result recovery&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;1452&quot; data-local-id=&quot;67351169&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Use data such as conversion impact, query behaviour, and customer feedback to diagnose problems and guide product decisions&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;1581&quot; data-local-id=&quot;70e7638c&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Lead discovery and delivery with cross-functional teams, balancing quick customer-facing improvements with long-term platform and architectural needs&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;1735&quot; data-local-id=&quot;33fd64b9&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Align stakeholders around trade-offs, success metrics, and roadmap priorities in an ambiguous and strategically important product area&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;1874&quot; data-local-id=&quot;43cb25eb&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Explore how Search can support new surfaces and behaviours, including AI-native discovery and conversational travel planning&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 24pt;&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;About You&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;2016&quot; data-local-id=&quot;560ed1c2&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;You have 8+ years of product management experience, ideally including ownership of a search, discovery, marketplace, recommendation, or other high-intent digital product&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;2190&quot; data-local-id=&quot;3e9cd0de&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;You have led meaningful product changes in complex environments and can connect product strategy with hands-on execution&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;2314&quot; data-local-id=&quot;4e15a792&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;You are highly data-informed and know how to turn behavioural, funnel, and query-level insights into clear product direction&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;2443&quot; data-local-id=&quot;4d6067d1&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;You are comfortable partnering with engineering on technical topics such as APIs, ranking, machine learning, performance, and architectural trade-offs&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;2598&quot; data-local-id=&quot;272a4379&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;You are a strong communicator who can build trust across engineering, UX, data, and business teams and create alignment when priorities compete&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;2746&quot; data-local-id=&quot;0b19d415&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;You are energised by unsolved problems and motivated to understand why a customer experience is not working, not only how to close the next ticket&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;2897&quot; data-local-id=&quot;4ec8e61d&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;You are fluent in English&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p data-renderer-start-pos=&quot;2927&quot; data-local-id=&quot;72f3f906&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Nice to have:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;2944&quot; data-local-id=&quot;74030f30&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Experience with travel, mobility, marketplaces, e-commerce, or other high-scale consumer platforms&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;3047&quot; data-local-id=&quot;4ad03a2f&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Experience building or improving AI-assisted, personalised, or conversational discovery experiences&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;3151&quot; data-local-id=&quot;19e90ea4&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;German or another European language skills&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p style=&quot;line-height: 1.4;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;We recognize that everyone carries a unique set of valuable skills and experiences. If you think you could have an impact even though you don&#39;t meet 100% of the requirements, we still encourage you to apply. We want to hear from you! &amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 24pt;&quot;&gt;&lt;strong&gt;What We Offer&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li data-renderer-start-pos=&quot;11445&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Travel perks&lt;/strong&gt;: 12 free Flix vouchers + 12 discount vouchers for friends &amp;amp; family.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;11530&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Work from (M)Anywhere&lt;/strong&gt;: Depending on your role, work from another location for up to 60 days per year.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;11636&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Hybrid work model&lt;/strong&gt;: We are an office-first company, but we offer flexibility to balance work and life.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;11742&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Wellbeing support&lt;/strong&gt;: Access confidential 1:1 counselling, courses, and stress management for yourself and up to four family members.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;11877&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Learning &amp;amp; Development&lt;/strong&gt;: Take advantage of language classes, training courses, and expert-led sessions to grow your skills.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;12004&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Mentoring Program&lt;/strong&gt;: Connect with experienced colleagues to gain insights and accelerate your career.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p style=&quot;line-height: 1.4;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;To view more local benefits specific to each office location, please check out this link:&amp;nbsp;&lt;a href=&quot;https://flix.careers/locations/&quot;&gt;Locations - Flix Career&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;hr&gt;\n&lt;p style=&quot;line-height: 1.4;&quot;&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;&lt;strong&gt;Why Join Flix?&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;line-height: 1.4;&quot; data-renderer-start-pos=&quot;14351&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;At Flix, we empower our teams to push boundaries and shape the future of mobility. As we continue to scale globally, we harness cutting-edge technology to make mobility smarter, more sustainable, and more affordable.&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;line-height: 1.4;&quot; data-renderer-start-pos=&quot;14569&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;If you’re looking for a place where you can drive change and redefine how millions of people travel, Flix is the place where you can lead your journey!&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;line-height: 1.4;&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/YlHz7TiiRAw&quot; width=&quot;560&quot; height=&quot;314&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;\n&lt;p style=&quot;line-height: 1.4;&quot;&gt;&amp;nbsp;&lt;/p&gt;",
       "roleFamily": "product-owner"
     },
     {
@@ -230,25 +241,14 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "ashby:motorway:2d3e8888-1ce5-481d-b926-9ee329daf3ec",
+      "id": "ashby:motorway:71e13c75-adbf-470b-ac1a-e703389c9394",
       "atsProvider": "ashby",
       "company": "Motorway",
       "title": "Lead Product Designer",
       "location": "London",
-      "url": "https://jobs.ashbyhq.com/motorway/2d3e8888-1ce5-481d-b926-9ee329daf3ec",
-      "postedAt": "2026-08-18T10:51:05.317+00:00",
+      "url": "https://jobs.ashbyhq.com/motorway/71e13c75-adbf-470b-ac1a-e703389c9394",
+      "postedAt": "2026-08-26T10:57:13.761+00:00",
       "description": "ABOUT MOTORWAY\n\nMotorway is the UK's largest online car-selling platform. We connect private sellers directly with over 8,000 dealers nationwide. Our online platform helps sellers achieve great prices for their cars while giving dealers fast, reliable access to the stock they want for their dealerships. Founded in 2017, our award-winning, technology-led approach has redefined the experience of selling a car. Motorway is backed by some of the world’s leading technology investors, having raised £143 million in Series C funding.\n\nThis is a unique opportunity to join a fast-growing scale-up at a crucial phase of growth and help change an industry for the better.\n\nThe Opportunity\n\nAs a Lead Product Designer at Motorway, you won't just be producing great design - you'll be raising the ceiling for everyone around you. You'll shape how the team works, set the standard for craft and rigour, and bring a clear point of view on where design is heading.\n\nYou'll take ownership of our most complex design challenges, working across the full product lifecycle from discovery to delivery. You'll be a trusted voice in cross-functional conversations, a mentor to other designers, and someone who actively shapes the culture and ways of working within the design team.\n\nThis is a role for someone who thinks deeply, builds boldly, and leads by doing.\n\nWhat You'll Be Doing\n\nThis isn't a role for a pixel-pusher. We want a visionary with a builder’s soul. You will step into an environment where your work has immediate, massive scale, and your leadership directly influences the future of our product ecosystem.\n\n - Tackling the Big Stuff: You’ll own our most complex, ambiguous product challenges, transforming messy problems into elegant, crystal-clear user experiences from discovery to deployment.\n\n - Pioneering AI in Design: You won't just use AI tools—you’ll write the playbook for them. You'll spearhead how our team thoughtfully integrates AI to supercharge our workflows while keeping human judgment and craft at the center.\n\n - Designing Beyond the Screen: You'll bring a \"builder mindset\" to the table, collaborating seamlessly with engineering because you speak their language—whether that’s through code, complex prototypes, or building your own tools.\n\n - Championing the User: You will be the fierce advocate for our users, leveraging deep research, continuous usability testing, and sharp data insights to validate every move we make.\n\n - Scaling Design Culture: You'll run high-impact workshops, level up weekly team rituals, and foster an environment where diverse perspectives thrive and designers do the best work of their careers.\n\nResponsibilities\n\n - Design Execution: Produce high-quality design deliverables including user flows, wireframes, prototypes, and high-fidelity mock-ups for mobile and web applications, ensuring solutions meet accessibility standards and set the bar for inclusive design across the team.\n\n - Collaboration & Commercial Awareness: Work in close partnership with product managers, engineers, and data analysts throughout the product development lifecycle. Connect user insights to product opportunities and broader business goals. You have strong commercial awareness and can articulate the business case for design decisions.\n\n - Stakeholder Communication: Establish strong relationships across product, engineering, and the wider organisation. Communicate clearly at all levels, lead online and offline sessions to validate design decisions, and represent product design with confidence and authority.\n\n - Mentorship & Guidance: Provide mentorship to junior and senior designers alike - sharing best practices, supporting their growth, and helping create an environment where designers can do the best work of their careers.\n\n - Driving Design Culture: Help foster a strong design culture by contributing to weekly team rituals, running workshops, planning design-focused events, and encouraging diverse participation. You love bringing people together around ideas.\n\n - Continuous Improvement: Explore and encourage continuous learning across the team, playing an active role in developing our core design principles and keeping the team sharp on emerging tools, patterns, and practices.\n\nWhat You'll Bring (Requirements)\n\nOur team comes from a diverse range of backgrounds, and team fit matters immensely to us. We are looking for a passionate advocate for craft and user experience who can check off several of these boxes:\n\n - Proven Leadership: A deep track record as a Senior or Lead Product Designer, successfully shipping impactful digital products across web and mobile ecosystems.\n\n - A Builder’s Instinct: You don’t stop at the design file. You love getting your hands dirty and have experience shipping code, building your own products, or spinning up functional, high-fidelity tools and prototypes.\n\n - Versatile Experience: A strong grasp of consumer journeys, ideally with experience navigating both B2C and B2B product landscapes.\n\n - An AI-Forward Mindset: A highly considered approach to AI in design. You understand how to strategically use it to accelerate work, when to rely on human judgment, and how to guide a team through this evolving landscape.\n\n - Commercial Acumen: The ability to see the bigger picture, connect design execution directly to business outcomes, and confidently shape broader product strategy.\n\n - Modern Toolkit & Research Rigour: High proficiency in design and prototyping tools (like Figma, Claude, Kiro), combined with strong user-centered design methodologies, accessibility standards, and research synthesisation.\n\n - Bonus Points: Experience optimizing user journeys/conversion funnels via experimentation, or experience working within a fast-paced, two-sided marketplace.\n\nBENEFITS\n\nWe've got your back, in life's biggest moments and the everyday ones too.\n\n - Competitive salary\n\n - Equity scheme - we all share in Motorway's success\n\n - 25 days holiday\n\n - Flexible working (2 days a week in our London office, with socials and snacks galore)\n\n - Private medical insurance via BUPA\n\n - Life assurance\n\n - Pension scheme (we contribute 5%)\n\n - Enhanced family leave (e.g. 26 weeks full pay for maternity or adoption)\n\n - 24/7 Employee Assistance Programme\n\n - EV leasing scheme\n\n - Cycle to work scheme\n\n - Nursery salary sacrifice scheme\n\n - 1 paid volunteering day a year",
-      "roleFamily": "lead-pd"
-    },
-    {
-      "id": "ashby:unmind:6928a12e-06af-40db-b383-02267eb1fa55",
-      "atsProvider": "ashby",
-      "company": "Unmind",
-      "title": "Principal Product Designer",
-      "location": "London, HQ",
-      "url": "https://jobs.ashbyhq.com/unmind/6928a12e-06af-40db-b383-02267eb1fa55",
-      "postedAt": "2026-08-13T13:01:36.148+00:00",
-      "description": "Location: UK Based, Remote-first (with monthly travel to London)\n\n\n\nAt Unmind, we're here to create better mental health.\n\nWe believe mental health should be a source of strength, not struggle – for people, teams, and entire organisations.\n\nWe combine science, technology, and human care to help companies like Uber, Disney, Major League Baseball, and the NHS improve mental health and drive performance.\n\nNow we’re looking for more brilliant people to help us do it.\n\n\n\n🚀 Our Values\n\nWe’re building a company where ambition and empathy go hand in hand.\n\nOutpace the rest – Move fast. Deliver excellence.\n\nStronger together – We go further, faster, together.\n\nClient first – We win, when our clients win.\n\n\n\n🌈 Inclusion & Belonging\n\nWe’re building a place where everyone feels seen, heard, and supported – and where difference is celebrated.\n\nIf you need adjustments during the process, tell us when you apply or email talent@unmind.com.\n\nLearn more about how we hire and our commitment to equity in our Candidate FAQ → https://unmind.notion.site/Unmind-Candidate-FAQs-b2f30c27bc57453b8edaee099aad4596\n\n\n\n\n🎯 THE ROLE — PRINCIPAL PRODUCT DESIGNER\n\nWe’re looking for a Principal Product Designer to shape complex, cross-platform journeys that help members find the right support at the right moment — and help that support create measurable, lasting change.\n\nYou’ll bring design-led thinking to roadmap and strategy, own high-impact experiences across our B2B2C platform, and model beautiful, rigorous product design for complex member and client needs.\n\nWhat you'll do\n\n - Lead the design of complex journeys across web and mobile, helping members find, understand, and access the right support at the right moment.\n\n - Shape product strategy and roadmap conversations through research synthesis, analytics, concept exploration, and future-state prototypes — connecting design decisions to measurable member, client, and business outcomes.\n\n - Produce high-quality design work across web and mobile experiences, including complex workflows, edge cases, error states, and moments where trust, clarity, and human care matter.\n\n - Explore how AI-enabled, personalised, or data-informed experiences can help members access support in ways that feel useful, transparent, safe, and human.\n\n - Design clear, actionable client-facing experiences that help organisations understand engagement, outcomes, and the value Unmind is creating.\n\n - Build lightweight research and learning practices that help teams understand member and client needs, test assumptions quickly, and make better product decisions.\n\n - Support the evolution of our design system and product patterns at scale, helping strengthen consistency, accessibility, adoption, and craft across the product experience.\n\n\n\n\n🌟 ABOUT YOU\n\nIn the spirit of equity and continuous growth, we invite you to remove education from your CV. Qualifications are not a factor in our decision-making. However, some experience in the following is important for this position:\n\n - You have significant product design experience, ideally in complex B2B2C enterprise SaaS environments.\n\n - You’re able to shape coherent product experiences across web and mobile, balancing system-wide consistency with platform-specific interaction patterns.\n\n - You’ve developed a portfolio that shows end-to-end ownership: framing ambiguous problems, shaping strategy, and shipping detailed, high-quality product design.\n\n - You have owned or significantly shaped a design system at scale, including governance and adoption.\n\n - You’re comfortable holding a high bar with autonomy, setting direction as well as following it.\n\n - Strong written and verbal communication, with the ability to tell the story of a design decision clearly to engineers, product managers, and executives.\n\n - You mentor or elevate other designers, even without formal management responsibility.\n\n - You know how to use AI thoughtfully as part of the design process, from discovery and synthesis through to prototyping and product delivery.\n\nTip for candidates: If you’re unsure whether to apply – do. We know great people don't always tick every box.\n\n\n\n\n💚 LIFE AT UNMIND\n\nWe believe wellbeing and performance go hand-in-hand – and we build our environment to support both.\n\nA few highlights:\n\n✅ Private medical for you & your family\n\n✅ Equity in Unmind\n\n✅ Generous gender-neutral parental leave\n\n✅ 25 days holiday + birthday + celebration days\n\n✅ Revive & Thrive Days – company-wide Friday off monthly\n\n✅ Flexible working + early Friday summers\n\n✅ Remote-first within the UK, with monthly in-person meet-ups and access to a London co-working space\n\n✅ Annual learning budget + learning leave\n\n✅ Free weekly therapy or coaching sessions\n\n✅ Wellbeing support via WellHub & Bippit\n\nSee all benefits on our Careers Page → https://unmind.com/unmind-careers?utm_source=xKmMdllMOD",
       "roleFamily": "lead-pd"
     },
     {
@@ -335,7 +335,7 @@
       "title": "Senior Product Designer Securities",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-securities-bitpanda/151678",
-      "postedAt": "2026-08-25T18:09:41.636Z",
+      "postedAt": "2026-08-26T10:07:26.369Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -346,7 +346,7 @@
       "title": "Senior Product Designer Wallets 100% Remote Worldwide",
       "location": "United Kingdom",
       "url": "https://web3.career/senior-product-designer-wallets-100-remote-worldwide-tetheroperationslimited/153067",
-      "postedAt": "2026-08-22T02:09:41.636Z",
+      "postedAt": "2026-08-21T10:07:26.369Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -357,7 +357,7 @@
       "title": "Lead Product Designer Growth",
       "location": "Australia",
       "url": "https://web3.career/lead-product-designer-growth-magiceden/152850",
-      "postedAt": "2026-08-18T02:09:41.637Z",
+      "postedAt": "2026-08-18T10:07:26.370Z",
       "description": "",
       "roleFamily": "lead-pd"
     },
@@ -368,7 +368,7 @@
       "title": "Principal Product Designer",
       "location": "Remote",
       "url": "https://web3.career/principal-product-designer-bitpanda/150682",
-      "postedAt": "2026-08-12T02:09:41.637Z",
+      "postedAt": "2026-08-11T10:07:26.370Z",
       "description": "",
       "roleFamily": "lead-pd"
     },
@@ -415,6 +415,17 @@
       "postedAt": "2026-08-14T00:00:00.000Z",
       "description": "",
       "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:point-nine:91236771",
+      "atsProvider": "getro",
+      "company": "Factorial HR",
+      "title": "Founding Product Designer",
+      "location": "Barcelona, Spain",
+      "url": "https://careers.factorialhr.com/job_posting/founding-product-designer-319459",
+      "postedAt": "2026-08-26T13:48:57.000Z",
+      "description": "",
+      "roleFamily": "uiux"
     },
     {
       "id": "getro:point-nine:91066904",
@@ -494,6 +505,17 @@
       "roleFamily": "senior-pd"
     },
     {
+      "id": "getro:accel:91150679",
+      "atsProvider": "getro",
+      "company": "New Relic",
+      "title": "Principal Product Designer",
+      "location": "Barcelona, Spain",
+      "url": "https://boards.greenhouse.io/newrelic/jobs/5396630008",
+      "postedAt": "2026-08-26T10:46:03.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
       "id": "getro:accel:90947033",
       "atsProvider": "getro",
       "company": "BeReal.",
@@ -527,17 +549,6 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "getro:accel:90902737",
-      "atsProvider": "getro",
-      "company": "Vinted",
-      "title": "Senior Product Designer, VGo Network",
-      "location": "Lithuania",
-      "url": "https://careers.vinted.com/jobs/j/4947641101",
-      "postedAt": "2026-08-22T16:01:54.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
-    },
-    {
       "id": "getro:accel:90794185",
       "atsProvider": "getro",
       "company": "Hudl",
@@ -547,17 +558,6 @@
       "postedAt": "2026-08-22T09:47:07.000Z",
       "description": "",
       "roleFamily": "uiux"
-    },
-    {
-      "id": "getro:accel:90793847",
-      "atsProvider": "getro",
-      "company": "Miro",
-      "title": "Staff Product Designer - Growth",
-      "location": "Copenhagen, Denmark",
-      "url": "https://dk.linkedin.com/jobs/view/staff-product-designer-growth-at-miro-4382798523",
-      "postedAt": "2026-08-22T09:38:35.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
     },
     {
       "id": "getro:accel:90598484",
@@ -582,12 +582,12 @@
       "roleFamily": "lead-pd"
     },
     {
-      "id": "getro:accel:90902489",
+      "id": "getro:accel:90902491",
       "atsProvider": "getro",
       "company": "Vinted",
       "title": "Director of Product Design, Frontend Technologies",
-      "location": "Amsterdam, Netherlands",
-      "url": "https://careers.vinted.com/jobs/j/4863111101",
+      "location": "Berlin, Germany",
+      "url": "https://careers.vinted.com/jobs/j/4863113101",
       "postedAt": "2026-08-22T16:01:06.000Z",
       "description": "",
       "roleFamily": "uiux"
@@ -681,37 +681,26 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "getro:accel:88844851",
+      "id": "getro:accel:91150388",
       "atsProvider": "getro",
-      "company": "Personio",
-      "title": "Product Designer (Senior/Staff) (d/f/m)",
-      "location": "Munich, Germany",
-      "url": "https://www.personio.com/careers/510e5762-f9d1-45c6-844e-5f29d3e2ed1d",
-      "postedAt": "2026-08-05T14:09:25.000Z",
+      "company": "Nimble Storage",
+      "title": "Senior Product Owner",
+      "location": "Galway, Ireland",
+      "url": "https://careers.hpe.com/us/en/job/1211894",
+      "postedAt": "2026-08-26T10:44:11.000Z",
       "description": "",
-      "roleFamily": "uiux"
+      "roleFamily": "product-owner"
     },
     {
-      "id": "getro:accel:88834549",
+      "id": "getro:accel:91146741",
       "atsProvider": "getro",
-      "company": "Headway",
-      "title": "Senior Product Designer, Client Management",
-      "location": "",
-      "url": "https://jobs.ashbyhq.com/headway/726a7dea-6f4b-4ad9-a694-104a66c8038b",
-      "postedAt": "2026-08-05T13:52:00.000Z",
+      "company": "Hpe Simplivity",
+      "title": "Senior Product Owner",
+      "location": "Galway, Ireland",
+      "url": "https://careers.hpe.com/us/en/job/1211894",
+      "postedAt": "2026-08-26T10:25:28.000Z",
       "description": "",
-      "roleFamily": "senior-pd"
-    },
-    {
-      "id": "getro:accel:88894485",
-      "atsProvider": "getro",
-      "company": "Vinted",
-      "title": "Director of Product Design, Frontend Technologies (Limited-time Relocation Bonus)",
-      "location": "Lithuania",
-      "url": "https://careers.vinted.com/jobs/j/4863115101",
-      "postedAt": "2026-08-06T00:13:10.000Z",
-      "description": "",
-      "roleFamily": "uiux"
+      "roleFamily": "product-owner"
     },
     {
       "id": "getro:accel:90396157",
@@ -791,17 +780,6 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "getro:seedcamp:89336206",
-      "atsProvider": "getro",
-      "company": "Murphy",
-      "title": "Founding Product Designer",
-      "location": "Dubai - United Arab Emirates",
-      "url": "https://careers.getmurphy.ai/jobs/8195468-founding-product-designer",
-      "postedAt": "2026-08-09T12:24:49.000Z",
-      "description": "",
-      "roleFamily": "uiux"
-    },
-    {
       "id": "getro:seedcamp:89670520",
       "atsProvider": "getro",
       "company": "Orbital Witness",
@@ -811,6 +789,17 @@
       "postedAt": "2026-08-12T13:21:47.000Z",
       "description": "",
       "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:seedcamp:89336206",
+      "atsProvider": "getro",
+      "company": "Murphy",
+      "title": "Founding Product Designer",
+      "location": "Dubai - United Arab Emirates",
+      "url": "https://careers.getmurphy.ai/jobs/8195468-founding-product-designer",
+      "postedAt": "2026-08-09T12:24:49.000Z",
+      "description": "",
+      "roleFamily": "uiux"
     },
     {
       "id": "getro:seedcamp:89018356",
@@ -824,17 +813,6 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "getro:seedcamp:88739845",
-      "atsProvider": "getro",
-      "company": "EverSettled",
-      "title": "Product designer",
-      "location": "",
-      "url": "https://eversettled.notion.site/Product-designer-39e58e68364581db8e96c3ac877852d2?pvs=25",
-      "postedAt": "2026-08-05T10:07:06.000Z",
-      "description": "",
-      "roleFamily": "uiux"
-    },
-    {
       "id": "getro:seedcamp:89140997",
       "atsProvider": "getro",
       "company": "Uncapped",
@@ -844,6 +822,17 @@
       "postedAt": "2026-08-07T13:29:26.000Z",
       "description": "",
       "roleFamily": "product-owner"
+    },
+    {
+      "id": "getro:insight-partners:91189481",
+      "atsProvider": "getro",
+      "company": "Optimizely",
+      "title": "Product Designer I (Hanoi, VN)",
+      "location": "Hanoi, Hoàn Kiếm, Hanoi, Vietnam",
+      "url": "https://careers.optimizely.com/job/Hanoi-Product-Designer-I/1353439155/",
+      "postedAt": "2026-08-26T12:15:21.000Z",
+      "description": "",
+      "roleFamily": "uiux"
     },
     {
       "id": "getro:insight-partners:90948479",
@@ -901,6 +890,17 @@
       "roleFamily": "uiux"
     },
     {
+      "id": "getro:insight-partners:90585095",
+      "atsProvider": "getro",
+      "company": "DuckDuckGo",
+      "title": "Senior Product Design Engineer",
+      "location": "United States, Canada, Ireland, Spain, Switzerland, Croatia, Israel, Poland, Singapore, Japan, South Africa, Austria, Argentina, Romania, Czechia, Hungary, Estonia, Portugal, Bulgaria, Greece, Slovenia, Bosnia and Herzegovina, Slovakia, Latvia, Cyprus, Iceland, Kyrgyzstan, Uruguay, Malta, Mauritius, United Kingdom, Utah, USA",
+      "url": "https://jobs.ashbyhq.com/duck-duck-go/ca69d3dd-7cef-4e02-9a1b-5f4d103fe4cd",
+      "postedAt": "2026-08-20T12:21:56.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
       "id": "getro:insight-partners:89966337",
       "atsProvider": "getro",
       "company": "Checkout.com",
@@ -930,17 +930,6 @@
       "location": "Bulgaria",
       "url": "https://boards.greenhouse.io/conga/jobs/5211290007",
       "postedAt": "2026-08-14T11:10:56.000Z",
-      "description": "",
-      "roleFamily": "uiux"
-    },
-    {
-      "id": "getro:insight-partners:90585095",
-      "atsProvider": "getro",
-      "company": "DuckDuckGo",
-      "title": "Senior Product Design Engineer",
-      "location": "United States, Canada, Ireland, Spain, Switzerland, Croatia, Israel, Poland, Singapore, Japan, South Africa, Austria, Argentina, Romania, Czechia, Hungary, Estonia, Portugal, Bulgaria, Greece, Slovenia, Bosnia and Herzegovina, Slovakia, Latvia, Cyprus, Iceland, Kyrgyzstan, Uruguay, Malta, Mauritius, United Kingdom, Utah, USA",
-      "url": "https://jobs.ashbyhq.com/duck-duck-go/ca69d3dd-7cef-4e02-9a1b-5f4d103fe4cd",
-      "postedAt": "2026-08-20T12:21:56.000Z",
       "description": "",
       "roleFamily": "uiux"
     },
@@ -1022,15 +1011,37 @@
       "roleFamily": "product-owner"
     },
     {
-      "id": "getro:insight-partners:89122196",
+      "id": "getro:general-catalyst:91164049",
       "atsProvider": "getro",
-      "company": "Auditdata",
-      "title": "Product Owner",
-      "location": "Kraków, Poland, Ukraine, Odessa Oblast, Ukraine, Remote, Greater Poland Voivodeship, Poland, Łódź Voivodeship, Poland, Kiev, Ukraine, Lviv, Lviv Oblast, Ukraine,, Lower Silesian Voivodeship, Poland, Silesian Voivodeship, Poland, Vinnytsia, Vinnytsia Oblast, Ukraine, Omsk, Omsk Oblast, Russia, Wysokie Mazowieckie, Poland",
-      "url": "https://auditdata.recruitee.com/o/product-owner-4",
-      "postedAt": "2026-08-07T12:54:07.000Z",
+      "company": "Transcarent",
+      "title": "Senior Product Designer, Internal Tools",
+      "location": "Prague, Czechia",
+      "url": "https://transcarent.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a6a8e12c6ba739",
+      "postedAt": "2026-08-26T11:21:23.000Z",
       "description": "",
-      "roleFamily": "product-owner"
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:general-catalyst:91152801",
+      "atsProvider": "getro",
+      "company": "Finom",
+      "title": "Senior Product Designer — Credit & Cards, Europe (Remote)",
+      "location": "Spain, Poland",
+      "url": "https://jobs.eu.lever.co/pnlfin/80b347aa-6e8e-483c-8010-0a6832f47113",
+      "postedAt": "2026-08-26T10:56:11.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:general-catalyst:91142746",
+      "atsProvider": "getro",
+      "company": "Factorial",
+      "title": "Founding Product Designer",
+      "location": "Barcelona, Spain",
+      "url": "https://careers.factorialhr.com/job_posting/founding-product-designer-319459",
+      "postedAt": "2026-08-26T10:00:04.000Z",
+      "description": "",
+      "roleFamily": "uiux"
     },
     {
       "id": "getro:general-catalyst:91017367",
