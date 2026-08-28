@@ -1,36 +1,14 @@
 {
-  "generatedAt": "2026-08-27T10:09:50.151Z",
-  "filteredAt": "2026-08-27T10:09:51.483Z",
+  "generatedAt": "2026-08-28T11:40:47.504Z",
+  "filteredAt": "2026-08-28T11:40:48.775Z",
   "funnel": {
-    "raw": 17555,
-    "deduped": 14613,
-    "titleMatched": 419,
-    "recencyPassed": 203,
-    "geoPassed": 110
+    "raw": 17486,
+    "deduped": 14544,
+    "titleMatched": 389,
+    "recencyPassed": 187,
+    "geoPassed": 106
   },
   "jobs": [
-    {
-      "id": "recruitee:bunq:2478238",
-      "atsProvider": "recruitee",
-      "company": "bunq",
-      "title": "Product Owner - Credit",
-      "location": "Amsterdam, Noord-Holland, Netherlands",
-      "url": "https://careers.bunq.com/o/product-owner-credit",
-      "postedAt": "2026-08-06 12:04:48 UTC",
-      "description": "<p>At bunq, we're not just building a banking app; we're reshaping how people around the world experience financial freedom. As a Product Lead - Credit, you’ll be instrumental in empowering our users with the flexible credit they need to support their lifestyle. You'll spearhead the entire credit domain, from ideation to international launch, building innovative solutions that are simple, transparent, and instantly accessible.</p><p style=\"min-height: 1.7em;\"></p><p><strong>Take Ownership</strong></p><p>As Product Lead - Credit, you’ll play a critical role in building a product that truly supports our users' lifestyles. You'll be the driving force behind the mission: \"Give me a credit line to support my lifestyle.\"</p><ul><li><p>Own the entire product lifecycle for our credit offerings, from designing and implementing the product and its underlying infrastructure to continuous maintenance and improvement.</p></li><li><p>Drive the strategic launch and expansion of our credit products into our current and new markets, navigating the unique complexities of each region.</p></li><li><p>Obsess over the user journey, collaborating with design and engineering teams to craft a world-class, seamless, and bug-free credit experience.</p></li><li><p>Work hand-in-hand with legal, risk, and compliance teams to ensure our credit products are not only innovative but also fully compliant with all regulatory requirements.</p></li></ul><p style=\"min-height: 1.7em;\"></p>",
-      "roleFamily": "product-owner"
-    },
-    {
-      "id": "workable:smartnews:0B21F4AE74",
-      "atsProvider": "workable",
-      "company": "SmartNews",
-      "title": "AI-First Product Designer 【AIファースト プロダクトデザイナー】",
-      "location": "Shibuya, Japan",
-      "url": "https://apply.workable.com/j/0B21F4AE74",
-      "postedAt": "2026-08-07",
-      "description": "<p><strong>Note:</strong> Japanese text is followed by English in each section below.</p><p><strong>※注:</strong> 本文書は全項目「日本語 ➔ 英語」の順で記載されています。</p><h3>スマートニュース株式会社について</h3><p>スマートニュース株式会社は2012年6月15日の設立以来、「世界中の良質な情報を必要な人に送り届ける」をミッションに掲げ、日本と米国でニュースアプリ「SmartNews（スマートニュース）」を開発、国内のニュースアプリとしては最大級のユーザー数を誇ります。</p><p>2023年末からは初めてのサブスクリプションサービス「SmartNews＋」を開始、子会社のスローニュースとともに、優れたジャーナリズムによって生まれた良質な報道や多様なコンテンツを一人でも多くの利用者に届けることに力を注いでいます。世界中の膨大な情報を日夜解析し続けるアルゴリズムと国内外の3,000媒体以上ものメディアパートナーとの強力な提携関係のもと、スマートデバイスに最適化された快適なインターフェースを通じて、良質な情報を一人でも多くの利用者に効果的に届けることで、これからも社会に貢献していく考えです。</p><p>スマートニュースは東京、大阪（関西オフィス）、パロアルト、ニューヨーク、シンガポールにオフィスを構えています。私たちとともにグローバルスタートアップとして、ミッションの実現を目指していただける方は、ぜひご応募ください。</p><h3>About SmartNews&nbsp;</h3><p>SmartNews is a leading global information and news discovery company dedicated to delivering quality information to the people who need it. Thanks to our unique machine-learning technology and relationships with more than 3,000 global publisher partners, we provide news that matters to millions of users.</p><p>Founded in 2012 in Tokyo, SmartNews also has offices in Osaka (Kansai Office), Palo Alto, New York and Singapore.</p><p>If you share our vision and are passionate about our mission, we encourage you to apply! </p><p><img src=\"https://workablehr.s3.amazonaws.com/uploads/photos/237414/8cb62f65c06e06700073bfb644043400.jpg\" alt=\"Photo of the office\" width=\"787px\" height=\"auto\" style=\"width:787px;height:auto;\"></p><h3>チームについて</h3><p>スマートニュースのデザインチームは、ユーザー中心のデザインを通じて、人々のニュース消費のあり方を革新することに専念しています。私たちのミッションは、日本および米国市場のプロダクトをさらに発展させ、ユーザーにより良い情報を提供し、エンゲージメントを高め、日々の生活を豊かにすると同時に、ビジネスやメディアエコシステム全体に大きな価値をもたらすことです。</p><h3>The Team</h3><p>The Design team at SmartNews is dedicated to revolutionizing how people consume news through user-centric design. Our mission is to build upon our Japan and US products to better inform, engage, and empower our users, while delivering significant value to our business and the broader media ecosystem.</p><h3></h3><h3>ミッション</h3><p>コンシューマープロダクトデザインチームのAIファーストなプロダクトデザイナーとして、数百万人の日本のユーザーが毎日ニュースに触れる体験を定義する、エンドツーエンドのデザインソリューションを担当していただきます。ユーザーのニーズ、ビジネス目標、そしてAI技術の架け橋となり、インサイトを直感的かつインパクトのある体験へと昇華させる役割を担います。</p><p>主な注力領域:</p><ul><li>AI-First Innovation &amp; Prototyping (AIによるイノベーションとプロトタイピング): AIを活用したニュース要約、パーソナライズされた発見ツール、LLMを活用したインタラクティブなコンテンツ機能など、スマートニュースの「新しい時代」を築く次世代の体験設計とプロトタイピングを牽引していただきます。静的なデザインツール（Figmaなど）だけに依存するのではなく、実際に動作するプロトタイプ（functional prototypes）の構築からスタートすることで、従来のプロダクトデザインの限界を押し広げていただきます。</li><li>Core UX Excellence（コアUXの追求）: ニュースフィードの最適化、コンテンツのエンゲージメントと発見機能、記事の閲覧体験、シームレスな広告統合、ナビゲーションパターンの改善に取り組みます。日本市場におけるデイリーのエンゲージメントとリテンションを最大化する、ストレスのない（摩擦のない）ユーザー体験の構築を目指します。</li></ul><p>担当プロジェクトにおけるデザインクラフトの第一責任者（Primary owner）として活躍していただきながら、プロダクトマネージャー、エンジニア、ビジネスメンバーなどと密接に連携し、インタラクティブなコードベースのプロトタイプ開発における中心的な貢献者として機能していただきます。</p><h3>Role Mission</h3><p>As an AI-first Product Designer on our Consumer Product Design team, you will be responsible for executing end-to-end design solutions that define how millions of users in Japan interact with news every day. You will bridge the gap between user needs, business goals, and AI technology by transforming insights into intuitive, high-impact experiences.&nbsp;&nbsp;</p><p>Your Likely Focus Areas:</p><ul><li>AI-First Innovation &amp; Prototyping: You will lead the next phase of SmartNews by designing and prototyping next-generation experiences, including AI-powered news summaries, personalized discovery tools, and interactive content features that leverage LLMs. You will push the boundaries of traditional product design by starting with functional prototypes, rather than solely relying on static design tools.&nbsp;</li><li>Core UX Excellence: You will iterate on and optimize our news feed, content engagement and discovery features, article browsing, seamless ads integration, and navigation patterns. Your goal is to create frictionless experiences that maximize daily engagement and retention for the Japanese market.</li></ul><p>While you will be the primary owner of the design craft for your workstream, you will collaborate closely with Product Managers, Engineers, Business members, and others, acting as a key contributor to the development of interactive, code-built prototypes.&nbsp;</p><h3></h3><p><strong>主な業務内容</strong></p><p>本ポジションでは、初期のプロトタイピングやディスカバリー段階から、高精度な（high-fidelity）デザインの実行、そしてリリースに至るまで、ユーザー体験を牽引する実務担当者として活躍していただきます。</p><ul><li>エンドツーエンドのプロダクトデザインとAIプロトタイピング: 日本向けプロダクト機能のデザインプロセスを主導する。従来のFigmaによるワークフローと並行して、AIコーディングツール（Claude Code、Cursorなど）を活用してインタラクティブなプロトタイプを構築・テスト・検証し、プロダクトデザインの限界を押し広げる。</li><li>コラボレーティブ・プロトタイピング: PMやエンジニアと密接に連携し、インタラクティブなコードベースのプロトタイプを構築、テスト、改善することで、デザインコンセプトと開発ワークフローのギャップを埋める。</li><li>ビジュアル＆インタラクションクラフト: ビジュアルおよびインタラクションデザインにおいて高い基準を維持し、デザインやライブプロトタイプが日本のモバイルユーザー特有のニュアンスに最適化されていることを確実にする。</li><li>クロスファンクショナルなアライメント: クロスファンクショナルなメンバーと連携し、デザインが技術的に実現可能であり、ビジネスKPIに沿っており、開発サイクルへシームレスに統合されていることを確実にする。</li><li>ユーザーリサーチとデータに基づくデザイン: リサーチ結果や定量データを統合し、実行可能なデザインの改善案へと落とし込むことで、すべてのプロダクトや機能の変更がユーザーの真の課題を解決するようにする。</li></ul><h3><strong>Responsibilities</strong></h3><p>In this role, you will be a hands-on driver of user experience, moving projects from early-stage prototyping and discovery, through to high-fidelity execution and launch.</p><ul><li>End-to-End Product Design &amp; AI Prototyping: Own the design process for JP product features. Push the boundaries of product design by utilizing AI coding tools (e.g. Claude Code, Cursor) to build, test, and validate interactive prototypes alongside traditional Figma workflows.</li><li>Collaborative Prototyping: Partner closely with PMs and Engineers to build, test, and refine interactive, code-built prototypes, helping bridge the gap between design concepts and development workflows.&nbsp;&nbsp;</li><li>Visual &amp; Interaction Craft: Maintain a high bar for craft, ensuring designs and live prototypes are specifically tailored to the nuances of the Japanese mobile consumer market.</li><li>Cross-Functional Alignment: Work with cross-functional members to ensure designs are technically feasible, aligned with business KPIs, and seamlessly integrated into the development cycle.</li><li>User Research &amp; Data-Informed Design: Synthesize findings from research and quantitative data into actionable design improvements, ensuring every product or feature change solves a real pain point.</li></ul><p><strong>Requirements</strong></p><p><strong>応募要件（必須）</strong></p><ul><li>優れたビジュアルおよびインタラクションデザインのスキルに加え、AI技術や効率的なデザイン・開発ワークフローへの情熱、そして実用的（pragmatic）な問題解決アプローチを兼ね備えたデザイナーを求めています。</li><li>AIファーストのデザインとプロトタイピング: 従来のプロダクトデザインの枠組みを越えた実務経験。Figmaだけに依存せず、AIコーディングツールを活用してインタラクティブなプロトタイプを構築・検証することに非常に長けていること。</li><li>市場への知見とデザインクラフト: 日本市場向けの大規模で成功しているコンシューマーモバイルプロダクトにおける設計実績。日本のUIパターン、美意識のニュアンスに対する深い理解と、細部への鋭いこだわり。</li><li>プロダクトオーナーシップ精神と問題解決能力: ユーザーニーズ、ビジネス目標、技術的制約、そしてプロダクト戦略のバランスをいかに取るかについての深い理解。担当する機能の戦略的価値と技術的実現可能性に完全な責任（Accountability）を持ち、複雑な機能をシンプルで優れたユーザー体験へと落とし込めること。</li><li>コラボレーティブなコミュニケーション: PMやエンジニアに対して、デザインの選択とその「なぜ（背景や意図）」を明確に説明できる優れたコミュニケーション能力。デザインコンセプトと開発サイドのギャップを埋め、円滑なアライメントを推進できること。</li><li>言語能力:</li><li>日本語: 会話レベル以上（ローカルチームと効果的に協働し、デザインのアイデアについて議論できるレベル）。</li><li>英語: 会話レベル以上（グローバル組織内での円滑な連携に必要なレベル）。</li></ul><p><a href=\"https://speakerdeck.com/smartnews/b91e5ef5a43e3c839b52d0286f84ddb8\" target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external\"></a><strong>Minimum Experience</strong></p><ul><li>AI-First Design &amp; Prototyping: Experience with pushing the boundaries of traditional product design. Highly proficient in using AI coding tools to build interactive prototypes rather than relying solely on Figma.&nbsp;&nbsp;</li><li>Market Expertise &amp; Design Craft: A proven track record of designing for large-scale, successful consumer mobile products for the Japanese market, with a strong grasp of local UI patterns and aesthetic nuances.&nbsp;&nbsp;</li><li>Product Owner Mindset &amp; Problem Solving: Deep understanding of how to balance user needs with business goals, technical constraints, and product strategy. You take full accountability for a feature’s strategic value and technical feasibility, distilling complex capabilities into simple user experiences.</li><li>Collaborative Communication: Excellent cross-functional communicator who can clearly explain the \"why\" behind design choices to PMs and Engineers. Comfortable bridging the gap between design concepts and engineering to ensure smooth alignment.</li><li>Language Skills: Conversational proficiency in both Japanese (to collaborate with local teams and discuss design ideas) and English (for global organization alignment).&nbsp;&nbsp;</li></ul><p></p><p><strong>歓迎する経験・スキル</strong></p><ul><li>プロジェクトマネジメントまたはプロダクトマネジメント（PdM）の実務経験。</li><li>ニュース、メディア、またはコンテンツプラットフォームでの実務経験。</li><li>ユーザーインタビューを通じたUXリサーチの計画および実施における豊富な経験。</li><li>デザインシステムの構築および運用の経験。</li></ul><p><strong>Nice-to-have skills</strong></p><ul><li>Project Management or Product Management experience.</li><li>Experience with news, media, or content platforms.</li><li>Strong experience in both planning and conducting UX research through user interviews.</li><li>Experience building and maintaining Design Systems</li></ul><p></p><p><strong>関連リンクと勤務条件</strong></p><ul><li><a href=\"https://careers.smartnews.com/ja/blog/\" target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external\">Employee's Interview</a></li><li>勤務地：東京<a rel=\"nofollow noreferrer noopener\" class=\"external\"></a></li><li>詳細は、<a href=\"https://speakerdeck.com/smartnews/b91e5ef5a43e3c839b52d0286f84ddb8\" target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external\">こちらをクリックするか、弊社の採用サイトをご覧ください</a>。</li></ul><p><strong>Related Links &amp; Working condition</strong></p><ul><li><a href=\"https://careers.smartnews.com/ja/blog/\" target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external\">Click here or visit our careers site to check employee interviews</a></li><li>Office Location: Tokyo </li><li><a href=\"https://speakerdeck.com/smartnews/b91e5ef5a43e3c839b52d0286f84ddb8\" target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external\">Click here or visit our careers site for more info.</a></li></ul><p><strong>Benefits</strong></p><p><strong>スマートニュース東京オフィスにおけるサポート</strong></p><ul><li>毎年の健康診断</li><li>日本の労働法で必要とされるすべての医療保険と社会保険の適用</li><li>福利厚生の詳しくは、<a href=\"https://speakerdeck.com/smartnews/jp-office-benefits-overview-japanese\" rel=\"nofollow noreferrer noopener\" class=\"external\">こちらをクリックするか、弊社の採用サイトをご覧ください。</a></li></ul><p><strong>Benefits available at the SmartNews Tokyo Office</strong></p><ul><li>All healthcare and social insurance required by the Japanese labor law, plus annual health check </li><li>Visa sponsorship and overseas relocation support available for eligible candidates </li><li><a href=\"https://speakerdeck.com/smartnews/jp-office-benefits-overview-april-2024-eng\" rel=\"nofollow noreferrer noopener\" class=\"external\"></a><a href=\"https://speakerdeck.com/smartnews/jp-office-benefits-overview-april-2024-eng\" target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external\">Click here or visit our careers site for more info about our benefits.</a>　</li></ul>",
-      "roleFamily": "uiux"
-    },
     {
       "id": "workable:adverity:B53E37B803",
       "atsProvider": "workable",
@@ -63,6 +41,17 @@
       "postedAt": "2026-08-18T06:47:51.000Z",
       "description": "<div><p>Property Finder is the leading property portal in the Middle East and North Africa (MENA) region, dedicated to shaping an inclusive future for real estate while spearheading the region’s growing tech ecosystem. At its core is a clear and powerful purpose: To change living for good in the region.</p><p>Founded on the value of great ambitions, Property Finder connects millions of property seekers with thousands of real estate professionals every day. The platform offers a seamless and enriching experience, empowering both buyers and renters to make informed decisions. Since its inception in 2007, Property Finder has evolved into a trusted partner for developers, brokers, and home seekers. As a lighthouse tech company, it continues to create an environment where people can thrive and contribute meaningfully to the transformation of real estate in MENA.</p></div><div><p></p><p><span>As a Senior Product Designer at PF, you will play a pivotal role in shaping the design and user experience of our B2B products. You will drive the design process from discovery to delivery, taking ownership of projects and collaborating closely with cross-functional teams to deliver high-impact solutions. As a senior member of the design team, you will work alongside other designers, contribute to design strategy, and ensure that our products align with both customer needs and business goals. This role offers you the chance to lead complex design projects, work on strategic initiatives, and be a key player in achieving PF’s mission to become the most trusted partner in real estate across the MENA region.</span></p><h4><span>Key responsibilities:</span></h4><ul><li><p><span>Design Leadership: Lead the end-to-end design process for one or more B2C products—from discovery and ideation through prototyping, user testing, and delivery. Set a high bar for craft, quality, and execution across the team.</span></p></li><li><p><span>User-Centred Design: Champion user needs throughout the product development lifecycle, creating intuitive, effective experiences that balance customer value with business goals.</span></p></li><li><p><span>UI &amp; Visual Design: Demonstrate exceptional UI and visual design skills, with a strong eye for detail, interaction design, motion, micro-interactions, and creating moments of delight.</span></p></li><li><p><span>Rapid Execution: Produce high-quality design work in fast-paced environments while maintaining strong design thinking, process, and attention to detail.</span></p></li><li><p><span>Problem Solving: Translate user research, data, and business objectives into thoughtful product solutions. Continuously iterate to improve usability, engagement, and outcomes.</span></p></li><li><p><span>Collaboration: Partner closely with product managers, researchers, engineers, and fellow designers to define problems, align on solutions, and deliver exceptional product experiences.</span></p></li><li><p><span>Design Strategy: Help shape the design strategy for the B2B product suite, ensuring a consistent experience across web and mobile. Collaborate with other design teams to evolve a unified product vision and design language.</span></p></li><li><p><span>Testing &amp; Iteration: Validate concepts through prototyping, user testing, and experimentation, using feedback and data to refine designs and improve product outcomes.</span></p></li></ul><h4><span>Desired Experience:</span></h4><ul><li><p><span>Experience: 8+ years of experience in Product Design, UX, or a related discipline, with a proven track record of shipping high-quality digital products in fast-paced environments.</span></p></li><li><p><span>Design Craft: Expertise across product discovery, UX, interaction design, visual design, prototyping, and design systems. Strong ability to use research and data to inform decisions.</span></p></li><li><p><span>Strategic Thinking: Ability to connect user needs with business objectives and contribute to product and design strategy.</span></p></li><li><p><span>Communication &amp; Collaboration: Outstanding communication and stakeholder management skills, with experience influencing cross-functional teams and presenting design rationale with confidence.</span></p></li><li><p><span>Mentorship: Passion for supporting and developing other designers through coaching, feedback, and leading by example.</span></p></li><li><p><span>Ownership &amp; Execution: Self-driven and accountable, with the ability to lead complex initiatives from concept through launch while maintaining a high standard of quality.</span></p></li><li><p><span>Attention to Detail: A strong eye for visual polish, usability, accessibility, and the small details that create exceptional user experiences.</span></p></li><li><p><span>AI Proficiency: Fluency with AI tools across the design process, from research synthesis to rapid prototyping. Critical evaluation of AI output and knowledge when generative capabilities genuinely improve an experience versus when they don't.</span></p></li><li><p><span>Content Creation (Nice to Have): Experience creating product videos, motion graphics, or other visual content is a plus.</span></p></li></ul></div><h3><strong>Our promise to talent</strong></h3><p>At Property Finder, we believe talent thrives in an environment where you can be your best self. Where you are empowered to create, elevate, grow, and care. Our team is made up of the best and brightest, united by a shared ambition to change living for good in the region. We attract top talent who want to make an impact. We firmly believe that when our people grow, we all succeed.</p><h2><strong>Property Finder Guiding Principles</strong></h2><div><div><div><div><div><div><div><ol><li><p>Think Future First</p></li><li><p>Data Beats Opinions, Speed Beats Perfection</p></li><li><p>Optimise for Impact</p></li><li><p>Act Like An Owner</p></li><li><p>The Biggest Risk is Taking no Risk at All</p></li></ol></div></div></div></div></div></div></div><div><div><h2><strong>Find us at:</strong></h2></div></div><h2><a target=\"_blank\" href=\"https://twitter.com/propertyfinder?lang=en\">Twitter</a></h2><h2><a target=\"_blank\" href=\"https://www.facebook.com/propertyfinderuae/\">Facebook</a></h2><h2><a target=\"_blank\" href=\"https://www.instagram.com/propertyfinder/?hl=en\">Instagram</a></h2><h2><a target=\"_blank\" href=\"https://www.linkedin.com/company/propertyfinder-ae/\">Linkedin</a></h2><h2><a target=\"_blank\" href=\"https://www.glassdoor.com/Overview/Working-at-propertyfinder-EI_IE1176641.11,25.htm\">Glassdoor</a></h2>",
       "roleFamily": "senior-pd"
+    },
+    {
+      "id": "smartrecruiters:DeliveryHero:744000146136179",
+      "atsProvider": "smartrecruiters",
+      "company": "Delivery Hero",
+      "title": "Staff Product Designer, Global Hub Q-Commerce ",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000146136179",
+      "postedAt": "2026-08-28T08:22:05.727Z",
+      "description": "",
+      "roleFamily": "lead-pd"
     },
     {
       "id": "smartrecruiters:DeliveryHero:744000145214989",
@@ -131,17 +120,6 @@
       "roleFamily": "lead-pd"
     },
     {
-      "id": "smartrecruiters:wise:744000142103074",
-      "atsProvider": "smartrecruiters",
-      "company": "Wise",
-      "title": "Group Design Lead - Wise Platform FTC (12-Month Maternity Cover)",
-      "location": "London, , United Kingdom",
-      "url": "https://jobs.smartrecruiters.com/wise/744000142103074",
-      "postedAt": "2026-08-07T10:59:44.499Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
       "id": "ashby:synthesia:72144066-ff3f-4cdd-b648-743592e414ca",
       "atsProvider": "ashby",
       "company": "Synthesia",
@@ -186,15 +164,15 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "greenhouse:flix:8726634002",
-      "atsProvider": "greenhouse",
-      "company": "Flix",
-      "title": "Senior Product Owner (m/f/d)",
-      "location": "Berlin",
-      "url": "https://flix.careers/job/8726634002?gh_jid=8726634002",
-      "postedAt": "2026-08-19T08:43:23-04:00",
-      "description": "&lt;p style=&quot;line-height: 1.4;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;At Flix, we offer a tech-driven environment where innovation meets real-world impact, with competitive pay, strong growth opportunities, and a culture of collaboration and ownership. &amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;123&quot; data-local-id=&quot;89a0e047ba4c&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Flix is building the global platform for affordable and sustainable ground travel, from next-generation train offerings in Europe to rapid expansion in high-growth markets such as India. As our network becomes broader and more complex, Search plays a critical role in helping millions of customers find the right journey quickly, confidently, and intuitively.&lt;/span&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;485&quot; data-local-id=&quot;7a3ca574c08a&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;As a &lt;strong&gt;Senior Product Owner/Manager&lt;/strong&gt; in Demand Division you will be able to turn Search into a true growth engine for Flix: a product experience that understands customer intent, reduces complexity, improves conversion, and creates valuable demand signals for the business across web, app, and emerging AI-native channels.&lt;/span&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;485&quot; data-local-id=&quot;7a3ca574c08a&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;In this role, you will define the north star for Flix Search and own the roadmap through a major product and technical transformation. You will work closely with engineering, UX, data, commercial, and operational stakeholders to evolve Search from a functional step in the booking funnel into a personalised, intelligent, and scalable discovery experience.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 24pt;&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;About the Role&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;1163&quot; data-local-id=&quot;36e69d70&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Set and communicate a compelling product vision and strategy for Search, grounded in customer needs, business impact, and market opportunity&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;1308&quot; data-local-id=&quot;2f29e1d8&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Identify and prioritise opportunities across ranking, relevance, comparison, query understanding, personalisation, and zero-result recovery&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;1452&quot; data-local-id=&quot;67351169&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Use data such as conversion impact, query behaviour, and customer feedback to diagnose problems and guide product decisions&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;1581&quot; data-local-id=&quot;70e7638c&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Lead discovery and delivery with cross-functional teams, balancing quick customer-facing improvements with long-term platform and architectural needs&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;1735&quot; data-local-id=&quot;33fd64b9&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Align stakeholders around trade-offs, success metrics, and roadmap priorities in an ambiguous and strategically important product area&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;1874&quot; data-local-id=&quot;43cb25eb&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Explore how Search can support new surfaces and behaviours, including AI-native discovery and conversational travel planning&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 24pt;&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;About You&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;2016&quot; data-local-id=&quot;560ed1c2&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;You have 8+ years of product management experience, ideally including ownership of a search, discovery, marketplace, recommendation, or other high-intent digital product&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;2190&quot; data-local-id=&quot;3e9cd0de&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;You have led meaningful product changes in complex environments and can connect product strategy with hands-on execution&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;2314&quot; data-local-id=&quot;4e15a792&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;You are highly data-informed and know how to turn behavioural, funnel, and query-level insights into clear product direction&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;2443&quot; data-local-id=&quot;4d6067d1&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;You are comfortable partnering with engineering on technical topics such as APIs, ranking, machine learning, performance, and architectural trade-offs&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;2598&quot; data-local-id=&quot;272a4379&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;You are a strong communicator who can build trust across engineering, UX, data, and business teams and create alignment when priorities compete&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;2746&quot; data-local-id=&quot;0b19d415&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;You are energised by unsolved problems and motivated to understand why a customer experience is not working, not only how to close the next ticket&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;2897&quot; data-local-id=&quot;4ec8e61d&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;You are fluent in English&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p data-renderer-start-pos=&quot;2927&quot; data-local-id=&quot;72f3f906&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Nice to have:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;2944&quot; data-local-id=&quot;74030f30&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Experience with travel, mobility, marketplaces, e-commerce, or other high-scale consumer platforms&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;3047&quot; data-local-id=&quot;4ad03a2f&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Experience building or improving AI-assisted, personalised, or conversational discovery experiences&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot; data-renderer-start-pos=&quot;3151&quot; data-local-id=&quot;19e90ea4&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;German or another European language skills&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p style=&quot;line-height: 1.4;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;We recognize that everyone carries a unique set of valuable skills and experiences. If you think you could have an impact even though you don&#39;t meet 100% of the requirements, we still encourage you to apply. We want to hear from you! &amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 24pt;&quot;&gt;&lt;strong&gt;What We Offer&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li data-renderer-start-pos=&quot;11445&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Travel perks&lt;/strong&gt;: 12 free Flix vouchers + 12 discount vouchers for friends &amp;amp; family.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;11530&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Work from (M)Anywhere&lt;/strong&gt;: Depending on your role, work from another location for up to 60 days per year.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;11636&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Hybrid work model&lt;/strong&gt;: We are an office-first company, but we offer flexibility to balance work and life.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;11742&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Wellbeing support&lt;/strong&gt;: Access confidential 1:1 counselling, courses, and stress management for yourself and up to four family members.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;11877&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Learning &amp;amp; Development&lt;/strong&gt;: Take advantage of language classes, training courses, and expert-led sessions to grow your skills.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;12004&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Mentoring Program&lt;/strong&gt;: Connect with experienced colleagues to gain insights and accelerate your career.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p style=&quot;line-height: 1.4;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;To view more local benefits specific to each office location, please check out this link:&amp;nbsp;&lt;a href=&quot;https://flix.careers/locations/&quot;&gt;Locations - Flix Career&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;hr&gt;\n&lt;p style=&quot;line-height: 1.4;&quot;&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;&lt;strong&gt;Why Join Flix?&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;line-height: 1.4;&quot; data-renderer-start-pos=&quot;14351&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;At Flix, we empower our teams to push boundaries and shape the future of mobility. As we continue to scale globally, we harness cutting-edge technology to make mobility smarter, more sustainable, and more affordable.&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;line-height: 1.4;&quot; data-renderer-start-pos=&quot;14569&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;If you’re looking for a place where you can drive change and redefine how millions of people travel, Flix is the place where you can lead your journey!&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;line-height: 1.4;&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/YlHz7TiiRAw&quot; width=&quot;560&quot; height=&quot;314&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;\n&lt;p style=&quot;line-height: 1.4;&quot;&gt;&amp;nbsp;&lt;/p&gt;",
-      "roleFamily": "product-owner"
+      "id": "ashby:nord-security:f2e8b050-a467-4c28-b598-aaef65cfd6cd",
+      "atsProvider": "ashby",
+      "company": "Nord Security",
+      "title": "Lead Product Designer",
+      "location": "Vilnius",
+      "url": "https://jobs.ashbyhq.com/nord-security/f2e8b050-a467-4c28-b598-aaef65cfd6cd",
+      "postedAt": "2026-08-27T13:10:15.337+00:00",
+      "description": "AT COVERON, WE’RE BUILDING A COMPLETE IDENTITY THEFT PROTECTION SERVICE.\n\nJoin the team behind Nord Security’s latest product—combining dark web monitoring, credit tracking, and identity theft insurance into one powerful platform.\n\n\nYOUR IMPACT? HELPING PEOPLE PROTECT THEIR IDENTITIES, SPOT THREATS EARLY, AND RECOVER STRONGER.\n\nMAIN RESPONSIBILITIES\n\n - Lead and mentor a team of Product Designers fostering a collaborative and creative work environment.\n\n - Act as a hands-on designer, spending the majority of your time creating wireframes, prototypes, and high-fidelity designs, leading by example and setting the quality bar through your own work.\n\n - Collaborate closely with the Product and Engineering teams to drive design initiatives.\n\n - Drive the overall design strategy and vision for the design team, aligning it with business objectives and Coveron brand guidelines.\n\n - Oversee the end-to-end design process, from concept to implementation, ensuring a user-centric approach and a seamless cross-platform user experience.\n\n - Conduct regular design reviews, providing constructive feedback to the team to elevate the overall design quality.\n\n - Stay updated on industry trends, emerging technologies, and design best practices to continuously improve Coveron design standards.\n\n - Work closely with stakeholders to understand business goals and user needs, translating them into actionable design strategies.\n\n - Combine strong people management and leadership skills with a solid design background to foster a positive and collaborative team culture.\n\n\n\nCORE REQUIREMENTS\n\n - 5+ years of experience in product design, with at least 2 years in a leadership role in a product-focused environment.\n\n - Strong portfolio showcasing a range of successful design projects with a focus on app design.\n\n - Expertise in app design, with knowledge of best practices for iOS, Android, and web platforms.\n\n - Excellent leadership skills, with the ability to inspire and motivate a team.\n\n - Exceptional communication and collaboration skills, with the ability to bridge the gap between design and development.\n\n\n\n\nWHAT WE OFFER\n\nInnovate with industry leaders\n\nWork alongside global experts to build world-leading cybersecurity tools, impacting millions of users around the world.\n\nLearn & grow\n\nBoost your skills via our extensive training programs (online and offline) & other resources. Benefit from mentorship and career-switch opportunities to grow within the company.\n\nWork in a next-gen Cyber City office\n\nThrive in our bustling office, featuring ergonomic workspaces, modern meeting rooms, engaging events, and specialty coffee to fuel your day.\n\nWork from anywhere\n\nRecharge with a change of scenery – choose work from any location when you feel a need to power your creativity and drive.\n\nPhysical well-being\n\nBoost your health with free-of-charge 24/7 gym access, onsite and online workouts, and consultations led by in-house Physical Well-Being experts.\n\nMental & emotional health\n\nNurture your mind with free psychologist consultations, dedicated mental health events, and premium access to top-rated wellness apps like Calm, Headspace, and Mindletic.\n\nPremium healthcare\n\nReceive private health insurance giving you peace of mind for your health needs.\n\nExtra days off\n\nEnjoy additional vacation days off as you grow with us. Plus, get extra days for sick leave, special occasions, or parenting needs.\n\nJoyful moments – special treats\n\nCelebrate life’s big moments with special gifts from us on your birthday, anniversary, and other major events, such as weddings or the arrival of a new family member.\n\nCompany events & team-building\n\nExperience iconic Nord Security celebrations, team-buildings, and knowledge-sharing events, nurturing bonds that fuel our success.\n\nWorkation\n\nEmbark on a legendary company getaway abroad, filled with exciting activities, live concerts, engaging workshops, and epic time together.\n\n \n\nKindly refer to our Privacy Notice for Recruitment Candidates https://drive.google.com/file/d/1b2tV684_SYV1jQ4kuf91cnzrRBk3ef-5/view for comprehensive information regarding our data handling procedures throughout recruitment processes.\n\nWe expect all candidates to provide accurate and complete information during the recruitment process. While limited use of AI tools to refine application materials is acceptable, candidates remain fully responsible for ensuring that their submissions reflect their own qualifications, skills, and experience. Any failure to do so may negatively affect participation in the recruitment process. If broader AI assistance is allowed for a particular role or stage, we’ll let you know in advance.\n\nBy submitting your application, you acknowledge that it may be processed using automated tools for evaluation purposes. As part of our recruitment process, we may use an AI-based application review tool to help assess applications based on skills and experience relevant to the role. This technology is used to support - not replace - human decision-making, and every application is ultimately reviewed by a recruiter.\n\nIf you would like more information about how AI is used in this process or wish to exercise your rights under applicable data privacy laws, please contact us at privacy@nordaccount.com. Should you prefer to opt out of the automated evaluation, please submit your application directly to career@nordsec.com.",
+      "roleFamily": "lead-pd"
     },
     {
       "id": "smartrecruiters:swiggy:6000000001312974",
@@ -335,7 +313,7 @@
       "title": "Senior Product Designer Securities",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-securities-bitpanda/151678",
-      "postedAt": "2026-08-26T10:07:26.369Z",
+      "postedAt": "2026-08-25T11:38:29.331Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -346,7 +324,7 @@
       "title": "Senior Product Designer Wallets 100% Remote Worldwide",
       "location": "United Kingdom",
       "url": "https://web3.career/senior-product-designer-wallets-100-remote-worldwide-tetheroperationslimited/153067",
-      "postedAt": "2026-08-21T10:07:26.369Z",
+      "postedAt": "2026-08-21T11:38:29.332Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -357,7 +335,7 @@
       "title": "Lead Product Designer Growth",
       "location": "Australia",
       "url": "https://web3.career/lead-product-designer-growth-magiceden/152850",
-      "postedAt": "2026-08-18T10:07:26.370Z",
+      "postedAt": "2026-08-18T11:38:29.332Z",
       "description": "",
       "roleFamily": "lead-pd"
     },
@@ -368,7 +346,7 @@
       "title": "Principal Product Designer",
       "location": "Remote",
       "url": "https://web3.career/principal-product-designer-bitpanda/150682",
-      "postedAt": "2026-08-11T10:07:26.370Z",
+      "postedAt": "2026-08-11T11:38:29.333Z",
       "description": "",
       "roleFamily": "lead-pd"
     },
@@ -382,39 +360,6 @@
       "postedAt": "2026-08-17T13:05:28.354Z",
       "description": "“Our project teaches electronic music arrangement inside the DAW while producers are making music. We are looking for an…”",
       "roleFamily": "uiux"
-    },
-    {
-      "id": "a16z:8141776",
-      "atsProvider": "a16z",
-      "company": "Navan",
-      "title": "Sr. Product Designer - Specialty Travel",
-      "location": "London, UK",
-      "url": "https://navan.com/careers/openings?gh_jid=8141776",
-      "postedAt": "2026-08-20T11:48:35.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
-    },
-    {
-      "id": "a16z:bc3e47ff-41a3-417a-86e3-d1756cc81133",
-      "atsProvider": "a16z",
-      "company": "Skydio",
-      "title": "Product Design Engineer - Camera",
-      "location": "Finland, FI - Remote",
-      "url": "https://jobs.ashbyhq.com/skydio/bc3e47ff-41a3-417a-86e3-d1756cc81133",
-      "postedAt": "2026-08-17T00:00:00.000Z",
-      "description": "",
-      "roleFamily": "uiux"
-    },
-    {
-      "id": "a16z:e6c66391-6ac7-4251-b893-4a9fc6d63f5c",
-      "atsProvider": "a16z",
-      "company": "Walrus Foundation",
-      "title": "Staff Product Designer",
-      "location": "European Union, Europe (Remote)",
-      "url": "https://jobs.ashbyhq.com/walrus/e6c66391-6ac7-4251-b893-4a9fc6d63f5c",
-      "postedAt": "2026-08-14T00:00:00.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
     },
     {
       "id": "getro:point-nine:91236771",
@@ -505,6 +450,28 @@
       "roleFamily": "senior-pd"
     },
     {
+      "id": "getro:point-nine:89907454",
+      "atsProvider": "getro",
+      "company": "Revolut",
+      "title": "Graduate Programme 2027: Product Owner (UX)",
+      "location": "Spain, Dubai - United Arab Emirates, United Arab Emirates, Portugal, Lisbon, Portugal, United Kingdom, poland, oh, usa",
+      "url": "https://www.revolut.com/careers/position/graduate-programme-2027-product-owner-ux-48244271-6656-42f9-ab2c-caf4531593d3/",
+      "postedAt": "2026-08-14T11:20:14.000Z",
+      "description": "",
+      "roleFamily": "product-owner"
+    },
+    {
+      "id": "getro:point-nine:89907496",
+      "atsProvider": "getro",
+      "company": "Revolut",
+      "title": "Graduate Programme 2027: Product Owner (Technical)",
+      "location": "Spain, Dubai - United Arab Emirates, United Arab Emirates, Portugal, Lisbon, Portugal, United Kingdom, poland, oh, usa",
+      "url": "https://www.revolut.com/careers/position/graduate-programme-2027-product-owner-technical-554c4b14-c988-4c35-bd06-702acf4f36f7/",
+      "postedAt": "2026-08-14T11:20:22.000Z",
+      "description": "",
+      "roleFamily": "product-owner"
+    },
+    {
       "id": "getro:accel:91150679",
       "atsProvider": "getro",
       "company": "New Relic",
@@ -582,13 +549,46 @@
       "roleFamily": "lead-pd"
     },
     {
-      "id": "getro:accel:90902491",
+      "id": "getro:accel:90902489",
       "atsProvider": "getro",
       "company": "Vinted",
       "title": "Director of Product Design, Frontend Technologies",
-      "location": "Berlin, Germany",
-      "url": "https://careers.vinted.com/jobs/j/4863113101",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://careers.vinted.com/jobs/j/4863111101",
       "postedAt": "2026-08-22T16:01:06.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:accel:90069539",
+      "atsProvider": "getro",
+      "company": "Headway",
+      "title": "Senior / Staff Product Designer - Provider",
+      "location": "",
+      "url": "https://jobs.ashbyhq.com/headway/7f9e8fad-4584-4a93-ae65-6feff6584447",
+      "postedAt": "2026-08-15T12:04:21.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:accel:90069540",
+      "atsProvider": "getro",
+      "company": "Headway",
+      "title": "Senior / Staff Product Designer - Patient",
+      "location": "",
+      "url": "https://jobs.ashbyhq.com/headway/d8e08954-ebf4-4dce-951f-b1de54f337c9",
+      "postedAt": "2026-08-15T12:04:21.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:accel:90336472",
+      "atsProvider": "getro",
+      "company": "Skydio",
+      "title": "Product Design Engineer - Camera",
+      "location": "Remote",
+      "url": "https://www.skydio.com/jobs/bc3e47ff-41a3-417a-86e3-d1756cc81133/?gh_jid=bc3e47ff-41a3-417a-86e3-d1756cc81133",
+      "postedAt": "2026-08-18T13:54:11.000Z",
       "description": "",
       "roleFamily": "uiux"
     },
@@ -657,28 +657,6 @@
       "postedAt": "2026-08-08T12:06:26.000Z",
       "description": "",
       "roleFamily": "senior-pd"
-    },
-    {
-      "id": "getro:accel:89024799",
-      "atsProvider": "getro",
-      "company": "Polar",
-      "title": "Senior Product Designer",
-      "location": "Stockholm, Sweden",
-      "url": "https://jobs.ashbyhq.com/polar/ec140cc5-fe50-4c7a-9131-3dd718d2b02d",
-      "postedAt": "2026-08-06T15:17:25.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
-    },
-    {
-      "id": "getro:accel:88927985",
-      "atsProvider": "getro",
-      "company": "Cortex by Palo Alto Networks",
-      "title": "Senior UX Designer, Digital Marketing",
-      "location": "",
-      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-ux-designer-digital-marketing/47263/97478981312",
-      "postedAt": "2026-08-06T11:22:16.000Z",
-      "description": "",
-      "roleFamily": "uiux"
     },
     {
       "id": "getro:accel:91150388",
@@ -800,17 +778,6 @@
       "postedAt": "2026-08-09T12:24:49.000Z",
       "description": "",
       "roleFamily": "uiux"
-    },
-    {
-      "id": "getro:seedcamp:89018356",
-      "atsProvider": "getro",
-      "company": "Risk Ledger",
-      "title": "Senior Product Designer",
-      "location": "London, UK",
-      "url": "https://boards.greenhouse.io/riskledger/jobs/4944606101",
-      "postedAt": "2026-08-06T15:00:26.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
     },
     {
       "id": "getro:seedcamp:89140997",
@@ -989,17 +956,6 @@
       "roleFamily": "lead-pd"
     },
     {
-      "id": "getro:insight-partners:89061026",
-      "atsProvider": "getro",
-      "company": "Checkout.com",
-      "title": "Staff Product Designer, Acquiring & Design System",
-      "location": "London, UK",
-      "url": "https://jobs.ashbyhq.com/checkout.com/52155ca0-ad5d-4373-b64d-a49eed6af1cd",
-      "postedAt": "2026-08-07T10:17:35.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
       "id": "getro:insight-partners:90423762",
       "atsProvider": "getro",
       "company": "Inhabit",
@@ -1165,17 +1121,6 @@
       "roleFamily": "lead-pd"
     },
     {
-      "id": "getro:general-catalyst:88921831",
-      "atsProvider": "getro",
-      "company": "Finom",
-      "title": "Principal Product Designer (German-speaking) — Core Experience, Europe (Remote)",
-      "location": "Austria",
-      "url": "https://jobs.eu.lever.co/pnlfin/09d67787-30bc-451c-a1bc-527c4f4c9695",
-      "postedAt": "2026-08-06T11:09:44.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
       "id": "getro:general-catalyst:90734888",
       "atsProvider": "getro",
       "company": "ChannelEngine",
@@ -1207,6 +1152,17 @@
       "postedAt": "2026-08-19T14:19:17.000Z",
       "description": "",
       "roleFamily": "product-owner"
+    },
+    {
+      "id": "getro:dawn-capital:91293179",
+      "atsProvider": "getro",
+      "company": "Hoxhunt",
+      "title": "Senior Product Designer",
+      "location": "Helsinki, Finland",
+      "url": "https://jobs.ashbyhq.com/hoxhunt/419b4bac-2075-494e-ac41-64406c7a8e13",
+      "postedAt": "2026-08-27T11:16:53.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
     },
     {
       "id": "getro:mmc-ventures:89758582",
