@@ -1,14 +1,25 @@
 {
-  "generatedAt": "2026-08-28T11:40:47.504Z",
-  "filteredAt": "2026-08-28T11:40:48.775Z",
+  "generatedAt": "2026-08-29T07:19:14.055Z",
+  "filteredAt": "2026-08-29T07:19:15.294Z",
   "funnel": {
-    "raw": 17486,
-    "deduped": 14544,
-    "titleMatched": 389,
-    "recencyPassed": 187,
-    "geoPassed": 106
+    "raw": 17426,
+    "deduped": 14504,
+    "titleMatched": 380,
+    "recencyPassed": 174,
+    "geoPassed": 100
   },
   "jobs": [
+    {
+      "id": "lever:spotify:34e3828f-db98-486f-a077-cd67ece45be0",
+      "atsProvider": "lever",
+      "company": "Spotify",
+      "title": "Senior Product Designer - Platform and Partner Experience",
+      "location": "London",
+      "url": "https://jobs.lever.co/spotify/34e3828f-db98-486f-a077-cd67ece45be0",
+      "postedAt": "2026-08-28T13:23:56.446Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
     {
       "id": "workable:adverity:B53E37B803",
       "atsProvider": "workable",
@@ -32,17 +43,6 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "teamtailor:propertyfinder:88627867-38df-47d6-aba4-1b440d84fa5f",
-      "atsProvider": "teamtailor",
-      "company": "Propertyfinder",
-      "title": "Senior Product Designer",
-      "location": "Property Finder UAE",
-      "url": "https://propertyfinder.teamtailor.com/jobs/8232355-senior-product-designer",
-      "postedAt": "2026-08-18T06:47:51.000Z",
-      "description": "<div><p>Property Finder is the leading property portal in the Middle East and North Africa (MENA) region, dedicated to shaping an inclusive future for real estate while spearheading the region’s growing tech ecosystem. At its core is a clear and powerful purpose: To change living for good in the region.</p><p>Founded on the value of great ambitions, Property Finder connects millions of property seekers with thousands of real estate professionals every day. The platform offers a seamless and enriching experience, empowering both buyers and renters to make informed decisions. Since its inception in 2007, Property Finder has evolved into a trusted partner for developers, brokers, and home seekers. As a lighthouse tech company, it continues to create an environment where people can thrive and contribute meaningfully to the transformation of real estate in MENA.</p></div><div><p></p><p><span>As a Senior Product Designer at PF, you will play a pivotal role in shaping the design and user experience of our B2B products. You will drive the design process from discovery to delivery, taking ownership of projects and collaborating closely with cross-functional teams to deliver high-impact solutions. As a senior member of the design team, you will work alongside other designers, contribute to design strategy, and ensure that our products align with both customer needs and business goals. This role offers you the chance to lead complex design projects, work on strategic initiatives, and be a key player in achieving PF’s mission to become the most trusted partner in real estate across the MENA region.</span></p><h4><span>Key responsibilities:</span></h4><ul><li><p><span>Design Leadership: Lead the end-to-end design process for one or more B2C products—from discovery and ideation through prototyping, user testing, and delivery. Set a high bar for craft, quality, and execution across the team.</span></p></li><li><p><span>User-Centred Design: Champion user needs throughout the product development lifecycle, creating intuitive, effective experiences that balance customer value with business goals.</span></p></li><li><p><span>UI &amp; Visual Design: Demonstrate exceptional UI and visual design skills, with a strong eye for detail, interaction design, motion, micro-interactions, and creating moments of delight.</span></p></li><li><p><span>Rapid Execution: Produce high-quality design work in fast-paced environments while maintaining strong design thinking, process, and attention to detail.</span></p></li><li><p><span>Problem Solving: Translate user research, data, and business objectives into thoughtful product solutions. Continuously iterate to improve usability, engagement, and outcomes.</span></p></li><li><p><span>Collaboration: Partner closely with product managers, researchers, engineers, and fellow designers to define problems, align on solutions, and deliver exceptional product experiences.</span></p></li><li><p><span>Design Strategy: Help shape the design strategy for the B2B product suite, ensuring a consistent experience across web and mobile. Collaborate with other design teams to evolve a unified product vision and design language.</span></p></li><li><p><span>Testing &amp; Iteration: Validate concepts through prototyping, user testing, and experimentation, using feedback and data to refine designs and improve product outcomes.</span></p></li></ul><h4><span>Desired Experience:</span></h4><ul><li><p><span>Experience: 8+ years of experience in Product Design, UX, or a related discipline, with a proven track record of shipping high-quality digital products in fast-paced environments.</span></p></li><li><p><span>Design Craft: Expertise across product discovery, UX, interaction design, visual design, prototyping, and design systems. Strong ability to use research and data to inform decisions.</span></p></li><li><p><span>Strategic Thinking: Ability to connect user needs with business objectives and contribute to product and design strategy.</span></p></li><li><p><span>Communication &amp; Collaboration: Outstanding communication and stakeholder management skills, with experience influencing cross-functional teams and presenting design rationale with confidence.</span></p></li><li><p><span>Mentorship: Passion for supporting and developing other designers through coaching, feedback, and leading by example.</span></p></li><li><p><span>Ownership &amp; Execution: Self-driven and accountable, with the ability to lead complex initiatives from concept through launch while maintaining a high standard of quality.</span></p></li><li><p><span>Attention to Detail: A strong eye for visual polish, usability, accessibility, and the small details that create exceptional user experiences.</span></p></li><li><p><span>AI Proficiency: Fluency with AI tools across the design process, from research synthesis to rapid prototyping. Critical evaluation of AI output and knowledge when generative capabilities genuinely improve an experience versus when they don't.</span></p></li><li><p><span>Content Creation (Nice to Have): Experience creating product videos, motion graphics, or other visual content is a plus.</span></p></li></ul></div><h3><strong>Our promise to talent</strong></h3><p>At Property Finder, we believe talent thrives in an environment where you can be your best self. Where you are empowered to create, elevate, grow, and care. Our team is made up of the best and brightest, united by a shared ambition to change living for good in the region. We attract top talent who want to make an impact. We firmly believe that when our people grow, we all succeed.</p><h2><strong>Property Finder Guiding Principles</strong></h2><div><div><div><div><div><div><div><ol><li><p>Think Future First</p></li><li><p>Data Beats Opinions, Speed Beats Perfection</p></li><li><p>Optimise for Impact</p></li><li><p>Act Like An Owner</p></li><li><p>The Biggest Risk is Taking no Risk at All</p></li></ol></div></div></div></div></div></div></div><div><div><h2><strong>Find us at:</strong></h2></div></div><h2><a target=\"_blank\" href=\"https://twitter.com/propertyfinder?lang=en\">Twitter</a></h2><h2><a target=\"_blank\" href=\"https://www.facebook.com/propertyfinderuae/\">Facebook</a></h2><h2><a target=\"_blank\" href=\"https://www.instagram.com/propertyfinder/?hl=en\">Instagram</a></h2><h2><a target=\"_blank\" href=\"https://www.linkedin.com/company/propertyfinder-ae/\">Linkedin</a></h2><h2><a target=\"_blank\" href=\"https://www.glassdoor.com/Overview/Working-at-propertyfinder-EI_IE1176641.11,25.htm\">Glassdoor</a></h2>",
-      "roleFamily": "senior-pd"
-    },
-    {
       "id": "smartrecruiters:DeliveryHero:744000146136179",
       "atsProvider": "smartrecruiters",
       "company": "Delivery Hero",
@@ -63,6 +63,17 @@
       "postedAt": "2026-08-24T08:22:36.631Z",
       "description": "",
       "roleFamily": "uiux"
+    },
+    {
+      "id": "teamtailor:propertyfinder:88627867-38df-47d6-aba4-1b440d84fa5f",
+      "atsProvider": "teamtailor",
+      "company": "Propertyfinder",
+      "title": "Senior Product Designer",
+      "location": "Property Finder UAE",
+      "url": "https://propertyfinder.teamtailor.com/jobs/8232355-senior-product-designer",
+      "postedAt": "2026-08-18T06:47:51.000Z",
+      "description": "<div><p>Property Finder is the leading property portal in the Middle East and North Africa (MENA) region, dedicated to shaping an inclusive future for real estate while spearheading the region’s growing tech ecosystem. At its core is a clear and powerful purpose: To change living for good in the region.</p><p>Founded on the value of great ambitions, Property Finder connects millions of property seekers with thousands of real estate professionals every day. The platform offers a seamless and enriching experience, empowering both buyers and renters to make informed decisions. Since its inception in 2007, Property Finder has evolved into a trusted partner for developers, brokers, and home seekers. As a lighthouse tech company, it continues to create an environment where people can thrive and contribute meaningfully to the transformation of real estate in MENA.</p></div><div><p></p><p><span>As a Senior Product Designer at PF, you will play a pivotal role in shaping the design and user experience of our B2B products. You will drive the design process from discovery to delivery, taking ownership of projects and collaborating closely with cross-functional teams to deliver high-impact solutions. As a senior member of the design team, you will work alongside other designers, contribute to design strategy, and ensure that our products align with both customer needs and business goals. This role offers you the chance to lead complex design projects, work on strategic initiatives, and be a key player in achieving PF’s mission to become the most trusted partner in real estate across the MENA region.</span></p><h4><span>Key responsibilities:</span></h4><ul><li><p><span>Design Leadership: Lead the end-to-end design process for one or more B2C products—from discovery and ideation through prototyping, user testing, and delivery. Set a high bar for craft, quality, and execution across the team.</span></p></li><li><p><span>User-Centred Design: Champion user needs throughout the product development lifecycle, creating intuitive, effective experiences that balance customer value with business goals.</span></p></li><li><p><span>UI &amp; Visual Design: Demonstrate exceptional UI and visual design skills, with a strong eye for detail, interaction design, motion, micro-interactions, and creating moments of delight.</span></p></li><li><p><span>Rapid Execution: Produce high-quality design work in fast-paced environments while maintaining strong design thinking, process, and attention to detail.</span></p></li><li><p><span>Problem Solving: Translate user research, data, and business objectives into thoughtful product solutions. Continuously iterate to improve usability, engagement, and outcomes.</span></p></li><li><p><span>Collaboration: Partner closely with product managers, researchers, engineers, and fellow designers to define problems, align on solutions, and deliver exceptional product experiences.</span></p></li><li><p><span>Design Strategy: Help shape the design strategy for the B2B product suite, ensuring a consistent experience across web and mobile. Collaborate with other design teams to evolve a unified product vision and design language.</span></p></li><li><p><span>Testing &amp; Iteration: Validate concepts through prototyping, user testing, and experimentation, using feedback and data to refine designs and improve product outcomes.</span></p></li></ul><h4><span>Desired Experience:</span></h4><ul><li><p><span>Experience: 8+ years of experience in Product Design, UX, or a related discipline, with a proven track record of shipping high-quality digital products in fast-paced environments.</span></p></li><li><p><span>Design Craft: Expertise across product discovery, UX, interaction design, visual design, prototyping, and design systems. Strong ability to use research and data to inform decisions.</span></p></li><li><p><span>Strategic Thinking: Ability to connect user needs with business objectives and contribute to product and design strategy.</span></p></li><li><p><span>Communication &amp; Collaboration: Outstanding communication and stakeholder management skills, with experience influencing cross-functional teams and presenting design rationale with confidence.</span></p></li><li><p><span>Mentorship: Passion for supporting and developing other designers through coaching, feedback, and leading by example.</span></p></li><li><p><span>Ownership &amp; Execution: Self-driven and accountable, with the ability to lead complex initiatives from concept through launch while maintaining a high standard of quality.</span></p></li><li><p><span>Attention to Detail: A strong eye for visual polish, usability, accessibility, and the small details that create exceptional user experiences.</span></p></li><li><p><span>AI Proficiency: Fluency with AI tools across the design process, from research synthesis to rapid prototyping. Critical evaluation of AI output and knowledge when generative capabilities genuinely improve an experience versus when they don't.</span></p></li><li><p><span>Content Creation (Nice to Have): Experience creating product videos, motion graphics, or other visual content is a plus.</span></p></li></ul></div><h3><strong>Our promise to talent</strong></h3><p>At Property Finder, we believe talent thrives in an environment where you can be your best self. Where you are empowered to create, elevate, grow, and care. Our team is made up of the best and brightest, united by a shared ambition to change living for good in the region. We attract top talent who want to make an impact. We firmly believe that when our people grow, we all succeed.</p><h2><strong>Property Finder Guiding Principles</strong></h2><div><div><div><div><div><div><div><ol><li><p>Think Future First</p></li><li><p>Data Beats Opinions, Speed Beats Perfection</p></li><li><p>Optimise for Impact</p></li><li><p>Act Like An Owner</p></li><li><p>The Biggest Risk is Taking no Risk at All</p></li></ol></div></div></div></div></div></div></div><div><div><h2><strong>Find us at:</strong></h2></div></div><h2><a target=\"_blank\" href=\"https://twitter.com/propertyfinder?lang=en\">Twitter</a></h2><h2><a target=\"_blank\" href=\"https://www.facebook.com/propertyfinderuae/\">Facebook</a></h2><h2><a target=\"_blank\" href=\"https://www.instagram.com/propertyfinder/?hl=en\">Instagram</a></h2><h2><a target=\"_blank\" href=\"https://www.linkedin.com/company/propertyfinder-ae/\">Linkedin</a></h2><h2><a target=\"_blank\" href=\"https://www.glassdoor.com/Overview/Working-at-propertyfinder-EI_IE1176641.11,25.htm\">Glassdoor</a></h2>",
+      "roleFamily": "senior-pd"
     },
     {
       "id": "ashby:amboss:bef7d0e8-857e-4cd0-9ee7-c9df4b8e76b4",
@@ -98,28 +109,6 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "smartrecruiters:wise:744000142161034",
-      "atsProvider": "smartrecruiters",
-      "company": "Wise",
-      "title": "Senior Product Designer, Verification",
-      "location": "London, , United Kingdom",
-      "url": "https://jobs.smartrecruiters.com/wise/744000142161034",
-      "postedAt": "2026-08-07T14:52:46.608Z",
-      "description": "",
-      "roleFamily": "senior-pd"
-    },
-    {
-      "id": "smartrecruiters:wise:744000142130824",
-      "atsProvider": "smartrecruiters",
-      "company": "Wise",
-      "title": "Staff Product Designer - Wise Assistant Experience",
-      "location": "London, , United Kingdom",
-      "url": "https://jobs.smartrecruiters.com/wise/744000142130824",
-      "postedAt": "2026-08-07T13:06:43.226Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
       "id": "ashby:synthesia:72144066-ff3f-4cdd-b648-743592e414ca",
       "atsProvider": "ashby",
       "company": "Synthesia",
@@ -153,17 +142,6 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "teamtailor:skello:63f55258-4558-455e-a2ac-62277aa6cbc3",
-      "atsProvider": "teamtailor",
-      "company": "Skello",
-      "title": "Product Strategist (ex-Product Designer)",
-      "location": "Paris",
-      "url": "https://skello.teamtailor.com/jobs/8199007-product-strategist-ex-product-designer",
-      "postedAt": "2026-08-10T12:08:43.000Z",
-      "description": "<div><p><strong style=\"font-size:1em;\">🌰</strong><span style=\"font-size:18px;\"><strong>Skello en bref</strong></span></p></div><div><p><br></p></div><div><p>Chez Skello, on développe la solution RH de référence pour planifier et manager les équipes de terrain.</p></div><div><p><br></p></div><div><p>En Europe, les équipes de terrain représentent 50 % des travailleurs, mais seulement 20 % des solutions digitales leur sont réellement adressées.</p></div><div><p><br></p></div><div><p>Skello est né pour combler ce manque : une plateforme collaborative et intuitive qui simplifie le quotidien des managers et des employés, en optimisant et en automatisant les tâches clés.</p></div><div><p><br></p></div><div><p>On met les équipes de terrain au cœur de tout ce que l'on fait. Avec des outils intelligents comme notre Assistant Skello et notre smart planner, on répond directement à leurs besoins uniques.</p></div><div><p><br></p></div><div><p>Notre ambition est simple : devenir la solution RH incontournable pour toutes les équipes de terrain en Europe. <span style=\"font-size:1em;\">🚀</span></p></div><div><p><br></p></div><div><p><strong style=\"font-size:1em;\">🚀</strong><span style=\"font-size:18px;\"><strong>Skello en chiffres</strong></span></p></div><div><p><span style=\"font-size:18px;\"><strong>&nbsp;</strong></span></p></div><div><p>• <strong>7 secteurs clés </strong>&nbsp;</p></div><div><p>• <strong>25 000 entreprises</strong> font confiance à Skello aujourd'hui.</p></div><div><p>• <strong>600 000 employés</strong> utilisent Skello chaque jour.</p></div><div><p>• L'équipe Skello, c'est plus de <strong>400 collaborateurs</strong>.</p></div><div><p>• <strong>3 hubs européens</strong> : Paris, Lille et Barcelone</p></div><div><p><br></p></div><div><p>💙 <span style=\"font-size:18px;\"><strong>Notre culture d'entreprise</strong></span></p></div><div><p><br></p></div><div><p>On sait que pour atteindre notre mission, il faut vivre nos valeurs chaque jour : SHIFT.</p></div><div><p><strong style=\"font-size:1em;\">💡</strong><strong> Set the bar higher everyday</strong></p></div><div><p><strong style=\"font-size:1em;\">🤝</strong><strong> Have each other’s back</strong></p></div><div><p><strong style=\"font-size:1em;\">🚀</strong><strong> Imagine tomorrow, start today</strong></p></div><div><p><strong style=\"font-size:1em;\">👟</strong><strong> Focus on customers first</strong></p></div><div><p><strong style=\"font-size:1em;\">😄</strong><strong> Take work seriously, not ourselves</strong></p></div><div><p></p></div><div><h4>🧭 <strong style=\"font-size:18px;\">Contexte</strong></h4></div><div><p>&nbsp;</p><p>Chez Skello, la team Product est au coeur de la croissance et de l’innovation. Dès ses débuts, elle a été pensée comme un levier d'impact, avec une forte exigence sur la qualité des livrables et l’alignement business.</p></div><div><p>&nbsp;</p></div><div><p>L'équipe est composée de Product Strategist, Design System Designers et AI Product Ops expérimenté·es, engagé·es et exigeant·es. On se challenge, on teste, on ship. Mais surtout : on est obsédé·es par l’impact concret sur les utilisateurs. Ici, tu travailles avec des gens brillants, dans un environnement où la curiosité, l’humilité et le feedback sont au centre.</p></div><div><p>&nbsp;</p></div><div><p>On cherche aujourd’hui à renforcer cette équipe avec un·e Product Strategist talentueux·se, qui a envie de résoudre des problèmes complexes, de livrer de la valeur concrète et de continuer à grandir au contact d’une team ambitieuse et bienveillante.</p></div><div><h4><strong>🎯 Missions</strong></h4></div><div><p>&nbsp;</p></div><div><p>En tant que Product Strategist chez Skello, tu prendras en main un périmètre fonctionnel à fort enjeu et contribueras au quotidien à créer un produit utile, simple et performant. Tu seras au cœur de la collaboration avec les équipes design et tech pour faire émerger les meilleures solutions.</p></div><div><ul><li><p>Tu mènes des interviews utilisateurs, analyses data et recherches exploratoires pour comprendre en profondeur les besoins et irritants terrain</p></li></ul></div><div><ul><li><p>Tu travailles main dans la main avec les designers et développeurs pour définir des solutions simples et impactantes, en gardant toujours l'utilisateur au centre</p></li></ul></div><div><ul><li><p>Tu pilotes la phase de delivery avec clarté : gestion des sprints, animation des rituels, suivi des développements, QA et documentation</p></li></ul></div><div><ul><li><p>Tu suis les KPIs d’usage et d’impact, proposes des ajustements et itérations concrètes pour améliorer continuellement le produit</p></li></ul></div><div><ul><li><p>Tu collabores étroitement avec les équipes Customer Experience, Sales, Marketing et Ops pour assurer l’impact de tes features une fois en production</p></li></ul></div><div><ul><li><p>Tu contribues à l’amélioration continue de nos outils, de notre process et de notre culture produit</p></li></ul></div><div><p>&nbsp;</p></div><div><p>&nbsp;</p></div><div><p><strong style=\"font-size:18px;\">Qualifications</strong></p></div><div><p><strong>Ce qu’on attend de toi :</strong></p></div><div><ul><li><p>Solides compétences analytiques et capacité à utiliser des données pour prendre des décisions éclairées</p></li></ul></div><div><ul><li><p>3 à 5 ans d’expérience en Product Design dans un environnement tech ou SaaS, et potentiellement une expérience en Product Management.</p></li></ul></div><div><ul><li><p>Une très bonne culture produit : discovery, delivery, UX, impact business</p></li></ul></div><div><ul><li><p>Une aisance avec la data : KPIs, analyses, validation d’hypothèses</p></li></ul></div><div><ul><li><p>Une vraie capacité à embarquer les autres, à prendre des décisions et à faire avancer les sujets</p></li></ul></div><div><ul><li><p>Du sérieux sans se prendre au sérieux : exigence, autonomie, esprit d’équipe</p></li></ul></div><div><p>&nbsp;</p></div><div><p><strong>C’est un plus si :</strong></p></div><div><p>Tu comprends les contraintes et usages des métiers de terrain (planning, RH, opérations) dans des secteurs comme le retail, la restauration ou les services<br></p></div><div><p><strong style=\"font-size:18px;\">Process</strong><br></p></div><div><ul><li><p>Entretien téléphonique avec Paul (Talent Acquisition Manager) (30 min)</p></li></ul></div><div><ul><li><p>1er entretien Métier avec Bruno/Lucie - Head of Product - (30 min) en visio</p></li></ul></div><div><ul><li><p>2ème entretien Technique avec Bruno/Lucie &amp; Ariane (VP Product) - 1h en présentiel</p></li></ul></div><div><ul><li><p>3ème entretien Vision avec Quitterie (CEO)</p></li></ul></div><div><p><br></p></div><div><p><span style=\"font-size:18px;\"><strong>Ce que tu trouveras chez nous 🙌</strong></span></p></div><div><p><br></p></div><div><p><strong>🍽️ Tickets restaurant Swile :</strong> 55% de vos repas quotidiens couverts par Skello.</p></div><div><p><strong>🏋️‍♂️ Cours de sport collectif :</strong> Pour bien commencer la semaine, on se retrouve le lundi soir.</p></div><div><p><strong>🏖️ Jours de RTT :</strong> 8 jours (10 pour nos commerciaux/BDR au forfait heures) en plus de vos congés payés pour compenser les heures sup'.</p></div><div><p><strong>🚀 Onboarding aux petits oignons :</strong> un programme complet dès votre première semaine.</p></div><div><p><strong>🎉 CSE Happy Pal :</strong> Une plateforme avec 20€/mois de subvention pour vos activités sportives et culturelles.</p></div><div><p><strong>👶 Parentalité inclusive :</strong> 5 jours de congés supplémentaires si besoin, un bonus naissance de 175€ via Sidecare, et une mutuelle gratuite pour vos enfants.</p></div><div><p><strong style=\"font-size:1em;\">🏡</strong><strong> Télétravail possible :</strong> Une politique adaptée au rythme de chaque équipe.</p></div><div><p><strong>🚇 Bureaux centraux :</strong> Paris et Lille, au cœur de villes dynamiques, facilement accessibles en transports.&nbsp;</p></div>",
-      "roleFamily": "uiux"
-    },
-    {
       "id": "ashby:nord-security:f2e8b050-a467-4c28-b598-aaef65cfd6cd",
       "atsProvider": "ashby",
       "company": "Nord Security",
@@ -173,6 +151,17 @@
       "postedAt": "2026-08-27T13:10:15.337+00:00",
       "description": "AT COVERON, WE’RE BUILDING A COMPLETE IDENTITY THEFT PROTECTION SERVICE.\n\nJoin the team behind Nord Security’s latest product—combining dark web monitoring, credit tracking, and identity theft insurance into one powerful platform.\n\n\nYOUR IMPACT? HELPING PEOPLE PROTECT THEIR IDENTITIES, SPOT THREATS EARLY, AND RECOVER STRONGER.\n\nMAIN RESPONSIBILITIES\n\n - Lead and mentor a team of Product Designers fostering a collaborative and creative work environment.\n\n - Act as a hands-on designer, spending the majority of your time creating wireframes, prototypes, and high-fidelity designs, leading by example and setting the quality bar through your own work.\n\n - Collaborate closely with the Product and Engineering teams to drive design initiatives.\n\n - Drive the overall design strategy and vision for the design team, aligning it with business objectives and Coveron brand guidelines.\n\n - Oversee the end-to-end design process, from concept to implementation, ensuring a user-centric approach and a seamless cross-platform user experience.\n\n - Conduct regular design reviews, providing constructive feedback to the team to elevate the overall design quality.\n\n - Stay updated on industry trends, emerging technologies, and design best practices to continuously improve Coveron design standards.\n\n - Work closely with stakeholders to understand business goals and user needs, translating them into actionable design strategies.\n\n - Combine strong people management and leadership skills with a solid design background to foster a positive and collaborative team culture.\n\n\n\nCORE REQUIREMENTS\n\n - 5+ years of experience in product design, with at least 2 years in a leadership role in a product-focused environment.\n\n - Strong portfolio showcasing a range of successful design projects with a focus on app design.\n\n - Expertise in app design, with knowledge of best practices for iOS, Android, and web platforms.\n\n - Excellent leadership skills, with the ability to inspire and motivate a team.\n\n - Exceptional communication and collaboration skills, with the ability to bridge the gap between design and development.\n\n\n\n\nWHAT WE OFFER\n\nInnovate with industry leaders\n\nWork alongside global experts to build world-leading cybersecurity tools, impacting millions of users around the world.\n\nLearn & grow\n\nBoost your skills via our extensive training programs (online and offline) & other resources. Benefit from mentorship and career-switch opportunities to grow within the company.\n\nWork in a next-gen Cyber City office\n\nThrive in our bustling office, featuring ergonomic workspaces, modern meeting rooms, engaging events, and specialty coffee to fuel your day.\n\nWork from anywhere\n\nRecharge with a change of scenery – choose work from any location when you feel a need to power your creativity and drive.\n\nPhysical well-being\n\nBoost your health with free-of-charge 24/7 gym access, onsite and online workouts, and consultations led by in-house Physical Well-Being experts.\n\nMental & emotional health\n\nNurture your mind with free psychologist consultations, dedicated mental health events, and premium access to top-rated wellness apps like Calm, Headspace, and Mindletic.\n\nPremium healthcare\n\nReceive private health insurance giving you peace of mind for your health needs.\n\nExtra days off\n\nEnjoy additional vacation days off as you grow with us. Plus, get extra days for sick leave, special occasions, or parenting needs.\n\nJoyful moments – special treats\n\nCelebrate life’s big moments with special gifts from us on your birthday, anniversary, and other major events, such as weddings or the arrival of a new family member.\n\nCompany events & team-building\n\nExperience iconic Nord Security celebrations, team-buildings, and knowledge-sharing events, nurturing bonds that fuel our success.\n\nWorkation\n\nEmbark on a legendary company getaway abroad, filled with exciting activities, live concerts, engaging workshops, and epic time together.\n\n \n\nKindly refer to our Privacy Notice for Recruitment Candidates https://drive.google.com/file/d/1b2tV684_SYV1jQ4kuf91cnzrRBk3ef-5/view for comprehensive information regarding our data handling procedures throughout recruitment processes.\n\nWe expect all candidates to provide accurate and complete information during the recruitment process. While limited use of AI tools to refine application materials is acceptable, candidates remain fully responsible for ensuring that their submissions reflect their own qualifications, skills, and experience. Any failure to do so may negatively affect participation in the recruitment process. If broader AI assistance is allowed for a particular role or stage, we’ll let you know in advance.\n\nBy submitting your application, you acknowledge that it may be processed using automated tools for evaluation purposes. As part of our recruitment process, we may use an AI-based application review tool to help assess applications based on skills and experience relevant to the role. This technology is used to support - not replace - human decision-making, and every application is ultimately reviewed by a recruiter.\n\nIf you would like more information about how AI is used in this process or wish to exercise your rights under applicable data privacy laws, please contact us at privacy@nordaccount.com. Should you prefer to opt out of the automated evaluation, please submit your application directly to career@nordsec.com.",
       "roleFamily": "lead-pd"
+    },
+    {
+      "id": "teamtailor:skello:63f55258-4558-455e-a2ac-62277aa6cbc3",
+      "atsProvider": "teamtailor",
+      "company": "Skello",
+      "title": "Product Strategist (ex-Product Designer)",
+      "location": "Paris",
+      "url": "https://skello.teamtailor.com/jobs/8199007-product-strategist-ex-product-designer",
+      "postedAt": "2026-08-10T12:08:43.000Z",
+      "description": "<div><p><strong style=\"font-size:1em;\">🌰</strong><span style=\"font-size:18px;\"><strong>Skello en bref</strong></span></p></div><div><p><br></p></div><div><p>Chez Skello, on développe la solution RH de référence pour planifier et manager les équipes de terrain.</p></div><div><p><br></p></div><div><p>En Europe, les équipes de terrain représentent 50 % des travailleurs, mais seulement 20 % des solutions digitales leur sont réellement adressées.</p></div><div><p><br></p></div><div><p>Skello est né pour combler ce manque : une plateforme collaborative et intuitive qui simplifie le quotidien des managers et des employés, en optimisant et en automatisant les tâches clés.</p></div><div><p><br></p></div><div><p>On met les équipes de terrain au cœur de tout ce que l'on fait. Avec des outils intelligents comme notre Assistant Skello et notre smart planner, on répond directement à leurs besoins uniques.</p></div><div><p><br></p></div><div><p>Notre ambition est simple : devenir la solution RH incontournable pour toutes les équipes de terrain en Europe. <span style=\"font-size:1em;\">🚀</span></p></div><div><p><br></p></div><div><p><strong style=\"font-size:1em;\">🚀</strong><span style=\"font-size:18px;\"><strong>Skello en chiffres</strong></span></p></div><div><p><span style=\"font-size:18px;\"><strong>&nbsp;</strong></span></p></div><div><p>• <strong>7 secteurs clés </strong>&nbsp;</p></div><div><p>• <strong>25 000 entreprises</strong> font confiance à Skello aujourd'hui.</p></div><div><p>• <strong>600 000 employés</strong> utilisent Skello chaque jour.</p></div><div><p>• L'équipe Skello, c'est plus de <strong>400 collaborateurs</strong>.</p></div><div><p>• <strong>3 hubs européens</strong> : Paris, Lille et Barcelone</p></div><div><p><br></p></div><div><p>💙 <span style=\"font-size:18px;\"><strong>Notre culture d'entreprise</strong></span></p></div><div><p><br></p></div><div><p>On sait que pour atteindre notre mission, il faut vivre nos valeurs chaque jour : SHIFT.</p></div><div><p><strong style=\"font-size:1em;\">💡</strong><strong> Set the bar higher everyday</strong></p></div><div><p><strong style=\"font-size:1em;\">🤝</strong><strong> Have each other’s back</strong></p></div><div><p><strong style=\"font-size:1em;\">🚀</strong><strong> Imagine tomorrow, start today</strong></p></div><div><p><strong style=\"font-size:1em;\">👟</strong><strong> Focus on customers first</strong></p></div><div><p><strong style=\"font-size:1em;\">😄</strong><strong> Take work seriously, not ourselves</strong></p></div><div><p></p></div><div><h4>🧭 <strong style=\"font-size:18px;\">Contexte</strong></h4></div><div><p>&nbsp;</p><p>Chez Skello, la team Product est au coeur de la croissance et de l’innovation. Dès ses débuts, elle a été pensée comme un levier d'impact, avec une forte exigence sur la qualité des livrables et l’alignement business.</p></div><div><p>&nbsp;</p></div><div><p>L'équipe est composée de Product Strategist, Design System Designers et AI Product Ops expérimenté·es, engagé·es et exigeant·es. On se challenge, on teste, on ship. Mais surtout : on est obsédé·es par l’impact concret sur les utilisateurs. Ici, tu travailles avec des gens brillants, dans un environnement où la curiosité, l’humilité et le feedback sont au centre.</p></div><div><p>&nbsp;</p></div><div><p>On cherche aujourd’hui à renforcer cette équipe avec un·e Product Strategist talentueux·se, qui a envie de résoudre des problèmes complexes, de livrer de la valeur concrète et de continuer à grandir au contact d’une team ambitieuse et bienveillante.</p></div><div><h4><strong>🎯 Missions</strong></h4></div><div><p>&nbsp;</p></div><div><p>En tant que Product Strategist chez Skello, tu prendras en main un périmètre fonctionnel à fort enjeu et contribueras au quotidien à créer un produit utile, simple et performant. Tu seras au cœur de la collaboration avec les équipes design et tech pour faire émerger les meilleures solutions.</p></div><div><ul><li><p>Tu mènes des interviews utilisateurs, analyses data et recherches exploratoires pour comprendre en profondeur les besoins et irritants terrain</p></li></ul></div><div><ul><li><p>Tu travailles main dans la main avec les designers et développeurs pour définir des solutions simples et impactantes, en gardant toujours l'utilisateur au centre</p></li></ul></div><div><ul><li><p>Tu pilotes la phase de delivery avec clarté : gestion des sprints, animation des rituels, suivi des développements, QA et documentation</p></li></ul></div><div><ul><li><p>Tu suis les KPIs d’usage et d’impact, proposes des ajustements et itérations concrètes pour améliorer continuellement le produit</p></li></ul></div><div><ul><li><p>Tu collabores étroitement avec les équipes Customer Experience, Sales, Marketing et Ops pour assurer l’impact de tes features une fois en production</p></li></ul></div><div><ul><li><p>Tu contribues à l’amélioration continue de nos outils, de notre process et de notre culture produit</p></li></ul></div><div><p>&nbsp;</p></div><div><p>&nbsp;</p></div><div><p><strong style=\"font-size:18px;\">Qualifications</strong></p></div><div><p><strong>Ce qu’on attend de toi :</strong></p></div><div><ul><li><p>Solides compétences analytiques et capacité à utiliser des données pour prendre des décisions éclairées</p></li></ul></div><div><ul><li><p>3 à 5 ans d’expérience en Product Design dans un environnement tech ou SaaS, et potentiellement une expérience en Product Management.</p></li></ul></div><div><ul><li><p>Une très bonne culture produit : discovery, delivery, UX, impact business</p></li></ul></div><div><ul><li><p>Une aisance avec la data : KPIs, analyses, validation d’hypothèses</p></li></ul></div><div><ul><li><p>Une vraie capacité à embarquer les autres, à prendre des décisions et à faire avancer les sujets</p></li></ul></div><div><ul><li><p>Du sérieux sans se prendre au sérieux : exigence, autonomie, esprit d’équipe</p></li></ul></div><div><p>&nbsp;</p></div><div><p><strong>C’est un plus si :</strong></p></div><div><p>Tu comprends les contraintes et usages des métiers de terrain (planning, RH, opérations) dans des secteurs comme le retail, la restauration ou les services<br></p></div><div><p><strong style=\"font-size:18px;\">Process</strong><br></p></div><div><ul><li><p>Entretien téléphonique avec Paul (Talent Acquisition Manager) (30 min)</p></li></ul></div><div><ul><li><p>1er entretien Métier avec Bruno/Lucie - Head of Product - (30 min) en visio</p></li></ul></div><div><ul><li><p>2ème entretien Technique avec Bruno/Lucie &amp; Ariane (VP Product) - 1h en présentiel</p></li></ul></div><div><ul><li><p>3ème entretien Vision avec Quitterie (CEO)</p></li></ul></div><div><p><br></p></div><div><p><span style=\"font-size:18px;\"><strong>Ce que tu trouveras chez nous 🙌</strong></span></p></div><div><p><br></p></div><div><p><strong>🍽️ Tickets restaurant Swile :</strong> 55% de vos repas quotidiens couverts par Skello.</p></div><div><p><strong>🏋️‍♂️ Cours de sport collectif :</strong> Pour bien commencer la semaine, on se retrouve le lundi soir.</p></div><div><p><strong>🏖️ Jours de RTT :</strong> 8 jours (10 pour nos commerciaux/BDR au forfait heures) en plus de vos congés payés pour compenser les heures sup'.</p></div><div><p><strong>🚀 Onboarding aux petits oignons :</strong> un programme complet dès votre première semaine.</p></div><div><p><strong>🎉 CSE Happy Pal :</strong> Une plateforme avec 20€/mois de subvention pour vos activités sportives et culturelles.</p></div><div><p><strong>👶 Parentalité inclusive :</strong> 5 jours de congés supplémentaires si besoin, un bonus naissance de 175€ via Sidecare, et une mutuelle gratuite pour vos enfants.</p></div><div><p><strong style=\"font-size:1em;\">🏡</strong><strong> Télétravail possible :</strong> Une politique adaptée au rythme de chaque équipe.</p></div><div><p><strong>🚇 Bureaux centraux :</strong> Paris et Lille, au cœur de villes dynamiques, facilement accessibles en transports.&nbsp;</p></div>",
+      "roleFamily": "uiux"
     },
     {
       "id": "smartrecruiters:swiggy:6000000001312974",
@@ -239,6 +228,17 @@
       "postedAt": "2026-08-24T11:37:30-04:00",
       "description": "&lt;p&gt;關於團隊&lt;br&gt;FinTech UX 團隊負責打造 Coupang 生態系中的直覺化、值得信賴且具可擴展性的金融服務體驗。我們的使命是透過建立卓越的支付體驗，幫助顧客輕鬆且安心地完成付款，進一步消除電商流程中的各種摩擦與障礙。&lt;br&gt;作為台灣支付（Taiwan Payments）團隊的資深產品設計師（Staff Product Designer），您將負責規劃並推動關鍵支付體驗的設計策略與執行，涵蓋整個顧客旅程。您將與產品管理、工程、資料科學、商務、營運、風險管理、法務合規及行銷團隊密切合作，共同定義台灣支付服務的未來藍圖。&lt;br&gt;這是一個高度策略性的個人貢獻者（Individual Contributor, IC）職位，適合能夠親自參與設計工作、善於面對不確定性、影響產品發展方向，並創造實質商業與客戶價值的設計領導者。&lt;br&gt;&lt;br&gt;&lt;br&gt;【工作內容】&lt;br&gt;&lt;br&gt;• 主導台灣支付產品與體驗的端到端設計流程，從策略制定、設計執行到後續優化。&lt;br&gt;• 定義使用者體驗（UX）願景，影響產品策略，並規劃支付體驗發展藍圖（Roadmap）。&lt;br&gt;• 設計流暢且值得信賴的支付旅程，涵蓋結帳流程（Checkout）、電子錢包（Wallet）、身份驗證（Authentication）及未來金融科技產品。&lt;br&gt;• 領導具高度不確定性的 0→1 創新專案，打造全新的支付體驗，創造客戶與商業價值。&lt;br&gt;• 將使用者洞察、商業目標、技術限制及法規要求轉化為直覺且易用的產品體驗。&lt;br&gt;• 透過使用者研究、數據分析、產品實驗及市場洞察，發掘機會並推動可衡量的商業成果。&lt;br&gt;• 定義成功指標，持續改善轉換率（Conversion）、支付成功率、產品採用率及顧客信任度。&lt;br&gt;• 建立可擴展的設計框架、設計模式（Design Patterns）及支付體驗相關 UX 標準。&lt;br&gt;• 與產品、工程、資料科學、風險管理、法務、合規及商業團隊緊密合作，交付高品質解決方案，並影響組織層級決策。&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;br&gt;【條件要求】&lt;br&gt;&amp;nbsp;&lt;br&gt;• 平面設計、互動設計、工業設計、人機互動（HCI）、資訊工程、心理學或相關科系學位，或具同等工作經驗。&lt;br&gt;• 8年以上產品設計（Product Design）、使用者體驗設計（UX Design）或相關領域工作經驗。&lt;br&gt;• 具備設計並成功推出面向消費者數位產品的實務經驗。&lt;br&gt;• 擁有優秀作品集，能展現策略思維、UX問題解決能力、互動設計、視覺設計能力及可衡量的商業成果。&lt;br&gt;• 曾主導複雜、高度模糊且跨部門合作的專案，從概念發想到正式上線。&lt;br&gt;• 精通以使用者為中心（User-Centered Design）的設計方法與完整產品設計流程。&lt;br&gt;• 熟練使用 Figma 及現代設計工具。&lt;br&gt;• 能透過簡報、敘事能力（Storytelling）及數據清楚表達設計理念與決策依據。&lt;br&gt;• 具備與產品管理及工程團隊密切合作的經驗。&lt;br&gt;• 具備優秀的跨部門協作與利害關係人管理能力。&lt;br&gt;• 具備流利中文及英文溝通能力。&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;【加分條件】&lt;br&gt;&lt;br&gt;• 具備支付（Payments）、金融科技（FinTech）、銀行、電子錢包、貸款、信用卡或金融服務產品設計經驗。&lt;br&gt;• 曾參與台灣或其他亞太地區（APAC）市場產品設計工作。&lt;br&gt;• 深入了解支付生態系統、風險控管、身份驗證、防詐騙機制及相關法規要求。&lt;br&gt;• 具備運用使用者研究與數據分析推動產品策略制定的經驗。&lt;br&gt;• 曾在高速成長且大規模運作的組織環境中工作。&lt;br&gt;• 具備電子商務（E-commerce）、平台市集（Marketplace）或大型消費者產品平台相關經驗。&lt;br&gt;• 曾成功影響高階主管決策並推動組織共識建立。&lt;br&gt;• 能夠整合質化與量化研究成果，轉化為具體可執行的產品與設計決策。&lt;/p&gt;",
       "roleFamily": "lead-pd"
+    },
+    {
+      "id": "weworkremotely:remote-design-jobs:https://weworkremotely.com/remote-jobs/ondeckglobal-igaming-ui-ux-designer",
+      "atsProvider": "weworkremotely",
+      "company": "Ondeckglobal",
+      "title": "iGaming UI/UX Designer",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/ondeckglobal-igaming-ui-ux-designer",
+      "postedAt": "2026-08-28T13:26:53.000Z",
+      "description": "<img src=\"https://we-work-remotely.imgix.net/logos/0171/6276/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress\" />\n\n<p>\n  <strong>Headquarters:</strong> Remote\n    <br /><strong>URL:</strong> <a href=\"https://ondeckglobal.com/\">https://ondeckglobal.com/</a>\n</p>\n\n<p class=\"MsoNormal\"><strong>About the Role<br></strong><br>We are looking for a talented and detail-oriented <strong>UI/UX Designer</strong> with a strong understanding of the <strong>iGaming industry</strong> to create engaging, intuitive, and visually compelling digital experiences.<br>You will be responsible for designing user-focused interfaces across <strong>online casino, sportsbook, betting, and gaming platforms</strong>, working closely with product managers, developers, and other stakeholders to transform product requirements into seamless player experiences.<br>The ideal candidate combines strong visual design skills with UX thinking and understands how to design interfaces that are engaging, responsive, conversion-focused, and easy to navigate.<br><br><strong>Key Responsibilities</strong></p>\n<ul>\n<li class=\"MsoNormal\">Design modern, high-quality UI/UX for iGaming websites, web apps, and mobile experiences.</li>\n<li class=\"MsoNormal\">Create user flows, wireframes, prototypes, and high-fidelity interfaces in <strong>Figma</strong>.</li>\n<li class=\"MsoNormal\">Design key iGaming experiences such as casino lobbies, sportsbook interfaces, game discovery, promotions, tournaments, loyalty/VIP areas, registration, deposits, and withdrawals.</li>\n<li class=\"MsoNormal\">Improve player journeys with a focus on usability, engagement, retention, and conversion.</li>\n<li class=\"MsoNormal\">Build and maintain scalable <strong>design systems</strong>, UI components, typography, iconography, and reusable design patterns.</li>\n<li class=\"MsoNormal\">Create responsive designs that deliver a consistent experience across desktop, tablet, and mobile.</li>\n<li class=\"MsoNormal\">Collaborate closely with Product, Development, Marketing, CRM, and other teams from concept through implementation.</li>\n<li class=\"MsoNormal\">Work with developers to ensure accurate implementation and maintain high visual quality.</li>\n<li class=\"MsoNormal\">Use research, analytics, user feedback, and product insights to identify UX improvements.</li>\n<li class=\"MsoNormal\">Continuously improve existing interfaces through iteration, testing, and optimization.</li>\n<li class=\"MsoNormal\">Stay current with iGaming design trends, competitor products, UX best practices, and emerging technologies.</li>\n<li class=\"MsoNormal\">Design with accessibility, responsible gaming principles, and market-specific requirements in mind.</li>\n</ul>\n<p class=\"MsoNormal\"><strong>Required Skills &amp; Experience</strong></p>\n<ul>\n<li class=\"MsoNormal\"><strong>7+ years of UI/UX or Product Design experience</strong>, preferably within iGaming, gaming, fintech, entertainment, or another fast-paced digital product environment.</li>\n<li class=\"MsoNormal\">Strong portfolio demonstrating polished UI design and thoughtful UX problem-solving.</li>\n<li class=\"MsoNormal\">Advanced proficiency in <strong>Figma</strong>, including components, variants, Auto Layout, prototyping, and design systems.</li>\n<li class=\"MsoNormal\">Strong understanding of responsive and mobile-first design.</li>\n<li class=\"MsoNormal\">Excellent knowledge of typography, spacing, grids, color, hierarchy, and interaction design.</li>\n<li class=\"MsoNormal\">Experience translating complex product requirements into simple, intuitive user experiences.</li>\n<li class=\"MsoNormal\">Good understanding of user journeys, conversion funnels, and usability principles.</li>\n<li class=\"MsoNormal\">Ability to collaborate effectively with developers and understand technical constraints.</li>\n<li class=\"MsoNormal\">Strong attention to detail with the ability to maintain consistency across large products.</li>\n<li class=\"MsoNormal\">Ability to manage multiple projects and priorities in a fast-moving environment.</li>\n</ul>\n<p class=\"MsoNormal\">iGaming Experience — Strong Advantage<br><br><strong>Experience designing any of the following will be highly valued:</strong></p>\n<ul>\n<li class=\"MsoNormal\">Online Casino &amp; Live Casino</li>\n<li class=\"MsoNormal\">Sportsbook &amp; Sports Betting</li>\n<li class=\"MsoNormal\">Slots and Game Lobbies</li>\n<li class=\"MsoNormal\">Registration &amp; KYC flows</li>\n<li class=\"MsoNormal\">Deposits, Withdrawals &amp; Payment UX</li>\n<li class=\"MsoNormal\">Bonuses &amp; Promotions</li>\n<li class=\"MsoNormal\">VIP &amp; Loyalty Programs</li>\n<li class=\"MsoNormal\">Tournaments &amp; Gamification</li>\n<li class=\"MsoNormal\">Player Account &amp; Wallet Experiences</li>\n<li class=\"MsoNormal\">CRM and Retention Experiences</li>\n<li class=\"MsoNormal\">Multi-brand or White-label Gaming Platforms</li>\n</ul>\n<p class=\"MsoNormal\">Nice to Have</p>\n<ul>\n<li class=\"MsoNormal\">Experience with <strong>A/B testing and conversion optimization</strong>.</li>\n<li class=\"MsoNormal\">Understanding of HTML/CSS and front-end development principles.</li>\n<li class=\"MsoNormal\">Experience working with analytics and behavioral tools.</li>\n<li class=\"MsoNormal\">Experience designing gamification and reward mechanics.</li>\n<li class=\"MsoNormal\">Motion design or micro-interaction experience.</li>\n<li class=\"MsoNormal\">Experience working with international or multi-market products.</li>\n<li class=\"MsoNormal\">Familiarity with accessibility standards and responsible gaming UX.</li>\n</ul>\n<p class=\"MsoNormal\"><strong>What We’re Looking For<br></strong><br>We’re looking for more than someone who can make screens look good.<br>You should be able to understand <strong>player behavior, business objectives, and product requirements</strong>, then turn them into experiences that are intuitive, engaging, and commercially effective.<br>You care about the details, challenge weak UX, communicate your design decisions clearly, and enjoy building digital products that players genuinely enjoy using.</p>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/ondeckglobal-igaming-ui-ux-designer\">https://weworkremotely.com/remote-jobs/ondeckglobal-igaming-ui-ux-designer</a></p>",
+      "roleFamily": "uiux"
     },
     {
       "id": "weworkremotely:remote-design-jobs:https://weworkremotely.com/remote-jobs/ingenious-build-senior-product-designer",
@@ -313,7 +313,7 @@
       "title": "Senior Product Designer Securities",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-securities-bitpanda/151678",
-      "postedAt": "2026-08-25T11:38:29.331Z",
+      "postedAt": "2026-08-25T07:17:01.169Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -324,7 +324,7 @@
       "title": "Senior Product Designer Wallets 100% Remote Worldwide",
       "location": "United Kingdom",
       "url": "https://web3.career/senior-product-designer-wallets-100-remote-worldwide-tetheroperationslimited/153067",
-      "postedAt": "2026-08-21T11:38:29.332Z",
+      "postedAt": "2026-08-22T07:17:01.170Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -335,7 +335,7 @@
       "title": "Lead Product Designer Growth",
       "location": "Australia",
       "url": "https://web3.career/lead-product-designer-growth-magiceden/152850",
-      "postedAt": "2026-08-18T11:38:29.332Z",
+      "postedAt": "2026-08-18T07:17:01.170Z",
       "description": "",
       "roleFamily": "lead-pd"
     },
@@ -346,7 +346,7 @@
       "title": "Principal Product Designer",
       "location": "Remote",
       "url": "https://web3.career/principal-product-designer-bitpanda/150682",
-      "postedAt": "2026-08-11T11:38:29.333Z",
+      "postedAt": "2026-08-11T07:17:01.170Z",
       "description": "",
       "roleFamily": "lead-pd"
     },
@@ -415,39 +415,6 @@
       "postedAt": "2026-08-14T11:20:19.000Z",
       "description": "",
       "roleFamily": "uiux"
-    },
-    {
-      "id": "getro:point-nine:89133606",
-      "atsProvider": "getro",
-      "company": "Clio",
-      "title": "Senior Product Designer",
-      "location": "Dublin, Ireland",
-      "url": "https://www.clio.com/about/careers/job_id=JOB_POSTING-3-6528/",
-      "postedAt": "2026-08-07T13:15:03.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
-    },
-    {
-      "id": "getro:point-nine:89133610",
-      "atsProvider": "getro",
-      "company": "Clio",
-      "title": "Senior Product Designer, Clio Operate",
-      "location": "London, UK",
-      "url": "https://www.clio.com/about/careers/job_id=JOB_POSTING-3-6507/",
-      "postedAt": "2026-08-07T13:15:03.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
-    },
-    {
-      "id": "getro:point-nine:89133615",
-      "atsProvider": "getro",
-      "company": "Clio",
-      "title": "Senior Product Designer, Integrations & APIs, Vincent",
-      "location": "London, UK",
-      "url": "https://www.clio.com/about/careers/job_id=JOB_POSTING-3-6525/",
-      "postedAt": "2026-08-07T13:15:03.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
     },
     {
       "id": "getro:point-nine:89907454",
@@ -560,23 +527,23 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "getro:accel:90069539",
-      "atsProvider": "getro",
-      "company": "Headway",
-      "title": "Senior / Staff Product Designer - Provider",
-      "location": "",
-      "url": "https://jobs.ashbyhq.com/headway/7f9e8fad-4584-4a93-ae65-6feff6584447",
-      "postedAt": "2026-08-15T12:04:21.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
       "id": "getro:accel:90069540",
       "atsProvider": "getro",
       "company": "Headway",
       "title": "Senior / Staff Product Designer - Patient",
       "location": "",
       "url": "https://jobs.ashbyhq.com/headway/d8e08954-ebf4-4dce-951f-b1de54f337c9",
+      "postedAt": "2026-08-15T12:04:21.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:accel:90069539",
+      "atsProvider": "getro",
+      "company": "Headway",
+      "title": "Senior / Staff Product Designer - Provider",
+      "location": "",
+      "url": "https://jobs.ashbyhq.com/headway/7f9e8fad-4584-4a93-ae65-6feff6584447",
       "postedAt": "2026-08-15T12:04:21.000Z",
       "description": "",
       "roleFamily": "lead-pd"
@@ -659,6 +626,17 @@
       "roleFamily": "senior-pd"
     },
     {
+      "id": "getro:accel:91444560",
+      "atsProvider": "getro",
+      "company": "Airkit",
+      "title": "Lead Technical Product Owner, Agentic Transformation",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.salesforce.com/company/careers/jobs/JR356817/lead-technical-product-owner-agentic-transformation/",
+      "postedAt": "2026-08-28T12:28:25.000Z",
+      "description": "",
+      "roleFamily": "product-owner"
+    },
+    {
       "id": "getro:accel:91150388",
       "atsProvider": "getro",
       "company": "Nimble Storage",
@@ -736,17 +714,6 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "getro:hv-capital:90596787",
-      "atsProvider": "getro",
-      "company": "FlixBus",
-      "title": "Senior Product Owner (m/f/d)",
-      "location": "Berlin, Germany",
-      "url": "https://flix.careers/job/?jobid=8726634002",
-      "postedAt": "2026-08-20T12:49:19.000Z",
-      "description": "",
-      "roleFamily": "product-owner"
-    },
-    {
       "id": "getro:seedcamp:90329463",
       "atsProvider": "getro",
       "company": "9fin",
@@ -780,17 +747,6 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "getro:seedcamp:89140997",
-      "atsProvider": "getro",
-      "company": "Uncapped",
-      "title": "Product Owner",
-      "location": "London, UK",
-      "url": "https://apply.workable.com/uncapped/j/0DE75DE680",
-      "postedAt": "2026-08-07T13:29:26.000Z",
-      "description": "",
-      "roleFamily": "product-owner"
-    },
-    {
       "id": "getro:insight-partners:91189481",
       "atsProvider": "getro",
       "company": "Optimizely",
@@ -798,17 +754,6 @@
       "location": "Hanoi, Hoàn Kiếm, Hanoi, Vietnam",
       "url": "https://careers.optimizely.com/job/Hanoi-Product-Designer-I/1353439155/",
       "postedAt": "2026-08-26T12:15:21.000Z",
-      "description": "",
-      "roleFamily": "uiux"
-    },
-    {
-      "id": "getro:insight-partners:90948479",
-      "atsProvider": "getro",
-      "company": "GCash",
-      "title": "Manager, UX Designer",
-      "location": "Delhi, India",
-      "url": "https://globe.wd3.myworkdayjobs.com/Mynt/job/NCR---WGC/Manager--UX-Designer_R0000020544",
-      "postedAt": "2026-08-24T10:06:04.000Z",
       "description": "",
       "roleFamily": "uiux"
     },
@@ -945,17 +890,6 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "getro:insight-partners:89133347",
-      "atsProvider": "getro",
-      "company": "StackBlitz",
-      "title": "Staff Product Designer",
-      "location": "Remote",
-      "url": "https://boards.greenhouse.io/stackblitz/jobs/4354791009",
-      "postedAt": "2026-08-07T13:14:35.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
       "id": "getro:insight-partners:90423762",
       "atsProvider": "getro",
       "company": "Inhabit",
@@ -965,6 +899,28 @@
       "postedAt": "2026-08-19T12:07:48.000Z",
       "description": "",
       "roleFamily": "product-owner"
+    },
+    {
+      "id": "getro:general-catalyst:91528510",
+      "atsProvider": "getro",
+      "company": "Parloa",
+      "title": "Staff Product Designer - Expert Experience",
+      "location": "Berlin, Germany",
+      "url": "https://de.linkedin.com/jobs/view/staff-product-designer-expert-experience-at-parloa-4458778412",
+      "postedAt": "2026-08-28T16:26:28.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:general-catalyst:91424763",
+      "atsProvider": "getro",
+      "company": "Stacks",
+      "title": "Senior Product Designer",
+      "location": "Paris",
+      "url": "https://jobs.lever.co/pigment/29af203a-1658-425b-b510-036ef32af354",
+      "postedAt": "2026-08-28T11:46:02.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
     },
     {
       "id": "getro:general-catalyst:91164049",
@@ -1044,6 +1000,17 @@
       "roleFamily": "uiux"
     },
     {
+      "id": "getro:general-catalyst:91422780",
+      "atsProvider": "getro",
+      "company": "Canva",
+      "title": "Spain Design Lead (12 month contract)",
+      "location": "Madrid, Spain",
+      "url": "https://jobs.smartrecruiters.com/Canva/6000000001360382",
+      "postedAt": "2026-08-28T11:43:08.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
       "id": "getro:general-catalyst:90062062",
       "atsProvider": "getro",
       "company": "TRACTIAN",
@@ -1064,28 +1031,6 @@
       "postedAt": "2026-08-14T13:48:58.000Z",
       "description": "",
       "roleFamily": "uiux"
-    },
-    {
-      "id": "getro:general-catalyst:89874399",
-      "atsProvider": "getro",
-      "company": "Coda",
-      "title": "Senior Product Designer, Android",
-      "location": "Berlin, Germany",
-      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/568a65dc-7396-431f-b655-8e8c9470c864",
-      "postedAt": "2026-08-14T04:12:52.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
-    },
-    {
-      "id": "getro:general-catalyst:89874363",
-      "atsProvider": "getro",
-      "company": "Coda",
-      "title": "Staff Product Designer",
-      "location": "Berlin, Germany",
-      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/14eadb8a-d67c-421d-bf9b-5a6c0387e209",
-      "postedAt": "2026-08-14T04:12:45.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
     },
     {
       "id": "getro:general-catalyst:89508622",
@@ -1139,17 +1084,6 @@
       "location": "Leiden, Netherlands",
       "url": "https://jobs.channelengine.com/o/product-owner-3",
       "postedAt": "2026-08-21T13:07:11.000Z",
-      "description": "",
-      "roleFamily": "product-owner"
-    },
-    {
-      "id": "getro:general-catalyst:90484543",
-      "atsProvider": "getro",
-      "company": "Ethos",
-      "title": "Expert Opportunity - Product Owner ($80/hr, up to $1,600/week)",
-      "location": "India",
-      "url": "https://in.linkedin.com/jobs/view/expert-opportunity-product-owner-%2480-hr-up-to-%241-600-week-at-ethos-4455151353",
-      "postedAt": "2026-08-19T14:19:17.000Z",
       "description": "",
       "roleFamily": "product-owner"
     },
