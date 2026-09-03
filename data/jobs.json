@@ -1,25 +1,14 @@
 {
-  "generatedAt": "2026-09-02T04:56:44.429Z",
-  "filteredAt": "2026-09-02T04:56:45.693Z",
+  "generatedAt": "2026-09-03T04:54:27.359Z",
+  "filteredAt": "2026-09-03T04:54:28.653Z",
   "funnel": {
-    "raw": 17308,
-    "deduped": 14409,
-    "titleMatched": 378,
-    "recencyPassed": 160,
-    "geoPassed": 93
+    "raw": 17440,
+    "deduped": 14485,
+    "titleMatched": 384,
+    "recencyPassed": 162,
+    "geoPassed": 94
   },
   "jobs": [
-    {
-      "id": "lever:spotify:34e3828f-db98-486f-a077-cd67ece45be0",
-      "atsProvider": "lever",
-      "company": "Spotify",
-      "title": "Senior Product Designer - Platform and Partner Experience",
-      "location": "London",
-      "url": "https://jobs.lever.co/spotify/34e3828f-db98-486f-a077-cd67ece45be0",
-      "postedAt": "2026-08-28T13:23:56.446Z",
-      "description": "",
-      "roleFamily": "senior-pd"
-    },
     {
       "id": "workable:mercari:59DEF8CDC3",
       "atsProvider": "workable",
@@ -29,6 +18,17 @@
       "url": "https://apply.workable.com/j/59DEF8CDC3",
       "postedAt": "2026-08-31",
       "description": "<p><img src=\"https://workablehr.s3.amazonaws.com/uploads/photos/292085/d93971af91d2985c671e8ff8355f998c.jpg\" width=\"763px\" height=\"auto\" style=\"width:763px;height:auto;\"></p><p>本ポジションは日本語JDの用意がありません。</p><p></p><h3>Senior Product Designer - Mercari / Crossborder</h3><ul><li>Employment Status:　Full-time&nbsp;</li><li>Work Hours:\tFull Flextime (no core time)&nbsp;&nbsp;</li><li>Office: Roppongi</li></ul><p>For more details, see the <a href=\"https://careers.mercari.com/en/recruitment-selection/#section3\" rel=\"nofollow noreferrer noopener\" class=\"external\">Overview of Our Positions</a> section on our Careers site.</p><h3><br>About Mercari</h3><p>Circulate all forms of value to unleash the potential in all people</p><p></p><p>\"What can I do to help society thrive with the finite resources we have?\" The Mercari marketplace app was born in 2013 out of this thought by our founder Shintaro Yamada as he traveled the world. We believe that by circulating all forms of value, not just physical things and money, we can create opportunities for anyone to realize their dreams and contribute to society and the people around them. Mercari aims to use technology to connect people all over the world and create a world where anyone can unleash their potential. For more information about Mercari Group’s mission, see <a href=\"https://careers.mercari.com/en/culture/\" rel=\"nofollow noreferrer noopener\" class=\"external\">Mercari’s Culture Doc</a></p><h3><br>　<br>Organization/Team Mission</h3><p>Mercari has been operating marketplaces localized in two countries, Japan and the United States, and the Crossborder team recently released a new global app , already in use in Hong-kong and Taiwan that we aim to deploy&nbsp; in over 100 countries. For requests from each region, it must be developed with a global perspective, including standardization and consolidation to avoid excessive localization.</p><p>The integration of Crossborder e-commerce and local business is heavily reliant on a robust logistics network and efficient operations. This necessitates working closely with numerous third-party vendors. Through this experience, you will acquire a wide range of business knowledge and apply it to engineering, collaborating closely with teams such as product and operations.</p><p>Trade-offs will have to be made to build a strong foundation while assuring a reasonable time to market. The team must balance short-term initiatives and the long term goal for the Global Product. Constructive discussions that transcend individual job roles, whether you are an engineer or a Business Developer, are essential for moving forward effectively.</p><p>The New Business Design Team leads end-to-end user experience design for emerging product initiatives at Mercari, shaping intuitive, trustworthy, and high-quality experiences for domestic and international users. We partner closely with Product, Engineering, Research, and Business Development to explore new problem spaces and raise the bar for craft, consistency, and innovation.</p><p></p><p>See <a href=\"https://careers.mercari.com/en/culture/\" rel=\"nofollow noreferrer noopener\" class=\"external\">here</a> for more information about our mission and values.</p><h3><br>　<br>Why this role matters&nbsp;</h3><p>This role plays a critical part in shaping how buyers experience Mercari at scale. As the marketplace evolves, we’re entering new problem spaces where clarity, trust, and experience quality matter more than ever. Senior Designers in this role don’t just execute solutions — they help define the problems worth solving and set the bar for what “good” looks like.</p><p>You’ll be trusted to operate with a high degree of ownership, leading end-to-end experiences in ambiguous areas while balancing user needs, business goals, and long-term product quality. Your work will directly influence how buyers discover value, make confident decisions, and build trust with the marketplace.</p><p>This role matters because strong design leadership here creates leverage: it unlocks better collaboration, sharper product thinking, and more durable experiences that scale beyond a single feature or release. We’re looking for designers who care deeply about craft, can think beyond the immediate task, and want to shape the future of the buyer experience internationally.</p><h3><br><br>Work Responsibilities</h3><ul><li>Own the end-to-end design for buyer-facing experiences, from discovery and problem framing through execution and launch.</li><li>Act as Lead Designer for assigned product areas, setting experience direction and design quality standards.</li><li>Translate ambiguous business and user problems into clear experience strategies, flows, and high-quality UI.</li><li>Drive design decisions through strong craft, systems thinking, and user-centered rationale.</li><li>Collaborate deeply with PM, Eng, and UXR to shape product direction and influence roadmaps.</li><li>Identify gaps and opportunities beyond the immediate scope and proactively propose new ideas, concepts, or improvements.</li><li>Contribute to and evolve shared design systems, patterns, and best practices.</li><li>Provide thoughtful feedback and mentorship to other designers, raising the overall quality of work.</li></ul><h3><br>　<br>Unique Challenges</h3><ul><li>Designing for large-scale, real-world marketplace complexity with diverse buyer needs and behaviors.</li><li>Leading design in unexplored or undisclosed product areas with high ambiguity and few precedents.</li><li>Balancing speed, experimentation, and innovation with a high bar for craft, trust, and usability.</li><li>Navigating cross-team and cross-function alignment while maintaining clear experience ownership.</li><li>Designing for the Japanese market with strong attention to cultural nuance, trust, and clarity.</li></ul><h3><br><br>Qualifications</h3><ul><li>Required Experience/Skills</li><ul><li>6+ years of experience in product, UX, or interaction design with ownership of end-to-end experiences.</li><li>Strong craft skills across UX, interaction design, and visual design, with a sharp eye for detail and quality.</li><li>Proven ability to lead design for complex or ambiguous problem spaces.</li><li>Experience influencing product direction through design thinking, concepts, and storytelling.</li><li>Solid understanding of design systems, scalable patterns, and consistency at scale.</li><li>Strong collaboration and communication skills with cross-functional partners.</li><li>A portfolio demonstrating high-quality shipped work, problem-solving depth, and design leadership.<br><br></li></ul><li>Preferred Experience/Skills</li><ul><li>Experience designing marketplace, e-commerce, or transaction-based products.</li><li>Experience acting as a lead designer across multiple teams or initiatives.</li><li>Familiarity with user research methods and applying insights to design decisions.</li><li>Experience working in or designing for the Japanese market.</li><li>Comfort experimenting, prototyping, and iterating quickly in uncertain environments.</li><li>Conversational Japanese proficiency</li></ul></ul><p></p><ul><li>Language&nbsp;</li><ul><li>English: Proficient (CEFR – C1) </li><li>Japanese: Basic (CEFR – A2)</li></ul></ul><p>\tFor details about CEFR, see <a href=\"https://careers.mercari.com/en/language/\" rel=\"nofollow noreferrer noopener\" class=\"external\">here</a>.<br>\t　</p><h3>　<br>Learn More About Mercari Group</h3><ul><li>Careers site: <a href=\"https://careers.mercari.com/en/\" rel=\"nofollow noreferrer noopener\" class=\"external\">https://careers.mercari.com/en/</a>&nbsp;&nbsp;&nbsp;</li><li>Mercan: <a href=\"https://mercan.mercari.com/en/\" rel=\"nofollow noreferrer noopener\" class=\"external\">https://mercan.mercari.com/en/</a>&nbsp;&nbsp;</li><li>Social media: <a href=\"https://x.com/mercari_inc/\" rel=\"nofollow noreferrer noopener\" class=\"external\">X</a> / <a href=\"https://www.linkedin.com/company/mercari-inc-/?viewAsMember=true\" rel=\"nofollow noreferrer noopener\" class=\"external\">Linkedin</a>&nbsp;</li></ul><h3><br><br>Recruiting at Mercari</h3><p>At Mercari Group, we value empathizing with and embodying the mission and values ​​of the Group and each company. To promote the creation of an organization that maximizes the total amount of value exhibited by all members, we would like to understand the experience and skills of each candidate as accurately as possible.</p><p></p><p>Recruiting cycle at Mercari Group</p><ul><li>Application screening</li><li>Skill assessment: For engineering positions, you will be asked to complete a skill assessment on HackerRank or GitHub. For non-engineering positions, you may be asked to complete an assessment depending on the position. (The timing of the assessment may coincide with the interview process.)</li><li>Interview: The number of interviews may vary depending on the position.</li><li>Reference check: We will ask for online references around the timing of the final interview.</li><li>Offer: Offers will be determined carefully in consideration of the final interview and the reference check.</li></ul><p>　Learn more about our recruiting process <a href=\"https://careers.mercari.com/en/recruitment-selection/#section2\" rel=\"nofollow noreferrer noopener\" class=\"external\">here</a>.</p><h3><br>　<br>Equal Opportunity Hiring</h3><p>Here at Mercari, we work to realize a world in which no one’s potential is limited by their background and everyone has the opportunity to freely create value. We also firmly believe that a mindset of Inclusion &amp; Diversity is essential for us to achieve our mission.</p><p></p><p>This, of course, extends to our hiring practices as well. Mercari is committed to eliminating discrimination based on age, gender, sexual orientation, race, religion, physical disability, and other such factors so that anyone who shares our mission and values can join us, regardless of their background. For more details, please read our <a href=\"https://about.mercari.com/en/inclusion-diversity/\" rel=\"nofollow noreferrer noopener\" class=\"external\">I&amp;D statement</a>.</p><p></p><p>Please read and acknowledge our <a href=\"https://careers.mercari.com/en/privacy/\" rel=\"nofollow noreferrer noopener\" class=\"external\">Privacy Policy</a> prior to submitting your application.</p><p></p>",
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "lever:spotify:34e3828f-db98-486f-a077-cd67ece45be0",
+      "atsProvider": "lever",
+      "company": "Spotify",
+      "title": "Senior Product Designer - Platform and Partner Experience",
+      "location": "London",
+      "url": "https://jobs.lever.co/spotify/34e3828f-db98-486f-a077-cd67ece45be0",
+      "postedAt": "2026-08-28T13:23:56.446Z",
+      "description": "",
       "roleFamily": "senior-pd"
     },
     {
@@ -54,6 +54,17 @@
       "roleFamily": "uiux"
     },
     {
+      "id": "smartrecruiters:DeliveryHero:744000146990144",
+      "atsProvider": "smartrecruiters",
+      "company": "Delivery Hero",
+      "title": "Product Design Manager - (They/She/He)",
+      "location": "Barcelona, , Spain",
+      "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000146990144",
+      "postedAt": "2026-09-02T13:33:21.844Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
       "id": "smartrecruiters:DeliveryHero:744000146136179",
       "atsProvider": "smartrecruiters",
       "company": "Delivery Hero",
@@ -65,17 +76,6 @@
       "roleFamily": "lead-pd"
     },
     {
-      "id": "smartrecruiters:DeliveryHero:744000145214989",
-      "atsProvider": "smartrecruiters",
-      "company": "Delivery Hero",
-      "title": "Product Design Manager - (They/She/He)",
-      "location": "Barcelona, , Spain",
-      "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000145214989",
-      "postedAt": "2026-08-24T08:22:36.631Z",
-      "description": "",
-      "roleFamily": "uiux"
-    },
-    {
       "id": "teamtailor:propertyfinder:88627867-38df-47d6-aba4-1b440d84fa5f",
       "atsProvider": "teamtailor",
       "company": "Propertyfinder",
@@ -85,6 +85,17 @@
       "postedAt": "2026-08-18T06:47:51.000Z",
       "description": "<div><p>Property Finder is the leading property portal in the Middle East and North Africa (MENA) region, dedicated to shaping an inclusive future for real estate while spearheading the region’s growing tech ecosystem. At its core is a clear and powerful purpose: To change living for good in the region.</p><p>Founded on the value of great ambitions, Property Finder connects millions of property seekers with thousands of real estate professionals every day. The platform offers a seamless and enriching experience, empowering both buyers and renters to make informed decisions. Since its inception in 2007, Property Finder has evolved into a trusted partner for developers, brokers, and home seekers. As a lighthouse tech company, it continues to create an environment where people can thrive and contribute meaningfully to the transformation of real estate in MENA.</p></div><div><p></p><p><span>As a Senior Product Designer at PF, you will play a pivotal role in shaping the design and user experience of our B2B products. You will drive the design process from discovery to delivery, taking ownership of projects and collaborating closely with cross-functional teams to deliver high-impact solutions. As a senior member of the design team, you will work alongside other designers, contribute to design strategy, and ensure that our products align with both customer needs and business goals. This role offers you the chance to lead complex design projects, work on strategic initiatives, and be a key player in achieving PF’s mission to become the most trusted partner in real estate across the MENA region.</span></p><h4><span>Key responsibilities:</span></h4><ul><li><p><span>Design Leadership: Lead the end-to-end design process for one or more B2C products—from discovery and ideation through prototyping, user testing, and delivery. Set a high bar for craft, quality, and execution across the team.</span></p></li><li><p><span>User-Centred Design: Champion user needs throughout the product development lifecycle, creating intuitive, effective experiences that balance customer value with business goals.</span></p></li><li><p><span>UI &amp; Visual Design: Demonstrate exceptional UI and visual design skills, with a strong eye for detail, interaction design, motion, micro-interactions, and creating moments of delight.</span></p></li><li><p><span>Rapid Execution: Produce high-quality design work in fast-paced environments while maintaining strong design thinking, process, and attention to detail.</span></p></li><li><p><span>Problem Solving: Translate user research, data, and business objectives into thoughtful product solutions. Continuously iterate to improve usability, engagement, and outcomes.</span></p></li><li><p><span>Collaboration: Partner closely with product managers, researchers, engineers, and fellow designers to define problems, align on solutions, and deliver exceptional product experiences.</span></p></li><li><p><span>Design Strategy: Help shape the design strategy for the B2B product suite, ensuring a consistent experience across web and mobile. Collaborate with other design teams to evolve a unified product vision and design language.</span></p></li><li><p><span>Testing &amp; Iteration: Validate concepts through prototyping, user testing, and experimentation, using feedback and data to refine designs and improve product outcomes.</span></p></li></ul><h4><span>Desired Experience:</span></h4><ul><li><p><span>Experience: 8+ years of experience in Product Design, UX, or a related discipline, with a proven track record of shipping high-quality digital products in fast-paced environments.</span></p></li><li><p><span>Design Craft: Expertise across product discovery, UX, interaction design, visual design, prototyping, and design systems. Strong ability to use research and data to inform decisions.</span></p></li><li><p><span>Strategic Thinking: Ability to connect user needs with business objectives and contribute to product and design strategy.</span></p></li><li><p><span>Communication &amp; Collaboration: Outstanding communication and stakeholder management skills, with experience influencing cross-functional teams and presenting design rationale with confidence.</span></p></li><li><p><span>Mentorship: Passion for supporting and developing other designers through coaching, feedback, and leading by example.</span></p></li><li><p><span>Ownership &amp; Execution: Self-driven and accountable, with the ability to lead complex initiatives from concept through launch while maintaining a high standard of quality.</span></p></li><li><p><span>Attention to Detail: A strong eye for visual polish, usability, accessibility, and the small details that create exceptional user experiences.</span></p></li><li><p><span>AI Proficiency: Fluency with AI tools across the design process, from research synthesis to rapid prototyping. Critical evaluation of AI output and knowledge when generative capabilities genuinely improve an experience versus when they don't.</span></p></li><li><p><span>Content Creation (Nice to Have): Experience creating product videos, motion graphics, or other visual content is a plus.</span></p></li></ul></div><h3><strong>Our promise to talent</strong></h3><p>At Property Finder, we believe talent thrives in an environment where you can be your best self. Where you are empowered to create, elevate, grow, and care. Our team is made up of the best and brightest, united by a shared ambition to change living for good in the region. We attract top talent who want to make an impact. We firmly believe that when our people grow, we all succeed.</p><h2><strong>Property Finder Guiding Principles</strong></h2><div><div><div><div><div><div><div><ol><li><p>Think Future First</p></li><li><p>Data Beats Opinions, Speed Beats Perfection</p></li><li><p>Optimise for Impact</p></li><li><p>Act Like An Owner</p></li><li><p>The Biggest Risk is Taking no Risk at All</p></li></ol></div></div></div></div></div></div></div><div><div><h2><strong>Find us at:</strong></h2></div></div><h2><a target=\"_blank\" href=\"https://twitter.com/propertyfinder?lang=en\">Twitter</a></h2><h2><a target=\"_blank\" href=\"https://www.facebook.com/propertyfinderuae/\">Facebook</a></h2><h2><a target=\"_blank\" href=\"https://www.instagram.com/propertyfinder/?hl=en\">Instagram</a></h2><h2><a target=\"_blank\" href=\"https://www.linkedin.com/company/propertyfinder-ae/\">Linkedin</a></h2><h2><a target=\"_blank\" href=\"https://www.glassdoor.com/Overview/Working-at-propertyfinder-EI_IE1176641.11,25.htm\">Glassdoor</a></h2>",
       "roleFamily": "senior-pd"
+    },
+    {
+      "id": "greenhouse:n26:8159268",
+      "atsProvider": "greenhouse",
+      "company": "N26",
+      "title": "Product Designer",
+      "location": "Berlin",
+      "url": "https://n26.com/en-eu/careers/positions/8159268?gh_jid=8159268",
+      "postedAt": "2026-09-02T09:36:35-04:00",
+      "description": "&lt;h2&gt;&lt;strong&gt;About the opportunity&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;strong&gt;Please Note:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;For ease of assessment, please include a portfolio alongside your CV in English when applying.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;li&gt;We accept portfolios in multiple formats (PDF, website, or online portfolio platform).&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;li&gt;This is a mandatory requirement.&lt;br&gt;&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;We are seeking a Product Designer with extensive experience in designing both complex internal systems and user-facing applications. Your mission will be to deeply understand the workflows, challenges, and goals of our users across multiple departments. By designing thoughtful, end-to-end experiences, you will empower them to do their best work. In this role, you will collaborate with cross-functional teams to strengthen our organisation through intelligent automation and deliver scalable value for customer risk lifecycle management.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About&amp;nbsp; the team:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;You will be part of an ecosystem focused on keeping our user secure:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;CRL: Customer Risk Lifecycle focuses on building a secure, compliant-by-design environment to manage the customer risk lifecycle through AI integration, internal system optimisation, and thoughtful app design. Our vision is to redefine the future of customer risk management to enable safe banking&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;In this role, you will:&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Drive the end-to-end design process: Take responsibility for the entire design process from initial research with users to conceptualisation, design, testing, and validation of operational solutions.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;li&gt;Design for efficiency and effectiveness: Create solutions that prioritise usability, speed, and functionality for power users who interact with complex systems daily.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;li&gt;Simplify regulatory complexity: Transform compliance requirements into intuitive workflows, ensuring that security and risk management are native parts of the user experience.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;li&gt;Collaborate cross-functionally: Work together with Product Managers, Engineers, and operations leads to turn user insights into product opportunities.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;What you need to be successful:&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience: 3+ years of experience designing digital products, with a focus on both internal platforms and app design.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;li&gt;Systems thinking: Proven ability to solve for complexity and navigate system constraints and intricate user workflows.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;li&gt;User research: Experience conducting research with internal stakeholders and translating findings into actionable design solutions.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;li&gt;AI Familiarity: Understanding of how automation and AI can augment internal team capabilities.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;li&gt;User centricity: A user-centered mindset with a passion for solving practical, often messy, real world problems that involve system constraints, legacy infrastructure and complex user workflows.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;li&gt;Strategic design: Demonstrated understanding of how design can drive operational efficiency and solve internal process challenges. &lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;li&gt;Design advocacy: Ability to work collaboratively with non-design audiences and communicate design rationale and value clearly.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;Analytical mindset: Proven ability to use data and user feedback to identify product opportunities and measure UX success.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Nice to have&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Having deep expertise in architecting complex solutions for highly regulated environments like fintech, healthcare, and logistics. Experienced in designing both end-user mobile apps and secure internal tools, balancing complex operational requirements and strict compliance with an intuitive user experience&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;What’s in it for you:&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Accelerate your career growth by joining one of Europe’s most talked about disruptors 🚀.&lt;/li&gt;\n&lt;li&gt;Employee benefits that range from a competitive personal development budget, work from home budget, discounts to fitness &amp;amp; wellness memberships, language apps and public transportation.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;As an N26 employee you will have access to a Premium subscription on your personal N26 bank account. As well as subscriptions for friends and family members.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Additional day of annual leave for each year of service.&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;A high degree of autonomy and access to cutting edge technologies - all while working with a friendly team of peers of diverse nationalities, experiences, and backgrounds.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;A relocation package with visa support for those who need it.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;N26 has reimagined banking for today’s digital world. Technology and design empower&lt;a href=&quot;https://n26.com/en-eu/blog&quot;&gt; everything we do&lt;/a&gt; and it’s how we are building the global banking platform the world loves to use.&lt;/p&gt;\n&lt;p&gt;We&#39;ve eliminated physical branches, paperwork, and hidden fees for an elegant digital experience and supreme savings. Giving people the power to live and bank their way is what gets us out of bed in the morning and inspires the work that we do.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are headquartered in Berlin with offices in multiple cities across Europe, including Vienna and Barcelona, and a 1,500-strong team of more than 80 nationalities.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Do you see yourself thriving in this role? &lt;/strong&gt;We’d love to see your application even if you don’t meet 100% of the criteria. You may just be the right fit for this or other roles!&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal opportunities for all&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At N26, we believe our strength lies in our people and the varied perspectives they bring. We strive to build diverse teams that drive innovation and business success. We actively seek talent from all backgrounds and welcome applications from all genders, cultures, sexual orientations, abilities, neurodiversities, and ages.&lt;/p&gt;\n&lt;p&gt;We are committed to providing an excellent and accessible candidate experience. If you require any accommodations to make this process work for you, please let us know. We’re here to support you!&lt;/p&gt;\n&lt;p&gt;Discover more about Diversity &amp;amp; Inclusion at N26:&lt;a href=&quot;https://n26.com/en-eu/diversity-and-inclusion&quot;&gt; https://n26.com/en-eu/diversity-and-inclusion&lt;/a&gt;&lt;/p&gt;",
+      "roleFamily": "uiux"
     },
     {
       "id": "ashby:amboss:bef7d0e8-857e-4cd0-9ee7-c9df4b8e76b4",
@@ -107,17 +118,6 @@
       "postedAt": "2026-08-24T12:15:34.489Z",
       "description": "",
       "roleFamily": "senior-pd"
-    },
-    {
-      "id": "ashby:supercell:d65a9741-cf71-4065-a2cc-bf3780ee7ee5",
-      "atsProvider": "ashby",
-      "company": "Supercell",
-      "title": "UX Designer, LiveOps Tooling",
-      "location": "Helsinki",
-      "url": "https://jobs.ashbyhq.com/supercell/d65a9741-cf71-4065-a2cc-bf3780ee7ee5",
-      "postedAt": "2026-08-12T09:20:07.271+00:00",
-      "description": "[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/303b9bee-5c13-4582-8bf6-4d58f73cfdd8/image3_color_Interviewing.jpeg]\n\n\nWE'RE LOOKING FOR A SENIOR UX DESIGNER WHO ENJOYS TURNING COMPLEX OPERATIONAL WORKFLOWS INTO INTUITIVE, EFFICIENT USER EXPERIENCES. YOU'LL WORK CLOSELY WITH GAME TEAMS ACROSS SUPERCELL TO UNDERSTAND HOW THEY PLAN, MANAGE, AND OPERATE LIVE GAMES, THEN TRANSLATE THOSE INSIGHTS INTO PRODUCTS THAT MAKE THEIR WORK SIMPLER, FASTER, AND MORE ENJOYABLE.\n\nKeeping our games fresh and engaging takes more than great ideas. It requires powerful tools that help our game teams operate their games as live services.\n\nThe LiveOps Tooling team builds and owns the internal products that game teams use every day to deliver live content to millions of players. Our tools enable game teams to manage what content to release, when to release it, and which players will experience it. In addition to this, we help multiple other teams to integrate their capabilities with games. This can be anything from A/B testing to managing Supercell Store.\n\nThis is a highly collaborative role. You'll partner with designers, engineers, product managers, and game teams to uncover real user needs, challenge assumptions, and design solutions that support multiple independent teams with different ways of working.\n\nIf you're energized by solving ambiguous problems, simplifying complex systems, and designing tools that have a meaningful impact on how games are made, we'd love to hear from you.\n\n\n\n[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/7a053edc-bf2e-4db4-85ee-5630e2b5d305/banner_narrow_customs.jpg]\n\n\n\n\nWHAT YOU'LL BE DOING\n\n - Own the end-to-end user experience for our internal LiveOps tools, from discovery through delivery and iteration.\n\n - Partner with game teams to understand how they operate live games, identify pain points, and uncover opportunities to improve their workflows.\n\n - Design intuitive solutions for complex operational problems that support multiple independent game teams.\n\n - Lead product research and discovery through user interviews, observation, and collaborative workshops.\n\n - Create information architecture, user flows, wireframes, prototypes, and interaction designs for data-rich applications.\n\n - Develop a deep understanding of the LiveOps domain, the challenges game teams face, and the broader ecosystem our tools support.\n\n - Plan and conduct usability testing and user research to validate designs and continuously improve the user experience.\n\n - Work closely with engineers throughout implementation, providing design guidance and helping ensure a high-quality user experience in the final product.\n\n\nWHAT YOU HAVE\n\n - Several years of experience designing products for both technical and non-technical users. Our primary focus is web applications, but not limited to it.\n\n - Experience designing complex, data-rich interfaces and multi-step workflows.\n\n - System thinking in designing solutions.\n\n - Demonstrated skills to do usability and user validation testing.\n\n - Strong user research and discovery skills. You're comfortable observing users, talking to stakeholders, and uncovering the underlying problems behind feature requests.\n\n - Demonstrated ability to take ambiguous, open-ended problems and turn them into thoughtful, well-reasoned design solutions.\n\n - Excellent communication skills and the ability to explain design decisions to both technical and non-technical audiences.\n\n - Strong sense of ownership and the humility to change direction when research, user feedback, or product goals point to a better solution.\n\n - A collaborative mindset and a passion for helping people do their best work through thoughtful design.\n\n - Experience working closely with engineers, project managers and product managers  in an iterative product development environment.\n\n\nWOULD BE NICE IF YOU ALSO HAVE\n\n - Ability to leverage AI in the UX design process, from prototyping to generating and validating ideas.\n\n - Knowledge of creating design systems and working with component libraries.\n\n - Prototyping skills for testing complex user flows.\n\n - Experience designing scheduling or segmentation user interfaces.\n\n - Experience designing A/B testing platforms.\n\n - Experience designing complex internal products or data management tools.\n\n - Front-end coding experience (not expected to code on the job).\n\n - Experience working with game development teams or game production tools.\n\n\nWHERE YOU'LL BE\n\nThis role is based in our Helsinki office. This is an on-site role, and we expect you to spend most of your time at the Helsinki office to build strong working relationships.\n\n\n\n\n–––\n\nThat's it about the role! Below, we've gathered some things we feel are important for you to know. Totally optional, but a highly recommended read. \n\nOnce you're ready to apply, just send us your application through the form on the bottom of the page. \n\n–––\n\n\n\n[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/88b3477a-7124-479e-babc-94125c5b23be/banner_narrow_allstars.jpg]\n\n\nABOUT SUPERCELL \n\nSupercell is a games company from Helsinki, Finland, with offices https://supr.cl/jd-offices also in San Francisco, Seoul, Shanghai, and London. You might know us as the makers of Hay Day, Clash of Clans, Boom Beach, Clash Royale, and Brawl Stars. Our mission is to create great games https://supr.cl/jd-games that as many people as possible play for years and that are remembered forever.\n\nSo, how do we make great games? By putting together the best teams and giving them the freedom and independence to succeed. And by taking risks, failing, sharing learnings https://supercell.com/en/news/learning-from-failures/, and killing lots of projects. \n\n\n\n[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/0272a5b3-a7a2-4f1c-b97b-725eae66daf0/banner_narrow_people3.jpg]\n\n\nHEY, YOU MIGHT LOVE IT HERE!\n\nIndependent cells and trust are at the core of our culture https://supr.cl/jd-why-you. But it takes more than that to make great games. We take good care of our people, providing them with the compensation, work environment, and resources they need to succeed while having fun along the way.\n\n\n\n[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/49ae2117-cfbb-4fbd-bc4c-f67357d2f376/banner_narrow_titles.jpg]\n\n\nYOU ARE NOT YOUR JOB TITLE ™\n\nHere, you won’t need to focus on chasing titles https://supr.cl/jd-job-title or climbing ladders. Internally, our job titles don’t include prefixes like Senior, Junior, Principal, or Director. Recognition isn’t tied to your title, as it doesn't define the impact you can have around here.\n\n\n\n[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/860d5de4-aa96-4e01-879c-889b7039330b/banner_narrow_chest.jpg]\n\n\nBENEFITS AND COMPENSATION \n\nLuring you in with glitter, glamour, and gems isn't what we're about. We want you to enjoy your time here fully, so we structure our compensation and benefits https://supr.cl/jd-benefits with that in mind. It starts with perceiving you as a human being, not a resource.\n\n\n\n[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/b52ac2fb-3f94-46bc-9c36-32ad780b2eae/banner_narrow_relocating.jpg]\n\n\nRELOCATION? YES!\n\nNo matter where you’re moving from, our dedicated mobility team and partners will support you throughout your move. We’ll ensure the process is as smooth as possible for you and anyone joining you – whether they’re family members of the human or animal kind!\n\n\n\n[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/58a0cf4e-e26b-461b-8541-2129dc6b7311/banner_narrow_portraits-2025-ashby.jpg]\n\n\nNOT SURE IF YOU SHOULD APPLY? \n\nMany candidates with great skills and experience second-guess themselves. The bar is high, but if this role excites you, apply! We’re here to help you succeed. Also, we're happy to learn about any specific accommodations you may need to fully engage in our recruitment process.\n\nWishing you all the best,\nThe Supercell Recruitment team\n\n\n\n",
-      "roleFamily": "uiux"
     },
     {
       "id": "ashby:synthesia:72144066-ff3f-4cdd-b648-743592e414ca",
@@ -153,17 +153,6 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "smartrecruiters:swiggy:6000000001312974",
-      "atsProvider": "smartrecruiters",
-      "company": "SWIGGY",
-      "title": "Lead Product Designer I",
-      "location": "Bengaluru, KA, India",
-      "url": "https://jobs.smartrecruiters.com/swiggy/6000000001312974",
-      "postedAt": "2026-08-13T12:40:09.727Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
       "id": "ashby:nord-security:f2e8b050-a467-4c28-b598-aaef65cfd6cd",
       "atsProvider": "ashby",
       "company": "Nord Security",
@@ -178,7 +167,7 @@
       "id": "ashby:nord-security:a5b09294-f854-4cf8-83af-bf3c6e62c89e",
       "atsProvider": "ashby",
       "company": "Nord Security",
-      "title": "Product Owner | Mid - Senior | NordVPN Browser Extension",
+      "title": "Product Owner | Mid-Senior | NordVPN Browser Extension",
       "location": "Vilnius",
       "url": "https://jobs.ashbyhq.com/nord-security/a5b09294-f854-4cf8-83af-bf3c6e62c89e",
       "postedAt": "2026-08-31T10:21:17.296+00:00",
@@ -186,14 +175,14 @@
       "roleFamily": "product-owner"
     },
     {
-      "id": "ashby:opensea:1ad9f09a-3331-4f2b-b0f5-c739580bb243",
-      "atsProvider": "ashby",
-      "company": "Opensea",
-      "title": "Staff Product Designer",
-      "location": "Remote US or Remote EU",
-      "url": "https://jobs.ashbyhq.com/opensea/1ad9f09a-3331-4f2b-b0f5-c739580bb243",
-      "postedAt": "2026-08-12T17:20:39.841+00:00",
-      "description": "OpenSea is building the gateway to the onchain economy - a rich world of communities, assets & creative expression uniquely possible with native digital ownership. Our products support millions of users and have helped shape onchain markets that exist today—and we're just getting started.\n\n\n\nOur goal is to build the highest-leverage, most AI-native team in crypto (and ideally beyond.) We believe that a small team (broken into even smaller teams with extreme ownership) can accomplish enormous results with the right people, the right tools, and the right company-wide investments in AI. We are building that team.\n\nWe’re looking for a highly skilled, creative and self-driven Staff Product Designer to join OpenSea’s small but mighty design team. In this role, you’ll help define the future of how people discover, trade, and interact with digital assets—working closely with engineers and fellow designers to bring clarity and craft to complex problems. Design plays a central role in shaping product direction and strategy, so this position is ideal for someone who combines strong product thinking with exceptional visual craft. Beyond designing great products, you'll help evolve the systems, workflows, and AI-enabled practices that make the entire team more effective builders. If you’re energized by ownership, collaboration, and the chance to design for millions of users in a fast-evolving space, we’d love to meet you.\n\n\n\nResponsibilities\n\n - Lead design initiatives from concept through launch, collaborating closely with engineers and other designers to define and deliver high-quality user experiences.\n\n - Channel design thinking into our product development process, ensuring we’re solving real user problems with consistency and simplicity\n\n - Hone open-ended product ideas into actionable design directions through research, prototyping, and iteration.\n\n - Create end-to-end experiences across mobile and web, balancing user needs, technical feasibility, and business goals while maintaining a high bar for visual quality, polish, and brand expression.\n\n - Contribute to and evolve our design system to raise quality, consistency, and efficiency across all OpenSea surfaces while helping designers and engineers build more effectively through emerging AI-powered tools and practices.\n\n - Explore and champion new design and AI-enabled workflows that improve team effectiveness and expand what's possible for product development.\n\n - Communicate design rationale clearly and effectively across disciplines, helping align teams around shared goals.\n\n - Help shape the design culture at OpenSea by modeling strong craft, collaboration, and curiosity.\n\n\n\nRequirements\n\n - 7+ years of product design experience, across both consumer and platform-facing products\n\n - Demonstrated ability to own complex, ambiguous problem spaces and turn them into elegant, intuitive solutions\n\n - Strong product sense—comfortable thinking strategically and operating without the structure of a large product org\n\n - Strong experience designing mobile-first products, with a deep understanding of what makes for an intuitive, polished mobile experience.\n\n - Exceptional visual design and interaction design skills, with a portfolio that demonstrates strong aesthetic judgement, systems thinking, and meticulous attention to detail\n\n - Experience building, scaling, or maintaining design systems, component libraries, or other frameworks that improve product quality, consistency, and team velocity\n\n - Experience collaborating closely with engineers to ship high-quality, technically informed designs\n\n - Experience leveraging AI tools and workflows to improve design quality, efficiency, and team effectiveness\n\n - Breadth across UI, UX, motion & interaction, with particular strength in visual design, craft, and aesthetic execution\n\n - Exceptional communication and storytelling skills, with the ability to influence and align cross-functional partners\n\n\n\nThe base salary for this full-time position, spanning multiple internal levels depending on qualifications, ranges from $175,000 to $275,000 USD for candidates based in the United States and $148,750 to $233,750 USD for candidates based in the European Union, plus benefits & equity. Compensation for candidates based outside of the US and EU will vary to reflect local market conditions.\n\n\n\nIf you don't think you meet all of the criteria above but still are interested in the job, please apply. Nobody checks every box, and we're looking for someone who is excited to join the team.\n\n\n\n#LI-Remote\n\n\n\nBenefits & Perks\n\n🏥 Health Benefits: We cover 100% Dental/Vision/Medical for employees and 90% for dependents\n\n🌴 Flexible Time Off Policy: Our flexible time off policy is aimed at letting our employees take as much time off as they'd like to refresh so long as it doesn't interfere with their ability to meet their goals and contribute effectively to company velocity\n\n👶 Parental Leave: 16 Weeks of Paid Parental Bonding & up to 8 additional weeks for the birthing parent\n\n💛 Mental Health: We offer access to Spring Health, covering 8 therapy & 8 coaching sessions per year\n\n📅 11 Company Holidays\n\n🏦 Fidelity 401K Plan\n\n📱 Internet/Mobile Reimbursement Plan\n\n🧘  Reimbursement or Monthly Snack Delivery\n\n✈ Company & Team retreats to get together for fun and collaboration\n\n☕ Team Member Co-Working and Gathering Expense\n\n🖥 MacBook Pro & WFH Stipend to make sure you are set up for success\n\n🌯 Weekly $50 Uber Eats credit\n\n\n\nBy clicking submit an application below, you consent to our use and processing of your data as described in our Candidate Privacy Notice https://drive.google.com/file/d/15nIEoZyf5MDRN8ViRkBib-3t81-WbqFF/preview.\n\n\n\nPlease be aware that OpenSea participates in E-Verify to confirm employment eligibility.",
+      "id": "smartrecruiters:swiggy:6000000001312974",
+      "atsProvider": "smartrecruiters",
+      "company": "SWIGGY",
+      "title": "Lead Product Designer I",
+      "location": "Bengaluru, KA, India",
+      "url": "https://jobs.smartrecruiters.com/swiggy/6000000001312974",
+      "postedAt": "2026-08-13T12:40:09.727Z",
+      "description": "",
       "roleFamily": "lead-pd"
     },
     {
@@ -357,7 +346,7 @@
       "title": "Senior Product Designer Securities",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-securities-bitpanda/151678",
-      "postedAt": "2026-09-01T18:54:34.525Z",
+      "postedAt": "2026-09-02T04:52:21.679Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -368,7 +357,7 @@
       "title": "Senior Product Designer Wallets 100% Remote Worldwide",
       "location": "United Kingdom",
       "url": "https://web3.career/senior-product-designer-wallets-100-remote-worldwide-tetheroperationslimited/153067",
-      "postedAt": "2026-08-22T04:54:34.525Z",
+      "postedAt": "2026-08-22T04:52:21.679Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -379,7 +368,7 @@
       "title": "Lead Product Designer Growth",
       "location": "Australia",
       "url": "https://web3.career/lead-product-designer-growth-magiceden/152850",
-      "postedAt": "2026-08-18T04:54:34.526Z",
+      "postedAt": "2026-08-18T04:52:21.680Z",
       "description": "",
       "roleFamily": "lead-pd"
     },
@@ -459,6 +448,28 @@
       "postedAt": "2026-08-14T11:20:22.000Z",
       "description": "",
       "roleFamily": "product-owner"
+    },
+    {
+      "id": "getro:accel:91938551",
+      "atsProvider": "getro",
+      "company": "Carwow",
+      "title": "Lead Product Designer",
+      "location": "London, UK",
+      "url": "https://jobs.ashbyhq.com/Carwow/2b0f3536-e584-4111-9d70-5c290881434d",
+      "postedAt": "2026-09-02T12:32:39.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:accel:91864353",
+      "atsProvider": "getro",
+      "company": "Nebius",
+      "title": "Senior Product Designer - Compute, Nebius Console",
+      "location": "Remote, Europe",
+      "url": "https://boards.greenhouse.io/nebius/jobs/4955928101",
+      "postedAt": "2026-09-02T07:14:59.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
     },
     {
       "id": "getro:accel:91150679",
@@ -549,6 +560,17 @@
       "roleFamily": "uiux"
     },
     {
+      "id": "getro:accel:90336472",
+      "atsProvider": "getro",
+      "company": "Skydio",
+      "title": "Product Design Engineer - Camera",
+      "location": "Remote",
+      "url": "https://www.skydio.com/jobs/bc3e47ff-41a3-417a-86e3-d1756cc81133/?gh_jid=bc3e47ff-41a3-417a-86e3-d1756cc81133",
+      "postedAt": "2026-08-18T13:54:11.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
       "id": "getro:accel:90069539",
       "atsProvider": "getro",
       "company": "Headway",
@@ -571,17 +593,6 @@
       "roleFamily": "lead-pd"
     },
     {
-      "id": "getro:accel:90336472",
-      "atsProvider": "getro",
-      "company": "Skydio",
-      "title": "Product Design Engineer - Camera",
-      "location": "Remote",
-      "url": "https://www.skydio.com/jobs/bc3e47ff-41a3-417a-86e3-d1756cc81133/?gh_jid=bc3e47ff-41a3-417a-86e3-d1756cc81133",
-      "postedAt": "2026-08-18T13:54:11.000Z",
-      "description": "",
-      "roleFamily": "uiux"
-    },
-    {
       "id": "getro:accel:89876025",
       "atsProvider": "getro",
       "company": "Astro",
@@ -593,33 +604,11 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "getro:accel:89691125",
-      "atsProvider": "getro",
-      "company": "Space Ape Games",
-      "title": "UX Designer, LiveOps Tooling",
-      "location": "Helsinki, Finland",
-      "url": "https://supercell.com/en/careers/ux-designer-liveops-tooling/d65a9741-cf71-4065-a2cc-bf3780ee7ee5/?source=Supercell.com",
-      "postedAt": "2026-08-12T13:51:11.000Z",
-      "description": "",
-      "roleFamily": "uiux"
-    },
-    {
-      "id": "getro:accel:91444560",
-      "atsProvider": "getro",
-      "company": "Airkit",
-      "title": "Lead Technical Product Owner, Agentic Transformation",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://www.salesforce.com/company/careers/jobs/JR356817/lead-technical-product-owner-agentic-transformation/",
-      "postedAt": "2026-08-28T12:28:25.000Z",
-      "description": "",
-      "roleFamily": "product-owner"
-    },
-    {
       "id": "getro:accel:91150388",
       "atsProvider": "getro",
       "company": "Nimble Storage",
       "title": "Senior Product Owner",
-      "location": "Galway, Co. Galway, Ireland",
+      "location": "Galway, Ireland",
       "url": "https://careers.hpe.com/us/en/job/1211894",
       "postedAt": "2026-08-26T10:44:11.000Z",
       "description": "",
@@ -670,13 +659,13 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "getro:seedcamp:89670520",
+      "id": "getro:insight-partners:91965513",
       "atsProvider": "getro",
-      "company": "Orbital Witness",
-      "title": "Head of Design",
-      "location": "London, UK",
-      "url": "https://jobs.ashbyhq.com/orbital/324861e4-1b18-4c43-ab23-12c661e2e652",
-      "postedAt": "2026-08-12T13:21:47.000Z",
+      "company": "Udemy",
+      "title": "Staff Product Designer",
+      "location": "India",
+      "url": "https://app.careerpuck.com/job-board/udemy/job/6177440004",
+      "postedAt": "2026-09-02T13:19:05.000Z",
       "description": "",
       "roleFamily": "lead-pd"
     },
@@ -802,17 +791,6 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "getro:insight-partners:89620773",
-      "atsProvider": "getro",
-      "company": "Xelix",
-      "title": "Senior Product Designer",
-      "location": "London, UK",
-      "url": "https://careers.xelix.com/jobs/8207714-senior-product-designer",
-      "postedAt": "2026-08-12T11:22:35.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
-    },
-    {
       "id": "getro:insight-partners:89784636",
       "atsProvider": "getro",
       "company": "project44",
@@ -833,6 +811,50 @@
       "postedAt": "2026-08-19T12:07:48.000Z",
       "description": "",
       "roleFamily": "product-owner"
+    },
+    {
+      "id": "getro:general-catalyst:91993493",
+      "atsProvider": "getro",
+      "company": "Step",
+      "title": "Lead Product Designer, Growth",
+      "location": "Remote",
+      "url": "https://step.com/careers/lead-product-designer,-growth",
+      "postedAt": "2026-09-02T13:44:55.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:general-catalyst:91993492",
+      "atsProvider": "getro",
+      "company": "Step",
+      "title": "Lead Product Designer, Banking",
+      "location": "Remote",
+      "url": "https://step.com/careers/lead-product-designer,-banking",
+      "postedAt": "2026-09-02T13:44:55.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:general-catalyst:91933685",
+      "atsProvider": "getro",
+      "company": "Grammarly",
+      "title": "Senior Product Designer, Growth",
+      "location": "Berlin, Germany",
+      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/b4889c28-ea63-4be7-b4a7-c1f66499f7cc",
+      "postedAt": "2026-09-02T12:27:26.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:general-catalyst:91886884",
+      "atsProvider": "getro",
+      "company": "Coda",
+      "title": "Senior Product Designer, Growth",
+      "location": "Berlin, Germany",
+      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/b4889c28-ea63-4be7-b4a7-c1f66499f7cc",
+      "postedAt": "2026-09-02T11:03:01.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
     },
     {
       "id": "getro:general-catalyst:91726130",
@@ -976,17 +998,6 @@
       "postedAt": "2026-08-13T11:47:10.000Z",
       "description": "",
       "roleFamily": "uiux"
-    },
-    {
-      "id": "getro:general-catalyst:89692395",
-      "atsProvider": "getro",
-      "company": "Canva",
-      "title": "Design Lead, South Korea (24-month contract)",
-      "location": "Seoul, South Korea",
-      "url": "https://jobs.smartrecruiters.com/Canva/6000000001308527",
-      "postedAt": "2026-08-12T13:52:52.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
     },
     {
       "id": "getro:general-catalyst:90734888",
