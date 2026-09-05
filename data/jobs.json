@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-04T05:01:20.679Z",
-  "filteredAt": "2026-09-04T05:01:22.026Z",
+  "generatedAt": "2026-09-05T04:50:32.884Z",
+  "filteredAt": "2026-09-05T04:50:34.231Z",
   "funnel": {
-    "raw": 17470,
-    "deduped": 14547,
-    "titleMatched": 394,
-    "recencyPassed": 166,
-    "geoPassed": 97
+    "raw": 17510,
+    "deduped": 14560,
+    "titleMatched": 385,
+    "recencyPassed": 155,
+    "geoPassed": 84
   },
   "jobs": [
     {
@@ -65,28 +65,6 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "smartrecruiters:DeliveryHero:744000146136179",
-      "atsProvider": "smartrecruiters",
-      "company": "Delivery Hero",
-      "title": "Staff Product Designer, Global Hub Q-Commerce ",
-      "location": "Dubai, Dubai, United Arab Emirates",
-      "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000146136179",
-      "postedAt": "2026-08-28T08:22:05.727Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
-      "id": "lever:meesho:500264fe-e851-499a-b825-2eb588752aa3",
-      "atsProvider": "lever",
-      "company": "Meesho",
-      "title": "Product Designer - II (Design System)",
-      "location": "Bangalore, Karnataka",
-      "url": "https://jobs.lever.co/meesho/500264fe-e851-499a-b825-2eb588752aa3",
-      "postedAt": "2026-08-31T15:17:26.671Z",
-      "description": "About the Team\nMeesho is on a mission to enable 100 million businesses to succeed online. With your help, we can go beyond!We’re making e-commerce accessible for tier-2+ markets who are new to e-commerce and have almost never transacted online before Our Design team is as diverse as our users. Today, the team comprises of 30 Designers – including Interaction and Visual Designers\n \nAs Product Designer, you’ll be part of a team solving unique problems, one that’s mostly untouched by other e-commerce players. But wait, there’s more! We’re individuals who are obsessed with our users. We empathise. We solve at grassroots levels. We’re breaking all the barriers -- be it language, literacy, culture, or technology💪\n \n \nBut wait, there’s more! We’re individuals who are obsessed with our users. We empathize. We solve at grassroots levels. We’re breaking all the barriers -- be it language, literacy, culture, or technology:muscle:\nIf you’re someone who wants to work at a place that creates massive impact, then join us.\n \nAbout the Role\n \nPassionate about Design? Find deep-diving into data exciting? Then you might be our next Product Designer🤩\n \nAs a Product Designer, you’ll define user goals, scenarios, benefits, and flows as well as own end-to-end experiences from a design perspective. You’ll work closely with Product, Business, Data and Engineering teams to create delightful and impactful experiences for our users. \n \nIn this role, you’ll break down complex tasks by understanding customer and business needs and translate them into easy to use, intuitive and delightful designs. Your end goal will be to find ways to improve processes to enhance experiences for customers. You'll be able to quickly communicate your decisions and solutions verbally as well as through sketches, user flows, wireframes, hi-fi mocks and functional prototypes. \n",
-      "roleFamily": "uiux"
-    },
-    {
       "id": "greenhouse:n26:8159268",
       "atsProvider": "greenhouse",
       "company": "N26",
@@ -107,17 +85,6 @@
       "postedAt": "2026-08-24T12:39:31.040+00:00",
       "description": "Hi! We are AMBOSS and we are looking for a Product Designer to join our Education team in Berlin. In this individual contributor role, you will help shape learning experiences that support medical students and professionals as they prepare for career-defining exams and continue learning throughout their careers.\n\nAbout AMBOSS\n\nAMBOSS is a dynamic learning and clinical decision support tool committed to empowering medical professionals  globally to deliver optimal care. Since our inception in 2012, we've harnessed cutting-edge technology to transform the way physicians acquire and apply scientific knowledge. Each AMBOSSian is passionate about being the champion of clinicians today - this motivates and unites us each day towards success. And what does success look like? When a clinician or med student tells us, “AMBOSS makes practicing medicine easier and enjoyable. I love what I do, and a big part is because of AMBOSS.”\n\nWhy can this role be exciting for you?\n\nYou will shape the end-to-end exam preparation experience, with a focus on our Qbank product. Your work will help medical learners globally, to  practice more effectively, close knowledge gaps, simulate real exam conditions, and benefit from personalized, AI-powered learning experiences, directly supporting AMBOSS's mission to empower healthcare professionals.\n\nWorking in a cross-functional team with Product, Engineering, Medical, User Research, and Design, you'll turn user needs into intuitive, practical solutions, validate them with users and data, and bring them to life.\n\nThis role is ideal for a designer who enjoys simplifying complex workflows, is passionate about educational and medical UX, and is excited to explore how AI can enhance both learning and the design process. You will report to the Director of UX Design.\n\n\nYou will:\n\n - Design and improve the end-to-end exam preparation experience for medical students and professionals in Germany, the United States, and international and adjacent healthcare markets across desktop and mobile.\n\n - Work as part of the Qbank Experience Team, collaborating closely with Product, Engineering, Medical, Research, and Design to understand user needs and turn them into thoughtful product experiences.\n\n - Take ownership of assigned design problems and projects, from understanding the problem and exploring concepts through prototyping, validation, detailed design, and implementation.\n\n - Design and prototype learning experiences that help users practice effectively, reinforce knowledge, and prepare confidently for professional exams.\n\n - Use qualitative and quantitative insights to inform your design decisions, working with our in-house User Research and Data teams to understand user behavior, validate solutions, and iterate on your designs.\n\n - Collaborate with medical experts and editors to understand the needs of our highly knowledgeable users and translate complex medical and educational requirements into simple, intuitive experiences.\n\n - Work closely with engineers throughout the design and implementation process to ensure that shipped experiences reflect the design intent while taking technical opportunities and constraints into account.\n\n - Collaborate with other product teams to help create a cohesive and personalized user experience across relevant parts of AMBOSS, such as sign-up, dashboard, shop, and user profile.\n\n - Apply and advocate for strong design principles, usability, and accessibility, contributing to high-quality and consistent experiences across AMBOSS.\n\n - Contribute to the wider AMBOSS Design community through design critiques, knowledge sharing, and contributions to our design system, interaction patterns, and other shared design topics.\n\n - Build a deep understanding of our users and advocate for their needs throughout the product development process.\n\n\n\nYou bring:\n\n - 3+ years of professional experience in UX or product design, with strong skills in information architecture and communicating complex information clearly and concisely.\n\n - Strong user-centered design skills, attention to detail, and a solid understanding of UX and visual design fundamentals.\n\n - Proficiency in Figma and modern prototyping tools, with an interest in using AI tools to support and improve the design process.\n\n - Ability to work through design challenges and translate complexity into simple, intuitive, scalable and user-friendly experiences.\n\n - A passion for creating great user experiences and for validating and iterating on designs to ensure they address user needs.\n\n - Ability to translate product goals and user needs into thoughtful design solutions, from early concepts through to implementation details.\n\n - A collaborative and iterative approach to design, with openness to feedback and working closely with others.\n\n - A growth mindset and interest in developing a deep understanding of educational UX for a product designed for medical experts rather than a general audience.\n\n - Experience using research insights and data to inform design decisions and participating in user research studies.\n\n - Experience working effectively in cross-functional teams, including product, design, engineering, and research, and collaborating with a range of stakeholders.\n\nYou enjoy:\n\n\n\n - Digging into complex UX problems and experimenting to find simple, effective solutions for users.\n\n - Working collaboratively with Product, Engineering, Medical, Research, plus commercial teams, rather than designing in isolation.\n\n - Using research, data, and feedback to challenge assumptions and improve your designs.\n\n - Moving from early concepts to detailed interaction and UI design.\n\n - Learning about complex domains and developing empathy for highly knowledgeable, specialist users.\n\n - Design systems and contributing to it\n\n - Giving and receiving constructive design feedback and learning from other designers.\n\n - Exploring new tools and ways of working, including AI, and thoughtfully applying them to your design process.\n\n\n\nBenefits:\n\n🌴 Rest & Time Off (30 paid vacation days, AMBOSS holiday, personal purpose day and more)\n\n🥙Food & Office Comfort (Daily healthy breakfast & lunch by in-house chef in Berlin HQ, AMBOSS daycare, work remotely from other office spaces in Cologne, Sardinia, Cape Town)\n\n🏃 Health, Fitness & Mobility (Urban Sports Club -M plan- , Fitbit Versa 3, Deutschland Ticket…)\n\nCheck out the full list of benefits below:\n\nhttps://go.amboss.com/the-amboss-prescription-de\n\nWe believe that diversity is a powerful driver of innovation and progress. That’s why we are committed to fostering an inclusive, respectful, and supportive environment where everyone—regardless of gender, age, ethnic or cultural background, religion, disability, sexual orientation, gender identity—is valued and given equal opportunity to thrive. We warmly welcome people of all backgrounds to help us fulfil our mission: empowering all medical professionals  to provide the best possible care  🩺\n\nEven if you don’t meet every single point in the job description, we still encourage you to apply. We’d love to hear from you!\n\n",
       "roleFamily": "uiux"
-    },
-    {
-      "id": "smartrecruiters:wise:744000147209849",
-      "atsProvider": "smartrecruiters",
-      "company": "Wise",
-      "title": "Product Design Lead - Wise Platform FTC (12-Month Maternity Cover)",
-      "location": "London, , United Kingdom",
-      "url": "https://jobs.smartrecruiters.com/wise/744000147209849",
-      "postedAt": "2026-09-03T10:09:00.612Z",
-      "description": "",
-      "roleFamily": "lead-pd"
     },
     {
       "id": "smartrecruiters:wise:744000145263700",
@@ -296,17 +263,6 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "weworkremotely:remote-design-jobs:https://weworkremotely.com/remote-jobs/fullscript-senior-product-designer-clinical-education-platform",
-      "atsProvider": "weworkremotely",
-      "company": "Fullscript",
-      "title": "Senior Product Designer (Clinical Education Platform)",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/fullscript-senior-product-designer-clinical-education-platform",
-      "postedAt": "2026-08-14T20:31:04.000Z",
-      "description": "<p>\n  <strong>Headquarters:</strong> Toronto, ON / Austin, TX / Canada Remote / USA Remote\n</p>\n\n<div class=\"content\"><div class=\"section-wrapper page-full-width\"><div class=\"section page-centered\"><div><b><span>About Fullscript</span></b></div><div><br></div><div>We’re an industry-leading health technology company on a mission to help people get better. We started in 2011 with one simple idea. Make it easier for practitioners to access the products they trust so they can deliver better care.</div><div><br></div><div>That simple idea grew into a platform that powers every part of care. Today, more than 125,000 practitioners use Fullscript for clinical insights, lab interpretations, patient analytics, education, and access to high-quality supplements. Over 10 million patients rely on Fullscript to stay connected to their care plans and follow through on treatment.</div><div><br></div><div>We build tools that make care smarter and more human. Tools that save time, simplify decisions, and help practitioners stay closely connected to the people they care for. When everything they need is in one place, they can focus on what matters most: <i>helping people get better.</i></div><div><br></div><div><b><span>This is your invitation.</span></b></div><div><br></div><div>Bring your ideas, your grit, and your care for people.</div><div>Join us and shape the future of care.</div><div><br></div><div><b>Fullscript Academy </b>is an education platform designed to support healthcare providers in delivering effective whole person care through evidence-based ingredient education and advanced diagnostic training. We deliver education through a variety of formats, including courses, webinars, articles, clinical guides, and in-app resources to support real-time clinical decision-making.</div><div><br></div><div><b>The Role</b></div><div><br></div><div>We’re looking for a <b>Senior Product Designer</b> to shape the future of clinical education on Fullscript Academy. You are a strong product designer first and foremost, with deep experience in user experience design and a sharp eye for creating beautiful, intuitive interfaces that reduce complexity. You design with a high standard of craft, creating experiences that feel credible, modern, and appropriate for a clinical, professional audience.</div><div><br></div><div>You have experience designing products that support learning, not just usage. You understand how to design for comprehension, retention, motivation, and long-term behavior change, and you know the difference between helping a user complete a task and helping them truly understand something.</div><div><br></div></div><div class=\"section page-centered\"><div><h3>What You’ll Do:</h3><ul class=\"posting-requirements plain-list\"><ul><li>Support seamless provider journeys across onboarding, content discovery, and course enrollment.</li><li>Design experiences that help providers understand and retain clinical knowledge, stay motivated over time, and apply learning with confidence.</li><li>Go beyond a single surface by creating the connective tissue between Academy and the broader Fullscript product ecosystem, ensuring context carries across experiences and learning naturally transitions into action.</li><li>Lead nimble, iterative UX research and testing to validate ideas, experiment with interaction patterns and information architecture, and refine solutions in a fast-moving environment.</li><li>Translate user insights, behavioral data, and product strategy into clear, thoughtful design direction.</li><li>Partner closely with Engineering to deliver high-quality, well-documented designs, adapt to technical constraints, and collaboratively refine scope and solutions.</li><li>Collaborate with clinicians and content leaders to shape new educational formats, deeply understand learning objectives, and design experiences that reduce complexity while preserving clinical nuance.</li><li>Contribute to scalable patterns that maintain clarity, credibility, and consistency across Academy.</li></ul></ul></div></div><div class=\"section page-centered\"><div><h3>What You Bring:</h3><ul class=\"posting-requirements plain-list\"><ul><li>Strong product design craft across user experience research, user experience design, and visual design.</li><li>Experience designing digital products end to end, from discovery and concept development through stakeholder alignment, prototyping, and developer handoff. </li><li>Experience working closely with engineering teams, adapting to technical constraints, refining scope collaboratively, and delivering clear, production-ready design files.</li><li>Experience designing for learning, behavior change, or knowledge retention outcomes.</li><li>Experience working across connected surfaces or product ecosystems.</li></ul></ul></div></div><div class=\"section page-centered\"><div><h3>Bonus if you have experience with:</h3><ul class=\"posting-requirements plain-list\"><ul><li>Professional EdTech platforms</li><li>Digital onboarding or academy-style products</li><li>Financial education or financial literacy tools</li><li>Knowledge or learning-enhancement platforms (e.g., AI note-taking tools)</li><li>Healthcare experience is a plus, but not required.</li></ul></ul></div></div><div class=\"section page-centered\"><div><h3>What we can offer you:</h3><ul class=\"posting-requirements plain-list\"><ul><li>Generous PTO and competitive pay&nbsp;</li><li>Fullscript’s RRSP/401k  match program for financial health&nbsp;</li><li>Flexible benefits package and workplace wellness program</li><li>Training budget and company-wide learning initiatives&nbsp;</li><li>Discount on Fullscript catalog of products&nbsp;</li></ul></ul></div></div><div class=\"section page-centered\"><div><b>Compensation range</b></div><div><br></div><div>The salary range for this role is between $115,000 and $145,000 CAD. Fullscript shares salary ranges to support transparency and help candidates make informed decisions. The range shown reflects base salary only and does not include stock options, wellness stipends, or other benefits that are part of Fullscript’s total rewards package.</div><div><br></div><div>Final compensation depends on experience, skills, and location. We review pay regularly to stay aligned with market data and internal equity. Benefits and total rewards may vary by region.</div><div><br></div><div><span><b>Why Fullscript</b></span></div><div><br></div><div>Great work happens when people feel supported, trusted, and inspired. At Fullscript, we stay curious and keep finding smarter ways to make care better. We grow together, take on new challenges, and focus on impact. We put people first, work as a team, and leave egos at the door.</div><div><br></div><div><span><b>What to Know Before You Apply</b></span></div><div><br></div><div>We’re grateful for the interest in joining Fullscript. To make sure your application reaches our hiring team, please apply directly through our careers page. We’re not able to respond to individual messages about open roles on email or social channels.</div><div><br></div><div>Fullscript is an equal opportunity employer committed to creating an inclusive workplace. Accommodations are available upon request at <a class=\"__cf_email__\" href=\"/cdn-cgi/l/email-protection\">[email&nbsp;protected]</a>.</div><div><br></div><div>All offers are contingent on successful background checks conducted in compliance with federal, state, and provincial laws.</div><div>We use AI tools to support parts of the hiring process, including screening and reviewing responses. Final hiring decisions are always made by people and follow all applicable privacy and employment laws in Canada and the U.S.</div><div><br></div><div><span><b>Learn More</b></span></div><div><br></div><div><a href=\"http://www.fullscript.com/\">www.fullscript.com</a></div><div><a href=\"https://www.instagram.com/fullscripthq/?hl=en\">@fullscriptHQ</a> on instagram</div><div><a href=\"https://youtu.be/ebcF2Vz3xf8\">Let’s make healthcare whole</a>&nbsp;</div><div><br></div></div><div class=\"section page-centered\"><div class=\"text-small italic text-gray-700\">We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.</div></div></div></div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/fullscript-senior-product-designer-clinical-education-platform\">https://weworkremotely.com/remote-jobs/fullscript-senior-product-designer-clinical-education-platform</a></p>",
-      "roleFamily": "senior-pd"
-    },
-    {
       "id": "weworkremotely:remote-product-jobs:https://weworkremotely.com/remote-jobs/duel-com-product-owner",
       "atsProvider": "weworkremotely",
       "company": "Duel.com",
@@ -340,24 +296,13 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "remotejobsplace:1ea7a8d4",
-      "atsProvider": "remotejobsplace",
-      "company": "Toasttab",
-      "title": "Senior Product Designer, Web Tools",
-      "location": "worldwide",
-      "url": "https://careers.toasttab.com/jobs/senior-product-designer-web-tools",
-      "postedAt": "2026-08-31T22:18:17.772811+00:00",
-      "description": "Join Toasttab as a Senior Product Designer, Web Tools. This Full-time position in Remote offers an exciting opportunity to work with a leading company in the industry. As part of the Marketing department.",
-      "roleFamily": "senior-pd"
-    },
-    {
       "id": "web3career:151678",
       "atsProvider": "web3career",
       "company": "Bitpanda",
       "title": "Senior Product Designer Securities",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-securities-bitpanda/151678",
-      "postedAt": "2026-09-02T04:59:10.618Z",
+      "postedAt": "2026-09-02T04:48:23.370Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -368,7 +313,7 @@
       "title": "Senior Product Designer Wallets 100% Remote Worldwide",
       "location": "United Kingdom",
       "url": "https://web3.career/senior-product-designer-wallets-100-remote-worldwide-tetheroperationslimited/153067",
-      "postedAt": "2026-08-22T04:59:10.618Z",
+      "postedAt": "2026-08-22T04:48:23.370Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -379,7 +324,7 @@
       "title": "Lead Product Designer Growth",
       "location": "Australia",
       "url": "https://web3.career/lead-product-designer-growth-magiceden/152850",
-      "postedAt": "2026-08-18T04:59:10.618Z",
+      "postedAt": "2026-08-18T04:48:23.371Z",
       "description": "",
       "roleFamily": "lead-pd"
     },
@@ -417,50 +362,6 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "getro:point-nine:89908041",
-      "atsProvider": "getro",
-      "company": "Revolut",
-      "title": "Product Designer (Platform)",
-      "location": "Ireland, France, Brazil, Mexico, Germany, Argentina, Dubai - United Arab Emirates, Czechia, Lisbon, Portugal, Cyprus",
-      "url": "https://www.revolut.com/careers/position/product-designer-platform-1182efdd-0355-4b8e-8d09-975f04aef43b/",
-      "postedAt": "2026-08-14T11:21:15.000Z",
-      "description": "",
-      "roleFamily": "uiux"
-    },
-    {
-      "id": "getro:point-nine:89907472",
-      "atsProvider": "getro",
-      "company": "Revolut",
-      "title": "Graduate Programme 2027: Product Designer",
-      "location": "Spain, Dubai - United Arab Emirates, United Arab Emirates, Portugal, Lisbon, Portugal, United Kingdom, poland, oh, usa",
-      "url": "https://www.revolut.com/careers/position/graduate-programme-2027-product-designer-6487c60b-fff9-4519-aa1d-f5c6b26f7602/",
-      "postedAt": "2026-08-14T11:20:19.000Z",
-      "description": "",
-      "roleFamily": "uiux"
-    },
-    {
-      "id": "getro:point-nine:89907454",
-      "atsProvider": "getro",
-      "company": "Revolut",
-      "title": "Graduate Programme 2027: Product Owner (UX)",
-      "location": "Spain, Dubai - United Arab Emirates, United Arab Emirates, Portugal, Lisbon, Portugal, United Kingdom, poland, oh, usa",
-      "url": "https://www.revolut.com/careers/position/graduate-programme-2027-product-owner-ux-48244271-6656-42f9-ab2c-caf4531593d3/",
-      "postedAt": "2026-08-14T11:20:14.000Z",
-      "description": "",
-      "roleFamily": "product-owner"
-    },
-    {
-      "id": "getro:point-nine:89907496",
-      "atsProvider": "getro",
-      "company": "Revolut",
-      "title": "Graduate Programme 2027: Product Owner (Technical)",
-      "location": "Spain, Dubai - United Arab Emirates, United Arab Emirates, Portugal, Lisbon, Portugal, United Kingdom, poland, oh, usa",
-      "url": "https://www.revolut.com/careers/position/graduate-programme-2027-product-owner-technical-554c4b14-c988-4c35-bd06-702acf4f36f7/",
-      "postedAt": "2026-08-14T11:20:22.000Z",
-      "description": "",
-      "roleFamily": "product-owner"
-    },
-    {
       "id": "getro:accel:91938551",
       "atsProvider": "getro",
       "company": "Carwow",
@@ -494,12 +395,12 @@
       "roleFamily": "lead-pd"
     },
     {
-      "id": "getro:accel:92116924",
+      "id": "getro:accel:92116922",
       "atsProvider": "getro",
       "company": "Fever",
       "title": "Product Design Lead",
-      "location": "Spain",
-      "url": "https://boards.greenhouse.io/feverup/jobs/4964211101",
+      "location": "Barcelona, Spain",
+      "url": "https://boards.greenhouse.io/feverup/jobs/4964209101",
       "postedAt": "2026-09-03T13:43:13.000Z",
       "description": "",
       "roleFamily": "lead-pd"
@@ -582,12 +483,12 @@
       "roleFamily": "lead-pd"
     },
     {
-      "id": "getro:accel:90902491",
+      "id": "getro:accel:90902489",
       "atsProvider": "getro",
       "company": "Vinted",
       "title": "Director of Product Design, Frontend Technologies",
-      "location": "Berlin, Germany",
-      "url": "https://careers.vinted.com/jobs/j/4863113101",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://careers.vinted.com/jobs/j/4863111101",
       "postedAt": "2026-08-22T16:01:06.000Z",
       "description": "",
       "roleFamily": "uiux"
@@ -624,17 +525,6 @@
       "postedAt": "2026-08-15T12:04:21.000Z",
       "description": "",
       "roleFamily": "lead-pd"
-    },
-    {
-      "id": "getro:accel:89876025",
-      "atsProvider": "getro",
-      "company": "Astro",
-      "title": "Product Designer",
-      "location": "Jakarta, Indonesia",
-      "url": "https://id.linkedin.com/jobs/view/product-designer-at-astro-4445483283",
-      "postedAt": "2026-08-14T07:20:18.000Z",
-      "description": "",
-      "roleFamily": "uiux"
     },
     {
       "id": "getro:accel:92051213",
@@ -681,15 +571,15 @@
       "roleFamily": "product-owner"
     },
     {
-      "id": "getro:accel:89901873",
+      "id": "getro:seedcamp:92077336",
       "atsProvider": "getro",
-      "company": "Frame.io",
-      "title": "Compliance Product Owner, Japan",
-      "location": "Tokyo, Japan",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Tokyo/Compliance-Product-Owner--Japan_R171238",
-      "postedAt": "2026-08-14T11:08:55.000Z",
+      "company": "Wise",
+      "title": "Product Design Lead - Wise Platform FTC (12-Month Maternity Cover)",
+      "location": "London, UK",
+      "url": "https://wise.jobs/job/product-design-lead-wise-platform-ftc-12-month-maternity-cover-in-london-jid-3954",
+      "postedAt": "2026-09-03T12:27:10.000Z",
       "description": "",
-      "roleFamily": "product-owner"
+      "roleFamily": "lead-pd"
     },
     {
       "id": "getro:seedcamp:90329463",
@@ -701,6 +591,17 @@
       "postedAt": "2026-08-18T13:40:53.000Z",
       "description": "",
       "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:insight-partners:91965513",
+      "atsProvider": "getro",
+      "company": "Udemy",
+      "title": "Staff Product Designer",
+      "location": "India",
+      "url": "https://app.careerpuck.com/job-board/udemy/job/6177440004",
+      "postedAt": "2026-09-02T13:19:05.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
     },
     {
       "id": "getro:insight-partners:91747107",
@@ -791,39 +692,6 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "getro:insight-partners:89966337",
-      "atsProvider": "getro",
-      "company": "Checkout.com",
-      "title": "Staff Product Designer",
-      "location": "London, UK",
-      "url": "https://jobs.ashbyhq.com/checkout.com/9e47404d-ae39-4080-b054-4b5bdd35cec7",
-      "postedAt": "2026-08-14T13:18:56.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
-      "id": "getro:insight-partners:89954843",
-      "atsProvider": "getro",
-      "company": "OneTrust",
-      "title": "Staff UX Designer",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.onetrust.com/careers/staff-ux-designer-8121683/",
-      "postedAt": "2026-08-14T12:57:37.000Z",
-      "description": "",
-      "roleFamily": "uiux"
-    },
-    {
-      "id": "getro:insight-partners:89903481",
-      "atsProvider": "getro",
-      "company": "Conga",
-      "title": "Staff UX Designer",
-      "location": "Bulgaria",
-      "url": "https://boards.greenhouse.io/conga/jobs/5211290007",
-      "postedAt": "2026-08-14T11:10:56.000Z",
-      "description": "",
-      "roleFamily": "uiux"
-    },
-    {
       "id": "getro:insight-partners:90423762",
       "atsProvider": "getro",
       "company": "Inhabit",
@@ -833,6 +701,17 @@
       "postedAt": "2026-08-19T12:07:48.000Z",
       "description": "",
       "roleFamily": "product-owner"
+    },
+    {
+      "id": "getro:general-catalyst:92261077",
+      "atsProvider": "getro",
+      "company": "Eight Sleep",
+      "title": "Product Designer (Milan)",
+      "location": "Remote, Milan, MI, USA",
+      "url": "https://jobs.ashbyhq.com/eightsleep/a8538d65-0445-48a7-a193-47bb75e7ef70",
+      "postedAt": "2026-09-04T13:40:52.000Z",
+      "description": "",
+      "roleFamily": "uiux"
     },
     {
       "id": "getro:general-catalyst:92126481",
@@ -1011,17 +890,6 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "getro:general-catalyst:89980313",
-      "atsProvider": "getro",
-      "company": "Dwelly",
-      "title": "Product Designer",
-      "location": "Barcelona, Spain",
-      "url": "https://es.linkedin.com/jobs/view/product-designer-at-dwelly-4453133621",
-      "postedAt": "2026-08-14T13:48:58.000Z",
-      "description": "",
-      "roleFamily": "uiux"
-    },
-    {
       "id": "getro:general-catalyst:90734888",
       "atsProvider": "getro",
       "company": "ChannelEngine",
@@ -1029,17 +897,6 @@
       "location": "Leiden, Netherlands",
       "url": "https://jobs.channelengine.com/o/senior-product-owner-1",
       "postedAt": "2026-08-21T13:07:13.000Z",
-      "description": "",
-      "roleFamily": "product-owner"
-    },
-    {
-      "id": "getro:general-catalyst:90734879",
-      "atsProvider": "getro",
-      "company": "ChannelEngine",
-      "title": "Product Owner",
-      "location": "Leiden, Netherlands",
-      "url": "https://jobs.channelengine.com/o/product-owner-3",
-      "postedAt": "2026-08-21T13:07:11.000Z",
       "description": "",
       "roleFamily": "product-owner"
     },
