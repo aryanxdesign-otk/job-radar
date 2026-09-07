@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-06T04:59:51.491Z",
-  "filteredAt": "2026-09-06T04:59:52.766Z",
+  "generatedAt": "2026-09-07T05:04:12.084Z",
+  "filteredAt": "2026-09-07T05:04:13.423Z",
   "funnel": {
-    "raw": 17523,
-    "deduped": 14576,
-    "titleMatched": 386,
-    "recencyPassed": 156,
-    "geoPassed": 83
+    "raw": 17530,
+    "deduped": 14593,
+    "titleMatched": 379,
+    "recencyPassed": 152,
+    "geoPassed": 81
   },
   "jobs": [
     {
@@ -186,17 +186,6 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "greenhouse:druva:8745192002",
-      "atsProvider": "greenhouse",
-      "company": "Druva",
-      "title": "UX Designer",
-      "location": "Pune, Maharashtra, India",
-      "url": "https://www.druva.com/why-druva/explore/careers/jobs/8745192002/?gh_jid=8745192002",
-      "postedAt": "2026-08-31T07:31:40-04:00",
-      "description": "&lt;p&gt;&lt;strong&gt;About Druva&lt;br&gt;&lt;/strong&gt;Druva is the resilience foundation for the AI enterprise, helping organizations secure and recover from connected risk across data, cyber, identity, and AI. The Resilience Cloud is a fully managed, cloud-native SaaS platform that delivers air-gapped and immutable protection across cloud, SaaS, on-premises, endpoint, and edge environments. Powered by Dru MetaGraph, Druva’s graph-powered intelligence layer, the platform connects critical business context so customers can understand risk, respond faster, recover cleanly, and govern data with greater confidence.&lt;br&gt;&lt;br&gt;Trusted by nearly 7,500 customers, including 75 of the Fortune 500, Druva helps safeguard the critical information and systems businesses depend on in an increasingly connected world.&lt;/p&gt;\n&lt;p&gt;Visit&lt;a href=&quot;https://www.druva.com/&quot;&gt;&amp;nbsp;druva.com&lt;/a&gt;&amp;nbsp;and follow us on&amp;nbsp;&lt;a href=&quot;https://www.linkedin.com/company/druva/mycompany/&quot;&gt;LinkedIn&lt;/a&gt;,&amp;nbsp;&lt;a href=&quot;https://twitter.com/druvainc&quot;&gt;X&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href=&quot;https://www.facebook.com/DruvaInc/&quot;&gt;Facebook&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;We are looking for a User Experience Designer to help us shape the design of new features and enhancements. This person should have a passion for usability, an eye for visual consistency, and a knack for reducing complex problems to simple,&amp;nbsp;intuitive experiences.&amp;nbsp;&lt;br&gt;The ideal candidate will be comfortable working in a fast-evolving product environment and have an interest in how emerging technologies, including AI, can be thoughtfully incorporated into user experiences.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Responsibilities:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Initiate, suggest, and spearhead major UI refactoring initiatives to create an intuitive and consistent user experience.&lt;/li&gt;\n&lt;li&gt;Design elegant solutions to complex workflows and product challenges.&lt;/li&gt;\n&lt;li&gt;Act as the user advocate throughout the development process, subjecting early-stage designs to usability testing or expert review and offering implementation suggestions from a user-centered perspective.&lt;/li&gt;\n&lt;li&gt;Act as the “go-to” person with in-depth knowledge of user interface best practices, design standards, and emerging UX patterns.&lt;/li&gt;\n&lt;li&gt;Use research-related services, theories, and methods to support design recommendations and decisions.&lt;/li&gt;\n&lt;li&gt;Develop wireframes, prototypes, behavioral specifications, personas, and other UX deliverables.&lt;/li&gt;\n&lt;li&gt;Learn from user research, usability studies, analytics, and user feedback to continuously improve product experiences.&lt;/li&gt;\n&lt;li&gt;Keep the interface beautiful, consistent, accessible, and easy to use. Direct the visual appearance of new features and enhancements across our software applications.&lt;/li&gt;\n&lt;li&gt;Collaborate closely with product managers, engineers, researchers, and other stakeholders to translate user and business needs into effective product experiences.&lt;/li&gt;\n&lt;li&gt;Contribute to the design of AI-enabled product experiences, ensuring that AI interactions are intuitive, transparent, predictable, and aligned with user needs.&lt;/li&gt;\n&lt;li&gt;Explore and apply emerging AI-assisted design and research tools where they can improve design exploration, prototyping, research synthesis, or overall design efficiency.&lt;/li&gt;\n&lt;li&gt;Help identify opportunities where AI can simplify complex workflows and create meaningful improvements to the user experience.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Qualifications:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Graduate/Master’s degree in Design or a related field from premier institutes.&lt;/li&gt;\n&lt;li&gt;A strong portfolio that demonstrates your design process, problem-solving approach, and ability to translate complex requirements into intuitive user experiences.&lt;/li&gt;\n&lt;li&gt;3–5 years of experience working on UX for software products, web applications, mobile applications, and/or complex websites.&lt;/li&gt;\n&lt;li&gt;Strong understanding of user-centered design principles, interaction design, information architecture, usability, and visual design.&lt;/li&gt;\n&lt;li&gt;Ability to develop UX deliverables such as workflows, early conceptual designs, wireframes, prototypes, usability improvements, mock-ups, and style guides.&lt;/li&gt;\n&lt;li&gt;Ability to work effectively with business, product, engineering, and other cross-functional teams.&lt;/li&gt;\n&lt;li&gt;Familiarity with AI-enabled design/research tools and the ability to thoughtfully evaluate where AI can improve the design process or user experience is a plus.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
-      "roleFamily": "uiux"
-    },
-    {
       "id": "ashby:motorway:71e13c75-adbf-470b-ac1a-e703389c9394",
       "atsProvider": "ashby",
       "company": "Motorway",
@@ -206,6 +195,17 @@
       "postedAt": "2026-08-26T10:57:13.761+00:00",
       "description": "ABOUT MOTORWAY\n\nMotorway is the UK's largest online car-selling platform. We connect private sellers directly with over 8,000 dealers nationwide. Our online platform helps sellers achieve great prices for their cars while giving dealers fast, reliable access to the stock they want for their dealerships. Founded in 2017, our award-winning, technology-led approach has redefined the experience of selling a car. Motorway is backed by some of the world’s leading technology investors, having raised £143 million in Series C funding.\n\nThis is a unique opportunity to join a fast-growing scale-up at a crucial phase of growth and help change an industry for the better.\n\nThe Opportunity\n\nAs a Lead Product Designer at Motorway, you won't just be producing great design - you'll be raising the ceiling for everyone around you. You'll shape how the team works, set the standard for craft and rigour, and bring a clear point of view on where design is heading.\n\nYou'll take ownership of our most complex design challenges, working across the full product lifecycle from discovery to delivery. You'll be a trusted voice in cross-functional conversations, a mentor to other designers, and someone who actively shapes the culture and ways of working within the design team.\n\nThis is a role for someone who thinks deeply, builds boldly, and leads by doing.\n\nWhat You'll Be Doing\n\nThis isn't a role for a pixel-pusher. We want a visionary with a builder’s soul. You will step into an environment where your work has immediate, massive scale, and your leadership directly influences the future of our product ecosystem.\n\n - Tackling the Big Stuff: You’ll own our most complex, ambiguous product challenges, transforming messy problems into elegant, crystal-clear user experiences from discovery to deployment.\n\n - Pioneering AI in Design: You won't just use AI tools—you’ll write the playbook for them. You'll spearhead how our team thoughtfully integrates AI to supercharge our workflows while keeping human judgment and craft at the center.\n\n - Designing Beyond the Screen: You'll bring a \"builder mindset\" to the table, collaborating seamlessly with engineering because you speak their language—whether that’s through code, complex prototypes, or building your own tools.\n\n - Championing the User: You will be the fierce advocate for our users, leveraging deep research, continuous usability testing, and sharp data insights to validate every move we make.\n\n - Scaling Design Culture: You'll run high-impact workshops, level up weekly team rituals, and foster an environment where diverse perspectives thrive and designers do the best work of their careers.\n\nResponsibilities\n\n - Design Execution: Produce high-quality design deliverables including user flows, wireframes, prototypes, and high-fidelity mock-ups for mobile and web applications, ensuring solutions meet accessibility standards and set the bar for inclusive design across the team.\n\n - Collaboration & Commercial Awareness: Work in close partnership with product managers, engineers, and data analysts throughout the product development lifecycle. Connect user insights to product opportunities and broader business goals. You have strong commercial awareness and can articulate the business case for design decisions.\n\n - Stakeholder Communication: Establish strong relationships across product, engineering, and the wider organisation. Communicate clearly at all levels, lead online and offline sessions to validate design decisions, and represent product design with confidence and authority.\n\n - Mentorship & Guidance: Provide mentorship to junior and senior designers alike - sharing best practices, supporting their growth, and helping create an environment where designers can do the best work of their careers.\n\n - Driving Design Culture: Help foster a strong design culture by contributing to weekly team rituals, running workshops, planning design-focused events, and encouraging diverse participation. You love bringing people together around ideas.\n\n - Continuous Improvement: Explore and encourage continuous learning across the team, playing an active role in developing our core design principles and keeping the team sharp on emerging tools, patterns, and practices.\n\nWhat You'll Bring (Requirements)\n\nOur team comes from a diverse range of backgrounds, and team fit matters immensely to us. We are looking for a passionate advocate for craft and user experience who can check off several of these boxes:\n\n - Proven Leadership: A deep track record as a Senior or Lead Product Designer, successfully shipping impactful digital products across web and mobile ecosystems.\n\n - A Builder’s Instinct: You don’t stop at the design file. You love getting your hands dirty and have experience shipping code, building your own products, or spinning up functional, high-fidelity tools and prototypes.\n\n - Versatile Experience: A strong grasp of consumer journeys, ideally with experience navigating both B2C and B2B product landscapes.\n\n - An AI-Forward Mindset: A highly considered approach to AI in design. You understand how to strategically use it to accelerate work, when to rely on human judgment, and how to guide a team through this evolving landscape.\n\n - Commercial Acumen: The ability to see the bigger picture, connect design execution directly to business outcomes, and confidently shape broader product strategy.\n\n - Modern Toolkit & Research Rigour: High proficiency in design and prototyping tools (like Figma, Claude, Kiro), combined with strong user-centered design methodologies, accessibility standards, and research synthesisation.\n\n - Bonus Points: Experience optimizing user journeys/conversion funnels via experimentation, or experience working within a fast-paced, two-sided marketplace.\n\nBENEFITS\n\nWe've got your back, in life's biggest moments and the everyday ones too.\n\n - Competitive salary\n\n - Equity scheme - we all share in Motorway's success\n\n - 25 days holiday\n\n - Flexible working (2 days a week in our London office, with socials and snacks galore)\n\n - Private medical insurance via BUPA\n\n - Life assurance\n\n - Pension scheme (we contribute 5%)\n\n - Enhanced family leave (e.g. 26 weeks full pay for maternity or adoption)\n\n - 24/7 Employee Assistance Programme\n\n - EV leasing scheme\n\n - Cycle to work scheme\n\n - Nursery salary sacrifice scheme\n\n - 1 paid volunteering day a year",
       "roleFamily": "lead-pd"
+    },
+    {
+      "id": "greenhouse:druva:8745192002",
+      "atsProvider": "greenhouse",
+      "company": "Druva",
+      "title": "UX Designer",
+      "location": "Pune, Maharashtra, India",
+      "url": "https://www.druva.com/why-druva/explore/careers/jobs/8745192002/?gh_jid=8745192002",
+      "postedAt": "2026-08-31T07:31:40-04:00",
+      "description": "&lt;p&gt;&lt;strong&gt;About Druva&lt;br&gt;&lt;/strong&gt;Druva is the resilience foundation for the AI enterprise, helping organizations secure and recover from connected risk across data, cyber, identity, and AI. The Resilience Cloud is a fully managed, cloud-native SaaS platform that delivers air-gapped and immutable protection across cloud, SaaS, on-premises, endpoint, and edge environments. Powered by Dru MetaGraph, Druva’s graph-powered intelligence layer, the platform connects critical business context so customers can understand risk, respond faster, recover cleanly, and govern data with greater confidence.&lt;br&gt;&lt;br&gt;Trusted by nearly 7,500 customers, including 75 of the Fortune 500, Druva helps safeguard the critical information and systems businesses depend on in an increasingly connected world.&lt;/p&gt;\n&lt;p&gt;Visit&lt;a href=&quot;https://www.druva.com/&quot;&gt;&amp;nbsp;druva.com&lt;/a&gt;&amp;nbsp;and follow us on&amp;nbsp;&lt;a href=&quot;https://www.linkedin.com/company/druva/mycompany/&quot;&gt;LinkedIn&lt;/a&gt;,&amp;nbsp;&lt;a href=&quot;https://twitter.com/druvainc&quot;&gt;X&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href=&quot;https://www.facebook.com/DruvaInc/&quot;&gt;Facebook&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;We are looking for a User Experience Designer to help us shape the design of new features and enhancements. This person should have a passion for usability, an eye for visual consistency, and a knack for reducing complex problems to simple,&amp;nbsp;intuitive experiences.&amp;nbsp;&lt;br&gt;The ideal candidate will be comfortable working in a fast-evolving product environment and have an interest in how emerging technologies, including AI, can be thoughtfully incorporated into user experiences.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Responsibilities:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Initiate, suggest, and spearhead major UI refactoring initiatives to create an intuitive and consistent user experience.&lt;/li&gt;\n&lt;li&gt;Design elegant solutions to complex workflows and product challenges.&lt;/li&gt;\n&lt;li&gt;Act as the user advocate throughout the development process, subjecting early-stage designs to usability testing or expert review and offering implementation suggestions from a user-centered perspective.&lt;/li&gt;\n&lt;li&gt;Act as the “go-to” person with in-depth knowledge of user interface best practices, design standards, and emerging UX patterns.&lt;/li&gt;\n&lt;li&gt;Use research-related services, theories, and methods to support design recommendations and decisions.&lt;/li&gt;\n&lt;li&gt;Develop wireframes, prototypes, behavioral specifications, personas, and other UX deliverables.&lt;/li&gt;\n&lt;li&gt;Learn from user research, usability studies, analytics, and user feedback to continuously improve product experiences.&lt;/li&gt;\n&lt;li&gt;Keep the interface beautiful, consistent, accessible, and easy to use. Direct the visual appearance of new features and enhancements across our software applications.&lt;/li&gt;\n&lt;li&gt;Collaborate closely with product managers, engineers, researchers, and other stakeholders to translate user and business needs into effective product experiences.&lt;/li&gt;\n&lt;li&gt;Contribute to the design of AI-enabled product experiences, ensuring that AI interactions are intuitive, transparent, predictable, and aligned with user needs.&lt;/li&gt;\n&lt;li&gt;Explore and apply emerging AI-assisted design and research tools where they can improve design exploration, prototyping, research synthesis, or overall design efficiency.&lt;/li&gt;\n&lt;li&gt;Help identify opportunities where AI can simplify complex workflows and create meaningful improvements to the user experience.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Qualifications:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Graduate/Master’s degree in Design or a related field from premier institutes.&lt;/li&gt;\n&lt;li&gt;A strong portfolio that demonstrates your design process, problem-solving approach, and ability to translate complex requirements into intuitive user experiences.&lt;/li&gt;\n&lt;li&gt;3–5 years of experience working on UX for software products, web applications, mobile applications, and/or complex websites.&lt;/li&gt;\n&lt;li&gt;Strong understanding of user-centered design principles, interaction design, information architecture, usability, and visual design.&lt;/li&gt;\n&lt;li&gt;Ability to develop UX deliverables such as workflows, early conceptual designs, wireframes, prototypes, usability improvements, mock-ups, and style guides.&lt;/li&gt;\n&lt;li&gt;Ability to work effectively with business, product, engineering, and other cross-functional teams.&lt;/li&gt;\n&lt;li&gt;Familiarity with AI-enabled design/research tools and the ability to thoughtfully evaluate where AI can improve the design process or user experience is a plus.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+      "roleFamily": "uiux"
     },
     {
       "id": "greenhouse:coupang:8179034",
@@ -302,7 +302,7 @@
       "title": "Senior Product Designer Securities",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-securities-bitpanda/151678",
-      "postedAt": "2026-09-02T04:57:41.927Z",
+      "postedAt": "2026-09-02T05:02:04.603Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -313,7 +313,7 @@
       "title": "Senior Product Designer Wallets 100% Remote Worldwide",
       "location": "United Kingdom",
       "url": "https://web3.career/senior-product-designer-wallets-100-remote-worldwide-tetheroperationslimited/153067",
-      "postedAt": "2026-08-22T04:57:41.928Z",
+      "postedAt": "2026-08-22T05:02:04.604Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -324,7 +324,7 @@
       "title": "Lead Product Designer Growth",
       "location": "Australia",
       "url": "https://web3.career/lead-product-designer-growth-magiceden/152850",
-      "postedAt": "2026-08-18T04:57:41.932Z",
+      "postedAt": "2026-08-18T05:02:04.604Z",
       "description": "",
       "roleFamily": "lead-pd"
     },
@@ -406,23 +406,12 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "getro:accel:91150679",
-      "atsProvider": "getro",
-      "company": "New Relic",
-      "title": "Principal Product Designer",
-      "location": "Barcelona, Spain",
-      "url": "https://boards.greenhouse.io/newrelic/jobs/5396630008",
-      "postedAt": "2026-08-26T10:46:03.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
-      "id": "getro:accel:92116924",
+      "id": "getro:accel:92116922",
       "atsProvider": "getro",
       "company": "Fever",
       "title": "Product Design Lead",
-      "location": "Madrid, Spain",
-      "url": "https://boards.greenhouse.io/feverup/jobs/4964211101",
+      "location": "Barcelona, Spain",
+      "url": "https://boards.greenhouse.io/feverup/jobs/4964209101",
       "postedAt": "2026-09-03T13:43:13.000Z",
       "description": "",
       "roleFamily": "lead-pd"
@@ -437,6 +426,17 @@
       "postedAt": "2026-09-03T11:38:20.000Z",
       "description": "",
       "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:accel:91150679",
+      "atsProvider": "getro",
+      "company": "New Relic",
+      "title": "Principal Product Designer",
+      "location": "Barcelona, Spain",
+      "url": "https://boards.greenhouse.io/newrelic/jobs/5396630008",
+      "postedAt": "2026-08-26T10:46:03.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
     },
     {
       "id": "getro:accel:90947033",
@@ -505,24 +505,13 @@
       "roleFamily": "lead-pd"
     },
     {
-      "id": "getro:accel:90902489",
+      "id": "getro:accel:90902491",
       "atsProvider": "getro",
       "company": "Vinted",
       "title": "Director of Product Design, Frontend Technologies",
-      "location": "Amsterdam, Netherlands",
-      "url": "https://careers.vinted.com/jobs/j/4863111101",
+      "location": "Berlin, Germany",
+      "url": "https://careers.vinted.com/jobs/j/4863113101",
       "postedAt": "2026-08-22T16:01:06.000Z",
-      "description": "",
-      "roleFamily": "uiux"
-    },
-    {
-      "id": "getro:accel:90336472",
-      "atsProvider": "getro",
-      "company": "Skydio",
-      "title": "Product Design Engineer - Camera",
-      "location": "Remote",
-      "url": "https://www.skydio.com/jobs/bc3e47ff-41a3-417a-86e3-d1756cc81133/?gh_jid=bc3e47ff-41a3-417a-86e3-d1756cc81133",
-      "postedAt": "2026-08-18T13:54:11.000Z",
       "description": "",
       "roleFamily": "uiux"
     },
@@ -580,17 +569,6 @@
       "postedAt": "2026-08-19T11:17:05.000Z",
       "description": "",
       "roleFamily": "product-owner"
-    },
-    {
-      "id": "getro:seedcamp:92077336",
-      "atsProvider": "getro",
-      "company": "Wise",
-      "title": "Product Design Lead - Wise Platform FTC (12-Month Maternity Cover)",
-      "location": "London, UK",
-      "url": "https://wise.jobs/job/product-design-lead-wise-platform-ftc-12-month-maternity-cover-in-london-jid-3954",
-      "postedAt": "2026-09-03T12:27:10.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
     },
     {
       "id": "getro:seedcamp:90329463",
@@ -701,6 +679,17 @@
       "postedAt": "2026-08-19T12:07:48.000Z",
       "description": "",
       "roleFamily": "product-owner"
+    },
+    {
+      "id": "getro:general-catalyst:92415376",
+      "atsProvider": "getro",
+      "company": "Dwelly",
+      "title": "Product Designer",
+      "location": "London, UK",
+      "url": "https://uk.linkedin.com/jobs/view/product-designer-at-dwelly-4462864222",
+      "postedAt": "2026-09-06T14:04:13.000Z",
+      "description": "",
+      "roleFamily": "uiux"
     },
     {
       "id": "getro:general-catalyst:92261077",
@@ -886,17 +875,6 @@
       "location": "Leiden, Netherlands",
       "url": "https://jobs.channelengine.com/o/senior-product-owner-1",
       "postedAt": "2026-08-21T13:07:13.000Z",
-      "description": "",
-      "roleFamily": "product-owner"
-    },
-    {
-      "id": "getro:general-catalyst:90484543",
-      "atsProvider": "getro",
-      "company": "Ethos",
-      "title": "Expert Opportunity - Product Owner ($80/hr, up to $1,600/week)",
-      "location": "India",
-      "url": "https://in.linkedin.com/jobs/view/expert-opportunity-product-owner-%2480-hr-up-to-%241-600-week-at-ethos-4455151353",
-      "postedAt": "2026-08-19T14:19:17.000Z",
       "description": "",
       "roleFamily": "product-owner"
     },
