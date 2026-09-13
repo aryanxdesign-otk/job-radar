@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-12T04:53:58.572Z",
-  "filteredAt": "2026-09-12T04:53:59.916Z",
+  "generatedAt": "2026-09-13T05:11:49.187Z",
+  "filteredAt": "2026-09-13T05:11:50.764Z",
   "funnel": {
-    "raw": 17209,
-    "deduped": 14388,
-    "titleMatched": 478,
-    "recencyPassed": 128,
-    "geoPassed": 69
+    "raw": 17217,
+    "deduped": 14399,
+    "titleMatched": 484,
+    "recencyPassed": 133,
+    "geoPassed": 66
   },
   "jobs": [
     {
@@ -142,6 +142,17 @@
       "roleFamily": "uiux"
     },
     {
+      "id": "smartrecruiters:swiggy:6000000001399697",
+      "atsProvider": "smartrecruiters",
+      "company": "SWIGGY",
+      "title": "Product Designer",
+      "location": "Bengaluru, KA, India",
+      "url": "https://jobs.smartrecruiters.com/swiggy/6000000001399697",
+      "postedAt": "2026-09-11T12:26:19.039Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
       "id": "ashby:nord-security:f2e8b050-a467-4c28-b598-aaef65cfd6cd",
       "atsProvider": "ashby",
       "company": "Nord Security",
@@ -162,17 +173,6 @@
       "postedAt": "2026-08-31T10:21:17.296+00:00",
       "description": "THE WORLD’S MOST ADVANCED VPN, AND A WHOLE LOT MORE.\n\nIf you're a curious problem-solver who carves their own path, join the team building NordVPN's next chapter: Connect, Protect, Monitor. From the fastest VPN on the planet to the tools that catch threats before they land, we're putting privacy, security, and control back in people's hands.\nYour impact? Helping millions take back control of their online security, privacy, and data.\n\n\n\n\nMAIN RESPONSIBILITIES\n\n - Product Ownership: Lead NordVPN Browser Extension app development from discovery to launch and iteration.\n\n - Vision & Roadmap: Set the Browser Extension product vision and roadmap. Turn strategy into deliverables.\n\n - Backlog Management: Own and prioritize the backlog. Write clear requirements from data, feedback, and stakeholders.\n\n - Collaboration: Align engineering, design, research, marketing, and product around one plan. Drive execution.\n\n - User & Market Insight: Track Browser Extension user feedback and product data. Monitor trends and competitors. Act on insights.\n\n - Technical Execution: Partner with engineering on feasibility, dependencies, and trade-offs. Remove blockers. Deliver on time.\n\n - Quality Focus: Drive a user-first, data-driven approach. Improve UX and stability release over release.\n\n - Define KPIs for the Browser Extension app. Monitor results and adjust priorities.\n\n\n\n\nCORE REQUIREMENTS\n\n - Experience: 3+ years in product management or product ownership.\n\n - Analytics: Strong at turning technical context, user data, and research into product decisions.\n\n - Communication: Clear communication with stakeholders and delivery teams.\n\n - Problem Solving: Structured, analytical thinking. Finding root causes and proposing practical solutions.\n\n - Ownership: Strong ownership and prioritization. Ability to manage multiple workstreams in a fast-paced team.\n\n - Tools: Comfortable with Jira and Confluence, Analytical Tools, Figma.\n\n - User Focus: Strong user empathy and focus on secure, reliable, high-performing desktop products.\n\n\n\n\n \n\n\nWHAT WE OFFER\n\n - Sharpen your edge: training, mentorship, and room to grow — always.\n   \n   \n\n - Take the time you need: extra vacation days, sick days, and time off when life calls.\n   \n   \n\n - Get premium healthcare: private health insurance in Lithuania and Poland — fully covered.\n   \n   \n\n - Protect your peace: enjoy free subscriptions to Calm, Headspace, and Mindletic, and our own resilience and mindfulness trainings.\n   \n   \n\n - Own your fitness: in-house gyms, sport cards, online workouts, and personal guidance — on us.\n   \n   \n\n - Pack your bags for workation: experience our company-wide trip abroad to the fullest.\n   \n   \n\n - Work from anywhere: work from wherever keeps you in the zone.\n   \n   \n\n - Celebrate your milestones: birthdays, weddings, and new family members — all deserve a gift.\n   \n   \n\n - Parent with ease: children’s summer camps and flexibility around the schedule — because parenting never pauses.\n   \n   \n\n - Join the party: team building and company events people talk about for months.\n   \n   \n\n - Unlock Cyber City: coffee bar, open gyms, kids’ room, music room, massage chairs — our Vilnius HQ is yours to enjoy.\n\n\n\n\n\nKindly refer to our Privacy Notice for Recruitment Candidates https://drive.google.com/file/d/1b2tV684_SYV1jQ4kuf91cnzrRBk3ef-5/view for comprehensive information regarding our data handling procedures throughout recruitment processes.\n\nWe expect all candidates to provide accurate and complete information during the recruitment process. While limited use of AI tools to refine application materials is acceptable, candidates remain fully responsible for ensuring that their submissions reflect their own qualifications, skills, and experience. Any failure to do so may negatively affect participation in the recruitment process. If broader AI assistance is allowed for a particular role or stage, we’ll let you know in advance.\n\nBy submitting your application, you acknowledge that it may be processed using automated tools for evaluation purposes. As part of our recruitment process, we may use an AI-based application review tool to help assess applications based on skills and experience relevant to the role. This technology is used to support - not replace - human decision-making, and every application is ultimately reviewed by a recruiter.\n\nIf you would like more information about how AI is used in this process or wish to exercise your rights under applicable data privacy laws, please contact us at privacy@nordaccount.com. Should you prefer to opt out of the automated evaluation, please submit your application directly to career@nordsec.com.",
       "roleFamily": "product-owner"
-    },
-    {
-      "id": "smartrecruiters:swiggy:6000000001399697",
-      "atsProvider": "smartrecruiters",
-      "company": "SWIGGY",
-      "title": "Product Designer",
-      "location": "Bengaluru, KA, India",
-      "url": "https://jobs.smartrecruiters.com/swiggy/6000000001399697",
-      "postedAt": "2026-09-11T12:26:19.039Z",
-      "description": "",
-      "roleFamily": "uiux"
     },
     {
       "id": "ashby:wayve:b5b994fc-4161-4439-85fa-1517456b29db",
@@ -208,17 +208,6 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "ashby:motorway:71e13c75-adbf-470b-ac1a-e703389c9394",
-      "atsProvider": "ashby",
-      "company": "Motorway",
-      "title": "Lead Product Designer",
-      "location": "London",
-      "url": "https://jobs.ashbyhq.com/motorway/71e13c75-adbf-470b-ac1a-e703389c9394",
-      "postedAt": "2026-08-26T10:57:13.761+00:00",
-      "description": "ABOUT MOTORWAY\n\nMotorway is the UK's largest online car-selling platform. We connect private sellers directly with over 8,000 dealers nationwide. Our online platform helps sellers achieve great prices for their cars while giving dealers fast, reliable access to the stock they want for their dealerships. Founded in 2017, our award-winning, technology-led approach has redefined the experience of selling a car. Motorway is backed by some of the world’s leading technology investors, having raised £143 million in Series C funding.\n\nThis is a unique opportunity to join a fast-growing scale-up at a crucial phase of growth and help change an industry for the better.\n\nThe Opportunity\n\nAs a Lead Product Designer at Motorway, you won't just be producing great design - you'll be raising the ceiling for everyone around you. You'll shape how the team works, set the standard for craft and rigour, and bring a clear point of view on where design is heading.\n\nYou'll take ownership of our most complex design challenges, working across the full product lifecycle from discovery to delivery. You'll be a trusted voice in cross-functional conversations, a mentor to other designers, and someone who actively shapes the culture and ways of working within the design team.\n\nThis is a role for someone who thinks deeply, builds boldly, and leads by doing.\n\nWhat You'll Be Doing\n\nThis isn't a role for a pixel-pusher. We want a visionary with a builder’s soul. You will step into an environment where your work has immediate, massive scale, and your leadership directly influences the future of our product ecosystem.\n\n - Tackling the Big Stuff: You’ll own our most complex, ambiguous product challenges, transforming messy problems into elegant, crystal-clear user experiences from discovery to deployment.\n\n - Pioneering AI in Design: You won't just use AI tools—you’ll write the playbook for them. You'll spearhead how our team thoughtfully integrates AI to supercharge our workflows while keeping human judgment and craft at the center.\n\n - Designing Beyond the Screen: You'll bring a \"builder mindset\" to the table, collaborating seamlessly with engineering because you speak their language—whether that’s through code, complex prototypes, or building your own tools.\n\n - Championing the User: You will be the fierce advocate for our users, leveraging deep research, continuous usability testing, and sharp data insights to validate every move we make.\n\n - Scaling Design Culture: You'll run high-impact workshops, level up weekly team rituals, and foster an environment where diverse perspectives thrive and designers do the best work of their careers.\n\nResponsibilities\n\n - Design Execution: Produce high-quality design deliverables including user flows, wireframes, prototypes, and high-fidelity mock-ups for mobile and web applications, ensuring solutions meet accessibility standards and set the bar for inclusive design across the team.\n\n - Collaboration & Commercial Awareness: Work in close partnership with product managers, engineers, and data analysts throughout the product development lifecycle. Connect user insights to product opportunities and broader business goals. You have strong commercial awareness and can articulate the business case for design decisions.\n\n - Stakeholder Communication: Establish strong relationships across product, engineering, and the wider organisation. Communicate clearly at all levels, lead online and offline sessions to validate design decisions, and represent product design with confidence and authority.\n\n - Mentorship & Guidance: Provide mentorship to junior and senior designers alike - sharing best practices, supporting their growth, and helping create an environment where designers can do the best work of their careers.\n\n - Driving Design Culture: Help foster a strong design culture by contributing to weekly team rituals, running workshops, planning design-focused events, and encouraging diverse participation. You love bringing people together around ideas.\n\n - Continuous Improvement: Explore and encourage continuous learning across the team, playing an active role in developing our core design principles and keeping the team sharp on emerging tools, patterns, and practices.\n\nWhat You'll Bring (Requirements)\n\nOur team comes from a diverse range of backgrounds, and team fit matters immensely to us. We are looking for a passionate advocate for craft and user experience who can check off several of these boxes:\n\n - Proven Leadership: A deep track record as a Senior or Lead Product Designer, successfully shipping impactful digital products across web and mobile ecosystems.\n\n - A Builder’s Instinct: You don’t stop at the design file. You love getting your hands dirty and have experience shipping code, building your own products, or spinning up functional, high-fidelity tools and prototypes.\n\n - Versatile Experience: A strong grasp of consumer journeys, ideally with experience navigating both B2C and B2B product landscapes.\n\n - An AI-Forward Mindset: A highly considered approach to AI in design. You understand how to strategically use it to accelerate work, when to rely on human judgment, and how to guide a team through this evolving landscape.\n\n - Commercial Acumen: The ability to see the bigger picture, connect design execution directly to business outcomes, and confidently shape broader product strategy.\n\n - Modern Toolkit & Research Rigour: High proficiency in design and prototyping tools (like Figma, Claude, Kiro), combined with strong user-centered design methodologies, accessibility standards, and research synthesisation.\n\n - Bonus Points: Experience optimizing user journeys/conversion funnels via experimentation, or experience working within a fast-paced, two-sided marketplace.\n\nBENEFITS\n\nWe've got your back, in life's biggest moments and the everyday ones too.\n\n - Competitive salary\n\n - Equity scheme - we all share in Motorway's success\n\n - 25 days holiday\n\n - Flexible working (2 days a week in our London office, with socials and snacks galore)\n\n - Private medical insurance via BUPA\n\n - Life assurance\n\n - Pension scheme (we contribute 5%)\n\n - Enhanced family leave (e.g. 26 weeks full pay for maternity or adoption)\n\n - 24/7 Employee Assistance Programme\n\n - EV leasing scheme\n\n - Cycle to work scheme\n\n - Nursery salary sacrifice scheme\n\n - 1 paid volunteering day a year",
-      "roleFamily": "lead-pd"
-    },
-    {
       "id": "greenhouse:druva:8745192002",
       "atsProvider": "greenhouse",
       "company": "Druva",
@@ -228,6 +217,17 @@
       "postedAt": "2026-08-31T07:31:40-04:00",
       "description": "&lt;p&gt;&lt;strong&gt;About Druva&lt;br&gt;&lt;/strong&gt;Druva is the resilience foundation for the AI enterprise, helping organizations secure and recover from connected risk across data, cyber, identity, and AI. The Resilience Cloud is a fully managed, cloud-native SaaS platform that delivers air-gapped and immutable protection across cloud, SaaS, on-premises, endpoint, and edge environments. Powered by Dru MetaGraph, Druva’s graph-powered intelligence layer, the platform connects critical business context so customers can understand risk, respond faster, recover cleanly, and govern data with greater confidence.&lt;br&gt;&lt;br&gt;Trusted by nearly 7,500 customers, including 75 of the Fortune 500, Druva helps safeguard the critical information and systems businesses depend on in an increasingly connected world.&lt;/p&gt;\n&lt;p&gt;Visit&lt;a href=&quot;https://www.druva.com/&quot;&gt;&amp;nbsp;druva.com&lt;/a&gt;&amp;nbsp;and follow us on&amp;nbsp;&lt;a href=&quot;https://www.linkedin.com/company/druva/mycompany/&quot;&gt;LinkedIn&lt;/a&gt;,&amp;nbsp;&lt;a href=&quot;https://twitter.com/druvainc&quot;&gt;X&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href=&quot;https://www.facebook.com/DruvaInc/&quot;&gt;Facebook&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;We are looking for a User Experience Designer to help us shape the design of new features and enhancements. This person should have a passion for usability, an eye for visual consistency, and a knack for reducing complex problems to simple,&amp;nbsp;intuitive experiences.&amp;nbsp;&lt;br&gt;The ideal candidate will be comfortable working in a fast-evolving product environment and have an interest in how emerging technologies, including AI, can be thoughtfully incorporated into user experiences.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Responsibilities:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Initiate, suggest, and spearhead major UI refactoring initiatives to create an intuitive and consistent user experience.&lt;/li&gt;\n&lt;li&gt;Design elegant solutions to complex workflows and product challenges.&lt;/li&gt;\n&lt;li&gt;Act as the user advocate throughout the development process, subjecting early-stage designs to usability testing or expert review and offering implementation suggestions from a user-centered perspective.&lt;/li&gt;\n&lt;li&gt;Act as the “go-to” person with in-depth knowledge of user interface best practices, design standards, and emerging UX patterns.&lt;/li&gt;\n&lt;li&gt;Use research-related services, theories, and methods to support design recommendations and decisions.&lt;/li&gt;\n&lt;li&gt;Develop wireframes, prototypes, behavioral specifications, personas, and other UX deliverables.&lt;/li&gt;\n&lt;li&gt;Learn from user research, usability studies, analytics, and user feedback to continuously improve product experiences.&lt;/li&gt;\n&lt;li&gt;Keep the interface beautiful, consistent, accessible, and easy to use. Direct the visual appearance of new features and enhancements across our software applications.&lt;/li&gt;\n&lt;li&gt;Collaborate closely with product managers, engineers, researchers, and other stakeholders to translate user and business needs into effective product experiences.&lt;/li&gt;\n&lt;li&gt;Contribute to the design of AI-enabled product experiences, ensuring that AI interactions are intuitive, transparent, predictable, and aligned with user needs.&lt;/li&gt;\n&lt;li&gt;Explore and apply emerging AI-assisted design and research tools where they can improve design exploration, prototyping, research synthesis, or overall design efficiency.&lt;/li&gt;\n&lt;li&gt;Help identify opportunities where AI can simplify complex workflows and create meaningful improvements to the user experience.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Qualifications:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Graduate/Master’s degree in Design or a related field from premier institutes.&lt;/li&gt;\n&lt;li&gt;A strong portfolio that demonstrates your design process, problem-solving approach, and ability to translate complex requirements into intuitive user experiences.&lt;/li&gt;\n&lt;li&gt;3–5 years of experience working on UX for software products, web applications, mobile applications, and/or complex websites.&lt;/li&gt;\n&lt;li&gt;Strong understanding of user-centered design principles, interaction design, information architecture, usability, and visual design.&lt;/li&gt;\n&lt;li&gt;Ability to develop UX deliverables such as workflows, early conceptual designs, wireframes, prototypes, usability improvements, mock-ups, and style guides.&lt;/li&gt;\n&lt;li&gt;Ability to work effectively with business, product, engineering, and other cross-functional teams.&lt;/li&gt;\n&lt;li&gt;Familiarity with AI-enabled design/research tools and the ability to thoughtfully evaluate where AI can improve the design process or user experience is a plus.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
       "roleFamily": "uiux"
+    },
+    {
+      "id": "ashby:motorway:71e13c75-adbf-470b-ac1a-e703389c9394",
+      "atsProvider": "ashby",
+      "company": "Motorway",
+      "title": "Lead Product Designer",
+      "location": "London",
+      "url": "https://jobs.ashbyhq.com/motorway/71e13c75-adbf-470b-ac1a-e703389c9394",
+      "postedAt": "2026-08-26T10:57:13.761+00:00",
+      "description": "ABOUT MOTORWAY\n\nMotorway is the UK's largest online car-selling platform. We connect private sellers directly with over 8,000 dealers nationwide. Our online platform helps sellers achieve great prices for their cars while giving dealers fast, reliable access to the stock they want for their dealerships. Founded in 2017, our award-winning, technology-led approach has redefined the experience of selling a car. Motorway is backed by some of the world’s leading technology investors, having raised £143 million in Series C funding.\n\nThis is a unique opportunity to join a fast-growing scale-up at a crucial phase of growth and help change an industry for the better.\n\nThe Opportunity\n\nAs a Lead Product Designer at Motorway, you won't just be producing great design - you'll be raising the ceiling for everyone around you. You'll shape how the team works, set the standard for craft and rigour, and bring a clear point of view on where design is heading.\n\nYou'll take ownership of our most complex design challenges, working across the full product lifecycle from discovery to delivery. You'll be a trusted voice in cross-functional conversations, a mentor to other designers, and someone who actively shapes the culture and ways of working within the design team.\n\nThis is a role for someone who thinks deeply, builds boldly, and leads by doing.\n\nWhat You'll Be Doing\n\nThis isn't a role for a pixel-pusher. We want a visionary with a builder’s soul. You will step into an environment where your work has immediate, massive scale, and your leadership directly influences the future of our product ecosystem.\n\n - Tackling the Big Stuff: You’ll own our most complex, ambiguous product challenges, transforming messy problems into elegant, crystal-clear user experiences from discovery to deployment.\n\n - Pioneering AI in Design: You won't just use AI tools—you’ll write the playbook for them. You'll spearhead how our team thoughtfully integrates AI to supercharge our workflows while keeping human judgment and craft at the center.\n\n - Designing Beyond the Screen: You'll bring a \"builder mindset\" to the table, collaborating seamlessly with engineering because you speak their language—whether that’s through code, complex prototypes, or building your own tools.\n\n - Championing the User: You will be the fierce advocate for our users, leveraging deep research, continuous usability testing, and sharp data insights to validate every move we make.\n\n - Scaling Design Culture: You'll run high-impact workshops, level up weekly team rituals, and foster an environment where diverse perspectives thrive and designers do the best work of their careers.\n\nResponsibilities\n\n - Design Execution: Produce high-quality design deliverables including user flows, wireframes, prototypes, and high-fidelity mock-ups for mobile and web applications, ensuring solutions meet accessibility standards and set the bar for inclusive design across the team.\n\n - Collaboration & Commercial Awareness: Work in close partnership with product managers, engineers, and data analysts throughout the product development lifecycle. Connect user insights to product opportunities and broader business goals. You have strong commercial awareness and can articulate the business case for design decisions.\n\n - Stakeholder Communication: Establish strong relationships across product, engineering, and the wider organisation. Communicate clearly at all levels, lead online and offline sessions to validate design decisions, and represent product design with confidence and authority.\n\n - Mentorship & Guidance: Provide mentorship to junior and senior designers alike - sharing best practices, supporting their growth, and helping create an environment where designers can do the best work of their careers.\n\n - Driving Design Culture: Help foster a strong design culture by contributing to weekly team rituals, running workshops, planning design-focused events, and encouraging diverse participation. You love bringing people together around ideas.\n\n - Continuous Improvement: Explore and encourage continuous learning across the team, playing an active role in developing our core design principles and keeping the team sharp on emerging tools, patterns, and practices.\n\nWhat You'll Bring (Requirements)\n\nOur team comes from a diverse range of backgrounds, and team fit matters immensely to us. We are looking for a passionate advocate for craft and user experience who can check off several of these boxes:\n\n - Proven Leadership: A deep track record as a Senior or Lead Product Designer, successfully shipping impactful digital products across web and mobile ecosystems.\n\n - A Builder’s Instinct: You don’t stop at the design file. You love getting your hands dirty and have experience shipping code, building your own products, or spinning up functional, high-fidelity tools and prototypes.\n\n - Versatile Experience: A strong grasp of consumer journeys, ideally with experience navigating both B2C and B2B product landscapes.\n\n - An AI-Forward Mindset: A highly considered approach to AI in design. You understand how to strategically use it to accelerate work, when to rely on human judgment, and how to guide a team through this evolving landscape.\n\n - Commercial Acumen: The ability to see the bigger picture, connect design execution directly to business outcomes, and confidently shape broader product strategy.\n\n - Modern Toolkit & Research Rigour: High proficiency in design and prototyping tools (like Figma, Claude, Kiro), combined with strong user-centered design methodologies, accessibility standards, and research synthesisation.\n\n - Bonus Points: Experience optimizing user journeys/conversion funnels via experimentation, or experience working within a fast-paced, two-sided marketplace.\n\nBENEFITS\n\nWe've got your back, in life's biggest moments and the everyday ones too.\n\n - Competitive salary\n\n - Equity scheme - we all share in Motorway's success\n\n - 25 days holiday\n\n - Flexible working (2 days a week in our London office, with socials and snacks galore)\n\n - Private medical insurance via BUPA\n\n - Life assurance\n\n - Pension scheme (we contribute 5%)\n\n - Enhanced family leave (e.g. 26 weeks full pay for maternity or adoption)\n\n - 24/7 Employee Assistance Programme\n\n - EV leasing scheme\n\n - Cycle to work scheme\n\n - Nursery salary sacrifice scheme\n\n - 1 paid volunteering day a year",
+      "roleFamily": "lead-pd"
     },
     {
       "id": "greenhouse:coupang:8179034",
@@ -280,7 +280,7 @@
       "title": "Senior Product Designer Securities",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-securities-bitpanda/151678",
-      "postedAt": "2026-09-09T04:52:10.726Z",
+      "postedAt": "2026-09-09T05:10:01.998Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -307,6 +307,28 @@
       "roleFamily": "uiux"
     },
     {
+      "id": "getro:accel:93066086",
+      "atsProvider": "getro",
+      "company": "Rapido",
+      "title": "Senior Product Designer",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-rapido-4464865223",
+      "postedAt": "2026-09-12T15:18:28.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:accel:93058985",
+      "atsProvider": "getro",
+      "company": "Truemeds India",
+      "title": "Product Designer 2",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/product-designer-2-at-truemeds-4463973910",
+      "postedAt": "2026-09-12T14:26:15.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
       "id": "getro:accel:92878551",
       "atsProvider": "getro",
       "company": "Teya",
@@ -316,17 +338,6 @@
       "postedAt": "2026-09-11T12:28:14.000Z",
       "description": "",
       "roleFamily": "uiux"
-    },
-    {
-      "id": "getro:accel:92661838",
-      "atsProvider": "getro",
-      "company": "Spotify",
-      "title": "Senior Product Designer, Subscriptions",
-      "location": "Stockholm, Sweden, London, UK",
-      "url": "https://www.lifeatspotify.com/jobs/senior-product-designer-subscriptions",
-      "postedAt": "2026-09-09T14:08:51.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
     },
     {
       "id": "getro:accel:92511836",
@@ -395,39 +406,6 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "getro:accel:90902735",
-      "atsProvider": "getro",
-      "company": "Vinted",
-      "title": "Senior Product Designer, VGo Carrier Technology",
-      "location": "Lithuania",
-      "url": "https://careers.vinted.com/jobs/j/4947633101",
-      "postedAt": "2026-08-22T16:01:54.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
-    },
-    {
-      "id": "getro:accel:90794185",
-      "atsProvider": "getro",
-      "company": "Hudl",
-      "title": "Product Designer - Core UX",
-      "location": "London, UK",
-      "url": "https://uk.linkedin.com/jobs/view/product-designer-core-ux-at-hudl-4456214603",
-      "postedAt": "2026-08-22T09:47:07.000Z",
-      "description": "",
-      "roleFamily": "uiux"
-    },
-    {
-      "id": "getro:accel:92324363",
-      "atsProvider": "getro",
-      "company": "Cortex by Palo Alto Networks",
-      "title": "Product owner",
-      "location": "",
-      "url": "https://jobs.paloaltonetworks.com/en/job/las-vegas/product-owner/47263/100178496816",
-      "postedAt": "2026-09-05T11:43:20.000Z",
-      "description": "",
-      "roleFamily": "product-owner"
-    },
-    {
       "id": "getro:accel:92051213",
       "atsProvider": "getro",
       "company": "Fuse Energy",
@@ -443,7 +421,7 @@
       "atsProvider": "getro",
       "company": "Nimble Storage",
       "title": "Senior Product Owner",
-      "location": "Galway, Ireland",
+      "location": "Galway, Co. Galway, Ireland",
       "url": "https://careers.hpe.com/us/en/job/1211894",
       "postedAt": "2026-08-26T10:44:11.000Z",
       "description": "",
@@ -454,7 +432,7 @@
       "atsProvider": "getro",
       "company": "Hpe Simplivity",
       "title": "Senior Product Owner",
-      "location": "Galway, Ireland",
+      "location": "Galway, Co. Galway, Ireland",
       "url": "https://careers.hpe.com/us/en/job/1211894",
       "postedAt": "2026-08-26T10:25:28.000Z",
       "description": "",
@@ -745,17 +723,6 @@
       "postedAt": "2026-08-25T10:55:51.000Z",
       "description": "",
       "roleFamily": "uiux"
-    },
-    {
-      "id": "getro:general-catalyst:90890158",
-      "atsProvider": "getro",
-      "company": "Prypco",
-      "title": "Senior Product Designer",
-      "location": "Dubai - United Arab Emirates",
-      "url": "https://ae.linkedin.com/jobs/view/senior-product-designer-at-prypco-4456461451",
-      "postedAt": "2026-08-22T14:30:40.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
     },
     {
       "id": "getro:dawn-capital:92015786",
