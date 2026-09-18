@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-17T05:09:12.894Z",
-  "filteredAt": "2026-09-17T05:09:14.170Z",
+  "generatedAt": "2026-09-18T05:02:18.596Z",
+  "filteredAt": "2026-09-18T05:02:20.237Z",
   "funnel": {
-    "raw": 17131,
-    "deduped": 14335,
-    "titleMatched": 483,
-    "recencyPassed": 123,
-    "geoPassed": 55
+    "raw": 17231,
+    "deduped": 14373,
+    "titleMatched": 484,
+    "recencyPassed": 128,
+    "geoPassed": 60
   },
   "jobs": [
     {
@@ -87,6 +87,28 @@
       "roleFamily": "uiux"
     },
     {
+      "id": "lever:neon:71f48837-490a-4794-8078-c87faefff6e5",
+      "atsProvider": "lever",
+      "company": "Neon",
+      "title": "Principal Product Designer",
+      "location": "Remoto",
+      "url": "https://jobs.lever.co/neon/71f48837-490a-4794-8078-c87faefff6e5",
+      "postedAt": "2026-09-17T12:25:57.494Z",
+      "description": "Sobre a Neon\n\nNa Neon, cada ideia conta e pode transformar a vida financeira de milhares de brasileiras e brasileiros que acreditam que o céu é o limite. Buscamos pessoas que querem contribuir com impacto real e crescer junto com a gente!\n\nNosso ritmo é intenso, assim como o aprendizado com gente muito talentosa e equipes colaborativas que geram impacto real desde o primeiro dia, com o bônus de trabalhar de qualquer lugar do Brasil.\n\nAqui a inovação e tecnologia andam juntos e diversidade é decisão estratégica do negócio e compromisso que molda nossas decisões e garante um ambiente acolhedor para todas as pessoas.\n\n Valorizamos a colaboração, o diálogo aberto e entregas que compreendam as necessidades das pessoas que usam nossas soluções.Se você é uma pessoa que gosta de construir, testar, aprender e se comprometer com a excelência, a Neon é pra você.\n\nVem fazer parte de um time que não tem medo de sonhar grande e trabalha junto para elevar a barra todos os dias, fazendo o dinheiro fluir e o mundo crescer. Vem #ViverNoAzul!\n",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "lever:deliverect:964659ab-95fd-4ed0-bb7e-2377593b9063",
+      "atsProvider": "lever",
+      "company": "Deliverect",
+      "title": "Senior Product Designer",
+      "location": "Paris",
+      "url": "https://jobs.lever.co/deliverect/964659ab-95fd-4ed0-bb7e-2377593b9063",
+      "postedAt": "2026-09-17T13:04:50.386Z",
+      "description": "At Deliverect, our API-first platform is revolutionizing commerce by providing a connected suite of on and off-premise solutions. We empower both the food and retail industries to expand their revenue and simplify their operations, creating seamless experiences for businesses to sell anywhere and deliver everywhere. Join us in this exciting journey, where your contributions will directly impact how businesses connect with their customers in a rapidly evolving global market.\n\n\nDepartment Focus:\nThe Product Department at Deliverect is at the forefront of the digital ordering revolution, dedicated to consistently delivering groundbreaking solutions to the global marketplace. Our team of passionate and innovative engineers, designers, and product managers architect tools that empower businesses to thrive in the evolving digital landscape, streamlining digital ordering for delivery and on-premise services. We are committed to creating user-friendly, dependable, and scalable technology that simplifies operations and enhances customer experiences, playing an integral role in the success of businesses worldwide. In our department, innovation is not just a concept; it's the driving force behind everything we do.\nYour Impact:\nAs a Senior Product Designer for Kiosk, you will end-to-end own and elevate the guest-facing ordering experience across thousands of global restaurant locations. By combining exceptional interaction craft with strong product sense, you will define the product roadmap, design intuitive interfaces, and directly drive key guest funnel outcomes like completion rates, average ticket size, and ordering speed.\nThis is a contract, hybrid role with a flexible work schedule, offering 3 days in our Paris office and 2 days from the comfort of your home.\n",
+      "roleFamily": "senior-pd"
+    },
+    {
       "id": "greenhouse:hellofresh:7610098",
       "atsProvider": "greenhouse",
       "company": "HelloFresh",
@@ -109,15 +131,15 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "ashby:nord-security:f2e8b050-a467-4c28-b598-aaef65cfd6cd",
+      "id": "ashby:nord-security:c3ab4dee-6882-4b4b-896a-c558644f7f1a",
       "atsProvider": "ashby",
       "company": "Nord Security",
-      "title": "Lead Product Designer",
+      "title": "Product Owner | Mid-Senior | Quality of Service | NordVPN",
       "location": "Vilnius",
-      "url": "https://jobs.ashbyhq.com/nord-security/f2e8b050-a467-4c28-b598-aaef65cfd6cd",
-      "postedAt": "2026-08-27T13:10:15.337+00:00",
-      "description": "AT COVERON, WE’RE BUILDING A COMPLETE IDENTITY THEFT PROTECTION SERVICE.\n\nJoin the team behind Nord Security’s latest product—combining dark web monitoring, credit tracking, and identity theft insurance into one powerful platform.\n\nYour impact? Helping people protect their identities, spot threats early, and recover stronger.\n\nMain Responsibilities\n\n - Lead and mentor a team of Product Designers fostering a collaborative and creative work environment.\n\n - Act as a hands-on designer, spending the majority of your time creating wireframes, prototypes, and high-fidelity designs, leading by example and setting the quality bar through your own work.\n\n - Collaborate closely with the Product and Engineering teams to drive design initiatives.\n\n - Drive the overall design strategy and vision for the design team, aligning it with business objectives and Coveron brand guidelines.\n\n - Oversee the end-to-end design process, from concept to implementation, ensuring a user-centric approach and a seamless cross-platform user experience.\n\n - Conduct regular design reviews, providing constructive feedback to the team to elevate the overall design quality.\n\n - Stay updated on industry trends, emerging technologies, and design best practices to continuously improve Coveron design standards.\n\n - Work closely with stakeholders to understand business goals and user needs, translating them into actionable design strategies.\n\n - Combine strong people management and leadership skills with a solid design background to foster a positive and collaborative team culture.\n\n\n\nCORE REQUIREMENTS\n\n - 5+ years of experience in product design, with at least 2 years in a leadership role in a product-focused environment.\n\n - Strong portfolio showcasing a range of successful design projects with a focus on app design.\n\n - Expertise in app design, with knowledge of best practices for iOS, Android, and web platforms.\n\n - Excellent leadership skills, with the ability to inspire and motivate a team.\n\n - Exceptional communication and collaboration skills, with the ability to bridge the gap between design and development.\n\n \n\n\nWHAT WE OFFER\n\n - Sharpen your edge: training, mentorship, and room to grow — always.\n   \n   \n\n - Take the time you need: extra vacation days, sick days, and time off when life calls.\n   \n   \n\n - Get premium healthcare: private health insurance in Lithuania and Poland — fully covered.\n   \n   \n\n - Protect your peace: enjoy free subscriptions to Calm, Headspace, and Mindletic, and our own resilience and mindfulness trainings.\n   \n   \n\n - Own your fitness: in-house gyms, sport cards, online workouts, and personal guidance — on us.\n   \n   \n\n - Pack your bags for workation: experience our company-wide trip abroad to the fullest.\n   \n   \n\n - Work from anywhere: work from wherever keeps you in the zone.\n   \n   \n\n - Celebrate your milestones: birthdays, weddings, and new family members — all deserve a gift.\n   \n   \n\n - Parent with ease: children’s summer camps and flexibility around the schedule — because parenting never pauses.\n   \n   \n\n - Join the party: team building and company events people talk about for months.\n   \n   \n\n - Unlock Cyber City: coffee bar, open gyms, kids’ room, music room, massage chairs — our Vilnius HQ is yours to enjoy.\n\n\n\n\n\nKindly refer to our Privacy Notice for Recruitment Candidates https://drive.google.com/file/d/1b2tV684_SYV1jQ4kuf91cnzrRBk3ef-5/view for comprehensive information regarding our data handling procedures throughout recruitment processes.\n\nWe expect all candidates to provide accurate and complete information during the recruitment process. While limited use of AI tools to refine application materials is acceptable, candidates remain fully responsible for ensuring that their submissions reflect their own qualifications, skills, and experience. Any failure to do so may negatively affect participation in the recruitment process. If broader AI assistance is allowed for a particular role or stage, we’ll let you know in advance.\n\nBy submitting your application, you acknowledge that it may be processed using automated tools for evaluation purposes. As part of our recruitment process, we may use an AI-based application review tool to help assess applications based on skills and experience relevant to the role. This technology is used to support - not replace - human decision-making, and every application is ultimately reviewed by a recruiter.\n\nIf you would like more information about how AI is used in this process or wish to exercise your rights under applicable data privacy laws, please contact us at privacy@nordaccount.com. Should you prefer to opt out of the automated evaluation, please submit your application directly to career@nordsec.com.",
-      "roleFamily": "lead-pd"
+      "url": "https://jobs.ashbyhq.com/nord-security/c3ab4dee-6882-4b4b-896a-c558644f7f1a",
+      "postedAt": "2026-09-17T12:25:55.284+00:00",
+      "description": "THE WORLD’S MOST ADVANCED VPN, AND A WHOLE LOT MORE.\n\nIf you’re a curious problem-solver who carves their own path, join the team behind Threat Protection Pro, the NordLynx protocol, and the fastest VPN on the planet—tools that put privacy, security, and control back in people’s hands.\n\nYour impact? Helping millions take back control of their online security, privacy, and data.\n\n\n\n\nMAIN RESPONSIBILITIES\n\n - Full ownership of feedback sources for product quality issues; \n\n - Roadmap for detection and prevention improvements;\n\n - Prioritization of issues for resolution;\n\n - Collaboration with product owners, engineers, and other stakeholders, identification of blockers, management of dependencies and resources;\n\n - Monitoring and continuous iteration on detection performance;\n\n - Reporting results and status to upper management and other stakeholders;\n\n - Align objectives, expectations, and timeframes among developers, designers, product, and business stakeholders;\n\n - Embrace transparency and communication.\n\n \n\n\nCORE REQUIREMENTS\n\n - Proven experience working as a product owner, IT project manager, or Product manager;\n\n - Proven experience in working with development teams;\n\n - Proven experience in identifying deliverable dependencies, roadblocks, or challenges;\n\n - Strong technical understanding of how software is built, deployed, and maintained;\n\n - Excellent interpersonal and communication skills;\n\n - Solid organizational skills, including attention to detail and multitasking skills;\n\n - Leadership, Risk Management, Critical Thinking, Analytical Skills.\n   \n   \n\n \n\n\nWHAT WE OFFER\n\n - Sharpen your edge: training, mentorship, and room to grow — always.\n   \n   \n\n - Take the time you need: extra vacation days, sick days, and time off when life calls.\n   \n   \n\n - Get premium healthcare: private health insurance in Lithuania and Poland — fully covered.\n   \n   \n\n - Protect your peace: enjoy free subscriptions to Calm, Headspace, and Mindletic, and our own resilience and mindfulness trainings.\n   \n   \n\n - Own your fitness: in-house gyms, sport cards, online workouts, and personal guidance — on us.\n   \n   \n\n - Pack your bags for workation: experience our company-wide trip abroad to the fullest.\n   \n   \n\n - Work from anywhere: work from wherever keeps you in the zone.\n   \n   \n\n - Celebrate your milestones: birthdays, weddings, and new family members — all deserve a gift.\n   \n   \n\n - Parent with ease: children’s summer camps and flexibility around the schedule — because parenting never pauses.\n   \n   \n\n - Join the party: team building and company events people talk about for months.\n   \n   \n\n - Unlock Cyber City: coffee bar, open gyms, kids’ room, music room, massage chairs — our Vilnius HQ is yours to enjoy.\n\n\n\n\n\nKindly refer to our Privacy Notice for Recruitment Candidates https://drive.google.com/file/d/1b2tV684_SYV1jQ4kuf91cnzrRBk3ef-5/view for comprehensive information regarding our data handling procedures throughout recruitment processes.\n\nWe expect all candidates to provide accurate and complete information during the recruitment process. While limited use of AI tools to refine application materials is acceptable, candidates remain fully responsible for ensuring that their submissions reflect their own qualifications, skills, and experience. Any failure to do so may negatively affect participation in the recruitment process. If broader AI assistance is allowed for a particular role or stage, we’ll let you know in advance.\n\nBy submitting your application, you acknowledge that it may be processed using automated tools for evaluation purposes. As part of our recruitment process, we may use an AI-based application review tool to help assess applications based on skills and experience relevant to the role. This technology is used to support - not replace - human decision-making, and every application is ultimately reviewed by a recruiter.\n\nIf you would like more information about how AI is used in this process or wish to exercise your rights under applicable data privacy laws, please contact us at privacy@nordaccount.com. Should you prefer to opt out of the automated evaluation, please submit your application directly to career@nordsec.com.",
+      "roleFamily": "product-owner"
     },
     {
       "id": "ashby:nord-security:a5b09294-f854-4cf8-83af-bf3c6e62c89e",
@@ -225,7 +247,7 @@
       "title": "Senior Product Designer Securities",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-securities-bitpanda/151678",
-      "postedAt": "2026-09-16T05:07:31.762Z",
+      "postedAt": "2026-09-16T05:00:31.014Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -307,6 +329,28 @@
       "roleFamily": "lead-pd"
     },
     {
+      "id": "getro:accel:91528187",
+      "atsProvider": "getro",
+      "company": "Miro",
+      "title": "Staff Product Designer",
+      "location": "London, UK",
+      "url": "https://uk.linkedin.com/jobs/view/staff-product-designer-at-miro-4385054710",
+      "postedAt": "2026-08-28T16:25:09.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:accel:91528188",
+      "atsProvider": "getro",
+      "company": "Miro",
+      "title": "Staff Product Designer, Growth",
+      "location": "London, UK",
+      "url": "https://uk.linkedin.com/jobs/view/staff-product-designer-growth-at-miro-4457754498",
+      "postedAt": "2026-08-28T16:25:09.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
       "id": "getro:accel:93148666",
       "atsProvider": "getro",
       "company": "Transit",
@@ -349,6 +393,17 @@
       "postedAt": "2026-09-11T12:47:18.000Z",
       "description": "",
       "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:byfounders:93434684",
+      "atsProvider": "getro",
+      "company": "SafetyWing",
+      "title": "Product Designer",
+      "location": "Remote",
+      "url": "https://safetywing.pinpointhq.com/en/postings/84ba2833-76ac-4a72-8fc9-1c0486d1bdf8",
+      "postedAt": "2026-09-17T11:09:50.000Z",
+      "description": "",
+      "roleFamily": "uiux"
     },
     {
       "id": "getro:insight-partners:92783276",
@@ -428,6 +483,17 @@
       "roleFamily": "uiux"
     },
     {
+      "id": "getro:insight-partners:93434612",
+      "atsProvider": "getro",
+      "company": "Pasito",
+      "title": "Technical Product Owner",
+      "location": "",
+      "url": "https://www.ycombinator.com/companies/pasito/jobs/ckQBGYP-technical-product-owner",
+      "postedAt": "2026-09-17T11:09:31.000Z",
+      "description": "",
+      "roleFamily": "product-owner"
+    },
+    {
       "id": "getro:insight-partners:93364415",
       "atsProvider": "getro",
       "company": "GCash",
@@ -435,17 +501,6 @@
       "location": "Delhi, India",
       "url": "https://globe.wd3.myworkdayjobs.com/Mynt/job/NCR---WCC/Application-Modernization-Product-Owner_R0000021009",
       "postedAt": "2026-09-16T12:45:50.000Z",
-      "description": "",
-      "roleFamily": "product-owner"
-    },
-    {
-      "id": "getro:insight-partners:93241172",
-      "atsProvider": "getro",
-      "company": "Pasito",
-      "title": "Product Owner",
-      "location": "",
-      "url": "https://www.ycombinator.com/companies/pasito/jobs/ckQBGYP-product-owner",
-      "postedAt": "2026-09-15T13:46:07.000Z",
       "description": "",
       "roleFamily": "product-owner"
     },
@@ -465,7 +520,7 @@
       "atsProvider": "getro",
       "company": "Bounce",
       "title": "Product Designer",
-      "location": "Lisbon, Portugal",
+      "location": "Portugal",
       "url": "https://jobs.ashbyhq.com/bounce/c6b97346-9072-4311-94a3-e68ef740394e",
       "postedAt": "2026-09-15T14:02:34.000Z",
       "description": "",
