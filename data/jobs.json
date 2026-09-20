@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-19T04:59:25.289Z",
-  "filteredAt": "2026-09-19T04:59:26.884Z",
+  "generatedAt": "2026-09-20T05:19:32.148Z",
+  "filteredAt": "2026-09-20T05:19:33.489Z",
   "funnel": {
-    "raw": 16832,
-    "deduped": 13983,
-    "titleMatched": 459,
-    "recencyPassed": 120,
-    "geoPassed": 56
+    "raw": 16850,
+    "deduped": 13989,
+    "titleMatched": 465,
+    "recencyPassed": 124,
+    "geoPassed": 60
   },
   "jobs": [
     {
@@ -225,7 +225,18 @@
       "title": "Senior Product Designer Securities",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-securities-bitpanda/151678",
-      "postedAt": "2026-09-16T04:57:35.428Z",
+      "postedAt": "2026-09-16T05:17:46.904Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:accel:93772167",
+      "atsProvider": "getro",
+      "company": "Nuvemshop",
+      "title": "Senior Product Designer",
+      "location": "Remote",
+      "url": "https://nuvemshop-tiendanube.inhire.app/vagas/cb883023-178a-4882-8812-5bb9408a095a/senior-product-designer",
+      "postedAt": "2026-09-19T13:27:20.000Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -307,6 +318,17 @@
       "roleFamily": "lead-pd"
     },
     {
+      "id": "getro:accel:93683908",
+      "atsProvider": "getro",
+      "company": "Rentomojo",
+      "title": "Product Owner",
+      "location": "Italy",
+      "url": "https://jobs.engie.com/job/Product-Owner/69134-en_US",
+      "postedAt": "2026-09-19T09:33:03.000Z",
+      "description": "",
+      "roleFamily": "product-owner"
+    },
+    {
       "id": "getro:accel:93148666",
       "atsProvider": "getro",
       "company": "Transit",
@@ -338,6 +360,28 @@
       "postedAt": "2026-09-18T13:13:45.000Z",
       "description": "",
       "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:hv-capital:93684162",
+      "atsProvider": "getro",
+      "company": "Quantum-Systems",
+      "title": "Product Owner PLM (m/f/d)",
+      "location": "Gilching, Germany",
+      "url": "https://career.quantum-systems.com/o/product-owner-plm-mfd",
+      "postedAt": "2026-09-19T09:43:14.000Z",
+      "description": "",
+      "roleFamily": "product-owner"
+    },
+    {
+      "id": "getro:seedcamp:93683804",
+      "atsProvider": "getro",
+      "company": "Spill App",
+      "title": "Lead Product Designer",
+      "location": "",
+      "url": "https://spill.notion.site/Lead-Product-Designer-34449f92fc6b80eda194ec5ef825aaef?pvs=25",
+      "postedAt": "2026-09-19T07:29:58.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
     },
     {
       "id": "getro:seedcamp:92888556",
