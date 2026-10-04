@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-03T05:41:15.801Z",
-  "filteredAt": "2026-10-03T05:41:17.124Z",
+  "generatedAt": "2026-10-04T06:17:56.530Z",
+  "filteredAt": "2026-10-04T06:17:57.859Z",
   "funnel": {
-    "raw": 16612,
-    "deduped": 13803,
-    "titleMatched": 483,
-    "recencyPassed": 147,
-    "geoPassed": 74
+    "raw": 16606,
+    "deduped": 13794,
+    "titleMatched": 481,
+    "recencyPassed": 143,
+    "geoPassed": 73
   },
   "jobs": [
     {
@@ -120,15 +120,15 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "lever:deliverect:964659ab-95fd-4ed0-bb7e-2377593b9063",
-      "atsProvider": "lever",
-      "company": "Deliverect",
-      "title": "Senior Product Designer",
-      "location": "Paris",
-      "url": "https://jobs.lever.co/deliverect/964659ab-95fd-4ed0-bb7e-2377593b9063",
-      "postedAt": "2026-09-17T13:04:50.386Z",
-      "description": "At Deliverect, our API-first platform is revolutionizing commerce by providing a connected suite of on and off-premise solutions. We empower both the food and retail industries to expand their revenue and simplify their operations, creating seamless experiences for businesses to sell anywhere and deliver everywhere. Join us in this exciting journey, where your contributions will directly impact how businesses connect with their customers in a rapidly evolving global market.\n\n\nDepartment Focus:\nThe Product Department at Deliverect is at the forefront of the digital ordering revolution, dedicated to consistently delivering groundbreaking solutions to the global marketplace. Our team of passionate and innovative engineers, designers, and product managers architect tools that empower businesses to thrive in the evolving digital landscape, streamlining digital ordering for delivery and on-premise services. We are committed to creating user-friendly, dependable, and scalable technology that simplifies operations and enhances customer experiences, playing an integral role in the success of businesses worldwide. In our department, innovation is not just a concept; it's the driving force behind everything we do.\nYour Impact:\nAs a Senior Product Designer for Kiosk, you will end-to-end own and elevate the guest-facing ordering experience across thousands of global restaurant locations. By combining exceptional interaction craft with strong product sense, you will define the product roadmap, design intuitive interfaces, and directly drive key guest funnel outcomes like completion rates, average ticket size, and ordering speed.\nThis is a contract, hybrid role with a flexible work schedule, offering 3 days in our Paris office and 2 days from the comfort of your home.\n",
-      "roleFamily": "senior-pd"
+      "id": "greenhouse:hellofresh:8167272",
+      "atsProvider": "greenhouse",
+      "company": "HelloFresh",
+      "title": "Senior UX Product Designer, Engagement",
+      "location": "Warszawa, Masovian Voivodeship, Poland",
+      "url": "https://careers.hellofresh.com/global/en/job/8167272?gh_jid=8167272",
+      "postedAt": "2026-09-14T17:24:59-04:00",
+      "description": "&lt;p&gt;Work with HelloFresh in Warsaw and its HelloTech organisation, HelloFresh’s global technology backbone with more than 1000 people, building the digital products that power our end-to-end food experience. From meal kits and ready-to-eat meals to specialty offerings like pet food and premium meat &amp;amp; seafood, HelloTech creates the platforms that bring tailored food solutions to millions of customers every month.&lt;/p&gt;\n&lt;p&gt;Our subscription-based, direct-to-consumer model relies on technology at every step, from customer-facing apps and personalization logic to pricing, forecasting, supply chain optimization, and initiatives that help reduce food waste. While our brands operate independently to serve distinct customer needs, they are united by shared platforms, data, and operational excellence built by HelloTech.&lt;/p&gt;\n&lt;p&gt;HelloTech works in autonomous, cross-functional alliances, each owning a specific product or domain end to end. By working with our Warsaw office, you will help shape scalable, data-driven products used across our markets, working with a modern tech stack and international teams to continuously improve how people discover, order, and enjoy HelloFresh’s products, today and in the future.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;About the role: What&#39;s in the Box&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h1&gt;&lt;strong&gt;Senior UX Product Designer, Engagement&lt;/strong&gt;&lt;/h1&gt;\n&lt;h3&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;&lt;strong&gt;This is a hybrid role to the Warsaw HelloFresh Headquarters&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;/h3&gt;\n&lt;h2&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;HelloFresh is seeking a &lt;strong&gt;Senior Product Designer to join our Engagement team&lt;/strong&gt;, shaping experiences that deepen customers’ relationships with HelloFresh and create more reasons to engage with our products over time.&lt;/p&gt;\n&lt;p&gt;As a Senior-level individual contributor, you’ll lead complex, high-impact challenges across &lt;strong&gt;loyalty, referrals, discovery, cooking experiences, and other engagement initiatives&lt;/strong&gt;. You’ll combine strong product design craft with experimentation, systems thinking, and commercial awareness to create experiences that are useful, rewarding, and capable of building lasting customer habits.&lt;/p&gt;\n&lt;p&gt;This is a strategic and hands-on role. You’ll contribute to the future direction of our engagement experiences while continuously identifying opportunities to improve what exists today. You’ll work in an &lt;strong&gt;AI-native design environment&lt;/strong&gt;, using AI throughout the design lifecycle to accelerate discovery, synthesis, prototyping, and execution — while exploring how emerging technology can create more relevant and personalized customer experiences.&lt;/p&gt;\n&lt;p&gt;At Senior level, we expect you to independently lead ambiguous product challenges, influence product direction, and contribute patterns and practices that make the broader team stronger. You’ll remain deeply involved in the craft, using the quality of your thinking, design, and collaboration to bring others along.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;Lead high-impact UX experiences&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Own the end-to-end design of experiences across &lt;strong&gt;loyalty, rewards, referrals, discovery, cooking, and other engagement mechanics&lt;/strong&gt; that strengthen customers’ relationships with our brands.&lt;/li&gt;\n&lt;li&gt;Design experiences that give customers compelling reasons to return, participate, explore, share, and get more value from HelloFresh over time.&lt;/li&gt;\n&lt;li&gt;Translate complex customer and business problems into experiences that feel simple, motivating, and relevant while driving measurable outcomes such as engagement, retention, lifetime value, and referral-driven acquisition.&lt;/li&gt;\n&lt;li&gt;Think beyond individual features or transactions to understand how repeated interactions can build habits, trust, and long-term customer value.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Help shape product direction&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Partner with Product, Engineering, Data, Research, Marketing, CRM, and Content Design to identify opportunities across the customer lifecycle.&lt;/li&gt;\n&lt;li&gt;Connect customer needs, behavioural insights, commercial goals, and emerging technology to develop strong product directions.&lt;/li&gt;\n&lt;li&gt;Help define how loyalty, referrals, discovery, and other engagement experiences connect into a coherent customer relationship rather than a collection of disconnected features.&lt;/li&gt;\n&lt;li&gt;Move comfortably between contributing to longer-term vision and delivering tactical improvements that generate measurable impact today.&lt;/li&gt;\n&lt;li&gt;Bring a strong design perspective to your product area while remaining open to evidence, experimentation, and the expertise of your partners.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Drive experimentation and validated learning&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Use quantitative and qualitative insights to identify opportunities, develop hypotheses, and design high-impact experiments.&lt;/li&gt;\n&lt;li&gt;Partner closely with Product and Data to understand customer behaviour and translate signals such as participation, frequency, retention, redemption, sharing, and conversion into actionable design opportunities.&lt;/li&gt;\n&lt;li&gt;Explore how different mechanics — from rewards and incentives to personalization and social sharing — influence customer motivation and behaviour.&lt;/li&gt;\n&lt;li&gt;Look beyond the outcome of individual A/B tests to identify patterns and insights that can inform future product and design decisions.&lt;/li&gt;\n&lt;li&gt;Balance short-term commercial impact with the quality and sustainability of the longer-term customer relationship.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Work AI-natively&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Integrate AI into your day-to-day design practice, from exploration, research synthesis, and ideation through rapid prototyping and design-to-code workflows.&lt;/li&gt;\n&lt;li&gt;Use tools such as Claude &amp;amp; Claude Code, Gemini, Figma AI, and emerging technologies to shorten the distance between an idea and something customers can experience and validate.&lt;/li&gt;\n&lt;li&gt;Explore opportunities for &lt;strong&gt;AI-native engagement experiences&lt;/strong&gt;, including personalization, recommendations, adaptive experiences, conversational interactions, and new ways to help customers discover and get value from HelloFresh.&lt;/li&gt;\n&lt;li&gt;Apply strong design judgment to AI-generated outputs, understanding when AI accelerates quality and when human craft, intuition, and critical thinking matter most.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Raise the bar for design craft&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Create polished, intuitive experiences with strong attention to visual hierarchy, interaction design, motion, micro-interactions, content, and overall usability.&lt;/li&gt;\n&lt;li&gt;Bring a high level of craft to experiences that may need to be motivating, rewarding, or expressive without becoming distracting, confusing, or gimmicky.&lt;/li&gt;\n&lt;li&gt;Identify opportunities to improve the quality and coherence of the Engagement experiences you work on.&lt;/li&gt;\n&lt;li&gt;Contribute patterns, practices, and examples that help other designers deliver stronger work.&lt;/li&gt;\n&lt;li&gt;Give and seek thoughtful critique, using feedback to continuously strengthen the work.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Design systems, not just screens&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Think across journeys rather than individual touchpoints, identifying opportunities to create reusable patterns and modular experiences that can scale across &lt;strong&gt;loyalty, referrals, rewards, discovery, brands, markets, and customer segments&lt;/strong&gt;.&lt;/li&gt;\n&lt;li&gt;Consider how engagement mechanics connect across surfaces and moments rather than treating individual features in isolation.&lt;/li&gt;\n&lt;li&gt;Partner with our design system teams while contributing Engagement-specific patterns where needed.&lt;/li&gt;\n&lt;li&gt;Help reduce design debt and fragmentation by creating solutions that make future experimentation faster without sacrificing relevance or quality.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Lead through collaboration&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Bring strong perspectives and clear rationale to complex product decisions.&lt;/li&gt;\n&lt;li&gt;Guide cross-functional partners through ambiguity and trade-offs, advocating for customer-centred solutions while understanding commercial and technical constraints.&lt;/li&gt;\n&lt;li&gt;Work closely with &lt;strong&gt;Marketing and CRM&lt;/strong&gt; to ensure product experiences and customer communications reinforce one another across the lifecycle.&lt;/li&gt;\n&lt;li&gt;Build alignment through clear communication, evidence, and strong design rationale rather than formal authority.&lt;/li&gt;\n&lt;li&gt;Support other designers through critique, collaboration, and sharing new practices and approaches.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;What you’ll bring&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;Senior-level product design experience&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Typically &lt;strong&gt;4–6+ years of product design experience&lt;/strong&gt;, although we care more about the scope, complexity, and impact of your work than years alone.&lt;/li&gt;\n&lt;li&gt;A strong portfolio demonstrating end-to-end ownership of complex consumer experiences, from understanding the problem through shipped outcomes and learning.&lt;/li&gt;\n&lt;li&gt;Experience independently navigating ambiguous problems, making sound design decisions, and influencing product direction within your area.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Engagement and experimentation expertise&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Strong experience designing &lt;strong&gt;B2C consumer products&lt;/strong&gt;, ideally within e-commerce, subscription, marketplace, loyalty, social, content, or other high-frequency digital experiences.&lt;/li&gt;\n&lt;li&gt;You understand how product experiences can influence customer motivation, frequency, habit formation, retention, and advocacy — not just immediate conversion.&lt;/li&gt;\n&lt;li&gt;You understand experimentation deeply and can translate behavioural data, customer insights, and business metrics into meaningful design opportunities.&lt;/li&gt;\n&lt;li&gt;You can balance commercial outcomes with customer value, trust, and the quality of the longer-term relationship.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Exceptional product design craft&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Strong expertise across interaction and visual design, including hierarchy, information architecture, responsive behaviour, motion, and micro-interactions.&lt;/li&gt;\n&lt;li&gt;You can take complex experiences and make them feel simple, and can articulate what separates a functional experience from a great one.&lt;/li&gt;\n&lt;li&gt;You understand how thoughtful interaction and visual design can create moments of delight and motivation without compromising clarity or usability.&lt;/li&gt;\n&lt;li&gt;You care about the details while understanding when speed, learning, and iteration matter more than perfection.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;AI-native design fluency&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;AI is already part of how you work, not something you are waiting to adopt.&lt;/li&gt;\n&lt;li&gt;You regularly use AI across multiple stages of your design process, whether that’s discovery, synthesis, ideation, prototyping, or execution.&lt;/li&gt;\n&lt;li&gt;You’re comfortable experimenting with tools such as Figma AI, Claude, Claude Code, Gemini, or similar emerging technologies.&lt;/li&gt;\n&lt;li&gt;You’re interested not only in using AI to work faster, but in understanding how it changes what we can design for customers.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Systems thinking&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;You naturally look beyond the individual screen or experiment to understand how experiences connect across the customer lifecycle.&lt;/li&gt;\n&lt;li&gt;You have experience creating reusable patterns or modular solutions that can work across journeys, customer contexts, brands, or markets.&lt;/li&gt;\n&lt;li&gt;You can balance the benefits of consistency and reuse with the need to design for the specific customer motivation and context at hand.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Strategic thinking and high agency&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;You’re comfortable navigating ambiguity, challenging assumptions, and proactively identifying opportunities rather than waiting for perfectly defined briefs.&lt;/li&gt;\n&lt;li&gt;You bring conviction to your design decisions while remaining open to evidence, experimentation, and alternative perspectives.&lt;/li&gt;\n&lt;li&gt;You can establish a strong direction for your work and then get hands-on to make it real.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Cross-functional leadership&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;You’re comfortable working beyond traditional design boundaries: shaping product decisions with Product Managers, exploring technical possibilities with Engineers, working with Data to understand behaviour, and partnering with Research, Content Design, Marketing, and CRM to understand and influence the broader customer experience.&lt;/li&gt;\n&lt;li&gt;You know how to build alignment across disciplines and move work forward without relying on formal authority.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Exceptional communication&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;You can turn complex problems into clear, compelling narratives and confidently present your thinking to stakeholders at different levels.&lt;/li&gt;\n&lt;li&gt;You communicate not only &lt;strong&gt;what&lt;/strong&gt; you designed, but the customer insight, hypothesis, trade-offs, and business rationale behind it.&lt;/li&gt;\n&lt;li&gt;You can adapt the depth and format of your communication to the decision that needs to be made.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Above all, we are looking for individuals who will &lt;strong&gt;make HelloFresh better.&lt;/strong&gt; We believe there are many different ways of developing skills and we love diverse experiences! So even if you don’t “tick all the boxes” but think you’d thrive in this role, we would really like to learn more about you.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What we offer: The Toppings&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Global collaboration at scale:&lt;/strong&gt; Collaborate with experienced engineers and product partners across HelloTech’s international teams, in a culture of active knowledge sharing.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Technology with real-world impact:&lt;/strong&gt; Build and operate modern systems at global scale, supporting 6+ millions of customers and complex supply chain operations.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Technical/Product/Design leadership:&lt;/strong&gt; Drive best practices and influence architecture/design, quality, and ways of working in an autonomous, product-led setup.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;End-to-end development/delivery:&lt;/strong&gt; Drive decisions from problem definition to production, improving systems and enabling long-term scalability.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Access to workspace at Warsaw Centre Point.&lt;/strong&gt; The hub offers modern facilities including showers, breakout zones, outdoor space, cycle parking, and refreshments (coffee, soft drinks, and fruit).&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Are you the missing ingredient? If this sounds like a tasty opportunity, we’d be excited to hear from you.&amp;nbsp; We aim to review your profile and respond within 5 business days.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+      "roleFamily": "uiux"
     },
     {
       "id": "ashby:docplanner:37b73df0-6fc5-4bbe-9bfe-69a4e4d6a474",
@@ -186,6 +186,17 @@
       "roleFamily": "lead-pd"
     },
     {
+      "id": "lever:deliverect:964659ab-95fd-4ed0-bb7e-2377593b9063",
+      "atsProvider": "lever",
+      "company": "Deliverect",
+      "title": "Senior Product Designer",
+      "location": "Paris",
+      "url": "https://jobs.lever.co/deliverect/964659ab-95fd-4ed0-bb7e-2377593b9063",
+      "postedAt": "2026-09-17T13:04:50.386Z",
+      "description": "At Deliverect, our API-first platform is revolutionizing commerce by providing a connected suite of on and off-premise solutions. We empower both the food and retail industries to expand their revenue and simplify their operations, creating seamless experiences for businesses to sell anywhere and deliver everywhere. Join us in this exciting journey, where your contributions will directly impact how businesses connect with their customers in a rapidly evolving global market.\n\n\nDepartment Focus:\nThe Product Department at Deliverect is at the forefront of the digital ordering revolution, dedicated to consistently delivering groundbreaking solutions to the global marketplace. Our team of passionate and innovative engineers, designers, and product managers architect tools that empower businesses to thrive in the evolving digital landscape, streamlining digital ordering for delivery and on-premise services. We are committed to creating user-friendly, dependable, and scalable technology that simplifies operations and enhances customer experiences, playing an integral role in the success of businesses worldwide. In our department, innovation is not just a concept; it's the driving force behind everything we do.\nYour Impact:\nAs a Senior Product Designer for Kiosk, you will end-to-end own and elevate the guest-facing ordering experience across thousands of global restaurant locations. By combining exceptional interaction craft with strong product sense, you will define the product roadmap, design intuitive interfaces, and directly drive key guest funnel outcomes like completion rates, average ticket size, and ordering speed.\nThis is a contract, hybrid role with a flexible work schedule, offering 3 days in our Paris office and 2 days from the comfort of your home.\n",
+      "roleFamily": "senior-pd"
+    },
+    {
       "id": "smartrecruiters:freshworks:744000149242464",
       "atsProvider": "smartrecruiters",
       "company": "Freshworks",
@@ -230,17 +241,6 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "smartrecruiters:sportradar:744000151991629",
-      "atsProvider": "smartrecruiters",
-      "company": "Sportradar",
-      "title": "Manager, Product Design (m/f/d)",
-      "location": "Vienna, , Austria",
-      "url": "https://jobs.smartrecruiters.com/sportradar/744000151991629",
-      "postedAt": "2026-09-26T15:00:45.947Z",
-      "description": "",
-      "roleFamily": "uiux"
-    },
-    {
       "id": "greenhouse:scaleai:4735360005",
       "atsProvider": "greenhouse",
       "company": "Scale AI",
@@ -250,6 +250,17 @@
       "postedAt": "2026-09-24T15:27:21-04:00",
       "description": "&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Scale is hiring a Staff/Senior Product Designer to lead product design for Scale’s&amp;nbsp; rapidly growing ‘AI for Enterprise Data’ business unit. The mission of AI for Enterprise Data is to accelerate the deployment of AI by helping large enterprises solve their most ambitious challenges.&amp;nbsp; This role will take on multiple products ranging from 0-1 initiatives to improving established products. This includes a suite of powerful AI tools for insurance AI, document processing, and more.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Responsibilities&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Design end to end user flows, wireframes, high-fidelity mockups, and interactive prototypes for desktop web applications.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Partner with Product Managers, Engineers, Data Scientists, and Operations team members to solve product and business challenges.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Advocate for the voice of the user as the founding designer of the business unit.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Prioritize and execute work in a fast paced environment with rapid timelines and high amounts of scope and ambiguity.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Contribute to the evolution of our company-wide design system and interaction patterns.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Take ownership to identify product gaps and rally support for proposed solutions.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Qualifications&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience leading end-to-end B2B and enterprise web applications.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Extremely high proficiency in Figma, fast execution speed is a must.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience designing&amp;nbsp; dashboards, data visualization, domain-specific editors, and forms.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Understanding of front-end development processes for web interfaces.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong communication and collaboration skills, including customer-facing meetings.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Portfolio of product design projects that highlight your diversity of skills.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Nice-to-haves&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Exposure to artificial intelligence, machine learning, and other technical concepts.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;PLEASE NOTE:&amp;nbsp;&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;Our policy requires a 90-day waiting period before reconsidering candidates for the same role. This allows us to ensure a fair and thorough evaluation of all applicants.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About Us:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;At Scale, our mission is to develop reliable AI systems for the world&#39;s most important decisions. Our products provide the high-quality data and full-stack technologies that power the world&#39;s leading models, and help enterprises and governments build, deploy, and oversee AI applications that deliver real impact. We work closely with industry leaders like Meta, &lt;/em&gt;&lt;em&gt;Ernst&lt;/em&gt;&lt;em&gt; &lt;/em&gt;&lt;em&gt;&amp;amp;&lt;/em&gt;&lt;em&gt; Young, Mayo Clinic, Time Inc., the Government of Qatar, and U.S. government agencies including the Army and Air Force. We are expanding our team to accelerate the development of AI applications.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We believe that everyone should be able to bring their whole selves to work, which is why we are proud to be an inclusive and equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability status, gender identity or Veteran status.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We are committed to working with and providing reasonable accommodations to applicants with physical and mental disabilities. If you need assistance and/or a reasonable accommodation in the application or recruiting process due to a disability, please contact us at accommodations@scale.com. Please see the United States Department of Labor&#39;s &lt;/em&gt;&lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot;&gt;&lt;em&gt;Know Your Rights poster&lt;/em&gt;&lt;/a&gt;&lt;em&gt; for additional information.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We comply with the United States Department of Labor&#39;s &lt;/em&gt;&lt;em&gt;Pay Transparency provision&lt;/em&gt;&lt;em&gt;.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;strong&gt;PLEASE NOTE: &lt;/strong&gt;We collect, retain and use personal data for our professional business purposes, including notifying you of job opportunities that may be of interest and sharing with our affiliates. We limit the personal data we collect to that which we believe is appropriate and necessary to manage applicants’ needs, provide our services, and comply with applicable laws. Any information we collect in connection with your application will be treated in accordance with our internal policies and programs designed to protect personal data. Please see our &lt;a href=&quot;https://scale.com/legal/privacy&quot; target=&quot;_blank&quot;&gt;privacy policy&lt;/a&gt; for additional information.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
       "roleFamily": "lead-pd"
+    },
+    {
+      "id": "smartrecruiters:sportradar:744000151991629",
+      "atsProvider": "smartrecruiters",
+      "company": "Sportradar",
+      "title": "Manager, Product Design (m/f/d)",
+      "location": "Vienna, , Austria",
+      "url": "https://jobs.smartrecruiters.com/sportradar/744000151991629",
+      "postedAt": "2026-09-26T15:00:45.947Z",
+      "description": "",
+      "roleFamily": "uiux"
     },
     {
       "id": "ashby:lendable:207bb4cf-b1ae-4298-bb17-19dbcdcfa20a",
@@ -412,7 +423,7 @@
       "title": "Senior Product Designer CoinGlass",
       "location": "Dubai, United Arab Emirates",
       "url": "https://web3.career/senior-product-designer-coinglass-coinmarketcap/154752",
-      "postedAt": "2026-09-30T05:39:36.432Z",
+      "postedAt": "2026-09-30T06:16:12.004Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -423,7 +434,7 @@
       "title": "Senior Product Designer Securities",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-securities-bitpanda/151678",
-      "postedAt": "2026-09-30T05:39:36.432Z",
+      "postedAt": "2026-09-30T06:16:12.006Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -494,17 +505,6 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "getro:accel:93772167",
-      "atsProvider": "getro",
-      "company": "Nuvemshop",
-      "title": "Senior Product Designer",
-      "location": "Remote",
-      "url": "https://nuvemshop-tiendanube.inhire.app/vagas/cb883023-178a-4882-8812-5bb9408a095a/senior-product-designer",
-      "postedAt": "2026-09-19T13:27:20.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
-    },
-    {
       "id": "getro:accel:93600265",
       "atsProvider": "getro",
       "company": "Headway",
@@ -527,26 +527,15 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "getro:accel:93066086",
+      "id": "getro:accel:95679220",
       "atsProvider": "getro",
-      "company": "Rapido",
-      "title": "Senior Product Designer",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-rapido-4464865223",
-      "postedAt": "2026-09-12T15:18:28.000Z",
+      "company": "Airkit",
+      "title": "Employee Success Product Owner",
+      "location": "Dublin, Ireland",
+      "url": "https://www.salesforce.com/company/careers/jobs/JR362522/employee-success-product-owner/",
+      "postedAt": "2026-10-03T11:44:19.000Z",
       "description": "",
-      "roleFamily": "senior-pd"
-    },
-    {
-      "id": "getro:accel:93058985",
-      "atsProvider": "getro",
-      "company": "Truemeds India",
-      "title": "Product Designer 2",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/product-designer-2-at-truemeds-4463973910",
-      "postedAt": "2026-09-12T14:26:15.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
+      "roleFamily": "product-owner"
     },
     {
       "id": "getro:accel:93148666",
