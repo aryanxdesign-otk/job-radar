@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-08T06:35:05.285Z",
-  "filteredAt": "2026-10-08T06:35:06.688Z",
+  "generatedAt": "2026-10-09T06:35:59.760Z",
+  "filteredAt": "2026-10-09T06:36:01.084Z",
   "funnel": {
-    "raw": 16836,
-    "deduped": 13964,
-    "titleMatched": 484,
-    "recencyPassed": 134,
-    "geoPassed": 68
+    "raw": 16986,
+    "deduped": 14120,
+    "titleMatched": 487,
+    "recencyPassed": 140,
+    "geoPassed": 71
   },
   "jobs": [
     {
@@ -131,14 +131,14 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "lever:deliverect:964659ab-95fd-4ed0-bb7e-2377593b9063",
-      "atsProvider": "lever",
-      "company": "Deliverect",
-      "title": "Senior Product Designer",
-      "location": "Paris",
-      "url": "https://jobs.lever.co/deliverect/964659ab-95fd-4ed0-bb7e-2377593b9063",
-      "postedAt": "2026-09-17T13:04:50.386Z",
-      "description": "At Deliverect, our API-first platform is revolutionizing commerce by providing a connected suite of on and off-premise solutions. We empower both the food and retail industries to expand their revenue and simplify their operations, creating seamless experiences for businesses to sell anywhere and deliver everywhere. Join us in this exciting journey, where your contributions will directly impact how businesses connect with their customers in a rapidly evolving global market.\n\n\nDepartment Focus:\nThe Product Department at Deliverect is at the forefront of the digital ordering revolution, dedicated to consistently delivering groundbreaking solutions to the global marketplace. Our team of passionate and innovative engineers, designers, and product managers architect tools that empower businesses to thrive in the evolving digital landscape, streamlining digital ordering for delivery and on-premise services. We are committed to creating user-friendly, dependable, and scalable technology that simplifies operations and enhances customer experiences, playing an integral role in the success of businesses worldwide. In our department, innovation is not just a concept; it's the driving force behind everything we do.\nYour Impact:\nAs a Senior Product Designer for Kiosk, you will end-to-end own and elevate the guest-facing ordering experience across thousands of global restaurant locations. By combining exceptional interaction craft with strong product sense, you will define the product roadmap, design intuitive interfaces, and directly drive key guest funnel outcomes like completion rates, average ticket size, and ordering speed.\nThis is a contract, hybrid role with a flexible work schedule, offering 3 days in our Paris office and 2 days from the comfort of your home.\n",
+      "id": "greenhouse:hellofresh:8259030",
+      "atsProvider": "greenhouse",
+      "company": "HelloFresh",
+      "title": "Senior Product Designer, Growth & Consumer UX (f/m/x)",
+      "location": "Berlin, Berlin, Germany; Toronto, Ontario, Canada; Warszawa, Masovian Voivodeship, Poland",
+      "url": "https://careers.hellofresh.com/global/en/job/8259030?gh_jid=8259030",
+      "postedAt": "2026-10-08T10:02:34-04:00",
+      "description": "&lt;h2&gt;&lt;strong&gt;&lt;strong&gt;About HelloFresh&lt;/strong&gt;&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;At HelloFresh, our mission is simple: to change the way people eat, forever. We are a global digital-native FMCG company and the world&#39;s leading meal kit provider. The HelloFresh Group includes eight brands serving customers across multiple meal occasions: HelloFresh, Green Chef, EveryPlate, Chefs Plate, Factor, YouFoodz, Good Chop, and The Pets Table. Through technology, data, and culinary innovation, we deliver personalized food experiences to millions of households worldwide.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;About the role: What&#39;s in the Box&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We&#39;re looking for a Senior Product Designer to join our global Consumer Experience team, working in either &lt;strong&gt;Growth or Consumer&lt;/strong&gt;. This is a senior, hands-on individual contributor role in an AI-native design environment. You&#39;ll own a problem space, influence what we build and why, and raise the standard of the designers around you.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Your focus area is confirmed during the process:&lt;/em&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Growth:&lt;/strong&gt; acquisition, conversion, checkout, payment, reactivation, and new purchase models.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Consumer:&lt;/strong&gt; onboarding, subscription management, loyalty and rewards, referrals, discovery, cooking, and engagement.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;At HelloTech, flexibility and cross-functional collaboration are core to how we work. While this role is aligned to a specific Alliance, strong candidates may also be considered for opportunities across different teams or projects.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What you’ll do: The Recipe&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Own critical customer journeys end to end, from problem framing to a shipped, measured outcome.&lt;/li&gt;\n&lt;li&gt;Turn complex customer and business problems into simple experiences that communicate value clearly, reduce friction and build trust.&lt;/li&gt;\n&lt;li&gt;Partner with Product, Engineering, Data, Marketing, CRM, and other UX practitioners to shape product direction, balancing near-term impact with long-term customer trust and value.&lt;/li&gt;\n&lt;li&gt;Build reusable patterns that hold across meal kits and ready-to-heat.&lt;/li&gt;\n&lt;li&gt;Use AI throughout your practice, from synthesis and discovery to rapid prototyping and design-to-code, with tools such as Claude, Claude Code, Gemini, and Figma Make, and explore AI-native customer experiences.&lt;/li&gt;\n&lt;li&gt;Build alignment through evidence and clear rationale and raise the bar on your squad through critique and shared practice.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;What you’ll bring: The Ingredients&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Typically &lt;strong&gt;4–6+ years&lt;/strong&gt; of product design experience, though we care more about the scope, complexity, and impact of your work than years alone.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;End-to-end ownership&lt;/strong&gt; of complex experiences, ideally in e-commerce, subscription, marketplace, or loyalty, with outcomes: what moved, by how much, and what you did when a result came back wrong.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Exceptional interface craft:&lt;/strong&gt; interaction and visual design, information architecture, motion, and micro-interactions. Your portfolio shows judgment (what you decided and why), not just polish.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Experimentation fluency:&lt;/strong&gt; you turn data and customer insight into design bets without trading away trust and customer value.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;AI in your daily workflow.&lt;/strong&gt; You give it the context and intent it needs, and you audit what comes back. Curiosity and appetite for working in code and AI-native tools.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Ownership:&lt;/strong&gt; when the copy is wrong you fix it, and nothing falls between job descriptions.&lt;/li&gt;\n&lt;li&gt;Comfort with &lt;strong&gt;ambiguity&lt;/strong&gt; and &lt;strong&gt;clear communication&lt;/strong&gt; across Product, Engineering, Data, and your fellow UX practitioners.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Don&#39;t meet every requirement? Apply anyway.&lt;/strong&gt; If you meet most of these requirements and are excited about the role, we&#39;d love to hear from you.&amp;nbsp;Above all, we want people who will make HelloFresh better.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What we offer: The Toppings&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;strong&gt;Local benefits and perks apply.&amp;nbsp;&lt;br&gt;Berlin:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Diverse community of 90+ nationalities&lt;/li&gt;\n&lt;li&gt;Competitive pay, including a company-subsidized pension scheme, relocation support, and hybrid working&lt;/li&gt;\n&lt;li&gt;Discounts on the weekly HelloFresh box and office meals&lt;/li&gt;\n&lt;li&gt;Growth: German language budget and access to HelloFresh Academy&lt;/li&gt;\n&lt;li&gt;Social events, company days, and ERGs&lt;/li&gt;\n&lt;li&gt;Wellbeing: mental health support (Headspace, Spill), 24/7 gym access, transport perks, working-parent-friendly benefits, and sabbatical options, dog-friendly office&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Warsaw:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Collaboration with experienced engineers and product partners across international teams&lt;/li&gt;\n&lt;li&gt;High-impact work: systems at global scale serving 6M+ customers and complex supply chains&lt;/li&gt;\n&lt;li&gt;Leadership opportunities in an autonomous, product-led setup, with influence over architecture, design, and ways of working&lt;/li&gt;\n&lt;li&gt;End-to-end ownership, from problem definition to production&lt;/li&gt;\n&lt;li&gt;Modern hub at Warsaw Centre Point with showers, breakout zones, outdoor space, cycle parking, and refreshments&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Toronto:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Meal kit discounts: 75% off HelloFresh and Chefs Plate, 50% off Factor, one box per week&lt;/li&gt;\n&lt;li&gt;Health and dental from day 1, a Health Spending Account, Headspace, and 25% off GoodLife memberships&lt;/li&gt;\n&lt;li&gt;RRSP matching&lt;/li&gt;\n&lt;li&gt;Generous vacation/PTO&lt;/li&gt;\n&lt;li&gt;Parental leave top-up&lt;/li&gt;\n&lt;li&gt;Learning and development support from a dedicated L&amp;amp;D team&lt;/li&gt;\n&lt;li&gt;Social events, company days, and ERGs (FreshPride, Women Empowered, LIMES)&lt;/li&gt;\n&lt;li&gt;Food puns (including punny meeting room names)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Are you the missing ingredient? If this sounds like a tasty opportunity, we’d be excited to hear from you.&amp;nbsp; We aim to review your profile and respond within 5 business days.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;Toronto, ON Pay Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$98,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$108,000 CAD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
       "roleFamily": "senior-pd"
     },
     {
@@ -162,17 +162,6 @@
       "postedAt": "2026-09-21T11:30:59.571+00:00",
       "description": "AT SAILY, WE’RE REMOVING THE HASSLE OF STAYING CONNECTED WHILE TRAVELING — NO ROAMING FEES, NO PLASTIC SIM CARDS, JUST LIGHTNING-FAST, SECURE MOBILE DATA IN 200+ DESTINATIONS. SAILY HAS MILLIONS OF PAYING CUSTOMERS AND HUNDREDS OF THOUSANDS TRAVELERS BROWSING THROUGH SAILY AT ANY GIVEN MOMENT.\n\nTo build the best product for our customers we foster AI-native Product Engineering culture, where:\n\n- The Engineer is the builder, who is responsible for solving customer problems end-to-end (idea to production)\n- AI Agents are the enablers who write most of the code and solve repeatable tasks to help the Engineers maximize their impact\n- Everyone contributes to making Saily effective by suggesting new areas for improvement to delegate to agents and then implementing the changes\n- Curiosity, learning and sharing are everyone's responsibility\n- Customer, having a comfortable, connected, hassle-free journey is never lost from the focus\n\nWe value growth over comfort, contribution over hierarchy, and impact over process. At Saily, we believe in giving sharp people context, autonomy, and AI as their multiplier to allow them to just do their best work.\n\n\n\nMAIN RESPONSIBILITIES\n\n - Design features on Saily's mobile app.\n\n - Uncover user experience issues and validate solutions by carrying out user interviews\n\n - Cooperate with CEO, Product Owners, Engineers, Copywriters, and other colleagues\n\n - Elevate the team across all product life-cycle stages by providing user-centric insights, mapping out the flows, framing problems, and designing user interactions\n\n - Make clear and intuitive prototypes out of broad and complex ideas\n\n - Iterate on design solutions based on user testing, business, and technical considerations\n\n\nCORE REQUIREMENTS\n\n - Experience with user interface design & interaction design\n\n - Experience working with mobile app design\n\n - Excellent knowledge of user-centred design best practices and proven ability to apply them\n\n - Understanding of native app design systems\n\n - Knowledge on haptics, microanimations, etc\n\n - Ability to create lo-fi and hi-fi prototypes and present them in clear and well-reasoned ways\n\n - Proficiency in working with design and prototyping tools (Figma)\n\n - Strong problem-solving and data-backed decision-making skills\n\n - Strong ownership mindset and analytical thinking\n\n - Evidence of experience in shipping product design solutions\n\n \n\n\n\n\n\nWHAT WE OFFER\n\n - Sharpen your edge: training, mentorship, and room to grow — always.\n   \n   \n\n - Take the time you need: extra vacation days, sick days, and time off when life calls.\n   \n   \n\n - Get premium healthcare: private health insurance in Lithuania and Poland — fully covered.\n   \n   \n\n - Protect your peace: enjoy free subscriptions to Calm, Headspace, and Mindletic, and our own resilience and mindfulness trainings.\n   \n   \n\n - Own your fitness: in-house gyms, sport cards, online workouts, and personal guidance — on us.\n   \n   \n\n - Pack your bags for workation: experience our company-wide trip abroad to the fullest.\n   \n   \n\n - Work from anywhere: work from wherever keeps you in the zone.\n   \n   \n\n - Celebrate your milestones: birthdays, weddings, and new family members — all deserve a gift.\n   \n   \n\n - Parent with ease: children’s summer camps and flexibility around the schedule — because parenting never pauses.\n   \n   \n\n - Join the party: team building and company events people talk about for months.\n   \n   \n\n - Unlock Cyber City: coffee bar, open gyms, kids’ room, music room, massage chairs — our Vilnius HQ is yours to enjoy.\n\n\n\n\n\nKindly refer to our Privacy Notice for Recruitment Candidates https://drive.google.com/file/d/1b2tV684_SYV1jQ4kuf91cnzrRBk3ef-5/view for comprehensive information regarding our data handling procedures throughout recruitment processes.\n\nWe expect all candidates to provide accurate and complete information during the recruitment process. While limited use of AI tools to refine application materials is acceptable, candidates remain fully responsible for ensuring that their submissions reflect their own qualifications, skills, and experience. Any failure to do so may negatively affect participation in the recruitment process. If broader AI assistance is allowed for a particular role or stage, we’ll let you know in advance.\n\nBy submitting your application, you acknowledge that it may be processed using automated tools for evaluation purposes. As part of our recruitment process, we may use an AI-based application review tool to help assess applications based on skills and experience relevant to the role. This technology is used to support - not replace - human decision-making, and every application is ultimately reviewed by a recruiter.\n\nIf you would like more information about how AI is used in this process or wish to exercise your rights under applicable data privacy laws, please contact us at privacy@nordaccount.com. Should you prefer to opt out of the automated evaluation, please submit your application directly to career@nordsec.com.",
       "roleFamily": "uiux"
-    },
-    {
-      "id": "ashby:nord-security:c3ab4dee-6882-4b4b-896a-c558644f7f1a",
-      "atsProvider": "ashby",
-      "company": "Nord Security",
-      "title": "Product Owner | Mid-Senior | Quality of Service | NordVPN",
-      "location": "Vilnius",
-      "url": "https://jobs.ashbyhq.com/nord-security/c3ab4dee-6882-4b4b-896a-c558644f7f1a",
-      "postedAt": "2026-09-17T12:25:55.284+00:00",
-      "description": "THE WORLD’S MOST ADVANCED VPN, AND A WHOLE LOT MORE.\n\nIf you’re a curious problem-solver who carves their own path, join the team behind Threat Protection Pro, the NordLynx protocol, and the fastest VPN on the planet—tools that put privacy, security, and control back in people’s hands.\n\nYour impact? Helping millions take back control of their online security, privacy, and data.\n\n\n\n\nMAIN RESPONSIBILITIES\n\n - Full ownership of feedback sources for product quality issues; \n\n - Roadmap for detection and prevention improvements;\n\n - Prioritization of issues for resolution;\n\n - Collaboration with product owners, engineers, and other stakeholders, identification of blockers, management of dependencies and resources;\n\n - Monitoring and continuous iteration on detection performance;\n\n - Reporting results and status to upper management and other stakeholders;\n\n - Align objectives, expectations, and timeframes among developers, designers, product, and business stakeholders;\n\n - Embrace transparency and communication.\n\n \n\n\nCORE REQUIREMENTS\n\n - Proven experience working as a product owner, IT project manager, or Product manager;\n\n - Proven experience in working with development teams;\n\n - Proven experience in identifying deliverable dependencies, roadblocks, or challenges;\n\n - Strong technical understanding of how software is built, deployed, and maintained;\n\n - Excellent interpersonal and communication skills;\n\n - Solid organizational skills, including attention to detail and multitasking skills;\n\n - Leadership, Risk Management, Critical Thinking, Analytical Skills.\n   \n   \n\n \n\n\nWHAT WE OFFER\n\n - Sharpen your edge: training, mentorship, and room to grow — always.\n   \n   \n\n - Take the time you need: extra vacation days, sick days, and time off when life calls.\n   \n   \n\n - Get premium healthcare: private health insurance in Lithuania and Poland — fully covered.\n   \n   \n\n - Protect your peace: enjoy free subscriptions to Calm, Headspace, and Mindletic, and our own resilience and mindfulness trainings.\n   \n   \n\n - Own your fitness: in-house gyms, sport cards, online workouts, and personal guidance — on us.\n   \n   \n\n - Pack your bags for workation: experience our company-wide trip abroad to the fullest.\n   \n   \n\n - Work from anywhere: work from wherever keeps you in the zone.\n   \n   \n\n - Celebrate your milestones: birthdays, weddings, and new family members — all deserve a gift.\n   \n   \n\n - Parent with ease: children’s summer camps and flexibility around the schedule — because parenting never pauses.\n   \n   \n\n - Join the party: team building and company events people talk about for months.\n   \n   \n\n - Unlock Cyber City: coffee bar, open gyms, kids’ room, music room, massage chairs — our Vilnius HQ is yours to enjoy.\n\n\n\n\n\nKindly refer to our Privacy Notice for Recruitment Candidates https://drive.google.com/file/d/1b2tV684_SYV1jQ4kuf91cnzrRBk3ef-5/view for comprehensive information regarding our data handling procedures throughout recruitment processes.\n\nWe expect all candidates to provide accurate and complete information during the recruitment process. While limited use of AI tools to refine application materials is acceptable, candidates remain fully responsible for ensuring that their submissions reflect their own qualifications, skills, and experience. Any failure to do so may negatively affect participation in the recruitment process. If broader AI assistance is allowed for a particular role or stage, we’ll let you know in advance.\n\nBy submitting your application, you acknowledge that it may be processed using automated tools for evaluation purposes. As part of our recruitment process, we may use an AI-based application review tool to help assess applications based on skills and experience relevant to the role. This technology is used to support - not replace - human decision-making, and every application is ultimately reviewed by a recruiter.\n\nIf you would like more information about how AI is used in this process or wish to exercise your rights under applicable data privacy laws, please contact us at privacy@nordaccount.com. Should you prefer to opt out of the automated evaluation, please submit your application directly to career@nordsec.com.",
-      "roleFamily": "product-owner"
     },
     {
       "id": "ashby:nord-security:2fdc1df5-fa4e-4214-a144-a866c906e6e7",
@@ -329,24 +318,13 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "remotejobsplace:3ed46cc2",
-      "atsProvider": "remotejobsplace",
-      "company": "N8n",
-      "title": "Product Design Manager",
-      "location": "europe",
-      "url": "https://jobs.ashbyhq.com/n8n/10ad6075-8917-4812-af67-d83e25ac1031?workplaceType=Remote",
-      "postedAt": "2026-10-02T15:43:05.956377+00:00",
-      "description": "Join N8n as a Product Design Manager. This Full time position in Product Design • Germany • Full time • Remote offers an exciting opportunity to work with a leading company in the industry. As part of the Product Design department.",
-      "roleFamily": "uiux"
-    },
-    {
       "id": "web3career:151678",
       "atsProvider": "web3career",
       "company": "Bitpanda",
       "title": "Senior Product Designer Securities",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-securities-bitpanda/151678",
-      "postedAt": "2026-10-07T06:33:22.410Z",
+      "postedAt": "2026-10-07T06:34:12.959Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -357,9 +335,31 @@
       "title": "Senior Product Designer CoinGlass",
       "location": "Dubai, United Arab Emirates",
       "url": "https://web3.career/senior-product-designer-coinglass-coinmarketcap/154752",
-      "postedAt": "2026-09-30T06:33:22.411Z",
+      "postedAt": "2026-09-30T06:34:12.959Z",
       "description": "",
       "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:point-nine:96301791",
+      "atsProvider": "getro",
+      "company": "Factorial HR",
+      "title": "Senior/Staff Product Designer",
+      "location": "Barcelona, Spain",
+      "url": "https://careers.factorial.com/job_posting/senior-staff-product-designer-271104",
+      "postedAt": "2026-10-08T12:42:16.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:point-nine:96301681",
+      "atsProvider": "getro",
+      "company": "Factorial HR",
+      "title": "Founding Product Designer",
+      "location": "Barcelona, Spain",
+      "url": "https://careers.factorial.com/job_posting/founding-product-designer-319459",
+      "postedAt": "2026-10-08T12:42:07.000Z",
+      "description": "",
+      "roleFamily": "uiux"
     },
     {
       "id": "getro:point-nine:95926248",
@@ -371,6 +371,17 @@
       "postedAt": "2026-10-06T11:16:22.000Z",
       "description": "",
       "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:point-nine:96301784",
+      "atsProvider": "getro",
+      "company": "Factorial HR",
+      "title": "Senior Director of Product Design",
+      "location": "Barcelona, Spain",
+      "url": "https://careers.factorial.com/job_posting/senior-director-of-product-design-273989",
+      "postedAt": "2026-10-08T12:42:15.000Z",
+      "description": "",
+      "roleFamily": "uiux"
     },
     {
       "id": "getro:accel:95468966",
@@ -450,12 +461,12 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "getro:accel:95858029",
+      "id": "getro:accel:95858027",
       "atsProvider": "getro",
       "company": "Causal",
       "title": "Senior Salesforce Product Owner",
-      "location": "Germany",
-      "url": "https://boards.greenhouse.io/lucanetgroup/jobs/4987517101",
+      "location": "Spain",
+      "url": "https://boards.greenhouse.io/lucanetgroup/jobs/4997113101",
       "postedAt": "2026-10-05T12:47:38.000Z",
       "description": "",
       "roleFamily": "product-owner"
@@ -501,6 +512,17 @@
       "location": "Munich, Germany",
       "url": "https://jobs.smartrecruiters.com/ScalableGmbH/744000151003669",
       "postedAt": "2026-09-22T13:32:52.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:hv-capital:95682037",
+      "atsProvider": "getro",
+      "company": "n8n",
+      "title": "Product Design Manager",
+      "location": "Germany",
+      "url": "https://jobs.ashbyhq.com/n8n/10ad6075-8917-4812-af67-d83e25ac1031",
+      "postedAt": "2026-10-03T11:50:20.000Z",
       "description": "",
       "roleFamily": "uiux"
     },
@@ -659,15 +681,37 @@
       "roleFamily": "product-owner"
     },
     {
-      "id": "getro:insight-partners:93434612",
+      "id": "getro:general-catalyst:96268940",
       "atsProvider": "getro",
-      "company": "Pasito",
-      "title": "Technical Product Owner",
-      "location": "",
-      "url": "https://www.ycombinator.com/companies/pasito/jobs/ckQBGYP-technical-product-owner",
-      "postedAt": "2026-09-17T11:09:31.000Z",
+      "company": "Geordie AI",
+      "title": "Product Designer",
+      "location": "Remote, United Kingdom, London, UK",
+      "url": "https://jobs.ashbyhq.com/geordieai/58545327-4933-4e77-9451-4b591d310d8d",
+      "postedAt": "2026-10-08T11:38:52.000Z",
       "description": "",
-      "roleFamily": "product-owner"
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:general-catalyst:96268764",
+      "atsProvider": "getro",
+      "company": "Factorial",
+      "title": "Senior/Staff Product Designer",
+      "location": "Barcelona, Spain",
+      "url": "https://careers.factorial.com/job_posting/senior-staff-product-designer-271104",
+      "postedAt": "2026-10-08T11:38:32.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:general-catalyst:96268646",
+      "atsProvider": "getro",
+      "company": "Factorial",
+      "title": "Founding Product Designer",
+      "location": "Barcelona, Spain",
+      "url": "https://careers.factorial.com/job_posting/founding-product-designer-319459",
+      "postedAt": "2026-10-08T11:38:25.000Z",
+      "description": "",
+      "roleFamily": "uiux"
     },
     {
       "id": "getro:general-catalyst:96187195",
@@ -679,17 +723,6 @@
       "postedAt": "2026-10-07T14:08:10.000Z",
       "description": "",
       "roleFamily": "senior-pd"
-    },
-    {
-      "id": "getro:general-catalyst:95343434",
-      "atsProvider": "getro",
-      "company": "Bolna",
-      "title": "Product Designer",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://jobs.ashbyhq.com/bolna/99bbc760-d1ae-473c-b697-f3baeee622f3",
-      "postedAt": "2026-09-30T14:43:34.000Z",
-      "description": "",
-      "roleFamily": "uiux"
     },
     {
       "id": "getro:general-catalyst:95075856",
