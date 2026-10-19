@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-18T05:02:31.114Z",
-  "filteredAt": "2026-10-18T05:02:32.577Z",
+  "generatedAt": "2026-10-19T05:11:10.219Z",
+  "filteredAt": "2026-10-19T05:11:11.398Z",
   "funnel": {
-    "raw": 16639,
-    "deduped": 13817,
-    "titleMatched": 435,
-    "recencyPassed": 162,
-    "geoPassed": 107
+    "raw": 16636,
+    "deduped": 13818,
+    "titleMatched": 437,
+    "recencyPassed": 164,
+    "geoPassed": 109
   },
   "jobs": [
     {
@@ -186,6 +186,17 @@
       "roleFamily": "senior-pd"
     },
     {
+      "id": "ashby:zilch:57a156a7-bd35-4962-aa0e-417513741bae",
+      "atsProvider": "ashby",
+      "company": "Zilch",
+      "title": "Senior Product Designer ",
+      "location": "Zilch UK",
+      "url": "https://jobs.ashbyhq.com/zilch/57a156a7-bd35-4962-aa0e-417513741bae",
+      "postedAt": "2026-09-30T08:53:57.426+00:00",
+      "description": "Who we are:\n\nWe're one of Europe's fastest-growing fintech companies – on a mission to create the world's most empowering way to pay.\n\nWe launched the product in 2020 and achieved double unicorn status, valued at $2 billion, and since then have taken on more than 6 million customers.\n\n \n\nOur mission is to become the best way to pay for anything, anywhere and say goodbye to credit costs for everyone. This is huge. Want to join us?\n\nAbout the role.\n\n\n\nAs a Senior Product Designer at Zilch, you will be accountable for every feature you design - from the very first sketch through to implementation, you'll guide all stages of the design process and ensure they are of the highest quality. You'll work closely with cross-functional teams, including Product Managers, Engineers, and other Designers, to deliver exceptional user experiences that align with our vision and goals. You’ll not only do world class design work, but also help the rest of the team do great design work too.\n\n\n\nDay-to-day responsibilities.\n\n\n\n - Take responsibility for the full design process from collaborative research, conception, testing, full journey specs and developer collaboration, through to UX measurement of the launched product.\n\n - Coach and mentor your fellow designers, leading critique sessions to help develop a consistently strong holistic experience.\n\n - Nurture consistency across different pieces of design work and strengthen the bar we set for the quality of our collective output.\n\n - Design customer journeys, create prototypes, user test and measure the success of potential product launches.\n\n - Help define and deliver products that are enjoyable to use with a high level of craft and attention to detail.\n\n - Work collaboratively to manage and improve our scalable design system that meets product and business goals.\n\n - Carry out user research through a range of qualitative and quantitative methods to understand the user experience.\n\n - Identify key success metrics of the products you’re on and measure their success from a customer and business perspective.\n\n - You’ll work closely with our Head of Product Design and Product Managers to align on goals, priorities, direction, and feedback.\n\n - Document pattern libraries and style guides, updating as we evolve.\n\n - Review the performance of the release, identify learnings, and suggest ways to shape the future product.\n\n\n\nWhat we’re looking for...\n\n\n\n - Demonstrated experience working in a cross functional team, designing consumer facing products.\n\n - You enjoy thinking through complex product challenges and care about solving the right problem.\n\n - You have a well-trained eye for exceptional visual design/UI execution. You care about getting things right - one pixel off is a big deal.\n\n - Think strategically about product and design at every level, communicating decisions with clarity and confidence and producing work built to last\n\n - Are well versed at working with disciplines in your work to achieve the best outcome, such as user research, content, and engineering.\n\n - Are a fantastic storyteller, communicating your thinking and design decisions in a way that brings stakeholders along on the journey with you\n\n - Experience using and helping to maintain a design system.\n\n - Proven experience advocating for users and applying learnings from research into your design.\n\n - Ability to analyse product experiments.\n\n - Be an advocate for design, with an understanding and ability to articulate how it helps reach business goals.\n\n - You are someone that likes to experiment with new ways of working and AI tools to optimise your design process.\n\nBenefits.\nCompensation & Savings:\n\n - Pension scheme.\n\n - Death in Service scheme.\n\n - Income Protection.\n\n - Permanent employees enjoy access to our Share Options Scheme.\n\n - 5% back on in-app purchases.\n\n - £200 for WFH Setup.\n\nHealth & Wellbeing:\n\n - Private Medical Insurance including;\n\n - GP consultations (video, telephone or face-to-face).\n\n - Prescribed medication.\n\n - In-patient, day-patient and out-patient care.\n\n - Mental health support.\n\n - Optical, dental & audiological cover.\n\n - Physiotherapy.\n\n - Advanced cancer cover.\n\n - Menopause support.\n\n - Employee Assistance Programme including:\n   \n   - Unlimited mental health sessions.\n   \n   - 24/7 remote GP & physiotherapy.\n   \n   - 24/7 helpline for emotional & practical support.\n\n - Savings & discounts on everyday shopping.\n\n - 1:1 personalised well-being consultations.\n\n - Gym membership discounts.\n\nFamily Friendly Policies:\n\n - Enhanced maternity pay.\n\n - Enhanced paternity pay.\n\n - Enhanced adoption pay.\n\n - Enhanced shared parental leave.\n\nLearning & Development:\n\n - Professional Qualifications.\n\n - Professional Memberships.\n\n - Learning Suite for e-courses.\n\n - Internal Training Programmes.\n\n - FCA & Regulatory training.\n\nWorkplace Perks:\n\n - Hybrid working: office-based Monday, Wednesday, and Thursday; remote working Tuesday and Friday\n\n - Casual dress code.\n\n - Workplace socials.\n\n - Healthy snacks.\n\n",
+      "roleFamily": "senior-pd"
+    },
+    {
       "id": "greenhouse:coupang:8175803",
       "atsProvider": "greenhouse",
       "company": "Coupang",
@@ -230,17 +241,6 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "ashby:zilch:57a156a7-bd35-4962-aa0e-417513741bae",
-      "atsProvider": "ashby",
-      "company": "Zilch",
-      "title": "Senior Product Designer ",
-      "location": "Zilch UK",
-      "url": "https://jobs.ashbyhq.com/zilch/57a156a7-bd35-4962-aa0e-417513741bae",
-      "postedAt": "2026-09-30T08:53:57.426+00:00",
-      "description": "Who we are:\n\nWe're one of Europe's fastest-growing fintech companies – on a mission to create the world's most empowering way to pay.\n\nWe launched the product in 2020 and achieved double unicorn status, valued at $2 billion, and since then have taken on more than 6 million customers.\n\n \n\nOur mission is to become the best way to pay for anything, anywhere and say goodbye to credit costs for everyone. This is huge. Want to join us?\n\nAbout the role.\n\n\n\nAs a Senior Product Designer at Zilch, you will be accountable for every feature you design - from the very first sketch through to implementation, you'll guide all stages of the design process and ensure they are of the highest quality. You'll work closely with cross-functional teams, including Product Managers, Engineers, and other Designers, to deliver exceptional user experiences that align with our vision and goals. You’ll not only do world class design work, but also help the rest of the team do great design work too.\n\n\n\nDay-to-day responsibilities.\n\n\n\n - Take responsibility for the full design process from collaborative research, conception, testing, full journey specs and developer collaboration, through to UX measurement of the launched product.\n\n - Coach and mentor your fellow designers, leading critique sessions to help develop a consistently strong holistic experience.\n\n - Nurture consistency across different pieces of design work and strengthen the bar we set for the quality of our collective output.\n\n - Design customer journeys, create prototypes, user test and measure the success of potential product launches.\n\n - Help define and deliver products that are enjoyable to use with a high level of craft and attention to detail.\n\n - Work collaboratively to manage and improve our scalable design system that meets product and business goals.\n\n - Carry out user research through a range of qualitative and quantitative methods to understand the user experience.\n\n - Identify key success metrics of the products you’re on and measure their success from a customer and business perspective.\n\n - You’ll work closely with our Head of Product Design and Product Managers to align on goals, priorities, direction, and feedback.\n\n - Document pattern libraries and style guides, updating as we evolve.\n\n - Review the performance of the release, identify learnings, and suggest ways to shape the future product.\n\n\n\nWhat we’re looking for...\n\n\n\n - Demonstrated experience working in a cross functional team, designing consumer facing products.\n\n - You enjoy thinking through complex product challenges and care about solving the right problem.\n\n - You have a well-trained eye for exceptional visual design/UI execution. You care about getting things right - one pixel off is a big deal.\n\n - Think strategically about product and design at every level, communicating decisions with clarity and confidence and producing work built to last\n\n - Are well versed at working with disciplines in your work to achieve the best outcome, such as user research, content, and engineering.\n\n - Are a fantastic storyteller, communicating your thinking and design decisions in a way that brings stakeholders along on the journey with you\n\n - Experience using and helping to maintain a design system.\n\n - Proven experience advocating for users and applying learnings from research into your design.\n\n - Ability to analyse product experiments.\n\n - Be an advocate for design, with an understanding and ability to articulate how it helps reach business goals.\n\n - You are someone that likes to experiment with new ways of working and AI tools to optimise your design process.\n\nBenefits.\nCompensation & Savings:\n\n - Pension scheme.\n\n - Death in Service scheme.\n\n - Income Protection.\n\n - Permanent employees enjoy access to our Share Options Scheme.\n\n - 5% back on in-app purchases.\n\n - £200 for WFH Setup.\n\nHealth & Wellbeing:\n\n - Private Medical Insurance including;\n\n - GP consultations (video, telephone or face-to-face).\n\n - Prescribed medication.\n\n - In-patient, day-patient and out-patient care.\n\n - Mental health support.\n\n - Optical, dental & audiological cover.\n\n - Physiotherapy.\n\n - Advanced cancer cover.\n\n - Menopause support.\n\n - Employee Assistance Programme including:\n   \n   - Unlimited mental health sessions.\n   \n   - 24/7 remote GP & physiotherapy.\n   \n   - 24/7 helpline for emotional & practical support.\n\n - Savings & discounts on everyday shopping.\n\n - 1:1 personalised well-being consultations.\n\n - Gym membership discounts.\n\nFamily Friendly Policies:\n\n - Enhanced maternity pay.\n\n - Enhanced paternity pay.\n\n - Enhanced adoption pay.\n\n - Enhanced shared parental leave.\n\nLearning & Development:\n\n - Professional Qualifications.\n\n - Professional Memberships.\n\n - Learning Suite for e-courses.\n\n - Internal Training Programmes.\n\n - FCA & Regulatory training.\n\nWorkplace Perks:\n\n - Hybrid working: office-based Monday, Wednesday, and Thursday; remote working Tuesday and Friday\n\n - Casual dress code.\n\n - Workplace socials.\n\n - Healthy snacks.\n\n",
-      "roleFamily": "senior-pd"
-    },
-    {
       "id": "ashby:snyk:18909497-81c2-4a75-9b81-0c98d8cf7226",
       "atsProvider": "ashby",
       "company": "Snyk",
@@ -270,7 +270,7 @@
       "location": "United Kingdom",
       "url": "https://remoteOK.com/remote-jobs/remote-product-design-director-midnite-1137497",
       "postedAt": "2026-10-11T16:00:03+00:00",
-      "description": "<p style=\"min-height:1.5em\"><strong>ð Why Midnite?</strong></p><p style=\"min-height:1.5em\">Midnite is a next-generation sports betting and gaming platform built for a new wave of players.</p><p style=\"min-height:1.5em\">We combine sharp product thinking, bold brand, and fast execution to create experiences that feel modern, intuitive, and built for how people actually play today.</p><p style=\"min-height:1.5em\">Over 400,000 players have already made the move, and weâre only just getting started.</p><p style=\"min-height:1.5em\">Weâre a high-performance team operating at pace. High ownership. Constant iteration. No hiding behind processes. We move quickly, test relentlessly, and turn ambitious ideas into real impact. If youâre driven, creative, and thrive in fast-moving environments where you can shape meaningful outcomes - keep reading.</p><p style=\"min-height:1.5em\">Not your grandadâs bookie.</p><p style=\"min-height:1.5em\"><strong>ð The Role</strong></p><p style=\"min-height:1.5em\"><strong>Title:</strong> Product Design Director</p><p style=\"min-height:1.5em\"><strong>Team:</strong> Design</p><p style=\"min-height:1.5em\"><strong>Location:</strong> Remote, UK</p><p style=\"min-height:1.5em\">Experience quality is one of the clearest ways Midnite differentiates in a category that too often settles for functional and familiar. As a Product Design Director, you will ensure craft, quality and ambition remain central to how we build, as we scale. You will lead Product Design, shape company wide experience direction, and embed Design in the most important product decisions. This is a role with real influence, accountable for how Midnite feels across every surface and responsible for raising the bar as we grow.</p><p style=\"min-height:1.5em\"><strong>You will:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Lead and develop our Product Design team, line managing five designers and setting a clear standard for craft, judgement and ownership.</p></li><li><p style=\"min-height:1.5em\">Define and uphold the experience bar across all product surfaces, from customer facing native and web to back office platforms.</p></li><li><p style=\"min-height:1.5em\">Ensure coherence across squads and journeys so Midnite feels like one joined up system rather than a collection of features.</p></li><li><p style=\"min-height:1.5em\">Shape the long term experience direction and codify principles that guide teams toward a shared north star.</p></li><li><p style=\"min-height:1.5em\">Mature and drive adoption of our design systems to enable both speed and consistency at scale.</p></li><li><p style=\"min-height:1.5em\">Partner closely with Product and Engineering leadership on strategy, early problem framing and complex trade offs.</p></li><li><p style=\"min-height:1.5em\">Contribute hands on to Midniteâs most complex and high impact initiatives, elevating outcomes through strong visual and interaction design.</p></li><li><p style=\"min-height:1.5em\">Collaborate with Brand, Creative, Growth, CRM and Games to ensure the end to end customer experience is cohesive and well crafted.</p></li><li><p style=\"min-height:1.5em\">Explore and integrate emerging technologies, including AI, where they meaningfully improve how we design and build.</p></li><li><p style=\"min-height:1.5em\">Strengthen the structures and standards that allow experience quality to scale as the company grows</p></li></ul><p style=\"min-height:1.5em\"><strong>The next Midniter:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Sets and defends a high bar for visual and interaction design, with exceptional taste and strong product instincts.</p></li><li><p style=\"min-height:1.5em\">Has operated at scale, shaping design direction across multiple teams and surfaces.</p></li><li><p style=\"min-height:1.5em\">Has built or matured design systems that improve consistency and enable teams to move faster without sacrificing quality.</p></li><li><p style=\"min-height:1.5em\">Brings hands on craft capability and is comfortable directly contributing to high stakes initiatives.</p></li><li><p style=\"min-height:1.5em\">Is a trusted strategic partner to Product and Engineering leaders, contributing meaningfully to roadmap direction and key decisions.</p></li><li><p style=\"min-height:1.5em\">Develops designers through thoughtful feedback, coaching and hiring, steadily raising overall team capability.</p></li><li><p style=\"min-height:1.5em\">Communicates clearly and practically, influencing across disciplines and levels of seniority.</p></li><li><p style=\"min-height:1.5em\">Is curious about emerging technologies, including AI, and thoughtful about where they add real value.</p></li><li><p style=\"min-height:1.5em\">Cares deeply about building well designed digital products, from simplifying complex systems to refining interaction, motion and hierarchy.</p></li></ul><p style=\"min-height:1.5em\"><strong>ð° Winnings</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Private health insurance with zero excess, including optical cover and optional dental.</p></li><li><p style=\"min-height:1.5em\">Income protection to protect your earnings and give you peace of mind.</p></li><li><p style=\"min-height:1.5em\">Tenure holiday policy. After three years you receive an extra two days leave, increasing to 30 days annually after five years.</p></li><li><p style=\"min-height:1.5em\">Flexible working and a fully supported home office setup so you can do your best work from home.</p></li><li><p style=\"min-height:1.5em\">Nursery salary sacrifice scheme helping parents save thousands each year on nursery fees.</p></li><li><p style=\"min-height:1.5em\">Salary sacrifice schemes for tech and holidays so you can spread the cost of the things you want.</p></li><li><p style=\"min-height:1.5em\">Retail discounts and subscription perks across a wide range of brands.</p></li><li><p style=\"min-height:1.5em\">Quarterly team socials to connect, celebrate and have fun together.</p></li></ul><p style=\"min-height:1.5em\">At Midnite, we are committed to creating equal opportunities for everyone. We actively strive to build balanced teams that reflect the diversity of our communities, including ethnic minorities, people with disabilities, the LGBTQIA+ community, and all genders.</p><p style=\"min-height:1.5em\">We aim to provide an inclusive and supportive interview experience for all candidates. If you require any reasonable adjustments, please let us know in advance so we can ensure you feel comfortable and set up for success.</p><br/><br/>Please mention the word **FANTASTICALLY** and tag RNTIuMTU5LjIyOC4yMTI= when applying to show you read the job post completely (#RNTIuMTU5LjIyOC4yMTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "<p style=\"min-height:1.5em\"><strong>ð Why Midnite?</strong></p><p style=\"min-height:1.5em\">Midnite is a next-generation sports betting and gaming platform built for a new wave of players.</p><p style=\"min-height:1.5em\">We combine sharp product thinking, bold brand, and fast execution to create experiences that feel modern, intuitive, and built for how people actually play today.</p><p style=\"min-height:1.5em\">Over 400,000 players have already made the move, and weâre only just getting started.</p><p style=\"min-height:1.5em\">Weâre a high-performance team operating at pace. High ownership. Constant iteration. No hiding behind processes. We move quickly, test relentlessly, and turn ambitious ideas into real impact. If youâre driven, creative, and thrive in fast-moving environments where you can shape meaningful outcomes - keep reading.</p><p style=\"min-height:1.5em\">Not your grandadâs bookie.</p><p style=\"min-height:1.5em\"><strong>ð The Role</strong></p><p style=\"min-height:1.5em\"><strong>Title:</strong> Product Design Director</p><p style=\"min-height:1.5em\"><strong>Team:</strong> Design</p><p style=\"min-height:1.5em\"><strong>Location:</strong> Remote, UK</p><p style=\"min-height:1.5em\">Experience quality is one of the clearest ways Midnite differentiates in a category that too often settles for functional and familiar. As a Product Design Director, you will ensure craft, quality and ambition remain central to how we build, as we scale. You will lead Product Design, shape company wide experience direction, and embed Design in the most important product decisions. This is a role with real influence, accountable for how Midnite feels across every surface and responsible for raising the bar as we grow.</p><p style=\"min-height:1.5em\"><strong>You will:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Lead and develop our Product Design team, line managing five designers and setting a clear standard for craft, judgement and ownership.</p></li><li><p style=\"min-height:1.5em\">Define and uphold the experience bar across all product surfaces, from customer facing native and web to back office platforms.</p></li><li><p style=\"min-height:1.5em\">Ensure coherence across squads and journeys so Midnite feels like one joined up system rather than a collection of features.</p></li><li><p style=\"min-height:1.5em\">Shape the long term experience direction and codify principles that guide teams toward a shared north star.</p></li><li><p style=\"min-height:1.5em\">Mature and drive adoption of our design systems to enable both speed and consistency at scale.</p></li><li><p style=\"min-height:1.5em\">Partner closely with Product and Engineering leadership on strategy, early problem framing and complex trade offs.</p></li><li><p style=\"min-height:1.5em\">Contribute hands on to Midniteâs most complex and high impact initiatives, elevating outcomes through strong visual and interaction design.</p></li><li><p style=\"min-height:1.5em\">Collaborate with Brand, Creative, Growth, CRM and Games to ensure the end to end customer experience is cohesive and well crafted.</p></li><li><p style=\"min-height:1.5em\">Explore and integrate emerging technologies, including AI, where they meaningfully improve how we design and build.</p></li><li><p style=\"min-height:1.5em\">Strengthen the structures and standards that allow experience quality to scale as the company grows</p></li></ul><p style=\"min-height:1.5em\"><strong>The next Midniter:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Sets and defends a high bar for visual and interaction design, with exceptional taste and strong product instincts.</p></li><li><p style=\"min-height:1.5em\">Has operated at scale, shaping design direction across multiple teams and surfaces.</p></li><li><p style=\"min-height:1.5em\">Has built or matured design systems that improve consistency and enable teams to move faster without sacrificing quality.</p></li><li><p style=\"min-height:1.5em\">Brings hands on craft capability and is comfortable directly contributing to high stakes initiatives.</p></li><li><p style=\"min-height:1.5em\">Is a trusted strategic partner to Product and Engineering leaders, contributing meaningfully to roadmap direction and key decisions.</p></li><li><p style=\"min-height:1.5em\">Develops designers through thoughtful feedback, coaching and hiring, steadily raising overall team capability.</p></li><li><p style=\"min-height:1.5em\">Communicates clearly and practically, influencing across disciplines and levels of seniority.</p></li><li><p style=\"min-height:1.5em\">Is curious about emerging technologies, including AI, and thoughtful about where they add real value.</p></li><li><p style=\"min-height:1.5em\">Cares deeply about building well designed digital products, from simplifying complex systems to refining interaction, motion and hierarchy.</p></li></ul><p style=\"min-height:1.5em\"><strong>ð° Winnings</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Private health insurance with zero excess, including optical cover and optional dental.</p></li><li><p style=\"min-height:1.5em\">Income protection to protect your earnings and give you peace of mind.</p></li><li><p style=\"min-height:1.5em\">Tenure holiday policy. After three years you receive an extra two days leave, increasing to 30 days annually after five years.</p></li><li><p style=\"min-height:1.5em\">Flexible working and a fully supported home office setup so you can do your best work from home.</p></li><li><p style=\"min-height:1.5em\">Nursery salary sacrifice scheme helping parents save thousands each year on nursery fees.</p></li><li><p style=\"min-height:1.5em\">Salary sacrifice schemes for tech and holidays so you can spread the cost of the things you want.</p></li><li><p style=\"min-height:1.5em\">Retail discounts and subscription perks across a wide range of brands.</p></li><li><p style=\"min-height:1.5em\">Quarterly team socials to connect, celebrate and have fun together.</p></li></ul><p style=\"min-height:1.5em\">At Midnite, we are committed to creating equal opportunities for everyone. We actively strive to build balanced teams that reflect the diversity of our communities, including ethnic minorities, people with disabilities, the LGBTQIA+ community, and all genders.</p><p style=\"min-height:1.5em\">We aim to provide an inclusive and supportive interview experience for all candidates. If you require any reasonable adjustments, please let us know in advance so we can ensure you feel comfortable and set up for success.</p><br/><br/>Please mention the word **FANTASTICALLY** and tag RNDAuODAuMjEyLjEyOA== when applying to show you read the job post completely (#RNDAuODAuMjEyLjEyOA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "roleFamily": "uiux"
     },
     {
@@ -313,7 +313,7 @@
       "title": "Senior Product Designer",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-molecule-xyz/155403",
-      "postedAt": "2026-10-14T05:00:43.608Z",
+      "postedAt": "2026-10-14T05:09:26.337Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -324,7 +324,7 @@
       "title": "Senior Product Designer Securities",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-securities-bitpanda/151678",
-      "postedAt": "2026-10-14T05:00:43.608Z",
+      "postedAt": "2026-10-14T05:09:26.337Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -335,7 +335,7 @@
       "title": "Senior Product Designer CoinGlass",
       "location": "Dubai, United Arab Emirates",
       "url": "https://web3.career/senior-product-designer-coinglass-coinmarketcap/154752",
-      "postedAt": "2026-09-30T05:00:43.609Z",
+      "postedAt": "2026-09-30T05:09:26.337Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -384,6 +384,17 @@
       "roleFamily": "uiux"
     },
     {
+      "id": "getro:accel:97379772",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "Senior Product Designer (Contract)",
+      "location": "",
+      "url": "https://remote.com/jobs/andgo-systems-c1lyc18p/senior-product-designer-contract-j1an7wlj",
+      "postedAt": "2026-10-18T14:09:11.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
       "id": "getro:accel:97354005",
       "atsProvider": "getro",
       "company": "Remote",
@@ -406,17 +417,6 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "getro:accel:97353755",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Senior Product Designer, Growth",
-      "location": "",
-      "url": "https://remote.com/jobs/evolve-c17jgxcw/senior-product-designer-growth-j1v97dln",
-      "postedAt": "2026-10-17T14:21:11.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
-    },
-    {
       "id": "getro:accel:97353758",
       "atsProvider": "getro",
       "company": "Remote",
@@ -426,6 +426,17 @@
       "postedAt": "2026-10-17T14:21:11.000Z",
       "description": "",
       "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:accel:97353755",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "Senior Product Designer, Growth",
+      "location": "",
+      "url": "https://remote.com/jobs/evolve-c17jgxcw/senior-product-designer-growth-j1v97dln",
+      "postedAt": "2026-10-17T14:21:11.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
     },
     {
       "id": "getro:accel:97130306",
@@ -670,26 +681,15 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "getro:accel:96839869",
+      "id": "getro:accel:97378828",
       "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Staff Product Designer (Contract)",
-      "location": "",
-      "url": "https://remote.com/jobs/flex-c1kcyo70/staff-product-designer-contract-j163svlt",
-      "postedAt": "2026-10-13T13:56:59.000Z",
+      "company": "Spindle Ai (spindle.ai)",
+      "title": "Product Owner, Community",
+      "location": "Dublin, Ireland",
+      "url": "https://www.salesforce.com/company/careers/jobs/JR356410/product-owner-community/",
+      "postedAt": "2026-10-18T13:52:05.000Z",
       "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
-      "id": "getro:accel:96839816",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Staff Product Designer, Presence",
-      "location": "",
-      "url": "https://remote.com/jobs/reddit-c1ujjl13/staff-product-designer-presence-j1pb139c",
-      "postedAt": "2026-10-13T13:56:57.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
+      "roleFamily": "product-owner"
     },
     {
       "id": "getro:accel:97099945",
@@ -1053,6 +1053,28 @@
       "postedAt": "2026-10-13T14:19:44.000Z",
       "description": "",
       "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:general-catalyst:96839869",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "Staff Product Designer (Contract)",
+      "location": "",
+      "url": "https://remote.com/jobs/flex-c1kcyo70/staff-product-designer-contract-j163svlt",
+      "postedAt": "2026-10-13T13:56:59.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:general-catalyst:96839816",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "Staff Product Designer, Presence",
+      "location": "",
+      "url": "https://remote.com/jobs/reddit-c1ujjl13/staff-product-designer-presence-j1pb139c",
+      "postedAt": "2026-10-13T13:56:57.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
     },
     {
       "id": "getro:general-catalyst:96839528",
