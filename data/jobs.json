@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-20T05:14:00.959Z",
-  "filteredAt": "2026-10-20T05:14:02.376Z",
+  "generatedAt": "2026-10-21T05:15:33.920Z",
+  "filteredAt": "2026-10-21T05:15:35.618Z",
   "funnel": {
-    "raw": 16829,
-    "deduped": 13999,
-    "titleMatched": 437,
-    "recencyPassed": 167,
-    "geoPassed": 111
+    "raw": 16795,
+    "deduped": 13989,
+    "titleMatched": 434,
+    "recencyPassed": 171,
+    "geoPassed": 115
   },
   "jobs": [
     {
@@ -21,25 +21,14 @@
       "roleFamily": "product-owner"
     },
     {
-      "id": "teamtailor:lunar:63dcd42f-f697-4c20-b2a3-8fddfe06fb96",
-      "atsProvider": "teamtailor",
-      "company": "Lunar",
-      "title": "Senior Product Designer",
-      "location": "Copenhagen, Denmark",
-      "url": "https://jobs.lunar.app/jobs/8469749-senior-product-designer",
-      "postedAt": "2026-09-29T07:27:06.000Z",
-      "description": "<p><span>Lunar is the biggest challenger bank in the Nordics, and we're building something that actually works for people. We're looking for a designer who starts with the customer, not the canvas. Someone who'd rather sit in on five user conversations than guess, and who turns what they hear into decisions the whole team can get behind. <br><br>You'll own design end-to-end on real product work, from messy problem spaces to shipped screens, and help raise the bar for everyone around you. We want designers in the room early, shaping what we build before it's a roadmap item, not just polishing it after the fact.</span></p><p><span><strong id=\"docs-internal-guid-24b657dc-7fff-d987-658d-57f798daa0c5\">A day at Lunar</strong></span></p><p><span>Some days you're deep in Figma, sweating interaction details on a flow that affects hundreds of thousands of users. Other days you're running a usability session, synthesizing research with a squad, or in a workshop pinning down what we're actually trying to solve before anyone writes code or moves pixels. <br><br>Nothing here comes pre-packaged. You'll work closely with product, engineering, and data &amp; analytics, but you're expected to dig into the data yourself, chase down the “why,” and make sense of ambiguity rather than wait for a clean brief or a tidy dataset to land on your desk. That takes creativity and persistence as much as craft. <br><br>You'll run your own user research, pull your own data, and bring customers into the room rather than waiting for someone else to do it. Championing the user's voice in a roadmap discussion is as much the job as championing it in a design review.</span><br></p><p><span><strong id=\"docs-internal-guid-24b657dc-7fff-d987-658d-57f798daa0c5\">Where you’ll work</strong></span></p><p>Aarhus or Copenhagen. Most of the design team sits in Aarhus, and that's the base for this role. We're also just starting to build out Copenhagen, growing that team by two more designers, so you'd be joining a design org that's active in both cities from the start. The two sites work as one team, with some travel between them to collaborate and run sessions. Like the rest of Lunar, we work to a 4-days-in-office policy. We believe the best outcomes happen when we come together.</p><p><span><strong id=\"docs-internal-guid-24b657dc-7fff-d987-658d-57f798daa0c5\">About you</strong></span></p><p><span>For this role, UX thinking is the superpower we're hiring for. You reframe the problem before the team runs off in the wrong direction. Strong visual and interaction craft matters, and we'd love it if you have it, but it's the complement here, not the headline.</span></p><p><span><strong id=\"docs-internal-guid-24b657dc-7fff-d987-658d-57f798daa0c5\">Who you are:</strong></span></p><ul><li><p><span>6+ years in product design, with real ownership of workstreams: defining the problem and bringing people with you, not waiting for a brief to land on your desk</span></p></li><li><p><span>Depth in UX and research: you've led your own user testing, not just briefed it out</span></p></li><li><p><span>A habit of starting at insight: digging into data and the “why” before reaching for a solution, even when the data isn't handed to you cleanly</span></p></li><li><p><span>Mobile-first by default: fluent in the platform conventions that make apps feel right</span></p></li><li><p><span>Comfortable moving between ambiguity and execution without everything figured out first</span></p></li><li><p><span>AI already part of how you work, not something you've dabbled in</span></p></li><li><p><span>The communication skills to bring non-designers with you: product, engineering, leadership</span></p></li></ul><p><span><strong id=\"docs-internal-guid-24b657dc-7fff-d987-658d-57f798daa0c5\">One last thing on applying</strong></span></p><ul><li><p><span>Feel free to use AI for the cover letter, just make sure we're able to get to know the real you.</span></p></li><li><p><span>A portfolio link/PDF is required. Applications without one won't be considered. Pick two recent projects and curate them tightly: the challenge, your approach, the solution, and the impact. We want the case made for us, not a full archive we have to dig through to find it. Figma, website, prototype: whatever makes the point.</span></p></li><li><p><span>The application round closes on October 31, and the interview process will begin thereafter.</span></p></li></ul><p><strong>Benefits &amp; Perks</strong></p><ul><li><p><span>4 days in the office. We're a team that builds together, thinks together, and moves together. Showing up is part of how we work.</span></p></li><li><p><span>State of the art equipment. The newest computer, monitor, mouse, and keyboard. We want you to do your best work without anything slowing you down.</span></p></li><li><p><span>Pension, health insurance, and enhanced parental leave. From your financial future to your family moments. We've got you covered.</span><em><br></em></p></li></ul><p><span><strong>Are you ready to join the journey? Apply now and let's find out more!</strong></span></p><p><span>While you hold on tight for us to get back to you, curious to see what we’re up to? Follow us on</span><a target=\"_blank\" href=\"https://www.linkedin.com/company/lunarbank/mycompany/?viewAsMember=true\"><span> LinkedIn</span></a><span> for business announcements and releases 📢, check out our</span><a target=\"_blank\" href=\"https://www.instagram.com/lifeatlunar/?hl=enlunar%20blog\"><span> Instagram</span></a><span> for an inside scoop on what it’s like to work here .</span></p><p><span><em>Depending on the regulations in the country where you will be employed, we will ask to see or obtain information about your criminal record. </em></span><em>Please note that our employment is conditional upon you </em>not <em>being registered in RKI (Ribers Kredit Information).</em></p><p><span><em>We welcome applications from candidates of all backgrounds. If you need any adjustments during the recruitment process, please let us know</em></span></p>",
-      "roleFamily": "senior-pd"
-    },
-    {
       "id": "workable:exotec:9405958AD8",
       "atsProvider": "workable",
       "company": "Exotec",
-      "title": "Product Owner (Microsoft 365 & Business Applications)",
+      "title": "Product Owner (Solutions Collaboratives & Applications Métier)",
       "location": "Lille, France",
       "url": "https://apply.workable.com/j/9405958AD8",
       "postedAt": "2026-10-12",
-      "description": "<p>Chez&nbsp;Exotec, nous mettons l’excellence technologique au service de la redéfinition des relations entre humains et robots. A travers le monde, nos solutions révolutionnent la façon dont nos client·e·s délivrent leurs produits aux personnes consommatrices finales. Nous contribuons au succès des plus grandes marques du commerce et de l’industrie, tout en améliorant les conditions de travail de leurs salarié·e·s.</p><p>Par l’alliance de l’intelligence artificielle et d’un hardware performant, nos robots sont désormais déployés dans le monde entier et leur succès a fait de nous la première licorne industrielle française.</p><p>Rejoindre&nbsp;Exotec, c’est l’opportunité de donner du sens à vos compétences. Grandissez avec nos ExoPeople dans le monde entier pour faire de vos idées, des réalités.</p><p>La révolution robotique portée par Exotec ne fait que commencer, vous en êtes ?</p><p><strong>Votre rôle</strong></p><p>Au sein de la DSI d'Exotec, vous serez responsable d'un portefeuille d'outils collaboratifs utilisés par nos Exopeople répartis en Europe, aux États-Unis et au Japon.</p><p>Votre mission consistera à définir la vision, piloter l'évolution et maximiser l'adoption des solutions collaboratives qui soutiennent les activités de l'entreprise. Vous interviendrez notamment sur l'écosystème Microsoft 365 (Teams, SharePoint, Power Platform, Copilot, etc.) ainsi que sur Koddex, plateforme stratégique pour le partage des connaissances et la gestion de nos processus internes.</p><p>Véritable interface entre les métiers, les équipes IT et les partenaires externes, vous accompagnerez la transformation digitale d'Exotec en proposant des solutions à forte valeur ajoutée pour les utilisateurs.</p><p><strong>Vos missions</strong></p><p><strong>Définir et piloter la stratégie produit</strong></p><ul><li>Porter la vision des outils collaboratifs et définir une roadmap cohérente avec les priorités métiers, la stratégie IT et les ambitions de transformation digitale d’Exotec.</li></ul><ul><li>Être responsable de la valeur produite par le portefeuille, en reliant chaque évolution à un résultat attendu pour les utilisateurs et l’entreprise.</li><li>Arbitrer les priorités du portefeuille en tenant compte de l’impact utilisateur, de l’adoption attendue, des contraintes techniques, des risques et de la soutenabilité des solutions.</li></ul><p><strong>Recueillir, challenger et prioriser les besoins</strong></p><ul><li>Être responsable de la discovery produit en recueillant des besoins de terrain auprès des utilisateurs, des métiers, de la DSI et des relais locaux en Europe, aux États-Unis et au Japon.</li><li>Challenger les demandes et distinguer les besoins structurants des préférences locales, en s’appuyant sur les données d’usage, les retours utilisateurs et l’impact business.</li><li>Garantir que les décisions de priorisation et de roadmap reposent sur des éléments objectifs, des résultats mesurables et une compréhension réelle des usages.</li></ul><p><strong>Piloter les évolutions et les déploiements</strong></p><ul><li>Piloter le cycle complet des évolutions, de leur cadrage jusqu’à leur mise à disposition, en garantissant la qualité, la sécurité, l’intégration et la valeur délivrée.</li><li>Définir les critères de réussite et les standards de qualité des solutions, afin de sécuriser leur déploiement dans l’écosystème Exotec.</li><li>Prendre les décisions de release et de cycle de vie en équilibrant valeur utilisateur, risques opérationnels, dépendances éditeurs et pérennité des plateformes.</li></ul><p><strong>Développer l’adoption et animer la gouvernance</strong></p><ul><li>Définir et porter la stratégie d’adoption des outils collaboratifs afin d’ancrer durablement de nouveaux usages, au-delà de la seule communication ou de la formation.</li><li>Être responsable de l’adoption effective, de la satisfaction des utilisateurs et de la réduction des irritants qui limitent l’usage de Microsoft 365 et de Koddex.</li><li>Aligner les métiers, la DSI, les utilisateurs clés, les éditeurs et les partenaires externes sur les priorités, les règles de gouvernance, les arbitrages et les résultats attendus.</li><li>Piloter la relation avec les éditeurs et partenaires stratégiques, en maîtrisant leurs engagements, leur feuille de route, leurs risques et leurs contraintes commerciales dans l’intérêt d’Exotec.</li><li>Garantir la cohérence, la rationalisation et l’évolution maîtrisée du portefeuille d’outils collaboratifs et de l’écosystème de connaissances.</li></ul><p><strong>Votre profil</strong></p><ul><li>Expérience en Product Ownership, gestion de produit ou transformation digitale.</li><li>Bonne connaissance des outils collaboratifs, idéalement Microsoft 365.</li><li>Appétence pour les environnements SaaS et la conduite du changement.</li><li>Capacité à faire le lien entre enjeux métiers et solutions techniques.</li><li>Maîtrise des méthodes Agile.</li><li>Anglais professionnel.</li></ul><p><strong>Benefits</strong></p><ul><li>Couverture mutuelle et prévoyance santé compétitive</li><li>Politique famille avantageuse</li><li>Programme de mobilité interne et internationale</li><li>Nombreuses opportunités de formation et de développement</li></ul><p>&nbsp;</p><p>Chez Exotec, nous garantissons l’égalité des chances dans notre processus de recrutement. L’ensemble des candidatures reçues sont étudiées indépendamment de l’âge, du genre, de l’origine, de la religion, de la couleur de peau, de la nationalité, du sexe, du handicap, de l’orientation sexuelle ou de toute autre distinction protégée par la loi. Nous mettons en place un environnement de travail inclusif et respectueux de toutes les différences. En rejoignant le Pacte Parité, Exotec s’engage pour un écosystème French Tech plus paritaire.</p>",
+      "description": "<p>Chez&nbsp;Exotec, nous mettons l’excellence technologique au service de la redéfinition des relations entre humains et robots. A travers le monde, nos solutions révolutionnent la façon dont nos client·e·s délivrent leurs produits aux personnes consommatrices finales. Nous contribuons au succès des plus grandes marques du commerce et de l’industrie, tout en améliorant les conditions de travail de leurs salarié·e·s.</p><p>Par l’alliance de l’intelligence artificielle et d’un hardware performant, nos robots sont désormais déployés dans le monde entier et leur succès a fait de nous la première licorne industrielle française.</p><p>Rejoindre&nbsp;Exotec, c’est l’opportunité de donner du sens à vos compétences. Grandissez avec nos ExoPeople dans le monde entier pour faire de vos idées, des réalités.</p><p>La révolution robotique portée par Exotec ne fait que commencer, vous en êtes ?</p><p><strong>Votre rôle</strong></p><p>Au sein de la DSI d’Exotec, vous êtes responsable d’un portefeuille de solutions collaboratives et d’applications métier utilisées par plus de 1 000 collaborateurs en Europe, aux États-Unis et au Japon.</p><p>Vous pilotez leur évolution de bout en bout, de l’analyse des besoins métiers à la conception fonctionnelle, jusqu’au déploiement et à l’adoption. Vous intervenez notamment sur l’écosystème Microsoft 365 (Teams, SharePoint, Power Platform, Copilot…) et Koddex, notre plateforme de gestion des connaissances et des processus internes.</p><p>À l’interface entre les métiers et les équipes techniques, vous traduisez les besoins en solutions concrètes, en vous appuyant sur une compréhension approfondie des plateformes, de leurs possibilités et de leurs contraintes. Vous êtes garant de la valeur délivrée, de la qualité des solutions et de leur adoption durable.</p><p><strong>Vos missions</strong></p><ul><li><strong>Définir la stratégie produit :</strong> construire la roadmap, prioriser les évolutions et piloter la valeur du portefeuille en fonction des besoins métiers et des résultats attendus.</li><li><strong>Concevoir les solutions fonctionnelles :</strong> analyser et challenger les besoins, modéliser les processus, workflows et règles de gestion, puis formaliser les exigences et critères d’acceptation.</li><li><strong>Piloter les évolutions de bout en bout :</strong> travailler avec les équipes techniques et les partenaires, valider la faisabilité, organiser les recettes et sécuriser les mises en production.</li><li><strong>Développer l’adoption :</strong> accompagner les changements d’usage, mesurer l’utilisation et la satisfaction, et piloter l’amélioration continue à partir des retours utilisateurs.</li><li><strong>Garantir la gouvernance du portefeuille :</strong> assurer la cohérence des solutions, maîtriser les risques et les dépendances, et piloter les relations avec les éditeurs et partenaires.</li></ul><p><br><strong>Votre profil</strong></p><ul><li>Vous avez une expérience confirmée en Product Ownership ou en pilotage de solutions applicatives, idéalement sur une plateforme utilisée par plus de 1 000 utilisateurs.</li><li>Vous avez déjà piloté concrètement des évolutions, de l’expression du besoin à la conception fonctionnelle, au déploiement et à l’adoption.</li><li>Vous comprenez le fonctionnement des plateformes SaaS ou low-code et savez modéliser des processus et des solutions fonctionnelles en lien avec les équipes techniques.</li><li>Vous connaissez l’écosystème Microsoft 365, notamment Teams, SharePoint et Power Platform. Une expérience de Koddex ou d’une plateforme comparable constitue un atout.</li><li>Vous maîtrisez les pratiques Agile et savez arbitrer les priorités en conciliant valeur métier, faisabilité technique, risques et expérience utilisateur.</li><li>Vous êtes autonome, pragmatique, doté d’un bon relationnel et d’un anglais professionnel.<br></li></ul><p><strong>Ce qui fera la différence</strong></p><p>Votre capacité à présenter des réalisations concrètes dont vous avez personnellement assuré la conception fonctionnelle, les arbitrages et le déploiement à grande échelle. Au-delà de la gestion de backlog, nous recherchons une personne capable de comprendre les plateformes, d’en exploiter les possibilités et de transformer les besoins métiers en solutions opérationnelles.</p><p><strong>Benefits</strong></p><ul><li>Couverture mutuelle et prévoyance santé compétitive</li><li>Politique famille avantageuse</li><li>Programme de mobilité interne et internationale</li><li>Nombreuses opportunités de formation et de développement</li></ul><p>&nbsp;</p><p>Chez Exotec, nous garantissons l’égalité des chances dans notre processus de recrutement. L’ensemble des candidatures reçues sont étudiées indépendamment de l’âge, du genre, de l’origine, de la religion, de la couleur de peau, de la nationalité, du sexe, du handicap, de l’orientation sexuelle ou de toute autre distinction protégée par la loi. Nous mettons en place un environnement de travail inclusif et respectueux de toutes les différences. En rejoignant le Pacte Parité, Exotec s’engage pour un écosystème French Tech plus paritaire.</p>",
       "roleFamily": "product-owner"
     },
     {
@@ -87,47 +76,14 @@
       "roleFamily": "lead-pd"
     },
     {
-      "id": "smartrecruiters:wise:744000156318469",
+      "id": "smartrecruiters:wise:744000156555328",
       "atsProvider": "smartrecruiters",
       "company": "Wise",
       "title": "Graduate Product Designer",
       "location": "London, , United Kingdom",
-      "url": "https://jobs.smartrecruiters.com/wise/744000156318469",
-      "postedAt": "2026-10-19T13:12:34.379Z",
+      "url": "https://jobs.smartrecruiters.com/wise/744000156555328",
+      "postedAt": "2026-10-20T13:08:04.144Z",
       "description": "",
-      "roleFamily": "uiux"
-    },
-    {
-      "id": "smartrecruiters:wise:744000152440329",
-      "atsProvider": "smartrecruiters",
-      "company": "Wise",
-      "title": "Senior Product Designer - Spend - Credit",
-      "location": "London, , United Kingdom",
-      "url": "https://jobs.smartrecruiters.com/wise/744000152440329",
-      "postedAt": "2026-09-29T13:30:05.922Z",
-      "description": "",
-      "roleFamily": "senior-pd"
-    },
-    {
-      "id": "ashby:supercell:f853f4ca-8b7c-40e4-908a-cc03a246a451",
-      "atsProvider": "ashby",
-      "company": "Supercell",
-      "title": "Founding UI/UX Designer, Unannounced Game",
-      "location": "London",
-      "url": "https://jobs.ashbyhq.com/supercell/f853f4ca-8b7c-40e4-908a-cc03a246a451",
-      "postedAt": "2026-10-14T09:21:06.440+00:00",
-      "description": "[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/1a7f6c8f-5790-4e24-9fb6-30f6cc367414/new%20keyart.jpg]\n \n\n\nTHIS IS YOUR OPPORTUNITY TO JOIN A SMALL GROUP OF OBSESSED GAME MAKERS, BUILDING AN AMBITIOUS MOBILE GAME FOCUSED ON COLLECTION AND SOCIAL.\n\nAs our founding UI & UX Designer, you will be the owner of the entire UX structure at a high level, down to the UI art pixels in detail. You will work intimately with engineers, artists, designers from the vision level, down to the hands on implementation. Not settling for industry good, but pioneering new UX paradigms, head turning UI art style and hyper juicy interactions.\n\nWe’re looking for someone who is passionate about their craft, making social game experiences, and also a student of behavioral psychology. Someone who plays games seriously, but understands that at least a bit of silliness is needed for success. Someone who thinks about all the edge cases, but knows doing it alone, will always leave blind spots. If you feel you have great ability, a growth mindset, and high ambition, then join us at the start of our journey!\n\nSide quest: Read this new page about making new games https://supercell.com/en/new-games/ at Supercell.\n\n\n\n[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/e042e3a3-8532-43fb-abaf-5fb9d2b184d3/image.png]\n\n\nWHAT YOU'LL BE DOING\n\n - UX flow design for entire game experience\n\n - Creation and implementation of UI screens, assets and animations\n\n - Involved in pioneering a modern workflow and optimise assets for performance\n\n - Discover and manage external partners where needed\n\n\nWHAT YOU HAVE\n\n - 5+ years of experience shipping UI/UX design for apps/games\n\n - Portfolio showcasing end-to-end UI/UX work on game projects, with examples of UI and UX flows\n\n - Proven ability to translate game design requirements into intuitive and visually stunning UI solutions\n\n - Experience collaborating closely with engineers, game designers and artists\n\n - Passionate about both UI & UX design\n\n - Range of 2D Art skills (UI elements, illustrations, animations, etc.)\n\n - Proficient understanding of Graphic Design and Typography\n\n - A self-starter approach to use AI: you've found ways to use it in your day-to-day work, you experiment, figure things out and bring the same energy to every new challenge.\n\n\nWOULD BE NICE IF YOU ALSO HAVE\n\n - At the forefront with AI tools and actively experimenting\n\n - Enjoys TCGs\n\n\nWHERE YOU'LL BE\n\nThis opportunity is based in our London office, and because we value a collaborative work environment and genuine human interactions, it is mostly an office‑based role.\n\n\n\n[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/073d243b-47d6-434c-bd82-52587fc7ee3e/banner_narrow_newgames.jpg]\n\n\nSUPERCELL NEW GAMES\n\nThis is a dedicated environment for building from zero and shaped around a core belief: the best developers don’t need more direction, they need more freedom and fewer barriers. This is where games get the space they need to become cultural phenomenons. \n\nPlayers are waiting for your vision and ambition to build the next forever game https://supr.cl/4tPqRQv a.k.a. the best work of your career. We back this up with creative and operational autonomy, and the infrastructure, capital, and experience needed to take a game from an idea to global scale. \n\nThis is not for everyone. Building towards a billion-dollar game is going to be hard. But let's not kid ourselves: it should also be fun.\n\nYou build the rocket. We bring the launchpad.\n\n\n\n[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/fa50b815-984a-46e4-bd23-f85e7ee3a448/banner_narrow_chest-2.jpg]\n\n\nGAME-CHANGING FINANCIAL MODEL\n\nSupercell is great with stuff around benefits and wellbeing, but most importantly you get to focus on what matters: making games. Skip the Venture Capital pitch decks and looking at runway spreadsheets. In exchange, we're offering a compensation model that makes this opportunity financially life-changing. \n\n\n\n[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/4e677281-7cf9-423b-af31-5322ac00e1ce/Screenshot%202026-03-25%20at%2010.42.52.png]\n\n\nABOUT SUPERCELL\n\nSupercell is a games company from Helsinki, Finland, with offices https://supr.cl/jd-offices also in San Francisco, Seoul, Shanghai, and London. You might know us as the makers of Hay Day, Clash of Clans, Boom Beach, Clash Royale, and Brawl Stars. Our mission is to create great games https://supr.cl/jd-games that as many people as possible play for years and that are remembered forever.\n\nSo, how do we make great games? By putting together the best teams and giving them the freedom and independence to succeed. And by taking risks, failing, sharing learnings https://supercell.com/en/news/learning-from-failures/, and killing lots of projects.\n\n\n\n[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/3877a529-d46f-4989-afbb-fefd7f53cd61/Screenshot%202026-03-25%20at%2010.43.13.png]\n\n\nRELOCATION? YES!\n\nNo matter where you’re moving from, our dedicated mobility team and partners will support you throughout your move. We’ll ensure the process is as smooth as possible for you and anyone joining you – whether they’re family members of the human or animal kind!\n\n\n\n[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/59312fce-38f1-4487-9f02-58e06d5fa7c0/Screenshot%202026-03-25%20at%2010.43.35.png]\n\n\nYOU PROBABLY SHOULD FILL IN THE FORM BELOW\n\nThe bar is high, but if this opportunity excites you, do it! Our team is here to help you succeed. Also, we're happy to learn about any specific accommodations you may need to fully engage in our recruitment process.\n\n\n\nWishing you all the best,\nThe Supercell Recruitment team\n\n",
-      "roleFamily": "uiux"
-    },
-    {
-      "id": "greenhouse:datadog:8279650",
-      "atsProvider": "greenhouse",
-      "company": "Datadog",
-      "title": "Senior Manager, Product Design - Security",
-      "location": "Madrid, Spain; Paris, France",
-      "url": "https://careers.datadoghq.com/detail/8279650/?gh_jid=8279650",
-      "postedAt": "2026-10-15T12:05:53-04:00",
-      "description": "&lt;p&gt;The Datadog Security design team (K9 Design, as we lovingly call it) is hiring a senior product design manager to lead design across our security products. This is a chance to shape an industry-leading experience for a new kind of Datadog user: security practitioners who need to catch threats where they start, stop them when they land, and shut down exposures before they turn into something worse.&lt;/p&gt;\n&lt;p&gt;You&#39;ll lead a team of designers at various stages of their careers across cloud, code and data security, turning an overwhelming amount of signal into something a security team can act on. The goal: build the security product people want to spend their day in. You&#39;ll own the design, push for excellence, and partner closely with Product and Engineering leadership to get there.&lt;/p&gt;\n&lt;p&gt;&lt;em data-renderer-mark=&quot;true&quot;&gt;At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.&lt;/em&gt;&lt;/p&gt;\n&lt;h2&gt;What you’ll do&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead design direction across your team&#39;s products, and hold the bar for design excellence end to end: interactions, visual detail, consistency and cohesion.&lt;/li&gt;\n&lt;li&gt;You&#39;re in the work. Run critiques, give direct and useful feedback, and push the team toward bolder, more opinionated solutions rather than safe ones.&lt;/li&gt;\n&lt;li&gt;Coach and grow designers across our Paris, Madrid and New York offices, helping each of them do the best work of their careers.&lt;/li&gt;\n&lt;li&gt;Help define a security design system built on top of Datadog&#39;s existing components, with the security practitioner&#39;s workflows in mind.&lt;/li&gt;\n&lt;li&gt;Partner with Product and Engineering leaders to evolve cross-platform thinking, shape roadmaps, and to set how the three disciplines work together day to day.&lt;/li&gt;\n&lt;li&gt;Take accountability for the product and business outcomes your team&#39;s design work influences.&lt;/li&gt;\n&lt;li&gt;Bring AI fluency to how your team works, from how design gets explored and validated to how it gets shipped.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Who you are&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years in design, including experience leading and growing high-performing teams.&lt;/li&gt;\n&lt;li&gt;A design leader first: a user advocate with a sharp eye for detail, strong taste and the willingness to get into the work and give direct feedback.&lt;/li&gt;\n&lt;li&gt;A track record of leveling up a team&#39;s output, with before-and-after examples of how your leadership transformed the design of a product.&lt;/li&gt;\n&lt;li&gt;You&#39;ve led complex products or features: a zero-to-one launch, a reimagining of something established, or both.&lt;/li&gt;\n&lt;li&gt;A strong communicator who collaborates effectively with executive and cross-functional stakeholders.&lt;/li&gt;\n&lt;li&gt;Able to demonstrate AI fluency, either in your own work or in how you&#39;ve led teams through it.&lt;/li&gt;\n&lt;li&gt;Comfortable navigating the technical complexity of modern software development and cloud infrastructure.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Ideally&lt;/strong&gt;: security domain experience, or a portfolio of information-dense, data-rich interfaces. Industry-leading work on complex B2B, B2C or consumer products counts for just as much here.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Benefits and Growth&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Product training to develop an in-depth understanding of our product and space&lt;/li&gt;\n&lt;li&gt;Continuous career development and pathing opportunities for internal mobility&lt;/li&gt;\n&lt;li&gt;Intradepartmental mentor and buddy program for in-house networking&lt;/li&gt;\n&lt;li&gt;An inclusive company culture, ability to join our Community Guilds (Datadog employee resource groups)&lt;/li&gt;\n&lt;li&gt;New hire stock equity (RSUs) and employee stock purchase plan&lt;/li&gt;\n&lt;li&gt;Free, global mental health benefits for employees and dependents age 6+&lt;/li&gt;\n&lt;li&gt;Generous global benefits&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;Benefits and Growth listed above may vary based on the country of your employment and the nature of your employment with Datadog.&lt;/em&gt;&lt;/p&gt;\n&lt;p style=&quot;color: white;&quot;&gt;LI-Hybrid&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt;\n&lt;p&gt;&lt;strong&gt;About Datadog:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage complexity at scale. It brings applications, infrastructure, data, models, and security into one place, using AI to detect and resolve issues before they impact customers. Trusted globally by Fortune 500 companies and high-growth AI leaders, Datadog enables businesses to move faster with clarity and confidence. Learn more about #DatadogLife on &lt;a href=&quot;https://www.instagram.com/datadoghq/?hl=en&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/company/datadog&quot; target=&quot;_blank&quot;&gt;LinkedIn,&lt;/a&gt; and &lt;a href=&quot;https://learn.datadoghq.com/&quot; target=&quot;_blank&quot;&gt;Datadog Learning Center. &lt;/a&gt;&lt;/p&gt;\n&lt;hr&gt;\n&lt;p data-renderer-start-pos=&quot;215&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Equal Opportunity at Datadog:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is proud to offer &lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot; target=&quot;_blank&quot;&gt;equal employment opportunity&lt;/a&gt; to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our &lt;a href=&quot;https://www.datadoghq.com/legal/candidate-legal-notices/&quot; target=&quot;_blank&quot;&gt;Candidate Legal Notices&lt;/a&gt; for your reference.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Datadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeoJeduEZ2NdZF_65uZmWUrCM-zee7yADXX1s6Xr9zAGq8iKA/viewform&quot; target=&quot;_blank&quot;&gt;this form&lt;/a&gt;. This form is for accommodation requests only and cannot be used to inquire about the status of applications.&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Privacy and AI Guidelines:&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Applicant and Candidate Privacy Notice&lt;/a&gt;. For information on our AI policy, please visit &lt;a href=&quot;https://www.datadoghq.com/legal/interviewing-at-datadog-ai-guidelines/&quot; target=&quot;_blank&quot;&gt;Interviewing at Datadog AI Guidelines&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;",
       "roleFamily": "uiux"
     },
     {
@@ -153,6 +109,17 @@
       "roleFamily": "senior-pd"
     },
     {
+      "id": "teamtailor:yousign:9d1dc236-ecb5-41eb-bfc2-20ec5f832c8e",
+      "atsProvider": "teamtailor",
+      "company": "Yousign",
+      "title": "Product Designer",
+      "location": "Paris",
+      "url": "https://yousign.teamtailor.com/jobs/8576440-product-designer",
+      "postedAt": "2026-10-20T12:55:09.000Z",
+      "description": "<h4><strong>About Youtrust</strong></h4><p>Founded in 2013, Youtrust is a European digital trust platform. It enables document, identity and business analysis and verification, compliance checks, and electronic signature.<br>Compliant with the strictest European regulations, including the eIDAS regulation, and ISO/IEC 27001 certified, Youtrust guarantees the security, integrity and traceability of digital transactions, while giving businesses full control over their data.<br>With more than 35,000 customers and 1 million users across Europe, Youtrust brings together the entire digital trust chain in a flexible, easily integrable API, enabling AI Agents, SaaS software and SMEs/mid-sized companies to secure their regulatory processes.<br>As a B Corp certified company, Youtrust is committed to combining technological innovation, compliance with European standards and positive impact, putting security and transparency at the service of businesses.</p><h2><strong>Your Role</strong></h2><p>products. As an intermediate designer, you’ll be supported by Elodie, Senior Product Designer and your manager, and by the senior designers on the team as you grow into full autonomy.<br><br><strong>Designing simple, intuitive interfaces within a squad</strong><br><br>You’ll work daily with your squad’s Product Manager, alongside developers and Product Marketing, moving between discovery and delivery to reach the squad’s OKR objective. You’ll conduct user research, lead co-design workshops, and turn insights into pragmatic solutions that fit our design vision, the existing product, and operational constraints. Following our recent rebrand, this also means helping bring our new identity into the product for a consistent end-to-end experience. You’ll produce journeys, wireframes, and prototypes, using AI to explore and prototype faster, test them with users, and support developers through to release. After launch, you’ll support PMMs and Marketing on rollout and help track KPIs to measure impact.<br><br><strong>Contributing to the design team</strong><br><br>You’ll help improve our methods and product quality, contribute to the Design System, and share your expertise and industry insights with the team.</p><h2><strong>Your Responsibilities</strong></h2><ul><li><p>Lead discovery with your PM: frame problems against the squad's goals, choose the right methods, run user research and co-design workshops.</p></li><li><p>Design user journeys, wireframes and interactive prototypes that fit our design vision, our new brand and technical constraints.</p></li><li><p>Test your solutions with users before development.</p></li><li><p>Hand designs off to developers and follow them through to release.</p></li><li><p>Support launches with Product Marketing, then track KPIs and share the results.</p></li><li><p>Use AI to speed up your work while checking what it produces, and help design AI features that handle errors and let users correct them.</p></li><li><p>Help improve our Design System and its accessibility, and help structure how the design team works (Figma files, documentation, handoff).</p></li><li><p>Take part in Design Critics and Knowledge Sharing.</p></li><li><p>Share what you learn, including your AI workflows, and suggest better ways of working.</p></li></ul><h2><strong>Your Profile</strong></h2><ul><li><p>You have 2 to 5 years of experience as a Product Designer, ideally on a SaaS product. Experience on an API product is a plus. Startup or large company, both are welcome.</p></li><li><p>You master Figma: components, auto layout, variables, interactive prototypes.</p></li><li><p>You have run user interviews and usability tests yourself, and you turn what you learn into design decisions.</p></li><li><p>You have used a design system and contributed components to one.</p></li><li><p>You know the basics of accessibility (WCAG) and want to go further.</p></li><li><p>You are interested in Design Ops: how a design team organises its files, documentation and tools.</p></li><li><p>You explain your design choices clearly, with user insights and data to back them.</p></li><li><p>You are curious about AI, you have tried it in your work, and you want to learn more. You also know when not to trust its output.</p></li><li><p>You ask for feedback and act on it. You take ownership of your projects and know when to ask for help.</p></li><li><p>You pay attention to details: edge cases, states, consistency, accessibility.</p></li><li><p>You speak fluent French (C2) and English at C1 level at least.</p></li><li><p>We will ask for your portfolio before the interviews.</p></li></ul><h2><strong>Recruitment Process</strong></h2><ol><li><p>Call with Guillhem, Talent Acquisition Manager (30 min)</p></li><li><p>Interview with Déborah Lévy-Bencheton, Hiring Manager (45 to 60 min)</p></li><li><p>Case study with Elodie, Senior Product Designer, and Déborah Lévy-Bencheton (1 hour)</p></li><li><p>Final conversation with Laure (30 min)</p></li></ol><h2><strong>Why join Youtrust now?</strong></h2><p>A mission that matters in a world challenged by AI-driven fraud / A vision built on integrity / A European &amp; sovereign platform / A certified B Corp / The golden age of Youtrust.</p><h2><strong>Benefits</strong></h2><p><strong>France Benefits</strong></p><ul><li><p>Salary: €48,000 to €57,000 base salary, plus up to €2,000 variable</p></li><li><p>BSPCE</p></li><li><p>Meal vouchers (Swile): €10.50/day, 50% covered by Youtrust</p></li><li><p>Health insurance (Alan): 50% covered by Youtrust</p></li><li><p>Life &amp; disability insurance: 100% employer-covered</p></li><li><p>Wellbeing: Axomove (4 physio sessions) and <a target=\"_blank\" href=\"http://Moka.care\">Moka.care</a> (6 therapy/coaching sessions)</p></li><li><p>Transportation: 50% reimbursement for public transport for hybrid workers</p></li><li><p>Leeto: Access to numerous employee discounts</p></li><li><p>Time off: 10 RTT days/year, plus menstrual leave, parenthood benefits, seniority days</p></li><li><p>1 volunteering day/year, learning &amp; development budget, and more.</p></li></ul><p>Location: Paris (Office-based). Contract: Permanent (CDI).</p>",
+      "roleFamily": "uiux"
+    },
+    {
       "id": "greenhouse:getyourguide:7860461",
       "atsProvider": "greenhouse",
       "company": "GetYourGuide",
@@ -172,6 +139,17 @@
       "url": "https://jobs.ashbyhq.com/nord-security/2fdc1df5-fa4e-4214-a144-a866c906e6e7",
       "postedAt": "2026-10-02T13:21:12.899+00:00",
       "description": "THE WORLD’S MOST ADVANCED VPN, AND A WHOLE LOT MORE.\n\nIf you’re a curious problem-solver who carves their own path, join the team behind Threat Protection Pro, the NordLynx protocol, and the fastest VPN on the planet—tools that put privacy, security, and control back in people’s hands.\n\nYour impact? Helping millions take back control of their online security, privacy, and data.\n\nThe Design Team is a dynamic, multidisciplinary group of Product designers, UX/UI designers, UX researchers, UX writers, and Graphic designers. We're building the future of digital freedom across our cybersecurity suite products, such as NordVPN, NordPass, Saily & Coveron. We are helping millions of users own their online lives. We aim to simplify the complex world of cybersecurity for everyone. We thrive on honest feedback to help each other grow and believe in the freedom to take initiative, be bold, and run with new ideas.\n\nWe're looking for a Product Designer to own the experience where users control their relationship with our products — the User Control Panel (UCP) and account management platform.\n\n\n\n\nMAIN RESPONSIBILITIES\n\n - Own your surface end to end. Core account lifecycle experience is yours. On occasion, you'll also shape internal tools or Support Center flows where they touch the core account experience. From raw insight or vague ticket to a clear problem statement, explored directions, and a shipped, measured solution.\n\n - Push the problem, not just the pixels. You'll surface assumptions early with your PO and engineers, challenge briefs when the evidence points elsewhere, and sometimes make the call that the best design is removing a flow entirely.\n\n - Craft with the system. Apply our design system without losing intent and help it grow. When you spot a gap, you propose the component, not the workaround.\n\n - Ship, don't just design. Back your decisions with evidence while partnering with UX Research or running validation yourself. Stay close to engineers through the build and own Design QA so what ships is what you intended.\n\n - Collaborate like it's one team. You'll work daily with POs and engineers, and partner with UX writers and researchers where their craft matters most — because on account surfaces, the right words carry as much weight as the right flow.\n\n\n\n\nCORE REQUIREMENTS\n\n - Proven product design experience. 3+ years designing web products end to end; experience with account, subscription, or platform surfaces is a strong plus.\n\n - Fluent in systems, sensitive to detail. Design systems are your default starting point, and the small things — states, edge cases, microcopy — don't escape you.\n\n - Comfortable in ambiguity. Unclear inputs don't stall you; they're where you do your best shaping.\n\n - Curious about the business side. Retention, trust, and self-service metrics aren't someone else's job — they inform how you design.\n\n - Clear communication. Plain language, direct feedback, no ego — you raise the quality of every conversation you're in. Fluent in English.\n   \n   \n\n \n\n\nWHAT WE OFFER\n\n - Sharpen your edge: training, mentorship, and room to grow — always.\n   \n   \n\n - Take the time you need: extra vacation days, sick days, and time off when life calls.\n   \n   \n\n - Get premium healthcare: private health insurance in Lithuania and Poland — fully covered.\n   \n   \n\n - Protect your peace: enjoy free subscriptions to Calm, Headspace, and Mindletic, and our own resilience and mindfulness trainings.\n   \n   \n\n - Own your fitness: in-house gyms, sport cards, online workouts, and personal guidance — on us.\n   \n   \n\n - Pack your bags for workation: experience our company-wide trip abroad to the fullest.\n   \n   \n\n - Work from anywhere: work from wherever keeps you in the zone.\n   \n   \n\n - Celebrate your milestones: birthdays, weddings, and new family members — all deserve a gift.\n   \n   \n\n - Parent with ease: children’s summer camps and flexibility around the schedule — because parenting never pauses.\n   \n   \n\n - Join the party: team building and company events people talk about for months.\n   \n   \n\n - Unlock Cyber City: coffee bar, open gyms, kids’ room, music room, massage chairs — our Vilnius HQ is yours to enjoy.\n\n\n\n\n\nKindly refer to our Privacy Notice for Recruitment Candidates https://drive.google.com/file/d/1b2tV684_SYV1jQ4kuf91cnzrRBk3ef-5/view for comprehensive information regarding our data handling procedures throughout recruitment processes.\n\nWe expect all candidates to provide accurate and complete information during the recruitment process. While limited use of AI tools to refine application materials is acceptable, candidates remain fully responsible for ensuring that their submissions reflect their own qualifications, skills, and experience. Any failure to do so may negatively affect participation in the recruitment process. If broader AI assistance is allowed for a particular role or stage, we’ll let you know in advance.\n\nBy submitting your application, you acknowledge that it may be processed using automated tools for evaluation purposes. As part of our recruitment process, we may use an AI-based application review tool to help assess applications based on skills and experience relevant to the role. This technology is used to support - not replace - human decision-making, and every application is ultimately reviewed by a recruiter.\n\nIf you would like more information about how AI is used in this process or wish to exercise your rights under applicable data privacy laws, please contact us at privacy@nordaccount.com. Should you prefer to opt out of the automated evaluation, please submit your application directly to career@nordsec.com.",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "ashby:nord-security:b7676d44-526e-418b-b20f-49029f735c7e",
+      "atsProvider": "ashby",
+      "company": "Nord Security",
+      "title": "Product Designer | NordVPN Apps | Senior ",
+      "location": "Warsaw",
+      "url": "https://jobs.ashbyhq.com/nord-security/b7676d44-526e-418b-b20f-49029f735c7e",
+      "postedAt": "2026-10-20T13:34:24.080+00:00",
+      "description": "THE WORLD’S MOST ADVANCED VPN, AND A WHOLE LOT MORE.\n\nIf you’re a curious problem-solver who carves their own path, join the team behind Threat Protection Pro, the NordLynx protocol, and the fastest VPN on the planet—tools that put privacy, security, and control back in people’s hands.\n\nYour impact? Helping millions take back control of their online security, privacy, and data.\n\nThe Design Team is a dynamic, multidisciplinary group of Product designers, Web designers, UX researchers, UX writers, and Graphic designers. We're building the future of digital freedom across our cybersecurity suite products, such as NordVPN, NordPass, Saily & Coveron. We are helping millions of users own their online lives. We aim to simplify the complex world of cybersecurity for everyone. We thrive on honest feedback to help each other grow and believe in the freedom to take initiative, be bold, and run with new ideas.\n\nWe're looking for a Product Designer to join our NordVPN Apps Design team. This position is about owning the design for your squad, running your projects end to end, and increasingly questioning the brief, not just delivering on it.\n\n \n\n\nMAIN RESPONSIBILITIES\n\n - Own the whole flow. Design experiences that feel native on iOS, Android, macOS, Windows, and browser extensions while staying recognizably Nord. Explore multiple directions, you’ll think through problems from the ground up, instead of copying what's been done before and always know the why behind your choices.\n\n - Push the problem, not just the pixels. You'll surface assumptions early with your PO and engineers, challenge briefs when the evidence points elsewhere, and sometimes make the call that the best design is removing a flow entirely.\n\n - Craft with the system. Apply our design system without losing intent and help it grow. When you spot a gap, you propose the component, not the workaround.\n\n - Ship, don't just design. Back your decisions with evidence while partnering with UX Research or running validation yourself. Stay close to engineers through the build and own Design QA so what ships is what you intended.\n\n \n\n\nCORE REQUIREMENTS\n\n - Experience: 3+ years in product design (mobile & desktop apps), with work that shows fluency across platforms and growing ownership of complex problems.\n\n - Smart prototyping: You pick the right tool for the question. Quick mockups for flow logic, high-fidelity prototypes when the interaction needs to feel real, AI when you need breadth fast. Prototype with real data.\n\n - Ownership and communication: You handle disagreement constructively, bring engineering realities in before they become blockers, and earn the kind of trust that gets you invited in early.\n\n - Attention to detail: You have a meticulous eye for visual and interaction details while crafting high-quality, user-friendly experiences.\n   \n    \n\n\n ADDITIONAL\n\n - Experience designing accessible and inclusive interfaces for people with disabilities is a strong plus. Understanding how to apply WCAG conformance criteria in design is highly valued.\n\n - Experience in motion design.\n\n\nWHAT WE OFFER\n\n - Sharpen your edge: training, mentorship, and room to grow — always.\n   \n   \n\n - Take the time you need: extra vacation days, sick days, and time off when life calls.\n   \n   \n\n - Get premium healthcare: private health insurance in Lithuania and Poland — fully covered.\n   \n   \n\n - Protect your peace: enjoy free subscriptions to Calm, Headspace, and Mindletic, and our own resilience and mindfulness trainings.\n   \n   \n\n - Own your fitness: in-house gyms, sport cards, online workouts, and personal guidance — on us.\n   \n   \n\n - Pack your bags for workation: experience our company-wide trip abroad to the fullest.\n   \n   \n\n - Work from anywhere: work from wherever keeps you in the zone.\n   \n   \n\n - Celebrate your milestones: birthdays, weddings, and new family members — all deserve a gift.\n   \n   \n\n - Parent with ease: children’s summer camps and flexibility around the schedule — because parenting never pauses.\n   \n   \n\n - Join the party: team building and company events people talk about for months.\n   \n   \n\n - Unlock Cyber City: coffee bar, open gyms, kids’ room, music room, massage chairs — our Vilnius HQ is yours to enjoy.\n\n\n\n\n\nKindly refer to our Privacy Notice for Recruitment Candidates https://drive.google.com/file/d/1b2tV684_SYV1jQ4kuf91cnzrRBk3ef-5/view for comprehensive information regarding our data handling procedures throughout recruitment processes.\n\nWe expect all candidates to provide accurate and complete information during the recruitment process. While limited use of AI tools to refine application materials is acceptable, candidates remain fully responsible for ensuring that their submissions reflect their own qualifications, skills, and experience. Any failure to do so may negatively affect participation in the recruitment process. If broader AI assistance is allowed for a particular role or stage, we’ll let you know in advance.\n\nBy submitting your application, you acknowledge that it may be processed using automated tools for evaluation purposes. As part of our recruitment process, we may use an AI-based application review tool to help assess applications based on skills and experience relevant to the role. This technology is used to support - not replace - human decision-making, and every application is ultimately reviewed by a recruiter.\n\nIf you would like more information about how AI is used in this process or wish to exercise your rights under applicable data privacy laws, please contact us at privacy@nordaccount.com. Should you prefer to opt out of the automated evaluation, please submit your application directly to career@nordsec.com.",
       "roleFamily": "uiux"
     },
     {
@@ -270,7 +248,7 @@
       "location": "United Kingdom",
       "url": "https://remoteOK.com/remote-jobs/remote-product-design-director-midnite-1137497",
       "postedAt": "2026-10-11T16:00:03+00:00",
-      "description": "<p style=\"min-height:1.5em\"><strong>ð Why Midnite?</strong></p><p style=\"min-height:1.5em\">Midnite is a next-generation sports betting and gaming platform built for a new wave of players.</p><p style=\"min-height:1.5em\">We combine sharp product thinking, bold brand, and fast execution to create experiences that feel modern, intuitive, and built for how people actually play today.</p><p style=\"min-height:1.5em\">Over 400,000 players have already made the move, and weâre only just getting started.</p><p style=\"min-height:1.5em\">Weâre a high-performance team operating at pace. High ownership. Constant iteration. No hiding behind processes. We move quickly, test relentlessly, and turn ambitious ideas into real impact. If youâre driven, creative, and thrive in fast-moving environments where you can shape meaningful outcomes - keep reading.</p><p style=\"min-height:1.5em\">Not your grandadâs bookie.</p><p style=\"min-height:1.5em\"><strong>ð The Role</strong></p><p style=\"min-height:1.5em\"><strong>Title:</strong> Product Design Director</p><p style=\"min-height:1.5em\"><strong>Team:</strong> Design</p><p style=\"min-height:1.5em\"><strong>Location:</strong> Remote, UK</p><p style=\"min-height:1.5em\">Experience quality is one of the clearest ways Midnite differentiates in a category that too often settles for functional and familiar. As a Product Design Director, you will ensure craft, quality and ambition remain central to how we build, as we scale. You will lead Product Design, shape company wide experience direction, and embed Design in the most important product decisions. This is a role with real influence, accountable for how Midnite feels across every surface and responsible for raising the bar as we grow.</p><p style=\"min-height:1.5em\"><strong>You will:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Lead and develop our Product Design team, line managing five designers and setting a clear standard for craft, judgement and ownership.</p></li><li><p style=\"min-height:1.5em\">Define and uphold the experience bar across all product surfaces, from customer facing native and web to back office platforms.</p></li><li><p style=\"min-height:1.5em\">Ensure coherence across squads and journeys so Midnite feels like one joined up system rather than a collection of features.</p></li><li><p style=\"min-height:1.5em\">Shape the long term experience direction and codify principles that guide teams toward a shared north star.</p></li><li><p style=\"min-height:1.5em\">Mature and drive adoption of our design systems to enable both speed and consistency at scale.</p></li><li><p style=\"min-height:1.5em\">Partner closely with Product and Engineering leadership on strategy, early problem framing and complex trade offs.</p></li><li><p style=\"min-height:1.5em\">Contribute hands on to Midniteâs most complex and high impact initiatives, elevating outcomes through strong visual and interaction design.</p></li><li><p style=\"min-height:1.5em\">Collaborate with Brand, Creative, Growth, CRM and Games to ensure the end to end customer experience is cohesive and well crafted.</p></li><li><p style=\"min-height:1.5em\">Explore and integrate emerging technologies, including AI, where they meaningfully improve how we design and build.</p></li><li><p style=\"min-height:1.5em\">Strengthen the structures and standards that allow experience quality to scale as the company grows</p></li></ul><p style=\"min-height:1.5em\"><strong>The next Midniter:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Sets and defends a high bar for visual and interaction design, with exceptional taste and strong product instincts.</p></li><li><p style=\"min-height:1.5em\">Has operated at scale, shaping design direction across multiple teams and surfaces.</p></li><li><p style=\"min-height:1.5em\">Has built or matured design systems that improve consistency and enable teams to move faster without sacrificing quality.</p></li><li><p style=\"min-height:1.5em\">Brings hands on craft capability and is comfortable directly contributing to high stakes initiatives.</p></li><li><p style=\"min-height:1.5em\">Is a trusted strategic partner to Product and Engineering leaders, contributing meaningfully to roadmap direction and key decisions.</p></li><li><p style=\"min-height:1.5em\">Develops designers through thoughtful feedback, coaching and hiring, steadily raising overall team capability.</p></li><li><p style=\"min-height:1.5em\">Communicates clearly and practically, influencing across disciplines and levels of seniority.</p></li><li><p style=\"min-height:1.5em\">Is curious about emerging technologies, including AI, and thoughtful about where they add real value.</p></li><li><p style=\"min-height:1.5em\">Cares deeply about building well designed digital products, from simplifying complex systems to refining interaction, motion and hierarchy.</p></li></ul><p style=\"min-height:1.5em\"><strong>ð° Winnings</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Private health insurance with zero excess, including optical cover and optional dental.</p></li><li><p style=\"min-height:1.5em\">Income protection to protect your earnings and give you peace of mind.</p></li><li><p style=\"min-height:1.5em\">Tenure holiday policy. After three years you receive an extra two days leave, increasing to 30 days annually after five years.</p></li><li><p style=\"min-height:1.5em\">Flexible working and a fully supported home office setup so you can do your best work from home.</p></li><li><p style=\"min-height:1.5em\">Nursery salary sacrifice scheme helping parents save thousands each year on nursery fees.</p></li><li><p style=\"min-height:1.5em\">Salary sacrifice schemes for tech and holidays so you can spread the cost of the things you want.</p></li><li><p style=\"min-height:1.5em\">Retail discounts and subscription perks across a wide range of brands.</p></li><li><p style=\"min-height:1.5em\">Quarterly team socials to connect, celebrate and have fun together.</p></li></ul><p style=\"min-height:1.5em\">At Midnite, we are committed to creating equal opportunities for everyone. We actively strive to build balanced teams that reflect the diversity of our communities, including ethnic minorities, people with disabilities, the LGBTQIA+ community, and all genders.</p><p style=\"min-height:1.5em\">We aim to provide an inclusive and supportive interview experience for all candidates. If you require any reasonable adjustments, please let us know in advance so we can ensure you feel comfortable and set up for success.</p><br/><br/>Please mention the word **FANTASTICALLY** and tag RNTIuMjQwLjE2OC4xOTQ= when applying to show you read the job post completely (#RNTIuMjQwLjE2OC4xOTQ=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "<p style=\"min-height:1.5em\"><strong>ð Why Midnite?</strong></p><p style=\"min-height:1.5em\">Midnite is a next-generation sports betting and gaming platform built for a new wave of players.</p><p style=\"min-height:1.5em\">We combine sharp product thinking, bold brand, and fast execution to create experiences that feel modern, intuitive, and built for how people actually play today.</p><p style=\"min-height:1.5em\">Over 400,000 players have already made the move, and weâre only just getting started.</p><p style=\"min-height:1.5em\">Weâre a high-performance team operating at pace. High ownership. Constant iteration. No hiding behind processes. We move quickly, test relentlessly, and turn ambitious ideas into real impact. If youâre driven, creative, and thrive in fast-moving environments where you can shape meaningful outcomes - keep reading.</p><p style=\"min-height:1.5em\">Not your grandadâs bookie.</p><p style=\"min-height:1.5em\"><strong>ð The Role</strong></p><p style=\"min-height:1.5em\"><strong>Title:</strong> Product Design Director</p><p style=\"min-height:1.5em\"><strong>Team:</strong> Design</p><p style=\"min-height:1.5em\"><strong>Location:</strong> Remote, UK</p><p style=\"min-height:1.5em\">Experience quality is one of the clearest ways Midnite differentiates in a category that too often settles for functional and familiar. As a Product Design Director, you will ensure craft, quality and ambition remain central to how we build, as we scale. You will lead Product Design, shape company wide experience direction, and embed Design in the most important product decisions. This is a role with real influence, accountable for how Midnite feels across every surface and responsible for raising the bar as we grow.</p><p style=\"min-height:1.5em\"><strong>You will:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Lead and develop our Product Design team, line managing five designers and setting a clear standard for craft, judgement and ownership.</p></li><li><p style=\"min-height:1.5em\">Define and uphold the experience bar across all product surfaces, from customer facing native and web to back office platforms.</p></li><li><p style=\"min-height:1.5em\">Ensure coherence across squads and journeys so Midnite feels like one joined up system rather than a collection of features.</p></li><li><p style=\"min-height:1.5em\">Shape the long term experience direction and codify principles that guide teams toward a shared north star.</p></li><li><p style=\"min-height:1.5em\">Mature and drive adoption of our design systems to enable both speed and consistency at scale.</p></li><li><p style=\"min-height:1.5em\">Partner closely with Product and Engineering leadership on strategy, early problem framing and complex trade offs.</p></li><li><p style=\"min-height:1.5em\">Contribute hands on to Midniteâs most complex and high impact initiatives, elevating outcomes through strong visual and interaction design.</p></li><li><p style=\"min-height:1.5em\">Collaborate with Brand, Creative, Growth, CRM and Games to ensure the end to end customer experience is cohesive and well crafted.</p></li><li><p style=\"min-height:1.5em\">Explore and integrate emerging technologies, including AI, where they meaningfully improve how we design and build.</p></li><li><p style=\"min-height:1.5em\">Strengthen the structures and standards that allow experience quality to scale as the company grows</p></li></ul><p style=\"min-height:1.5em\"><strong>The next Midniter:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Sets and defends a high bar for visual and interaction design, with exceptional taste and strong product instincts.</p></li><li><p style=\"min-height:1.5em\">Has operated at scale, shaping design direction across multiple teams and surfaces.</p></li><li><p style=\"min-height:1.5em\">Has built or matured design systems that improve consistency and enable teams to move faster without sacrificing quality.</p></li><li><p style=\"min-height:1.5em\">Brings hands on craft capability and is comfortable directly contributing to high stakes initiatives.</p></li><li><p style=\"min-height:1.5em\">Is a trusted strategic partner to Product and Engineering leaders, contributing meaningfully to roadmap direction and key decisions.</p></li><li><p style=\"min-height:1.5em\">Develops designers through thoughtful feedback, coaching and hiring, steadily raising overall team capability.</p></li><li><p style=\"min-height:1.5em\">Communicates clearly and practically, influencing across disciplines and levels of seniority.</p></li><li><p style=\"min-height:1.5em\">Is curious about emerging technologies, including AI, and thoughtful about where they add real value.</p></li><li><p style=\"min-height:1.5em\">Cares deeply about building well designed digital products, from simplifying complex systems to refining interaction, motion and hierarchy.</p></li></ul><p style=\"min-height:1.5em\"><strong>ð° Winnings</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Private health insurance with zero excess, including optical cover and optional dental.</p></li><li><p style=\"min-height:1.5em\">Income protection to protect your earnings and give you peace of mind.</p></li><li><p style=\"min-height:1.5em\">Tenure holiday policy. After three years you receive an extra two days leave, increasing to 30 days annually after five years.</p></li><li><p style=\"min-height:1.5em\">Flexible working and a fully supported home office setup so you can do your best work from home.</p></li><li><p style=\"min-height:1.5em\">Nursery salary sacrifice scheme helping parents save thousands each year on nursery fees.</p></li><li><p style=\"min-height:1.5em\">Salary sacrifice schemes for tech and holidays so you can spread the cost of the things you want.</p></li><li><p style=\"min-height:1.5em\">Retail discounts and subscription perks across a wide range of brands.</p></li><li><p style=\"min-height:1.5em\">Quarterly team socials to connect, celebrate and have fun together.</p></li></ul><p style=\"min-height:1.5em\">At Midnite, we are committed to creating equal opportunities for everyone. We actively strive to build balanced teams that reflect the diversity of our communities, including ethnic minorities, people with disabilities, the LGBTQIA+ community, and all genders.</p><p style=\"min-height:1.5em\">We aim to provide an inclusive and supportive interview experience for all candidates. If you require any reasonable adjustments, please let us know in advance so we can ensure you feel comfortable and set up for success.</p><br/><br/>Please mention the word **FANTASTICALLY** and tag RNDguMjE3LjE0OC44Nw== when applying to show you read the job post completely (#RNDguMjE3LjE0OC44Nw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "roleFamily": "uiux"
     },
     {
@@ -318,15 +296,26 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "web3career:155403",
+      "id": "jobspresso:product-owner-xsolla-partner-network",
+      "atsProvider": "jobspresso",
+      "company": "Xsolla",
+      "title": "Product Owner, Xsolla Partner Network",
+      "location": "Worldwide",
+      "url": "https://jobspresso.co/job/product-owner-xsolla-partner-network/",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "description": "About you We are looking for a Product Owner to join the team behind Xsolla Partner Network (XPN). The role is based in the US, and we’re open to strong candidates globally. Partner Network connects game publishers with content creators to drive discovery, engagement, and revenue. XPN is a two-sided marketplace. We help publishers run",
+      "roleFamily": "product-owner"
+    },
+    {
+      "id": "web3career:155609",
       "atsProvider": "web3career",
-      "company": "molecule.xyz",
-      "title": "Senior Product Designer",
-      "location": "Remote",
-      "url": "https://web3.career/senior-product-designer-molecule-xyz/155403",
-      "postedAt": "2026-10-14T05:12:22.188Z",
+      "company": "P2P. org",
+      "title": "Product Designer new product",
+      "location": "Kazakhstan",
+      "url": "https://web3.career/product-designer-new-product-p2p-org/155609",
+      "postedAt": "2026-10-20T19:13:56.461Z",
       "description": "",
-      "roleFamily": "senior-pd"
+      "roleFamily": "uiux"
     },
     {
       "id": "web3career:151678",
@@ -335,18 +324,29 @@
       "title": "Senior Product Designer Securities",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-securities-bitpanda/151678",
-      "postedAt": "2026-10-14T05:12:22.189Z",
+      "postedAt": "2026-10-20T18:13:56.461Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
     {
-      "id": "web3career:154752",
+      "id": "web3career:155568",
       "atsProvider": "web3career",
-      "company": "Coin Market Cap Ltd",
-      "title": "Senior Product Designer CoinGlass",
-      "location": "Dubai, United Arab Emirates",
-      "url": "https://web3.career/senior-product-designer-coinglass-coinmarketcap/154752",
-      "postedAt": "2026-09-30T05:12:22.189Z",
+      "company": "Saifuro",
+      "title": "Product Designer Web3",
+      "location": "Remote",
+      "url": "https://web3.career/product-designer-web3-saifuro/155568",
+      "postedAt": "2026-10-20T14:13:56.462Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "web3career:155403",
+      "atsProvider": "web3career",
+      "company": "molecule.xyz",
+      "title": "Senior Product Designer",
+      "location": "Remote",
+      "url": "https://web3.career/senior-product-designer-molecule-xyz/155403",
+      "postedAt": "2026-10-14T05:13:56.463Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -393,6 +393,17 @@
       "postedAt": "2026-10-08T12:42:15.000Z",
       "description": "",
       "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:accel:97472593",
+      "atsProvider": "getro",
+      "company": "Cloudera",
+      "title": "Lead Product Designer",
+      "location": "Budapest, Hungary",
+      "url": "https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Hungary--Budapest/Lead-Product-Designer_261413-1",
+      "postedAt": "2026-10-20T10:22:22.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
     },
     {
       "id": "getro:accel:97412350",
@@ -549,23 +560,23 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "getro:accel:96843423",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "UX Designer - Developer experience",
-      "location": "",
-      "url": "https://remote.com/jobs/canonical-c11tjiq0/ux-designer-developer-experience-j1ue6b5i",
-      "postedAt": "2026-10-13T13:59:05.000Z",
-      "description": "",
-      "roleFamily": "uiux"
-    },
-    {
       "id": "getro:accel:96843422",
       "atsProvider": "getro",
       "company": "Remote",
       "title": "UX Designer - Design systems",
       "location": "",
       "url": "https://remote.com/jobs/canonical-c11tjiq0/ux-designer-design-systems-j1xcczc3",
+      "postedAt": "2026-10-13T13:59:05.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:accel:96843423",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "UX Designer - Developer experience",
+      "location": "",
+      "url": "https://remote.com/jobs/canonical-c11tjiq0/ux-designer-developer-experience-j1ue6b5i",
       "postedAt": "2026-10-13T13:59:05.000Z",
       "description": "",
       "roleFamily": "uiux"
@@ -692,6 +703,28 @@
       "roleFamily": "lead-pd"
     },
     {
+      "id": "getro:accel:96839965",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "Senior Product Designer II, Growth (Remote US)",
+      "location": "",
+      "url": "https://remote.com/jobs/splice-c1ixonha/senior-product-designer-ii-growth-remote-us-j1h5nnu1",
+      "postedAt": "2026-10-13T13:57:03.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:accel:96839869",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "Staff Product Designer (Contract)",
+      "location": "",
+      "url": "https://remote.com/jobs/flex-c1kcyo70/staff-product-designer-contract-j163svlt",
+      "postedAt": "2026-10-13T13:56:59.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
       "id": "getro:accel:97378828",
       "atsProvider": "getro",
       "company": "Spindle Ai (spindle.ai)",
@@ -813,6 +846,17 @@
       "roleFamily": "product-owner"
     },
     {
+      "id": "getro:accel:95858029",
+      "atsProvider": "getro",
+      "company": "Causal",
+      "title": "Senior Salesforce Product Owner",
+      "location": "Germany",
+      "url": "https://boards.greenhouse.io/lucanetgroup/jobs/4987517101",
+      "postedAt": "2026-10-05T12:47:38.000Z",
+      "description": "",
+      "roleFamily": "product-owner"
+    },
+    {
       "id": "getro:accel:95679220",
       "atsProvider": "getro",
       "company": "Airkit",
@@ -822,28 +866,6 @@
       "postedAt": "2026-10-03T11:44:19.000Z",
       "description": "",
       "roleFamily": "product-owner"
-    },
-    {
-      "id": "getro:hv-capital:95327895",
-      "atsProvider": "getro",
-      "company": "ecoplanet",
-      "title": "Product Designer (m/f/d) — Energy Insights",
-      "location": "Munich, Germany",
-      "url": "https://ecoplanet-green-operations-gmbh.jobs.personio.de/job/2819787",
-      "postedAt": "2026-09-30T13:32:25.000Z",
-      "description": "",
-      "roleFamily": "uiux"
-    },
-    {
-      "id": "getro:hv-capital:95150272",
-      "atsProvider": "getro",
-      "company": "Packmatic",
-      "title": "(Senior) Product Designer - Systems & AI (m/w/d) - B2B SaaS | Berlin (hybrid)",
-      "location": "Berlin, Germany",
-      "url": "https://jobs.lever.co/Packmatic/2ddb4798-7eec-4c4f-be6d-1f8ea630ab9b",
-      "postedAt": "2026-09-29T13:45:54.000Z",
-      "description": "",
-      "roleFamily": "uiux"
     },
     {
       "id": "getro:hv-capital:97012677",
@@ -888,6 +910,17 @@
       "postedAt": "2026-10-04T12:13:47.000Z",
       "description": "",
       "roleFamily": "product-owner"
+    },
+    {
+      "id": "getro:seedcamp:97535444",
+      "atsProvider": "getro",
+      "company": "Yonder",
+      "title": "Product Designer",
+      "location": "London, UK",
+      "url": "https://yonder.teamtailor.com/jobs/8571147-product-designer",
+      "postedAt": "2026-10-20T12:39:37.000Z",
+      "description": "",
+      "roleFamily": "uiux"
     },
     {
       "id": "getro:insight-partners:97227958",
@@ -1011,6 +1044,28 @@
       "roleFamily": "product-owner"
     },
     {
+      "id": "getro:general-catalyst:97515643",
+      "atsProvider": "getro",
+      "company": "ClassPass",
+      "title": "Senior Product Designer, New Verticals (AI Products)",
+      "location": "",
+      "url": "https://co.mindbodyonline.com/careers/opportunities/4718486006",
+      "postedAt": "2026-10-20T12:10:06.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:general-catalyst:97470532",
+      "atsProvider": "getro",
+      "company": "Grammarly",
+      "title": "Senior Product Designer, Docs",
+      "location": "Porto, Portugal",
+      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/53b348fa-e47d-4995-aa8e-dc8cd69f9b2a",
+      "postedAt": "2026-10-20T10:09:34.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
       "id": "getro:general-catalyst:97425240",
       "atsProvider": "getro",
       "company": "Coda",
@@ -1077,28 +1132,6 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "getro:general-catalyst:96839965",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Senior Product Designer II, Growth (Remote US)",
-      "location": "",
-      "url": "https://remote.com/jobs/splice-c1ixonha/senior-product-designer-ii-growth-remote-us-j1h5nnu1",
-      "postedAt": "2026-10-13T13:57:03.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
-    },
-    {
-      "id": "getro:general-catalyst:96839869",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Staff Product Designer (Contract)",
-      "location": "",
-      "url": "https://remote.com/jobs/flex-c1kcyo70/staff-product-designer-contract-j163svlt",
-      "postedAt": "2026-10-13T13:56:59.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
       "id": "getro:general-catalyst:96839816",
       "atsProvider": "getro",
       "company": "Remote",
@@ -1110,23 +1143,23 @@
       "roleFamily": "lead-pd"
     },
     {
-      "id": "getro:general-catalyst:96839531",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Lead Product Designer",
-      "location": "",
-      "url": "https://remote.com/jobs/highlevel-c1hwimg3/lead-product-designer-j1w1zaq4",
-      "postedAt": "2026-10-13T13:56:49.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
       "id": "getro:general-catalyst:96839528",
       "atsProvider": "getro",
       "company": "Remote",
       "title": "Lead Product Designer - Builder",
       "location": "",
       "url": "https://remote.com/jobs/highlevel-c1hwimg3/lead-product-designer-builder-j1thd1co",
+      "postedAt": "2026-10-13T13:56:49.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:general-catalyst:96839518",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "Lead Product Designer",
+      "location": "",
+      "url": "https://remote.com/jobs/highlevel-c1hwimg3/lead-product-designer-j1nrt9dd",
       "postedAt": "2026-10-13T13:56:49.000Z",
       "description": "",
       "roleFamily": "lead-pd"
@@ -1227,6 +1260,17 @@
       "location": "",
       "url": "https://remote.com/jobs/boosta-c1fb12fw/senior-ui-ux-designer-logos-j10wbbeq",
       "postedAt": "2026-10-13T13:55:45.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:general-catalyst:96836772",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "Associate Product Designer",
+      "location": "",
+      "url": "https://remote.com/jobs/srs-acquiom-c1ssyyvm/associate-product-designer-j1rcbzgr",
+      "postedAt": "2026-10-13T13:55:18.000Z",
       "description": "",
       "roleFamily": "uiux"
     }
