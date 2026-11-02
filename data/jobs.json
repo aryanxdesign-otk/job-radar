@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-01T06:43:39.305Z",
-  "filteredAt": "2026-11-01T06:43:41.016Z",
+  "generatedAt": "2026-11-02T06:43:50.150Z",
+  "filteredAt": "2026-11-02T06:43:51.820Z",
   "funnel": {
-    "raw": 16813,
-    "deduped": 14033,
-    "titleMatched": 439,
-    "recencyPassed": 196,
-    "geoPassed": 113
+    "raw": 16731,
+    "deduped": 13964,
+    "titleMatched": 436,
+    "recencyPassed": 195,
+    "geoPassed": 111
   },
   "jobs": [
     {
@@ -41,17 +41,6 @@
       "postedAt": "2026-10-21T17:27:06.994Z",
       "description": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers.\nSpotify runs on the tools we've built for ourselves. They help hundreds of teams ship every day to hundreds of millions of people around the world. Now, we're sharing them.\nSpotify Technology brings our proven tools and services together for engineering organisations everywhere, from global enterprises to individual developers. As AI reshapes how software gets made, we're building on years of experience solving complex engineering challenges at scale.\nPlatform Design makes these powerful tools feel effortless. We shape the services, products and experiences used by Spotify's engineering teams and by developers around the world. We believe great design is a competitive advantage, and developer tools deserve the same care and craft as any consumer product.\nAs a Staff Product Designer, you'll combine product leadership with hands-on design and engineering. You'll shape the experience strategy for a key part of the Spotify Technology portfolio, establish a distinctive visual language, and turn internal tools into products customers love using. You'll work closely with product, engineering and marketing partners, reporting to the Spotify Technology Design Director.\n",
       "roleFamily": "lead-pd"
-    },
-    {
-      "id": "workable:exotec:9405958AD8",
-      "atsProvider": "workable",
-      "company": "Exotec",
-      "title": "Product Owner (Solutions Collaboratives & Applications Métier)",
-      "location": "Lille, France",
-      "url": "https://apply.workable.com/j/9405958AD8",
-      "postedAt": "2026-10-12",
-      "description": "<p>Chez&nbsp;Exotec, nous mettons l’excellence technologique au service de la redéfinition des relations entre humains et robots. A travers le monde, nos solutions révolutionnent la façon dont nos client·e·s délivrent leurs produits aux personnes consommatrices finales. Nous contribuons au succès des plus grandes marques du commerce et de l’industrie, tout en améliorant les conditions de travail de leurs salarié·e·s.</p><p>Par l’alliance de l’intelligence artificielle et d’un hardware performant, nos robots sont désormais déployés dans le monde entier et leur succès a fait de nous la première licorne industrielle française.</p><p>Rejoindre&nbsp;Exotec, c’est l’opportunité de donner du sens à vos compétences. Grandissez avec nos ExoPeople dans le monde entier pour faire de vos idées, des réalités.</p><p>La révolution robotique portée par Exotec ne fait que commencer, vous en êtes ?</p><p><strong>Votre rôle</strong></p><p>Au sein de la DSI d’Exotec, vous êtes responsable d’un portefeuille de solutions collaboratives et d’applications métier utilisées par plus de 1 000 collaborateurs en Europe, aux États-Unis et au Japon.</p><p>Vous pilotez leur évolution de bout en bout, de l’analyse des besoins métiers à la conception fonctionnelle, jusqu’au déploiement et à l’adoption. Vous intervenez notamment sur l’écosystème Microsoft 365 (Teams, SharePoint, Power Platform, Copilot…) et Koddex, notre plateforme de gestion des connaissances et des processus internes.</p><p>À l’interface entre les métiers et les équipes techniques, vous traduisez les besoins en solutions concrètes, en vous appuyant sur une compréhension approfondie des plateformes, de leurs possibilités et de leurs contraintes. Vous êtes garant de la valeur délivrée, de la qualité des solutions et de leur adoption durable.</p><p><strong>Vos missions</strong></p><ul><li><strong>Définir la stratégie produit :</strong> construire la roadmap, prioriser les évolutions et piloter la valeur du portefeuille en fonction des besoins métiers et des résultats attendus.</li><li><strong>Concevoir les solutions fonctionnelles :</strong> analyser et challenger les besoins, modéliser les processus, workflows et règles de gestion, puis formaliser les exigences et critères d’acceptation.</li><li><strong>Piloter les évolutions de bout en bout :</strong> travailler avec les équipes techniques et les partenaires, valider la faisabilité, organiser les recettes et sécuriser les mises en production.</li><li><strong>Développer l’adoption :</strong> accompagner les changements d’usage, mesurer l’utilisation et la satisfaction, et piloter l’amélioration continue à partir des retours utilisateurs.</li><li><strong>Garantir la gouvernance du portefeuille :</strong> assurer la cohérence des solutions, maîtriser les risques et les dépendances, et piloter les relations avec les éditeurs et partenaires.</li></ul><p><br><strong>Votre profil</strong></p><ul><li>Vous avez une expérience confirmée en Product Ownership ou en pilotage de solutions applicatives, idéalement sur une plateforme utilisée par plus de 1 000 utilisateurs.</li><li>Vous avez déjà piloté concrètement des évolutions, de l’expression du besoin à la conception fonctionnelle, au déploiement et à l’adoption.</li><li>Vous comprenez le fonctionnement des plateformes SaaS ou low-code et savez modéliser des processus et des solutions fonctionnelles en lien avec les équipes techniques.</li><li>Vous connaissez l’écosystème Microsoft 365, notamment Teams, SharePoint et Power Platform. Une expérience de Koddex ou d’une plateforme comparable constitue un atout.</li><li>Vous maîtrisez les pratiques Agile et savez arbitrer les priorités en conciliant valeur métier, faisabilité technique, risques et expérience utilisateur.</li><li>Vous êtes autonome, pragmatique, doté d’un bon relationnel et d’un anglais professionnel.<br></li></ul><p><strong>Ce qui fera la différence</strong></p><p>Votre capacité à présenter des réalisations concrètes dont vous avez personnellement assuré la conception fonctionnelle, les arbitrages et le déploiement à grande échelle. Au-delà de la gestion de backlog, nous recherchons une personne capable de comprendre les plateformes, d’en exploiter les possibilités et de transformer les besoins métiers en solutions opérationnelles.</p><p><strong>Benefits</strong></p><ul><li>Couverture mutuelle et prévoyance santé compétitive</li><li>Politique famille avantageuse</li><li>Programme de mobilité interne et internationale</li><li>Nombreuses opportunités de formation et de développement</li></ul><p>&nbsp;</p><p>Chez Exotec, nous garantissons l’égalité des chances dans notre processus de recrutement. L’ensemble des candidatures reçues sont étudiées indépendamment de l’âge, du genre, de l’origine, de la religion, de la couleur de peau, de la nationalité, du sexe, du handicap, de l’orientation sexuelle ou de toute autre distinction protégée par la loi. Nous mettons en place un environnement de travail inclusif et respectueux de toutes les différences. En rejoignant le Pacte Parité, Exotec s’engage pour un écosystème French Tech plus paritaire.</p>",
-      "roleFamily": "product-owner"
     },
     {
       "id": "teamtailor:propertyfinder:d35f96ca-5a37-4cbb-b28e-e78523d75e2f",
@@ -230,17 +219,6 @@
       "roleFamily": "lead-pd"
     },
     {
-      "id": "remoteok:1137497",
-      "atsProvider": "remoteok",
-      "company": "Midnite",
-      "title": "Product Design Director",
-      "location": "United Kingdom",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-design-director-midnite-1137497",
-      "postedAt": "2026-10-11T16:00:03+00:00",
-      "description": "<p style=\"min-height:1.5em\"><strong>ð Why Midnite?</strong></p><p style=\"min-height:1.5em\">Midnite is a next-generation sports betting and gaming platform built for a new wave of players.</p><p style=\"min-height:1.5em\">We combine sharp product thinking, bold brand, and fast execution to create experiences that feel modern, intuitive, and built for how people actually play today.</p><p style=\"min-height:1.5em\">Over 400,000 players have already made the move, and weâre only just getting started.</p><p style=\"min-height:1.5em\">Weâre a high-performance team operating at pace. High ownership. Constant iteration. No hiding behind processes. We move quickly, test relentlessly, and turn ambitious ideas into real impact. If youâre driven, creative, and thrive in fast-moving environments where you can shape meaningful outcomes - keep reading.</p><p style=\"min-height:1.5em\">Not your grandadâs bookie.</p><p style=\"min-height:1.5em\"><strong>ð The Role</strong></p><p style=\"min-height:1.5em\"><strong>Title:</strong> Product Design Director</p><p style=\"min-height:1.5em\"><strong>Team:</strong> Design</p><p style=\"min-height:1.5em\"><strong>Location:</strong> Remote, UK</p><p style=\"min-height:1.5em\">Experience quality is one of the clearest ways Midnite differentiates in a category that too often settles for functional and familiar. As a Product Design Director, you will ensure craft, quality and ambition remain central to how we build, as we scale. You will lead Product Design, shape company wide experience direction, and embed Design in the most important product decisions. This is a role with real influence, accountable for how Midnite feels across every surface and responsible for raising the bar as we grow.</p><p style=\"min-height:1.5em\"><strong>You will:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Lead and develop our Product Design team, line managing five designers and setting a clear standard for craft, judgement and ownership.</p></li><li><p style=\"min-height:1.5em\">Define and uphold the experience bar across all product surfaces, from customer facing native and web to back office platforms.</p></li><li><p style=\"min-height:1.5em\">Ensure coherence across squads and journeys so Midnite feels like one joined up system rather than a collection of features.</p></li><li><p style=\"min-height:1.5em\">Shape the long term experience direction and codify principles that guide teams toward a shared north star.</p></li><li><p style=\"min-height:1.5em\">Mature and drive adoption of our design systems to enable both speed and consistency at scale.</p></li><li><p style=\"min-height:1.5em\">Partner closely with Product and Engineering leadership on strategy, early problem framing and complex trade offs.</p></li><li><p style=\"min-height:1.5em\">Contribute hands on to Midniteâs most complex and high impact initiatives, elevating outcomes through strong visual and interaction design.</p></li><li><p style=\"min-height:1.5em\">Collaborate with Brand, Creative, Growth, CRM and Games to ensure the end to end customer experience is cohesive and well crafted.</p></li><li><p style=\"min-height:1.5em\">Explore and integrate emerging technologies, including AI, where they meaningfully improve how we design and build.</p></li><li><p style=\"min-height:1.5em\">Strengthen the structures and standards that allow experience quality to scale as the company grows</p></li></ul><p style=\"min-height:1.5em\"><strong>The next Midniter:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Sets and defends a high bar for visual and interaction design, with exceptional taste and strong product instincts.</p></li><li><p style=\"min-height:1.5em\">Has operated at scale, shaping design direction across multiple teams and surfaces.</p></li><li><p style=\"min-height:1.5em\">Has built or matured design systems that improve consistency and enable teams to move faster without sacrificing quality.</p></li><li><p style=\"min-height:1.5em\">Brings hands on craft capability and is comfortable directly contributing to high stakes initiatives.</p></li><li><p style=\"min-height:1.5em\">Is a trusted strategic partner to Product and Engineering leaders, contributing meaningfully to roadmap direction and key decisions.</p></li><li><p style=\"min-height:1.5em\">Develops designers through thoughtful feedback, coaching and hiring, steadily raising overall team capability.</p></li><li><p style=\"min-height:1.5em\">Communicates clearly and practically, influencing across disciplines and levels of seniority.</p></li><li><p style=\"min-height:1.5em\">Is curious about emerging technologies, including AI, and thoughtful about where they add real value.</p></li><li><p style=\"min-height:1.5em\">Cares deeply about building well designed digital products, from simplifying complex systems to refining interaction, motion and hierarchy.</p></li></ul><p style=\"min-height:1.5em\"><strong>ð° Winnings</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Private health insurance with zero excess, including optical cover and optional dental.</p></li><li><p style=\"min-height:1.5em\">Income protection to protect your earnings and give you peace of mind.</p></li><li><p style=\"min-height:1.5em\">Tenure holiday policy. After three years you receive an extra two days leave, increasing to 30 days annually after five years.</p></li><li><p style=\"min-height:1.5em\">Flexible working and a fully supported home office setup so you can do your best work from home.</p></li><li><p style=\"min-height:1.5em\">Nursery salary sacrifice scheme helping parents save thousands each year on nursery fees.</p></li><li><p style=\"min-height:1.5em\">Salary sacrifice schemes for tech and holidays so you can spread the cost of the things you want.</p></li><li><p style=\"min-height:1.5em\">Retail discounts and subscription perks across a wide range of brands.</p></li><li><p style=\"min-height:1.5em\">Quarterly team socials to connect, celebrate and have fun together.</p></li></ul><p style=\"min-height:1.5em\">At Midnite, we are committed to creating equal opportunities for everyone. We actively strive to build balanced teams that reflect the diversity of our communities, including ethnic minorities, people with disabilities, the LGBTQIA+ community, and all genders.</p><p style=\"min-height:1.5em\">We aim to provide an inclusive and supportive interview experience for all candidates. If you require any reasonable adjustments, please let us know in advance so we can ensure you feel comfortable and set up for success.</p><br/><br/>Please mention the word **FANTASTICALLY** and tag RMTcyLjIxNC40NS4xOTM= when applying to show you read the job post completely (#RMTcyLjIxNC40NS4xOTM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "roleFamily": "uiux"
-    },
-    {
       "id": "weworkremotely:remote-design-jobs:https://weworkremotely.com/remote-jobs/maptiler-head-of-design-maps-platform-remote-in-europe",
       "atsProvider": "weworkremotely",
       "company": "MapTiler",
@@ -302,7 +280,7 @@
       "title": "Senior Product Designer Web3",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-web3-bitpanda/155643",
-      "postedAt": "2026-10-29T06:42:00.605Z",
+      "postedAt": "2026-10-29T06:42:06.669Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -313,7 +291,7 @@
       "title": "Product Designer new product",
       "location": "Kazakhstan",
       "url": "https://web3.career/product-designer-new-product-p2p-org/155609",
-      "postedAt": "2026-10-21T06:42:00.606Z",
+      "postedAt": "2026-10-21T06:42:06.670Z",
       "description": "",
       "roleFamily": "uiux"
     },
@@ -324,7 +302,7 @@
       "title": "Senior Product Designer Securities",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-securities-bitpanda/151678",
-      "postedAt": "2026-10-20T06:42:00.606Z",
+      "postedAt": "2026-10-20T06:42:06.670Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -335,7 +313,7 @@
       "title": "Product Designer Web3",
       "location": "Remote",
       "url": "https://web3.career/product-designer-web3-saifuro/155568",
-      "postedAt": "2026-10-20T06:42:00.606Z",
+      "postedAt": "2026-10-20T06:42:06.670Z",
       "description": "",
       "roleFamily": "uiux"
     },
@@ -346,7 +324,7 @@
       "title": "Senior Product Designer",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-molecule-xyz/155403",
-      "postedAt": "2026-10-14T06:42:00.607Z",
+      "postedAt": "2026-10-14T06:42:06.671Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -439,15 +417,15 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "getro:accel:98132140",
+      "id": "getro:accel:98132135",
       "atsProvider": "getro",
       "company": "Remote",
-      "title": "UI/UX Designer - Clearance Required",
+      "title": "Senior Product Designer, Brand & Visual",
       "location": "",
-      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/ui-ux-designer-clearance-required-j13b9yv6",
+      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/senior-product-designer-brand-visual-j1bj0blm",
       "postedAt": "2026-10-27T12:45:13.000Z",
       "description": "",
-      "roleFamily": "uiux"
+      "roleFamily": "senior-pd"
     },
     {
       "id": "getro:accel:98132147",
@@ -461,15 +439,15 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "getro:accel:98132135",
+      "id": "getro:accel:98132140",
       "atsProvider": "getro",
       "company": "Remote",
-      "title": "Senior Product Designer, Brand & Visual",
+      "title": "UI/UX Designer - Clearance Required",
       "location": "",
-      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/senior-product-designer-brand-visual-j1bj0blm",
+      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/ui-ux-designer-clearance-required-j13b9yv6",
       "postedAt": "2026-10-27T12:45:13.000Z",
       "description": "",
-      "roleFamily": "senior-pd"
+      "roleFamily": "uiux"
     },
     {
       "id": "getro:accel:98061985",
@@ -483,23 +461,23 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "getro:accel:98034766",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Product Designer, AI-Native Products (Staff-Level / L6)",
-      "location": "",
-      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/product-designer-ai-native-products-staff-level-l6-j1eonsj6",
-      "postedAt": "2026-10-25T12:23:16.000Z",
-      "description": "",
-      "roleFamily": "uiux"
-    },
-    {
       "id": "getro:accel:98034768",
       "atsProvider": "getro",
       "company": "Remote",
       "title": "UX Designer (Remote)",
       "location": "",
       "url": "https://remote.com/jobs/rainfocus-c155qf2t/ux-designer-remote-j1ne1pu3",
+      "postedAt": "2026-10-25T12:23:16.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:accel:98034766",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "Product Designer, AI-Native Products (Staff-Level / L6)",
+      "location": "",
+      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/product-designer-ai-native-products-staff-level-l6-j1eonsj6",
       "postedAt": "2026-10-25T12:23:16.000Z",
       "description": "",
       "roleFamily": "uiux"
@@ -549,23 +527,23 @@
       "roleFamily": "lead-pd"
     },
     {
-      "id": "getro:accel:97885815",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Staff Product Designer, AI",
-      "location": "",
-      "url": "https://remote.com/jobs/contentsquare-c1e644sf/staff-product-designer-ai-j1n3n5yt",
-      "postedAt": "2026-10-23T12:25:39.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
       "id": "getro:accel:97885820",
       "atsProvider": "getro",
       "company": "Remote",
       "title": "Staff Product Designer - Platform Design",
       "location": "",
       "url": "https://remote.com/jobs/spotify-c125z3sq/staff-product-designer-platform-design-j1ubqfqc",
+      "postedAt": "2026-10-23T12:25:39.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:accel:97885815",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "Staff Product Designer, AI",
+      "location": "",
+      "url": "https://remote.com/jobs/contentsquare-c1e644sf/staff-product-designer-ai-j1n3n5yt",
       "postedAt": "2026-10-23T12:25:39.000Z",
       "description": "",
       "roleFamily": "lead-pd"
@@ -1187,23 +1165,23 @@
       "roleFamily": "lead-pd"
     },
     {
-      "id": "getro:general-catalyst:96839528",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Lead Product Designer - Builder",
-      "location": "",
-      "url": "https://remote.com/jobs/highlevel-c1hwimg3/lead-product-designer-builder-j1thd1co",
-      "postedAt": "2026-10-13T13:56:49.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
       "id": "getro:general-catalyst:96839531",
       "atsProvider": "getro",
       "company": "Remote",
       "title": "Lead Product Designer",
       "location": "",
       "url": "https://remote.com/jobs/highlevel-c1hwimg3/lead-product-designer-j1w1zaq4",
+      "postedAt": "2026-10-13T13:56:49.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:general-catalyst:96839528",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "Lead Product Designer - Builder",
+      "location": "",
+      "url": "https://remote.com/jobs/highlevel-c1hwimg3/lead-product-designer-builder-j1thd1co",
       "postedAt": "2026-10-13T13:56:49.000Z",
       "description": "",
       "roleFamily": "lead-pd"
