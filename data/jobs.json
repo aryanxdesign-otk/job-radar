@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-07T06:28:34.694Z",
-  "filteredAt": "2026-11-07T06:28:36.443Z",
+  "generatedAt": "2026-11-08T06:36:58.310Z",
+  "filteredAt": "2026-11-08T06:37:00.039Z",
   "funnel": {
-    "raw": 16377,
-    "deduped": 13768,
-    "titleMatched": 433,
-    "recencyPassed": 181,
-    "geoPassed": 107
+    "raw": 16400,
+    "deduped": 13752,
+    "titleMatched": 439,
+    "recencyPassed": 194,
+    "geoPassed": 113
   },
   "jobs": [
     {
@@ -285,14 +285,14 @@
       "roleFamily": "lead-pd"
     },
     {
-      "id": "jobspresso:senior-product-designer-6",
+      "id": "jobspresso:senior-product-designer-knowledge-graph",
       "atsProvider": "jobspresso",
-      "company": "RootstockLabs",
-      "title": "Senior Product Designer",
-      "location": "Europe",
-      "url": "https://jobspresso.co/job/senior-product-designer-6/",
-      "postedAt": "2026-11-03T00:00:00.000Z",
-      "description": "About the Role We are looking for a Senior Product Designer (UI/UX-focused) to join our Product Design team at RootstockLabs. This is a product-first role. We are looking for someone who can own the end-to-end product design process, deeply understand user problems, and translate them into intuitive, scalable solutions across web and mobile products, with",
+      "company": "Grafana Labs",
+      "title": "Senior Product Designer, Knowledge Graph",
+      "location": "United Kingdom",
+      "url": "https://jobspresso.co/job/senior-product-designer-knowledge-graph/",
+      "postedAt": "2026-11-07T00:00:00.000Z",
+      "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving",
       "roleFamily": "senior-pd"
     },
     {
@@ -313,7 +313,7 @@
       "title": "Senior Product Designer Web3",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-web3-bitpanda/155643",
-      "postedAt": "2026-11-06T06:26:55.801Z",
+      "postedAt": "2026-11-05T06:35:10.041Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -324,7 +324,7 @@
       "title": "Product Designer India",
       "location": "Remote",
       "url": "https://web3.career/product-designer-india-bitgo/155916",
-      "postedAt": "2026-11-03T06:26:55.803Z",
+      "postedAt": "2026-11-03T06:35:10.042Z",
       "description": "",
       "roleFamily": "uiux"
     },
@@ -335,7 +335,7 @@
       "title": "Product Designer new product",
       "location": "Kazakhstan",
       "url": "https://web3.career/product-designer-new-product-p2p-org/155609",
-      "postedAt": "2026-10-21T06:26:55.803Z",
+      "postedAt": "2026-10-21T06:35:10.043Z",
       "description": "",
       "roleFamily": "uiux"
     },
@@ -346,7 +346,7 @@
       "title": "Senior Product Designer Securities",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-securities-bitpanda/151678",
-      "postedAt": "2026-10-20T06:26:55.803Z",
+      "postedAt": "2026-10-20T06:35:10.043Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -357,7 +357,18 @@
       "title": "Product Designer Web3",
       "location": "Remote",
       "url": "https://web3.career/product-designer-web3-saifuro/155568",
-      "postedAt": "2026-10-20T06:26:55.803Z",
+      "postedAt": "2026-10-20T06:35:10.043Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:point-nine:99279921",
+      "atsProvider": "getro",
+      "company": "Omnea",
+      "title": "Product Designer",
+      "location": "London, UK",
+      "url": "https://jobs.ashbyhq.com/Omnea/64653fce-eb26-4b2d-9107-ae50801f700f",
+      "postedAt": "2026-11-07T12:30:04.000Z",
       "description": "",
       "roleFamily": "uiux"
     },
@@ -384,11 +395,88 @@
       "roleFamily": "uiux"
     },
     {
+      "id": "getro:point-nine:99279883",
+      "atsProvider": "getro",
+      "company": "Omnea",
+      "title": "Product Design Director",
+      "location": "London, UK",
+      "url": "https://jobs.ashbyhq.com/Omnea/4a267bbc-881c-4729-9c00-d82741e13893",
+      "postedAt": "2026-11-07T12:30:02.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:accel:99307888",
+      "atsProvider": "getro",
+      "company": "KAYAK",
+      "title": "Senior Product Designer, Ads",
+      "location": "",
+      "url": "https://jobs.ashbyhq.com/kayak/157f29d1-2fb2-4284-944d-85081f63683f",
+      "postedAt": "2026-11-07T13:46:09.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:accel:99307896",
+      "atsProvider": "getro",
+      "company": "KAYAK",
+      "title": "Senior Product Designer, K4B",
+      "location": "Berlin, MD, USA",
+      "url": "https://jobs.ashbyhq.com/kayak/28686d98-f30e-422a-a5d9-c8680eff24b6",
+      "postedAt": "2026-11-07T13:46:09.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:accel:99280280",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "UX/UI Designer - AI-powered",
+      "location": "",
+      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/ux-ui-designer-ai-powered-j1f4jfg8",
+      "postedAt": "2026-11-07T12:30:38.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:accel:99280271",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "Staff Product Designer, AI Products",
+      "location": "",
+      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/staff-product-designer-ai-products-j1ovwuyh",
+      "postedAt": "2026-11-07T12:30:38.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:accel:99231754",
+      "atsProvider": "getro",
+      "company": "Carwow",
+      "title": "Staff Product Designer",
+      "location": "London, UK",
+      "url": "https://jobs.ashbyhq.com/carwow/438e6ecd-aa2c-42a9-8c6a-724ffd7e3ad4",
+      "postedAt": "2026-11-07T10:40:44.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:accel:99227391",
+      "atsProvider": "getro",
+      "company": "Melio",
+      "title": "Senior Product Designer",
+      "location": "94 Haarbach, Germany",
+      "url": "https://jobs.ashbyhq.com/Melio-payments/6a8a0f65-5443-41fd-a464-d484026883dd",
+      "postedAt": "2026-11-07T10:16:17.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
       "id": "getro:accel:99210102",
       "atsProvider": "getro",
       "company": "Swiftkey",
       "title": "Principal Product Designer - Xbox",
-      "location": "Prague, Czechia, Stockholm, Sweden, United Kingdom, Washington, DC, USA",
+      "location": "Prague, Czechia, Stockholm, Sweden, Czechia, United Kingdom, Washington, DC, USA",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557055076",
       "postedAt": "2026-11-06T13:55:53.000Z",
       "description": "",
@@ -404,17 +492,6 @@
       "postedAt": "2026-11-06T11:41:59.000Z",
       "description": "",
       "roleFamily": "uiux"
-    },
-    {
-      "id": "getro:accel:99132742",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Staff Product Designer, Growth",
-      "location": "",
-      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/staff-product-designer-growth-j1xrwaqh",
-      "postedAt": "2026-11-06T11:41:58.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
     },
     {
       "id": "getro:accel:99132738",
@@ -434,6 +511,17 @@
       "title": "Senior Staff Product Designer - AI",
       "location": "",
       "url": "https://remote.com/jobs/jobgether-c1xcbjrw/senior-staff-product-designer-ai-j1ciwdqo",
+      "postedAt": "2026-11-06T11:41:58.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:accel:99132742",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "Staff Product Designer, Growth",
+      "location": "",
+      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/staff-product-designer-growth-j1xrwaqh",
       "postedAt": "2026-11-06T11:41:58.000Z",
       "description": "",
       "roleFamily": "lead-pd"
@@ -472,15 +560,15 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "getro:accel:99065363",
+      "id": "getro:accel:99065358",
       "atsProvider": "getro",
       "company": "Remote",
-      "title": "Senior Product Designer",
+      "title": "Product Designer",
       "location": "",
-      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/senior-product-designer-j1l9hklg",
+      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/product-designer-j1qowgsg",
       "postedAt": "2026-11-05T13:01:20.000Z",
       "description": "",
-      "roleFamily": "senior-pd"
+      "roleFamily": "uiux"
     },
     {
       "id": "getro:accel:99065371",
@@ -494,6 +582,17 @@
       "roleFamily": "uiux"
     },
     {
+      "id": "getro:accel:99065363",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "Senior Product Designer",
+      "location": "",
+      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/senior-product-designer-j1l9hklg",
+      "postedAt": "2026-11-05T13:01:20.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
       "id": "getro:accel:99065365",
       "atsProvider": "getro",
       "company": "Remote",
@@ -503,39 +602,6 @@
       "postedAt": "2026-11-05T13:01:20.000Z",
       "description": "",
       "roleFamily": "uiux"
-    },
-    {
-      "id": "getro:accel:99065358",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Product Designer",
-      "location": "",
-      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/product-designer-j1qowgsg",
-      "postedAt": "2026-11-05T13:01:20.000Z",
-      "description": "",
-      "roleFamily": "uiux"
-    },
-    {
-      "id": "getro:accel:99054961",
-      "atsProvider": "getro",
-      "company": "Carwow",
-      "title": "Staff Product Designer",
-      "location": "London, UK",
-      "url": "https://jobs.ashbyhq.com/Carwow/438e6ecd-aa2c-42a9-8c6a-724ffd7e3ad4",
-      "postedAt": "2026-11-05T12:42:00.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
-      "id": "getro:accel:98991540",
-      "atsProvider": "getro",
-      "company": "Melio",
-      "title": "Senior Product Designer",
-      "location": "94 Haarbach, Germany",
-      "url": "https://jobs.ashbyhq.com/melio-payments/6a8a0f65-5443-41fd-a464-d484026883dd",
-      "postedAt": "2026-11-05T05:51:14.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
     },
     {
       "id": "getro:accel:98976909",
@@ -736,23 +802,23 @@
       "roleFamily": "lead-pd"
     },
     {
-      "id": "getro:accel:97885820",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Staff Product Designer - Platform Design",
-      "location": "",
-      "url": "https://remote.com/jobs/spotify-c125z3sq/staff-product-designer-platform-design-j1ubqfqc",
-      "postedAt": "2026-10-23T12:25:39.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
       "id": "getro:accel:97885815",
       "atsProvider": "getro",
       "company": "Remote",
       "title": "Staff Product Designer, AI",
       "location": "",
       "url": "https://remote.com/jobs/contentsquare-c1e644sf/staff-product-designer-ai-j1n3n5yt",
+      "postedAt": "2026-10-23T12:25:39.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:accel:97885820",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "Staff Product Designer - Platform Design",
+      "location": "",
+      "url": "https://remote.com/jobs/spotify-c125z3sq/staff-product-designer-platform-design-j1ubqfqc",
       "postedAt": "2026-10-23T12:25:39.000Z",
       "description": "",
       "roleFamily": "lead-pd"
@@ -769,48 +835,26 @@
       "roleFamily": "lead-pd"
     },
     {
-      "id": "getro:accel:97755197",
-      "atsProvider": "getro",
-      "company": "Frame.io",
-      "title": "Senior Product Designer, AI-powered Experiences (Adobe Experience Platform)",
-      "location": "Bucharest, Romania",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Senior-Product-Designer--AI-powered-Experiences--Adobe-Experience-Platform-_R173026-1",
-      "postedAt": "2026-10-22T11:46:12.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
-    },
-    {
-      "id": "getro:accel:97677609",
+      "id": "getro:accel:99280269",
       "atsProvider": "getro",
       "company": "Remote",
-      "title": "Senior Product Designer / Design Lead",
+      "title": "Senior Product Owner (HRIS)",
       "location": "",
-      "url": "https://remote.com/jobs/andgo-systems-c1lyc18p/senior-product-designer-design-lead-j1hl79bf",
-      "postedAt": "2026-10-21T13:23:14.000Z",
+      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/senior-product-owner-hris-j1w66gxj",
+      "postedAt": "2026-11-07T12:30:37.000Z",
       "description": "",
-      "roleFamily": "lead-pd"
+      "roleFamily": "product-owner"
     },
     {
-      "id": "getro:accel:97677495",
+      "id": "getro:accel:99280267",
       "atsProvider": "getro",
       "company": "Remote",
-      "title": "Product Designer, Contract (Senior - Design Director)",
+      "title": "Product Owner",
       "location": "",
-      "url": "https://remote.com/jobs/instrument-c1j1z7pi/product-designer-contract-senior-design-director-j1nuiynx",
-      "postedAt": "2026-10-21T13:23:08.000Z",
+      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/product-owner-j1ktw8jg",
+      "postedAt": "2026-11-07T12:30:37.000Z",
       "description": "",
-      "roleFamily": "uiux"
-    },
-    {
-      "id": "getro:accel:97607434",
-      "atsProvider": "getro",
-      "company": "Higgsfield AI",
-      "title": "Product Designer (Product Growth)",
-      "location": "Almaty, Kazakhstan",
-      "url": "https://jobs.ashbyhq.com/higgsfieldai/989364bc-e282-4ff4-9126-5a14646859fd",
-      "postedAt": "2026-10-21T10:58:18.000Z",
-      "description": "",
-      "roleFamily": "uiux"
+      "roleFamily": "product-owner"
     },
     {
       "id": "getro:accel:98976916",
@@ -866,17 +910,6 @@
       "postedAt": "2026-10-30T12:09:44.000Z",
       "description": "",
       "roleFamily": "senior-pd"
-    },
-    {
-      "id": "getro:hv-capital:97331374",
-      "atsProvider": "getro",
-      "company": "FlixBus",
-      "title": "Senior Product Owner (m/f/d)",
-      "location": "Berlin, Germany",
-      "url": "https://flix.careers/job/?jobid=8829821002",
-      "postedAt": "2026-10-17T12:56:41.000Z",
-      "description": "",
-      "roleFamily": "product-owner"
     },
     {
       "id": "getro:seedcamp:97535444",
@@ -1000,6 +1033,28 @@
       "roleFamily": "product-owner"
     },
     {
+      "id": "getro:general-catalyst:99311128",
+      "atsProvider": "getro",
+      "company": "Parloa",
+      "title": "Staff Product Designer - Expert Experience",
+      "location": "Berlin, Germany",
+      "url": "https://de.linkedin.com/jobs/view/staff-product-designer-expert-experience-at-parloa-4488407595",
+      "postedAt": "2026-11-07T13:54:12.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:general-catalyst:99261592",
+      "atsProvider": "getro",
+      "company": "Bounce",
+      "title": "Product Designer",
+      "location": "Lisbon, Portugal",
+      "url": "https://jobs.ashbyhq.com/Bounce/c6b97346-9072-4311-94a3-e68ef740394e",
+      "postedAt": "2026-11-07T12:01:04.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
       "id": "getro:general-catalyst:99207062",
       "atsProvider": "getro",
       "company": "Deel",
@@ -1121,6 +1176,28 @@
       "roleFamily": "lead-pd"
     },
     {
+      "id": "getro:general-catalyst:97677609",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "Senior Product Designer / Design Lead",
+      "location": "",
+      "url": "https://remote.com/jobs/andgo-systems-c1lyc18p/senior-product-designer-design-lead-j1hl79bf",
+      "postedAt": "2026-10-21T13:23:14.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:general-catalyst:97677495",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "Product Designer, Contract (Senior - Design Director)",
+      "location": "",
+      "url": "https://remote.com/jobs/instrument-c1j1z7pi/product-designer-contract-senior-design-director-j1nuiynx",
+      "postedAt": "2026-10-21T13:23:08.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
       "id": "getro:general-catalyst:97515643",
       "atsProvider": "getro",
       "company": "ClassPass",
@@ -1161,17 +1238,6 @@
       "location": "",
       "url": "https://remote.com/jobs/andgo-systems-c1lyc18p/senior-product-designer-contract-j1an7wlj",
       "postedAt": "2026-10-18T14:09:11.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
-    },
-    {
-      "id": "getro:general-catalyst:97353755",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Senior Product Designer, Growth",
-      "location": "",
-      "url": "https://remote.com/jobs/evolve-c17jgxcw/senior-product-designer-growth-j1v97dln",
-      "postedAt": "2026-10-17T14:21:11.000Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
