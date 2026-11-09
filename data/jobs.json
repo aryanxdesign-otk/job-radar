@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-08T06:36:58.310Z",
-  "filteredAt": "2026-11-08T06:37:00.039Z",
+  "generatedAt": "2026-11-09T07:08:17.703Z",
+  "filteredAt": "2026-11-09T07:08:19.743Z",
   "funnel": {
-    "raw": 16400,
-    "deduped": 13752,
-    "titleMatched": 439,
-    "recencyPassed": 194,
-    "geoPassed": 113
+    "raw": 16424,
+    "deduped": 13770,
+    "titleMatched": 446,
+    "recencyPassed": 198,
+    "geoPassed": 112
   },
   "jobs": [
     {
@@ -19,17 +19,6 @@
       "postedAt": "2026-10-23 14:15:18 UTC",
       "description": "<p>At bunq, we're not just building a banking app; we're reshaping how people around the world experience financial freedom. As a Product Lead - Credit, you’ll be instrumental in empowering our users with the flexible credit they need to support their lifestyle. You'll spearhead the entire credit domain, from ideation to international launch, building innovative solutions that are simple, transparent, and instantly accessible.</p><p style=\"min-height: 1.7em;\"></p><p><strong>Take Ownership</strong></p><p>As Product Lead - Credit, you’ll play a critical role in building a product that truly supports our users' lifestyles. You'll be the driving force behind the mission: \"Give me a credit line to support my lifestyle.\"</p><ul><li><p>Own the entire product lifecycle for our credit offerings, from designing and implementing the product and its underlying infrastructure to continuous maintenance and improvement.</p></li><li><p>Drive the strategic launch and expansion of our credit products into our current and new markets, navigating the unique complexities of each region.</p></li><li><p>Obsess over the user journey, collaborating with design and engineering teams to craft a world-class, seamless, and bug-free credit experience.</p></li><li><p>Work hand-in-hand with legal, risk, and compliance teams to ensure our credit products are not only innovative but also fully compliant with all regulatory requirements.</p></li></ul><p style=\"min-height: 1.7em;\"></p>",
       "roleFamily": "product-owner"
-    },
-    {
-      "id": "lever:spotify:f02fb195-ba10-40bd-a926-0318a34a7fae",
-      "atsProvider": "lever",
-      "company": "Spotify",
-      "title": "Staff Product Designer - Platform Design",
-      "location": "London",
-      "url": "https://jobs.lever.co/spotify/f02fb195-ba10-40bd-a926-0318a34a7fae",
-      "postedAt": "2026-10-21T17:27:06.994Z",
-      "description": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers.\nSpotify runs on the tools we've built for ourselves. They help hundreds of teams ship every day to hundreds of millions of people around the world. Now, we're sharing them.\nSpotify Technology brings our proven tools and services together for engineering organisations everywhere, from global enterprises to individual developers. As AI reshapes how software gets made, we're building on years of experience solving complex engineering challenges at scale.\nPlatform Design makes these powerful tools feel effortless. We shape the services, products and experiences used by Spotify's engineering teams and by developers around the world. We believe great design is a competitive advantage, and developer tools deserve the same care and craft as any consumer product.\nAs a Staff Product Designer, you'll combine product leadership with hands-on design and engineering. You'll shape the experience strategy for a key part of the Spotify Technology portfolio, establish a distinctive visual language, and turn internal tools into products customers love using. You'll work closely with product, engineering and marketing partners, reporting to the Spotify Technology Design Director.\n",
-      "roleFamily": "lead-pd"
     },
     {
       "id": "teamtailor:propertyfinder:d35f96ca-5a37-4cbb-b28e-e78523d75e2f",
@@ -140,6 +129,17 @@
       "postedAt": "2026-10-22T15:58:20.967+00:00",
       "description": "Synthesia is the world’s leading AI video platform for business, used by over 90% of the Fortune 100. Founded in 2017, the company is headquartered in London, with offices and teams across Europe and the US. \n\nAs AI continues to shape the way we live and work, Synthesia develops products to enhance visual communication and enterprise skill development, helping people work better and stay at the center of successful organizations.\n\nFollowing our recent Series E funding round, where we raised $200 million, our valuation stands at $4 billion. Our total funding exceeds $530 million from premier investors including Accel, NVentures (Nvidia's VC arm), Kleiner Perkins, GV, and Evantic Capital, alongside the founders and operators of Stripe, Datadog, Miro, and Webflow.\n\n\n\nLocation: Europe remote or London hybrid\n\n\n\n\nTHE ROLE:\n\nSynthesia is used by over 90% of the Fortune 100. The largest deployments now run thousands of creators across dozens of markets, languages, and compliance regimes. What decides whether those accounts expand or stall is not another avatar - it's whether admins, legal teams, and programme owners can actually stay in control.\n\nWe're looking for a Staff (L6) Product Designer to own that layer end-to-end: workspace setup and governance, the content lifecycle, and the analytics and integrations that close the loop. This is the work that turns a proof of concept into a seven-figure renewal, and right now it is wide open.\n\nYou'll operate as a senior IC: setting direction, influencing roadmap decisions (not just contributing), shaping bets with Product and Engineering leaders, and raising the bar on how we think about enterprise design problems.\n\n\n\n\nWHAT YOU'LL BE DOING:\n\n - Own the Enterprise surface end-to-end, from problem framing to shipped outcomes and iteration - often dealing with ambiguity. You'll reach out to the right stakeholders, get the right eyes in the room, and make decisions independently.\n\n - Design complex governance and compliance systems that give admins, legal teams, and compliance officers genuine control and transparency. Examples include:\n   \n   - Permission models and role hierarchies that scale across thousands of creators without collapsing into chaos.\n   \n   - Audit log experiences that make compliance auditable - not just for the system, but for the humans who need to understand what happened.\n   \n   - Workspace setup and identity workflows that integrate with real enterprise infrastructure (SSO, SCIM, MCP).\n   \n   - License and billing models that admins can actually understand and manage at scale.\n   \n   - Analytics and reporting that tell admins whether their deployment is working as intended.\n\n - Work with technical constraints and possibilities. You'll develop fluency in APIs, widget architectures, developer hub patterns, and how backend systems shape what's actually achievable in the UX. You're not designing in isolation from engineering - you're designing in partnership with it.\n\n - Drive pragmatic iteration. You'll scope ruthlessly, build POCs to get signal early, and iterate based on what you learn from enterprise customers. \n\n - Set a design vision for our Enterprise surface and influence adjacent product areas to stay coherent. As things scale across SSO, compliance, analytics, and billing, you're keeping the mental model consistent.\n   \n   \n\n\nYOU SHOULD APPLY IF YOU BRING:\n\n - Significant experience designing complex, large-scale product surfaces - ideally admin dashboards, governance layers, analytics platforms, or other domains where system thinking matters.\n\n - Technical fluency. You understand APIs, integrations, how services communicate, how widgets and developer hubs work. You can read a technical architecture doc and understand the constraints it creates for design. You don't need to be an engineer, but you think like one.\n\n - Systems thinking: not just about interaction flows, but about enterprise systems. You understand how identity systems, compliance regimes, and scale constraints shape what's actually possible in the UX. You think in mental models and multi-step workflows, not single screens.\n\n - Comfort operating in ambiguity: you can turn unclear and fast-moving problem spaces into crisp direction, and you do not wait for perfect clarity.\n\n - Excellent communication in design reviews and cross-functional decision-making contexts.\n\n - Experience designing workflows where trust, transparency, and user control are central - helping users feel confident in AI-driven outputs rather than confused or excluded.\n\n - The ability to leverage feedback from users and customers to ensure the product continues to meet real needs - including enterprise users with high stakes around quality, compliance, and scale.\n   \n   \n\n\nAT SYNTHESIA WE EXPECT EVERYONE TO:\n\n - Put the Customer First\n\n - Own it & Go Direct\n\n - Be Fast & Experimental\n\n - Make the Journey Fun\n\nYou can read more about this in this public Notion page: https://synthesia.notion.site/How-we-work-at-Synthesia-f794caa72f8446efb6be22b551ce0fa2\n\n\n\n\n\nBENEFITS\n\n - A flexible, remote friendly role based out of Europe or one of our hubs in London, Copenhagen, Munich, or Zurich. \n\n -  25 days of annual leave + public holidays in the country where you are based.\n\n - A generous referral scheme.\n\n -  Work from home set up.\n\n - At Synthesia, you can work from anywhere (within reason) in the world for up to 60 days per year!\n\n - A huge opportunity for career growth as you’ll help shape a market-defining product.\n\n ",
       "roleFamily": "uiux"
+    },
+    {
+      "id": "lever:spotify:f02fb195-ba10-40bd-a926-0318a34a7fae",
+      "atsProvider": "lever",
+      "company": "Spotify",
+      "title": "Staff Product Designer - Platform Design",
+      "location": "London",
+      "url": "https://jobs.lever.co/spotify/f02fb195-ba10-40bd-a926-0318a34a7fae",
+      "postedAt": "2026-10-21T17:27:06.994Z",
+      "description": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers.\nSpotify runs on the tools we've built for ourselves. They help hundreds of teams ship every day to hundreds of millions of people around the world. Now, we're sharing them.\nSpotify Technology brings our proven tools and services together for engineering organisations everywhere, from global enterprises to individual developers. As AI reshapes how software gets made, we're building on years of experience solving complex engineering challenges at scale.\nPlatform Design makes these powerful tools feel effortless. We shape the services, products and experiences used by Spotify's engineering teams and by developers around the world. We believe great design is a competitive advantage, and developer tools deserve the same care and craft as any consumer product.\nAs a Staff Product Designer, you'll combine product leadership with hands-on design and engineering. You'll shape the experience strategy for a key part of the Spotify Technology portfolio, establish a distinctive visual language, and turn internal tools into products customers love using. You'll work closely with product, engineering and marketing partners, reporting to the Spotify Technology Design Director.\n",
+      "roleFamily": "lead-pd"
     },
     {
       "id": "ashby:marshmallow:0aef1ce7-b6f1-409e-8656-5fd177eded62",
@@ -313,7 +313,7 @@
       "title": "Senior Product Designer Web3",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-web3-bitpanda/155643",
-      "postedAt": "2026-11-05T06:35:10.041Z",
+      "postedAt": "2026-11-05T07:06:33.410Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -324,7 +324,7 @@
       "title": "Product Designer India",
       "location": "Remote",
       "url": "https://web3.career/product-designer-india-bitgo/155916",
-      "postedAt": "2026-11-03T06:35:10.042Z",
+      "postedAt": "2026-11-03T07:06:33.411Z",
       "description": "",
       "roleFamily": "uiux"
     },
@@ -335,7 +335,7 @@
       "title": "Product Designer new product",
       "location": "Kazakhstan",
       "url": "https://web3.career/product-designer-new-product-p2p-org/155609",
-      "postedAt": "2026-10-21T06:35:10.043Z",
+      "postedAt": "2026-10-20T07:06:33.411Z",
       "description": "",
       "roleFamily": "uiux"
     },
@@ -346,7 +346,7 @@
       "title": "Senior Product Designer Securities",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-securities-bitpanda/151678",
-      "postedAt": "2026-10-20T06:35:10.043Z",
+      "postedAt": "2026-10-20T07:06:33.411Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -357,7 +357,7 @@
       "title": "Product Designer Web3",
       "location": "Remote",
       "url": "https://web3.career/product-designer-web3-saifuro/155568",
-      "postedAt": "2026-10-20T06:35:10.043Z",
+      "postedAt": "2026-10-20T07:06:33.411Z",
       "description": "",
       "roleFamily": "uiux"
     },
@@ -406,6 +406,17 @@
       "roleFamily": "uiux"
     },
     {
+      "id": "getro:accel:99330424",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "Senior Product Designer, Ads",
+      "location": "",
+      "url": "https://remote.com/jobs/reddit-c1ujjl13/senior-product-designer-ads-j1gh1bce",
+      "postedAt": "2026-11-08T12:03:04.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
       "id": "getro:accel:99307888",
       "atsProvider": "getro",
       "company": "KAYAK",
@@ -428,17 +439,6 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "getro:accel:99280280",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "UX/UI Designer - AI-powered",
-      "location": "",
-      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/ux-ui-designer-ai-powered-j1f4jfg8",
-      "postedAt": "2026-11-07T12:30:38.000Z",
-      "description": "",
-      "roleFamily": "uiux"
-    },
-    {
       "id": "getro:accel:99280271",
       "atsProvider": "getro",
       "company": "Remote",
@@ -448,6 +448,17 @@
       "postedAt": "2026-11-07T12:30:38.000Z",
       "description": "",
       "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:accel:99280280",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "UX/UI Designer - AI-powered",
+      "location": "",
+      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/ux-ui-designer-ai-powered-j1f4jfg8",
+      "postedAt": "2026-11-07T12:30:38.000Z",
+      "description": "",
+      "roleFamily": "uiux"
     },
     {
       "id": "getro:accel:99231754",
@@ -476,7 +487,7 @@
       "atsProvider": "getro",
       "company": "Swiftkey",
       "title": "Principal Product Designer - Xbox",
-      "location": "Prague, Czechia, Stockholm, Sweden, Czechia, United Kingdom, Washington, DC, USA",
+      "location": "Prague, Czechia, Stockholm, Sweden, United Kingdom, Washington, DC, USA",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557055076",
       "postedAt": "2026-11-06T13:55:53.000Z",
       "description": "",
@@ -492,6 +503,17 @@
       "postedAt": "2026-11-06T11:41:59.000Z",
       "description": "",
       "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:accel:99132742",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "Staff Product Designer, Growth",
+      "location": "",
+      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/staff-product-designer-growth-j1xrwaqh",
+      "postedAt": "2026-11-06T11:41:58.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
     },
     {
       "id": "getro:accel:99132738",
@@ -511,17 +533,6 @@
       "title": "Senior Staff Product Designer - AI",
       "location": "",
       "url": "https://remote.com/jobs/jobgether-c1xcbjrw/senior-staff-product-designer-ai-j1ciwdqo",
-      "postedAt": "2026-11-06T11:41:58.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
-      "id": "getro:accel:99132742",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Staff Product Designer, Growth",
-      "location": "",
-      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/staff-product-designer-growth-j1xrwaqh",
       "postedAt": "2026-11-06T11:41:58.000Z",
       "description": "",
       "roleFamily": "lead-pd"
@@ -560,28 +571,6 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "getro:accel:99065358",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Product Designer",
-      "location": "",
-      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/product-designer-j1qowgsg",
-      "postedAt": "2026-11-05T13:01:20.000Z",
-      "description": "",
-      "roleFamily": "uiux"
-    },
-    {
-      "id": "getro:accel:99065371",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "UX/UI Designer (LatAm)",
-      "location": "",
-      "url": "https://remote.com/jobs/terra-c1bicin6/ux-ui-designer-latam-j1pia8vv",
-      "postedAt": "2026-11-05T13:01:20.000Z",
-      "description": "",
-      "roleFamily": "uiux"
-    },
-    {
       "id": "getro:accel:99065363",
       "atsProvider": "getro",
       "company": "Remote",
@@ -599,6 +588,28 @@
       "title": "UX/UI Designer",
       "location": "",
       "url": "https://remote.com/jobs/jobgether-c1xcbjrw/ux-ui-designer-j195ozk9",
+      "postedAt": "2026-11-05T13:01:20.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:accel:99065358",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "Product Designer",
+      "location": "",
+      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/product-designer-j1qowgsg",
+      "postedAt": "2026-11-05T13:01:20.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:accel:99065371",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "UX/UI Designer (LatAm)",
+      "location": "",
+      "url": "https://remote.com/jobs/terra-c1bicin6/ux-ui-designer-latam-j1pia8vv",
       "postedAt": "2026-11-05T13:01:20.000Z",
       "description": "",
       "roleFamily": "uiux"
@@ -736,17 +747,6 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "getro:accel:98061985",
-      "atsProvider": "getro",
-      "company": "Cortex by Palo Alto Networks",
-      "title": "Senior Product Designer (Cortex Platform)",
-      "location": "Tel Aviv-Yafo, Israel",
-      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-product-designer-cortex-platform/47263/102422250448",
-      "postedAt": "2026-10-26T11:48:15.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
-    },
-    {
       "id": "getro:accel:98034768",
       "atsProvider": "getro",
       "company": "Remote",
@@ -813,26 +813,15 @@
       "roleFamily": "lead-pd"
     },
     {
-      "id": "getro:accel:97885820",
+      "id": "getro:accel:99280267",
       "atsProvider": "getro",
       "company": "Remote",
-      "title": "Staff Product Designer - Platform Design",
+      "title": "Product Owner",
       "location": "",
-      "url": "https://remote.com/jobs/spotify-c125z3sq/staff-product-designer-platform-design-j1ubqfqc",
-      "postedAt": "2026-10-23T12:25:39.000Z",
+      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/product-owner-j1ktw8jg",
+      "postedAt": "2026-11-07T12:30:37.000Z",
       "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
-      "id": "getro:accel:97851129",
-      "atsProvider": "getro",
-      "company": "Cloudera",
-      "title": "Lead Product Designer",
-      "location": "Prague, Czechia",
-      "url": "https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Czech-Republic-Prague/Lead-Product-Designer_261489-1",
-      "postedAt": "2026-10-23T11:10:31.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
+      "roleFamily": "product-owner"
     },
     {
       "id": "getro:accel:99280269",
@@ -841,17 +830,6 @@
       "title": "Senior Product Owner (HRIS)",
       "location": "",
       "url": "https://remote.com/jobs/jobgether-c1xcbjrw/senior-product-owner-hris-j1w66gxj",
-      "postedAt": "2026-11-07T12:30:37.000Z",
-      "description": "",
-      "roleFamily": "product-owner"
-    },
-    {
-      "id": "getro:accel:99280267",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Product Owner",
-      "location": "",
-      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/product-owner-j1ktw8jg",
       "postedAt": "2026-11-07T12:30:37.000Z",
       "description": "",
       "roleFamily": "product-owner"
@@ -1022,6 +1000,17 @@
       "roleFamily": "senior-pd"
     },
     {
+      "id": "getro:insight-partners:97825627",
+      "atsProvider": "getro",
+      "company": "Vector Solutions",
+      "title": "UX Designer",
+      "location": "",
+      "url": "https://jobs.ashbyhq.com/VectorSolutions/cca20bea-472d-46b2-a8b3-f904ab373a6e",
+      "postedAt": "2026-10-23T06:10:55.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
       "id": "getro:insight-partners:99027033",
       "atsProvider": "getro",
       "company": "Optimizely",
@@ -1176,6 +1165,17 @@
       "roleFamily": "lead-pd"
     },
     {
+      "id": "getro:general-catalyst:97885820",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "Staff Product Designer - Platform Design",
+      "location": "",
+      "url": "https://remote.com/jobs/spotify-c125z3sq/staff-product-designer-platform-design-j1ubqfqc",
+      "postedAt": "2026-10-23T12:25:39.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
       "id": "getro:general-catalyst:97677609",
       "atsProvider": "getro",
       "company": "Remote",
@@ -1227,17 +1227,6 @@
       "location": "Porto, Portugal",
       "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/53b348fa-e47d-4995-aa8e-dc8cd69f9b2a",
       "postedAt": "2026-10-19T13:24:43.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
-    },
-    {
-      "id": "getro:general-catalyst:97379772",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Senior Product Designer (Contract)",
-      "location": "",
-      "url": "https://remote.com/jobs/andgo-systems-c1lyc18p/senior-product-designer-contract-j1an7wlj",
-      "postedAt": "2026-10-18T14:09:11.000Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
