@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-10T07:44:29.023Z",
-  "filteredAt": "2026-11-10T07:44:30.434Z",
+  "generatedAt": "2026-11-11T07:03:34.668Z",
+  "filteredAt": "2026-11-11T07:03:36.526Z",
   "funnel": {
-    "raw": 16550,
-    "deduped": 13901,
-    "titleMatched": 447,
+    "raw": 16381,
+    "deduped": 13766,
+    "titleMatched": 444,
     "recencyPassed": 189,
-    "geoPassed": 110
+    "geoPassed": 111
   },
   "jobs": [
     {
@@ -32,15 +32,15 @@
       "roleFamily": "lead-pd"
     },
     {
-      "id": "workable:exotec:6DAEC7AD22",
-      "atsProvider": "workable",
-      "company": "Exotec",
-      "title": "Product Owner WIFI, RF & Embedded Systems",
-      "location": "Lille, France",
-      "url": "https://apply.workable.com/j/6DAEC7AD22",
-      "postedAt": "2026-11-05",
-      "description": "<p>Chez&nbsp;<strong>Exotec</strong>, nous mettons l’excellence technologique au service de la redéfinition des relations entre humains et robots. A travers le monde, nos solutions révolutionnent la façon dont nos client·e·s délivrent leurs produits aux personnes consommatrices finales. Nous contribuons au succès des plus grandes marques du commerce et de l’industrie, tout en améliorant les conditions de travail de leurs salarié·e·s.</p><p>Par l’alliance de l’intelligence artificielle et d’un hardware performant, nos robots sont désormais déployés dans le monde entier et leur succès a fait de nous la première licorne industrielle française.</p><p>Rejoindre&nbsp;Exotec, c’est l’opportunité de donner du sens à vos compétences. Grandissez avec nos ExoPeople dans le monde entier pour faire de vos idées, des réalités.</p><p>La révolution robotique portée par Exotec ne fait que commencer, vous en êtes ?</p><p></p><p>Au sein de l'équipe <strong>Product Management ASRS</strong>, le Product Owner Connectivity est responsable de la stratégie produit, du développement, de la performance et de la fiabilité des solutions de connectivité déployées sur une flotte mondiale de plus de 12 000 robots autonomes.</p><p>Le Product Owner Connectivity pilote l'ensemble des solutions de communication sans fil utilisées au sein des systèmes robotiques et équipements associés. Il garantit leur performance, leur robustesse, leur évolutivité et leur conformité aux exigences opérationnelles et de sécurité.</p><p>À l'interface entre les équipes Software, Electrical, Safety, Architecture, Validation et Opérations, il définit la roadmap produit et assure la livraison de solutions de connectivité répondant aux besoins actuels et futurs de l'entreprise.</p><p></p><h3>Missions :</h3><p><strong>Solutions de connectivité</strong></p><ul><li>Pilotage du développement et de l'évolution du nouveau module WiFi propriétaire développé en interne.</li><li>Pilotage des organes de sécurité utilisant des technologies RF.</li><li>Responsabilité des équipements électriques intégrant ces technologies de communication.</li><li>Définition et suivi de la stratégie de connectivité des systèmes robotiques.</li></ul><p><strong>Gestion produit</strong></p><ul><li>Construire et maintenir la roadmap produit Connectivity.</li><li>Prioriser les évolutions fonctionnelles et techniques en fonction des enjeux business et opérationnels.</li><li>Recueillir et challenger les besoins des parties prenantes internes.</li><li>Piloter les arbitrages entre performance, coût, fiabilité et délais.</li></ul><p><strong>Performance &amp; fiabilité</strong></p><ul><li>Assurer la disponibilité et la robustesse des communications sans fil à grande échelle.</li><li>Analyser les incidents terrain et définir les plans d'amélioration continue.</li><li>Suivre les indicateurs de performance et de qualité des solutions déployées.</li><li>Garantir la scalabilité des solutions pour accompagner la croissance de la flotte.</li></ul><p><strong>Coordination technique</strong></p><ul><li>Collaborer étroitement avec les équipes Embedded Software, Electrical Engineering, Systems Engineering et Safety.</li><li>Contribuer aux choix d'architecture des futures générations de produits.</li><li>Assurer la cohérence des solutions développées avec la stratégie technologique globale.</li></ul><p></p><h3>Profil </h3><ul><li><strong>8 à 10 ans d'expérience</strong> dans le développement de produits ou systèmes technologiques complexes, idéalement dans un environnement industriel.</li><li>Solides connaissances en <strong>connectivité sans fil</strong> (WiFi 5 GHz / 6 GHz, technologies RF, couverture, roaming et performance réseau).</li><li>Bonne compréhension des <strong>systèmes embarqués</strong>, de leurs architectures logicielles et des contraintes associées (temps réel, cybersécurité, sécurité fonctionnelle).</li><li>Connaissance des <strong>architectures électriques et systèmes industriels</strong>, avec la capacité à collaborer efficacement avec des experts hardware, software et systèmes.</li><li>Expérience du pilotage de sujets techniques complexes et de la coordination d'équipes multidisciplinaires.</li><li>Excellentes capacités d'analyse, de résolution de problèmes, de communication et d'influence.</li><li>Fort intérêt pour l'innovation technologique, l'amélioration continue et les environnements industriels exigeants.</li></ul><p><strong>Benefits</strong></p><p></p><ul><li>Couverture mutuelle et prévoyance santé compétitive</li><li>Politique famille avantageuse</li><li>Programme de mobilité interne et internationale</li><li>Nombreuses opportunités de formation et de développement</li></ul><p></p><p><em>Chez Exotec, nous garantissons l’égalité des chances dans notre processus de recrutement. L’ensemble des candidatures reçues sont étudiées indépendamment de l’âge, du genre, de l’origine, de la religion, de la couleur de peau, de la nationalité, du sexe, du handicap, de l’orientation sexuelle ou de toute autre distinction protégée par la loi.</em></p><p><em>Nous mettons en place un environnement de travail inclusif et respectueux de toutes les différences.<br>En rejoignant le Pacte Parité, Exotec s’engage pour un écosystème French Tech plus paritaire.</em></p><p>Pour postuler, veuillez envoyer votre CV. Seul·e·s les candidat·e·s présélectionné·e·s seront contacté·e·s pour les prochaines étapes du processus de recrutement. Au plaisir de recevoir votre candidature ! Si vous postulez à un poste en Europe, veuillez consulter notre politique de confidentialité pour plus de détails.</p><p></p><p><br> </p>",
-      "roleFamily": "product-owner"
+      "id": "greenhouse:figma:6247174004",
+      "atsProvider": "greenhouse",
+      "company": "Figma",
+      "title": "Product Designer - Figma Weave (Tel Aviv, Israel)",
+      "location": "Tel Aviv, Israel",
+      "url": "https://boards.greenhouse.io/figma/jobs/6247174004?gh_jid=6247174004",
+      "postedAt": "2026-11-10T04:48:39-05:00",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you&#39;re brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you&#39;re excited to shape the future of design and collaboration, join us!&lt;/p&gt;&lt;/div&gt;&lt;p&gt;We&#39;re building the next chapter of AI-native craft and creativity - where craft and technology meet. Our unified platform bridges the gap between AI capabilities and human creativity, and lets professional creatives and designers harness the power of the world’s leading AI models without losing precision, expression, or soul. Together, we’re building tools that help people move faster without sacrificing quality, precision, or craft — a platform where AI supports creativity instead of flattening it.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Figma-Weave designers are highly collaborative self-starters who push their teams to build amazing experiences for all our users. We have a diverse range of experiences and expertise and love learning from each other. Our designers thrive on solving hard problems, considering every detail, and achieving ambitious goals.&lt;/p&gt;\n&lt;p&gt;We are looking for a Product Designer to join Figma Weave, this role sits at the intersection of generative AI, node-based workflow editing, and creative tools, building a platform that makes sophisticated AI generation accessible through visual workflows. You&#39;ll work directly with our founding team to drive critical initiatives - from our workflow editor, to team collaboration features, to strategic integrations with Figma. This is a rare opportunity to join at the ground floor where you&#39;ll have outsized impact on product direction and help define how creators interact with cutting-edge generative AI.&lt;/p&gt;\n&lt;h4&gt;What you’ll do at Figma Weave:&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Contribute to overall strategy and decision-making about product direction&lt;/li&gt;\n&lt;li&gt;Help deliver clear storytelling around customer needs and business opportunities&lt;/li&gt;\n&lt;li&gt;Work cross-functionally with product management, engineering, and design peers&lt;/li&gt;\n&lt;li&gt;Create, collaborate, and iterate on flows, prototypes, and high-fidelity visuals&lt;/li&gt;\n&lt;li&gt;Design and ship high-quality features and product improvements&lt;/li&gt;\n&lt;li&gt;Be a mentor and provide thoughtful feedback to your peers (and benefit from strong personal and professional mentorship opportunities yourself!)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div class=&quot;section page-centered&quot;&gt;\n&lt;h4&gt;We&#39;d love to hear from you if you have:&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of experience working as a product designer&lt;/li&gt;\n&lt;li&gt;3+ years of experience working on a software product with similar scale or complexity&lt;/li&gt;\n&lt;li&gt;Experience using node-based design tools or broader design/ development tools&lt;/li&gt;\n&lt;li&gt;Excellent communication and presentation skills; you’re able to explain your design decisions and strategy with clear rationale and storytelling&lt;/li&gt;\n&lt;li&gt;Great attention to detail, and an eye for visual craft, such as composition, typography, and layout&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;While it’s not required, it’s an added plus if you also have:&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Familiarity with technical things like HTML/CSS, prototyping tools such as Origami, or advanced Figma features like Auto Layout, Variables, and Components&lt;/li&gt;\n&lt;li&gt;Past experience designing for developers, or partnering closely with developing on complex problems&lt;/li&gt;\n&lt;li&gt;A design/development hybrid background, or experience building websites or apps&lt;/li&gt;\n&lt;li&gt;A history of working on canvas-based interfaces or tools that support creative workflows&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div class=&quot;section page-centered&quot;&gt;At Figma, one of our values is Grow as you go. We believe in hiring smart, curious people who are excited to learn and develop their skills. If you’re excited about this role but your past experience doesn’t align perfectly with the points outlined in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles.&lt;/div&gt;\n&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;At Figma we celebrate and support our differences. We know employing a team rich in diverse thoughts, experiences, and opinions allows our employees, our product and our community to flourish. Figma is an &lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2022-10/EEOC_KnowYourRights_screen_reader_10_20.pdf&quot;&gt;equal opportunity workplace&lt;/a&gt; - we are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity/expression, veteran status&lt;strong&gt;, &lt;/strong&gt;or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.&lt;/p&gt;\n&lt;p&gt;We will work to ensure individuals with disabilities are provided reasonable accommodation to apply for a role, participate in the interview process, perform essential job functions, and receive other benefits and privileges of employment. If you require accommodation, please reach out to &lt;a href=&quot;mailto:accommodations-ext@figma.com&quot;&gt;accommodations-ext@figma.com&lt;/a&gt;. These modifications enable an individual with a disability to have an equal opportunity not only to get a job, but successfully perform their job tasks to the same extent as people without disabilities.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Examples of accommodations include but are not limited to:&amp;nbsp;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Holding interviews in an accessible location&lt;/li&gt;\n&lt;li&gt;Enabling closed captioning on video conferencing&lt;/li&gt;\n&lt;li&gt;Ensuring all written communication be compatible with screen readers&lt;/li&gt;\n&lt;li&gt;Changing the mode or format of interviews&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;To ensure the integrity of our hiring process and facilitate a more personal connection, we require all candidates keep their cameras on during video interviews. Additionally, if hired you will be required to attend in person onboarding.&lt;/p&gt;\n&lt;p&gt;By applying for this job, the candidate acknowledges and agrees that any personal data contained in their application or supporting materials will be processed in accordance with &lt;a class=&quot;c-link c-link--underline&quot; href=&quot;https://www.figma.com/legal/candidate-privacy-notice/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.figma.com/legal/candidate-privacy-notice/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Figma&#39;s Candidate Privacy Notice&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Application limits:&lt;/strong&gt; To help candidates focus on the opportunities most relevant to their skills and experience, Figma limits the number and frequency of applications. These limits apply to all roles:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Candidates may submit up to 5 applications during any rolling 30-day period.&lt;/li&gt;\n&lt;li&gt;Candidates may not reapply to the same role while an application is active or within 90 days of receiving a rejection.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Once the applicable days has passed, candidates are welcome to apply again.&lt;/p&gt;&lt;/div&gt;",
+      "roleFamily": "uiux"
     },
     {
       "id": "teamtailor:propertyfinder:d35f96ca-5a37-4cbb-b28e-e78523d75e2f",
@@ -51,6 +51,17 @@
       "url": "https://propertyfinder.teamtailor.com/jobs/8593872-senior-product-designer",
       "postedAt": "2026-10-23T04:51:28.000Z",
       "description": "<div><p>Property Finder is the leading property portal in the Middle East and North Africa (MENA) region, dedicated to shaping an inclusive future for real estate while spearheading the region’s growing tech ecosystem. At its core is a clear and powerful purpose: To change living for good in the region.</p><p>Founded on the value of great ambitions, Property Finder connects millions of property seekers with thousands of real estate professionals every day. The platform offers a seamless and enriching experience, empowering both buyers and renters to make informed decisions. Since its inception in 2007, Property Finder has evolved into a trusted partner for developers, brokers, and home seekers. As a lighthouse tech company, it continues to create an environment where people can thrive and contribute meaningfully to the transformation of real estate in MENA.</p><p></p><p><span><strong id=\"docs-internal-guid-44becd3d-7fff-6fdd-ae9f-27f2780c3f69\">Position Summary</strong></span></p><p><span>As a Senior Product Designer at PF, you will play a pivotal role in shaping the design and user experience of our B2B products. You will drive the design process from discovery to delivery, taking ownership of projects and collaborating closely with cross-functional teams to deliver high-impact solutions. </span></p><p><span>As a senior member of the design team, you will work alongside other designers, contribute to design strategy, and ensure that our products align with both customer needs and business goals. This role offers you the chance to lead complex design projects, work on strategic initiatives, and be a key player in achieving PF’s mission to become the most trusted partner in real estate across the MENA region. </span></p></div><p></p><p><span><strong>Key responsibilities</strong></span></p><ul><li><p><span><strong>Design Leadership:</strong> Lead the end-to-end design process for one or more B2B products—from discovery and ideation through prototyping, user testing, and delivery. Set a high bar for craft, quality, and execution across the team. </span></p></li><li><p><span><strong>User-Centred Design:</strong> Champion user needs throughout the product development lifecycle, creating intuitive, effective experiences that balance customer value with business goals. </span></p></li><li><p><span><strong>UI &amp; Visual Design:</strong> Demonstrate exceptional UI and visual design skills, with a strong eye for detail, interaction design, motion, micro-interactions, and creating moments of delight. </span></p></li><li><p><span><strong>Rapid Execution:</strong> Produce high-quality design work in fast-paced environments while maintaining strong design thinking, process, and attention to detail. </span></p></li><li><p><span><strong>Problem Solving:</strong> Translate user research, data, and business objectives into thoughtful product solutions. Continuously iterate to improve usability, engagement, and outcomes.</span></p></li><li><p><span><strong>Collaboration:</strong> Partner closely with product managers, researchers, engineers, and fellow designers to define problems, align on solutions, and deliver exceptional product experiences. </span></p></li><li><p><span><strong>Design Strategy:</strong> Help shape the design strategy for the B2B product suite, ensuring a consistent experience across web and mobile. Collaborate with other design teams to evolve a unified product vision and design language. </span></p></li><li><p><span><strong>Testing &amp; Iteration:</strong> Validate concepts through prototyping, user testing, and experimentation, using feedback and data to refine designs and improve product outcomes.</span></p></li><li><p><span><strong>Content Creation:</strong> Experience creating product videos, motion graphics, or other visual content is a plus. </span></p></li></ul><p></p><p><span><strong>Desired Experience</strong></span></p><ul><li><p><span>8+ years of experience in Product Design, UX, or a related discipline, with a proven track record of shipping high-quality digital products in fast-paced environments. </span></p></li><li><p><span>Design Craft: Expertise across product discovery, UX, interaction design, visual design, prototyping, and design systems.</span></p></li><li><p><span>Strong ability to use research and data to inform decisions.</span></p></li><li><p><span>Strategic Thinking: Ability to connect user needs with business objectives and contribute to product and design strategy.</span></p></li><li><p><span>Communication &amp; Collaboration: Outstanding communication and stakeholder management skills, with experience influencing cross-functional teams and presenting design rationale with confidence. </span></p></li><li><p><span>Mentorship: Passion for supporting and developing other designers through coaching, feedback, and leading by example. </span></p></li><li><p><span>Ownership &amp; Execution: Self-driven and accountable, with the ability to lead complex initiatives from concept through launch while maintaining a high standard of quality. </span></p></li><li><p><span>Attention to Detail: A strong eye for visual polish, usability, accessibility, and the small details that create exceptional user experiences. </span></p></li><li><p><span>AI Proficiency: Fluency with AI tools across the design process, from research synthesis to rapid prototyping. Critical evaluation of AI output and knowledge when generative capabilities genuinely improve an experience versus when they don't.</span></p></li></ul><p></p><h3><strong>Our promise to talent</strong></h3><p>At Property Finder, we believe talent thrives in an environment where you can be your best self. Where you are empowered to create, elevate, grow, and care. Our team is made up of the best and brightest, united by a shared ambition to change living for good in the region. We attract top talent who want to make an impact. We firmly believe that when our people grow, we all succeed.</p><h2><strong>Property Finder Guiding Principles</strong></h2><div><div><div><div><div><div><div><ol><li><p>Think Future First</p></li><li><p>Data Beats Opinions, Speed Beats Perfection</p></li><li><p>Optimise for Impact</p></li><li><p>Act Like An Owner</p></li><li><p>The Biggest Risk is Taking no Risk at All</p></li></ol></div></div></div></div></div></div></div><div><div><h2><strong>Find us at:</strong></h2></div></div><h2><a target=\"_blank\" href=\"https://twitter.com/propertyfinder?lang=en\">Twitter</a></h2><h2><a target=\"_blank\" href=\"https://www.facebook.com/propertyfinderuae/\">Facebook</a></h2><h2><a target=\"_blank\" href=\"https://www.instagram.com/propertyfinder/?hl=en\">Instagram</a></h2><h2><a target=\"_blank\" href=\"https://www.linkedin.com/company/propertyfinder-ae/\">Linkedin</a></h2><h2><a target=\"_blank\" href=\"https://www.glassdoor.com/Overview/Working-at-propertyfinder-EI_IE1176641.11,25.htm\">Glassdoor</a></h2>",
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "smartrecruiters:DeliveryHero:744000160830109",
+      "atsProvider": "smartrecruiters",
+      "company": "Delivery Hero",
+      "title": "Senior Product Designer (Saudi Nationals)",
+      "location": "Riyadh, Riyadh Province, Saudi Arabia",
+      "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000160830109",
+      "postedAt": "2026-11-10T09:36:25.382Z",
+      "description": "",
       "roleFamily": "senior-pd"
     },
     {
@@ -175,17 +186,6 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "teamtailor:yousign:9d1dc236-ecb5-41eb-bfc2-20ec5f832c8e",
-      "atsProvider": "teamtailor",
-      "company": "Yousign",
-      "title": "Product Designer",
-      "location": "Paris",
-      "url": "https://yousign.teamtailor.com/jobs/8576440-product-designer",
-      "postedAt": "2026-10-20T12:55:09.000Z",
-      "description": "<h4><strong>About Youtrust</strong></h4><p>Founded in 2013, Youtrust is a European digital trust platform. It enables document, identity and business analysis and verification, compliance checks, and electronic signature.<br>Compliant with the strictest European regulations, including the eIDAS regulation, and ISO/IEC 27001 certified, Youtrust guarantees the security, integrity and traceability of digital transactions, while giving businesses full control over their data.<br>With more than 35,000 customers and 1 million users across Europe, Youtrust brings together the entire digital trust chain in a flexible, easily integrable API, enabling AI Agents, SaaS software and SMEs/mid-sized companies to secure their regulatory processes.<br>As a B Corp certified company, Youtrust is committed to combining technological innovation, compliance with European standards and positive impact, putting security and transparency at the service of businesses.</p><h2><strong>Your Role</strong></h2><p>As an intermediate designer, you’ll be supported by Elodie, Senior Product Designer and your manager, and by the senior designers on the team as you grow into full autonomy.<br><br><strong>Designing simple, intuitive interfaces within a squad</strong><br><br>You’ll work daily with your squad’s Product Manager, alongside developers and Product Marketing, moving between discovery and delivery to reach the squad’s OKR objective. You’ll conduct user research, lead co-design workshops, and turn insights into pragmatic solutions that fit our design vision, the existing product, and operational constraints. Following our recent rebrand, this also means helping bring our new identity into the product for a consistent end-to-end experience. You’ll produce journeys, wireframes, and prototypes, using AI to explore and prototype faster, test them with users, and support developers through to release. After launch, you’ll support PMMs and Marketing on rollout and help track KPIs to measure impact.<br><br><strong>Contributing to the design team</strong><br><br>You’ll help improve our methods and product quality, contribute to the Design System, and share your expertise and industry insights with the team.</p><h2><strong>Your Responsibilities</strong></h2><ul><li><p>Lead discovery with your PM: frame problems against the squad's goals, choose the right methods, run user research and co-design workshops.</p></li><li><p>Design user journeys, wireframes and interactive prototypes that fit our design vision, our new brand and technical constraints.</p></li><li><p>Test your solutions with users before development.</p></li><li><p>Hand designs off to developers and follow them through to release.</p></li><li><p>Support launches with Product Marketing, then track KPIs and share the results.</p></li><li><p>Use AI to speed up your work while checking what it produces, and help design AI features that handle errors and let users correct them.</p></li><li><p>Help improve our Design System and its accessibility, and help structure how the design team works (Figma files, documentation, handoff).</p></li><li><p>Take part in Design Critics and Knowledge Sharing.</p></li><li><p>Share what you learn, including your AI workflows, and suggest better ways of working.</p></li></ul><h2><strong>Your Profile</strong></h2><ul><li><p>You have 2 to 5 years of experience as a Product Designer, ideally on a SaaS product. Experience on an API product is a plus. Startup or large company, both are welcome.</p></li><li><p>You master Figma: components, auto layout, variables, interactive prototypes.</p></li><li><p>You have run user interviews and usability tests yourself, and you turn what you learn into design decisions.</p></li><li><p>You have used a design system and contributed components to one.</p></li><li><p>You know the basics of accessibility (WCAG) and want to go further.</p></li><li><p>You are interested in Design Ops: how a design team organises its files, documentation and tools.</p></li><li><p>You explain your design choices clearly, with user insights and data to back them.</p></li><li><p>You are curious about AI, you have tried it in your work, and you want to learn more. You also know when not to trust its output.</p></li><li><p>You ask for feedback and act on it. You take ownership of your projects and know when to ask for help.</p></li><li><p>You pay attention to details: edge cases, states, consistency, accessibility.</p></li><li><p>You speak fluent French (C2) and English at C1 level at least.</p></li><li><p>We will ask for your portfolio before the interviews.</p></li></ul><h2><strong>Recruitment Process</strong></h2><ol><li><p>Call with Guillhem (Talent Acquisition Manager) - 30 min</p></li><li><p>Interview with Déborah Lévy-Bencheton (Head of Design) - 45 to 60 min</p></li><li><p>Case study with Elodie (Senior Product Designer), and Déborah - 1 hour</p></li><li><p>Final conversation with Laure (Product &amp; Design Director) - 30 min</p></li></ol><h2><strong>Why join Youtrust now?</strong></h2><ul><li><p>A mission that matters in a world challenged by AI-driven fraud</p></li><li><p>A vision built on integrity</p></li><li><p>A European &amp; sovereign platform</p></li><li><p>A certified B Corp</p></li><li><p>The golden age of Youtrust</p></li></ul><h2><strong>Benefits</strong></h2><p><strong>France Benefits</strong></p><ul><li><p>Salary: €48,000 to €57,000 base salary, plus up to €2,000 variable</p></li><li><p>BSPCE</p></li><li><p>Meal vouchers (Swile): €10.50/day, 50% covered by Youtrust</p></li><li><p>Health insurance (Alan): 50% covered by Youtrust</p></li><li><p>Life &amp; disability insurance: 100% employer-covered</p></li><li><p>Wellbeing: Axomove (4 physio sessions) and <a target=\"_blank\" href=\"http://Moka.care\">Moka.care</a> (6 therapy/coaching sessions)</p></li><li><p>Transportation: 50% reimbursement for public transport for hybrid workers</p></li><li><p>Leeto or Wellpass (ex-Gymlib)</p></li><li><p>Time off: 10 RTT days/year, plus menstrual leave, parenthood benefits, seniority days</p></li><li><p>1 volunteering day/year, learning &amp; development budget, and more.</p></li></ul><p>Location: Paris (Office-based). Contract: Permanent (CDI).</p>",
-      "roleFamily": "uiux"
-    },
-    {
       "id": "ashby:docplanner:4eff3016-4665-477e-80d1-c06f24057f69",
       "atsProvider": "ashby",
       "company": "Docplanner",
@@ -195,17 +195,6 @@
       "postedAt": "2026-11-02T16:39:56.118+00:00",
       "description": "ABOUT US\n\nDocplanner's mission is to help people live longer, healthier lives. Every month about 100 million people visit our sites and 25 million appointments are booked across 13 countries, and 300,000 doctors use our software (docplanner.com http://docplanner.com).\n\nYou'll join PMS Global, the group building the software clinics and doctors run on. We're building Noa, our AI assistant, into the daily work of doctors and front desks. The group is organised in verticals named after the people they serve: the doctor running a visit, the owner running the business, the practice signing up on its own.\n\nThe design team here is small and growing. As its Lead designer, you'll set the standard others work to and help the team grow.\n\n\nTHE ROLE\n\nYou'll own the design of an area of our practice management software (PMS), the tools clinics use every day to run visits, calendars and the business. You'll set design direction across the teams in that area and shape how it fits with the rest of the product. You'll help decide whether something is worth building, and why, before anyone decides how. This is an individual contributor role.\n\nWe want clinics to spend less time on manual work, from documenting a visit to getting it invoiced and paid, and owners to see what needs their attention without digging through reports.\n\n\nWHAT SUCCESS LOOKS LIKE\n\n - After 3 months: you've been shipping since your first weeks, you can name the outcomes your area should move and the user behaviours behind them (where clinic staff lose time, work around the product or drop off), and you and product agree on the bigger problems worth solving. Clinics already feel it: your first fixes save front desks and doctors time on everyday tasks.\n\n - After 6 months: your first larger build is live with its impact measured, you're setting design direction across teams, and other designers are building on your patterns. For clinics this means less manual admin and fewer workarounds; for doctors, more time with patients and less time on the screen; for owners, a clearer view of how the practice is doing.\n\n\nWHAT YOU'LL DO\n\n - Discover continuously: talk to doctors, clinic owners and staff often, whatever project you're on.\n\n - Identify and solve bottlenecks: with product and engineering, find the friction points in the user journey and in how the team works, and fix them.\n\n - Drive clarity from complexity: balance user and business needs in areas like billing, records and reporting, and turn ambiguous problems into clear, strategic solutions.\n\n - Start with an LLM: use AI to clarify intent, draft short specs and surface risks and edge cases before opening a design tool.\n\n - Co-create with PMs and engineers from day one: define UX requirements early, stay through QA and release, and make engineering-aware decisions.\n\n - Shape high-leverage experiences: exceptional UI and UX for information-dense screens, from concept to polish, using the best tools to explore more directions faster and raise quality.\n\n - Prototype and build with AI: use Cursor and Claude Code to turn concepts into interactive prototypes and production-ready front-end code; move fluidly between code and Figma.\n\n - Validate and measure: run quick tests and track funnels, adoption and retention.\n\n - Lead without managing: set direction across teams, coach designers, and turn what works into patterns and practices others reuse.\n\n\nWHAT YOU BRING\n\n - Multi-disciplinary craft: strong UI, UX and visual design skills, with a track record of functional yet delightful experiences in information-dense, data-heavy products, ideally B2B SaaS. You write clear interface copy and can tell the story behind a design.\n\n - Comfortable in code: you prototype in code with AI tools and know enough HTML and CSS to work with engineers on the front end. You don't need to be a front-end engineer.\n\n - Experimentation mindset: a deep understanding of product metrics, behaviour analytics and A/B testing, and experience with Amplitude, Mixpanel or similar tools. Your portfolio shows experiments and measurable outcomes.\n\n - Passion and drive: deep care for product design and UX craft, and for the business outcomes they move. Ambition, ownership and a rising bar.\n\n - Comfortable with ambiguity: you work at speed without dropping quality, and know when to go deep and when to execute.\n\n - Reasoning: first-principles thinking, sharp structure, resistance to bias, attention to the details that matter.\n\n - Team spirit: generous, backs the best idea, hands-on, reliable, honest and transparent.\n\n - Lead-level scope: you've shaped direction across several teams or products, and other designers have grown by working with you.\n\n - Proficient English.\n\n\nDESIGN AND AI AT DOCPLANNER\n\nAI is changing how products are designed and built. We want our designers to explore how AI can improve both the design process and the product, from faster prototyping to Noa, the assistant inside our clinic software. We're looking for designers who are curious about new technology and experiment with AI in their own work. If you've worked on AI features or use AI tools in your design process, show us examples in your portfolio.\n\nLet’s talk money\n\n - A salary adequate to your experience and skills.\n\nTrue flexibility and work-life balance\n\n - Remote or hybrid work model with or hub in Warsaw;\n\n - Flexible working hours (fully flexible, as in most cases you only have to be on a couple of meetings weekly);\n\n - 20/26 days of paid time off (depending on your contract);\n\n - Additional paid day off on your birthday or work anniversary (you choose what you want to celebrate).\n\nHealth comes first\n\n - Private healthcare plan with Signal Iduna  https://www.signaliduna.pl/for you and subsidized for your family.\n\n - Multisport card co-financing for you to have access to sports facilities across Poland.\n\n - Access to iFeel https://ifeelonline.com/, a technological platform for mental wellness offering online psychological support and counseling.\n\nKeep growing with us\n\n - Free English and Spanish classes.\n\nWe promote and embrace equal opportunities in our hiring process, and also every day at work. When you apply for our roles you receive equal treatment regardless of age, disabilities, gender reassignment, marital or civil partner status, pregnancy or parental status, race, colour, nationality, ethnic or national origin, religion or belief, sex, sexual orientation or any other dimension of human difference. If you require additional support in your recruitment process, we kindly encourage you to let us know. Behind those words you’re reading, there’s a person (hi!) who already helped a candidate by adapting the interviews, and now we’re lucky to have this person with us. So, even if you’ve never asked for it before, may this serve as a sign that, now, you can do so. We can only truly be equal if we adapt to each other.\n\n“We believe all humans, in all their beautiful diversity, should have equal rights, dignity and respect. Period.” Mariusz Gralewski, CEO",
       "roleFamily": "lead-pd"
-    },
-    {
-      "id": "ashby:nord-security:b7676d44-526e-418b-b20f-49029f735c7e",
-      "atsProvider": "ashby",
-      "company": "Nord Security",
-      "title": "Product Designer | NordVPN Apps | Senior ",
-      "location": "Warsaw",
-      "url": "https://jobs.ashbyhq.com/nord-security/b7676d44-526e-418b-b20f-49029f735c7e",
-      "postedAt": "2026-10-20T13:34:24.080+00:00",
-      "description": "THE WORLD’S MOST ADVANCED VPN, AND A WHOLE LOT MORE.\n\nIf you’re a curious problem-solver who carves their own path, join the team behind Threat Protection Pro, the NordLynx protocol, and the fastest VPN on the planet—tools that put privacy, security, and control back in people’s hands.\n\nYour impact? Helping millions take back control of their online security, privacy, and data.\n\nThe Design Team is a dynamic, multidisciplinary group of Product designers, Web designers, UX researchers, UX writers, and Graphic designers. We're building the future of digital freedom across our cybersecurity suite products, such as NordVPN, NordPass, Saily & Coveron. We are helping millions of users own their online lives. We aim to simplify the complex world of cybersecurity for everyone. We thrive on honest feedback to help each other grow and believe in the freedom to take initiative, be bold, and run with new ideas.\n\nWe're looking for a Product Designer to join our NordVPN Apps Design team. This position is about owning the design for your squad, running your projects end to end, and increasingly questioning the brief, not just delivering on it.\n\n \n\n\nMAIN RESPONSIBILITIES\n\n - Own the whole flow. Design experiences that feel native on iOS, Android, macOS, Windows, and browser extensions while staying recognizably Nord. Explore multiple directions, you’ll think through problems from the ground up, instead of copying what's been done before and always know the why behind your choices.\n\n - Push the problem, not just the pixels. You'll surface assumptions early with your PO and engineers, challenge briefs when the evidence points elsewhere, and sometimes make the call that the best design is removing a flow entirely.\n\n - Craft with the system. Apply our design system without losing intent and help it grow. When you spot a gap, you propose the component, not the workaround.\n\n - Ship, don't just design. Back your decisions with evidence while partnering with UX Research or running validation yourself. Stay close to engineers through the build and own Design QA so what ships is what you intended.\n\n \n\n\nCORE REQUIREMENTS\n\n - Experience: 3+ years in product design (mobile & desktop apps), with work that shows fluency across platforms and growing ownership of complex problems.\n\n - Smart prototyping: You pick the right tool for the question. Quick mockups for flow logic, high-fidelity prototypes when the interaction needs to feel real, AI when you need breadth fast. Prototype with real data.\n\n - Ownership and communication: You handle disagreement constructively, bring engineering realities in before they become blockers, and earn the kind of trust that gets you invited in early.\n\n - Attention to detail: You have a meticulous eye for visual and interaction details while crafting high-quality, user-friendly experiences.\n   \n    \n\n\n ADDITIONAL\n\n - Experience designing accessible and inclusive interfaces for people with disabilities is a strong plus. Understanding how to apply WCAG conformance criteria in design is highly valued.\n\n - Experience in motion design.\n\n\nWHAT WE OFFER\n\n - Sharpen your edge: training, mentorship, and room to grow — always.\n   \n   \n\n - Take the time you need: extra vacation days, sick days, and time off when life calls.\n   \n   \n\n - Get premium healthcare: private health insurance in Lithuania and Poland — fully covered.\n   \n   \n\n - Protect your peace: enjoy free subscriptions to Calm, Headspace, and Mindletic, and our own resilience and mindfulness trainings.\n   \n   \n\n - Own your fitness: in-house gyms, sport cards, online workouts, and personal guidance — on us.\n   \n   \n\n - Pack your bags for workation: experience our company-wide trip abroad to the fullest.\n   \n   \n\n - Work from anywhere: work from wherever keeps you in the zone.\n   \n   \n\n - Celebrate your milestones: birthdays, weddings, and new family members — all deserve a gift.\n   \n   \n\n - Parent with ease: children’s summer camps and flexibility around the schedule — because parenting never pauses.\n   \n   \n\n - Join the party: team building and company events people talk about for months.\n   \n   \n\n - Unlock Cyber City: coffee bar, open gyms, kids’ room, music room, massage chairs — our Vilnius HQ is yours to enjoy.\n\n\n\n\n\nKindly refer to our Privacy Notice for Recruitment Candidates https://drive.google.com/file/d/1b2tV684_SYV1jQ4kuf91cnzrRBk3ef-5/view for comprehensive information regarding our data handling procedures throughout recruitment processes.\n\nWe expect all candidates to provide accurate and complete information during the recruitment process. While limited use of AI tools to refine application materials is acceptable, candidates remain fully responsible for ensuring that their submissions reflect their own qualifications, skills, and experience. Any failure to do so may negatively affect participation in the recruitment process. If broader AI assistance is allowed for a particular role or stage, we’ll let you know in advance.\n\nBy submitting your application, you acknowledge that it may be processed using automated tools for evaluation purposes. As part of our recruitment process, we may use an AI-based application review tool to help assess applications based on skills and experience relevant to the role. This technology is used to support - not replace - human decision-making, and every application is ultimately reviewed by a recruiter.\n\nIf you would like more information about how AI is used in this process or wish to exercise your rights under applicable data privacy laws, please contact us at privacy@nordaccount.com. Should you prefer to opt out of the automated evaluation, please submit your application directly to career@nordsec.com.",
-      "roleFamily": "uiux"
     },
     {
       "id": "ashby:nord-security:32669d32-3901-49be-81d5-9c8ca880568a",
@@ -263,17 +252,6 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "weworkremotely:remote-design-jobs:https://weworkremotely.com/remote-jobs/maptiler-head-of-design-maps-platform-remote-in-europe",
-      "atsProvider": "weworkremotely",
-      "company": "MapTiler",
-      "title": " Head of Design | Maps Platform (Remote in Europe)",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/maptiler-head-of-design-maps-platform-remote-in-europe",
-      "postedAt": "2026-10-26T11:48:42.000Z",
-      "description": "<img src=\"https://we-work-remotely.imgix.net/logos/0144/3523/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress\" />\n\n<p>\n  <strong>Headquarters:</strong> Zug, Switzerland\n    <br /><strong>URL:</strong> <a href=\"https://www.maptiler.com/\">https://www.maptiler.com/</a>\n</p>\n\n<ul>\n<li>Full-time&nbsp;</li>\n<li>Freelance / B2B contract&nbsp;</li>\n<li>Remote in Europe</li>\n</ul>\n<p><strong>Description</strong><br><br>MapTiler is moving toward becoming an AI-accelerated company, and design is a part of that change. We are looking for a <strong>Head of Design</strong> to lead the craft and the design practice across our products and customer experience, and help to define the new setup and processes for how designers should work. This is a completely new role at MapTiler!<br><br><strong>What you will do</strong></p>\n<ul>\n<li>Lead the design team of 5 and make the people decisions that come with it: hiring, performance, wellbeing, career progression and education of designers.</li>\n<li>Work closely with product managers, developers and marketing, and represent design in discussions with the executive team.</li>\n<li>Measurably increase the user-centric mindset and UX maturity of the company: define how we measure it, report it to leadership and act on what you find.</li>\n<li>Lead design's transition to an AI-accelerated way of working and help to decide how designers use AI in their daily practice, in line with the company's overall direction.</li>\n<li>Own design craft, quality standards, and the coherence of the experience across all MapTiler products and services.</li>\n<li>Own the design roadmap, which runs in parallel to the product and marketing roadmaps.</li>\n<li>Make company-wide design decisions, set standards and quality, and speak up when they are not met.</li>\n</ul>\n<p><strong>What we expect from you</strong></p>\n<ul>\n<li>At least 8 years of experience in UX, UI, or product design, including 3+ years in a design leadership role.</li>\n<li>Experience building and leading a design team, including hiring, performance management, and career development.</li>\n<li>Strong design craft, shown by a portfolio or a case study of projects you led, and the ability to set and defend quality standards.</li>\n<li>Hands-on experience using AI tools in design work, and a well-argued view of where they help and where they do not.</li>\n<li>Ability to align with or lead Developer Experience (DX), ensuring B2B / B2D products work effectively for both human users and AI agents.</li>\n<li>The ability to explain design decisions with concrete arguments based on qualitative and quantitative user research.</li>\n<li>The ability to influence and negotiate at the executive level.</li>\n<li>An understanding that good design serves a deeper purpose than looking good.</li>\n<li>A strong drive for self-improvement, learning, sharing knowledge, and trying new approaches.</li>\n</ul>\n<p><strong>Nice to have</strong></p>\n<ul>\n<li>Interest in maps or cartography.</li>\n<li>Knowledge of the GIS or map industry.</li>\n<li>Experience with Agile methodology.</li>\n</ul>\n<p><strong>What we offer</strong></p>\n<ul>\n<li>Competitive financial compensation (€29 – €45 / hour) based on your experience &amp; annual performance bonus.</li>\n<li>Widescreen LCD, a laptop of your choice, and all the resources you need for your work.&nbsp;</li>\n<li>Flexible working hours to help you easily balance your personal and professional life.</li>\n<li>Work remotely from anywhere in Europe, or hang out with us at our hubs in Unterägeri (Switzerland) or Brno (Czechia).</li>\n<li>Collaborate with the best from major <a href=\"https://www.maptiler.com/industry/\">global brands</a>.</li>\n<li>Grow your career with dedicated support for continuous learning, attending conferences, and building your personal brand.</li>\n<li>A friendly, connected <a href=\"https://www.maptiler.com/benefits/\">team</a> and regular team-building events across Europe.</li>\n</ul>\n<p><strong>About MapTiler<br></strong><br>We make maps easy so that everyone can understand the world better. Our platform powers everything from global weather forecasting and humanitarian crisis management to flight trackers and the Swiss railways. Our maps are viewed by hundreds of millions of people worldwide every month.<br>We are deeply rooted in the developer and open-source communities. Since our users and customers are primarily developers, engineers, and geo-experts, we don't only do traditional account management, we also build technical partnerships.</p>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/maptiler-head-of-design-maps-platform-remote-in-europe\">https://weworkremotely.com/remote-jobs/maptiler-head-of-design-maps-platform-remote-in-europe</a></p>",
-      "roleFamily": "lead-pd"
-    },
-    {
       "id": "weworkremotely:remote-product-jobs:https://weworkremotely.com/remote-jobs/carrot-product-design-lead",
       "atsProvider": "weworkremotely",
       "company": "Carrot",
@@ -296,24 +274,13 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "jobspresso:product-designer-growth",
-      "atsProvider": "jobspresso",
-      "company": "Chess.com",
-      "title": "Product Designer, Growth",
-      "location": "Worldwide",
-      "url": "https://jobspresso.co/job/product-designer-growth/",
-      "postedAt": "2026-11-09T00:00:00.000Z",
-      "description": "About Us Chess.com is one of the largest gaming sites in the world and the #1 platform for playing, learning, and enjoying chess. We are a team of 600+ fully remote people in 60+ countries working hard to serve the global chess community. We are here to support 200M+ chess players worldwide with the best",
-      "roleFamily": "uiux"
-    },
-    {
       "id": "web3career:155643",
       "atsProvider": "web3career",
       "company": "Bitpanda",
       "title": "Senior Product Designer Web3",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-web3-bitpanda/155643",
-      "postedAt": "2026-11-05T07:42:43.616Z",
+      "postedAt": "2026-11-05T07:01:41.281Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -324,9 +291,20 @@
       "title": "Product Designer India",
       "location": "Remote",
       "url": "https://web3.career/product-designer-india-bitgo/155916",
-      "postedAt": "2026-11-03T07:42:43.616Z",
+      "postedAt": "2026-11-03T07:01:41.282Z",
       "description": "",
       "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:point-nine:99448568",
+      "atsProvider": "getro",
+      "company": "Duplo",
+      "title": "Senior Product Designer",
+      "location": "Lagos, Nigeria",
+      "url": "https://duplo.bamboohr.com/careers/176",
+      "postedAt": "2026-11-10T12:19:18.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
     },
     {
       "id": "getro:point-nine:99279921",
@@ -373,6 +351,28 @@
       "roleFamily": "uiux"
     },
     {
+      "id": "getro:accel:99481632",
+      "atsProvider": "getro",
+      "company": "Google",
+      "title": "Senior UX Designer, Google Pay India",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/133109869426156230-senior-ux-designer-google-pay-india?page=33",
+      "postedAt": "2026-11-10T13:47:04.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:accel:99431181",
+      "atsProvider": "getro",
+      "company": "Uniqode (Formerly Beaconstac)",
+      "title": "Lead Product Designer",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://careers.kula.ai/uniqode/66924",
+      "postedAt": "2026-11-10T11:45:17.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
       "id": "getro:accel:99330424",
       "atsProvider": "getro",
       "company": "Remote",
@@ -380,17 +380,6 @@
       "location": "",
       "url": "https://remote.com/jobs/reddit-c1ujjl13/senior-product-designer-ads-j1gh1bce",
       "postedAt": "2026-11-08T12:03:04.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
-    },
-    {
-      "id": "getro:accel:99307888",
-      "atsProvider": "getro",
-      "company": "KAYAK",
-      "title": "Senior Product Designer, Ads",
-      "location": "",
-      "url": "https://jobs.ashbyhq.com/kayak/157f29d1-2fb2-4284-944d-85081f63683f",
-      "postedAt": "2026-11-07T13:46:09.000Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -406,17 +395,6 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "getro:accel:99280271",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Staff Product Designer, AI Products",
-      "location": "",
-      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/staff-product-designer-ai-products-j1ovwuyh",
-      "postedAt": "2026-11-07T12:30:38.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
       "id": "getro:accel:99280280",
       "atsProvider": "getro",
       "company": "Remote",
@@ -426,6 +404,17 @@
       "postedAt": "2026-11-07T12:30:38.000Z",
       "description": "",
       "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:accel:99280271",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "Staff Product Designer, AI Products",
+      "location": "",
+      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/staff-product-designer-ai-products-j1ovwuyh",
+      "postedAt": "2026-11-07T12:30:38.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
     },
     {
       "id": "getro:accel:99231754",
@@ -608,7 +597,7 @@
       "atsProvider": "getro",
       "company": "Orange Health Labs",
       "title": "Product Designer",
-      "location": "Bangalore Urban, Karnataka, India, Bengaluru, Karnataka, India, Remote, Egypt",
+      "location": "Bengaluru, Karnataka, India",
       "url": "https://orangehealth.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a6aeadd79b8594",
       "postedAt": "2026-11-04T12:19:13.000Z",
       "description": "",
@@ -681,6 +670,17 @@
       "roleFamily": "lead-pd"
     },
     {
+      "id": "getro:accel:98667853",
+      "atsProvider": "getro",
+      "company": "Scale AI",
+      "title": "Product Designer, Global Public Sector",
+      "location": "Dubai - United Arab Emirates",
+      "url": "https://ae.linkedin.com/jobs/view/product-designer-global-public-sector-at-scale-4468202383",
+      "postedAt": "2026-10-31T14:23:22.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
       "id": "getro:accel:98567407",
       "atsProvider": "getro",
       "company": "Credgenics",
@@ -712,6 +712,17 @@
       "postedAt": "2026-10-30T12:39:19.000Z",
       "description": "",
       "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:accel:98061985",
+      "atsProvider": "getro",
+      "company": "Cortex by Palo Alto Networks",
+      "title": "Senior Product Designer (Cortex Platform)",
+      "location": "Tel Aviv-Yafo, Israel",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-product-designer-cortex-platform/47263/102422250448",
+      "postedAt": "2026-10-26T11:48:15.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
     },
     {
       "id": "getro:accel:98034768",
@@ -747,37 +758,15 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "getro:accel:97959549",
+      "id": "getro:accel:99470735",
       "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Senior UX Designer (Contractor)",
-      "location": "",
-      "url": "https://remote.com/jobs/findem-c1dx73bw/senior-ux-designer-contractor-j1wlu1fi",
-      "postedAt": "2026-10-24T12:17:22.000Z",
+      "company": "DriveWealth",
+      "title": "Senior Product Owner, India",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://boards.greenhouse.io/drivewealth/jobs/8199615003",
+      "postedAt": "2026-11-10T12:56:17.000Z",
       "description": "",
-      "roleFamily": "uiux"
-    },
-    {
-      "id": "getro:accel:97885834",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Senior/Staff Product Designer",
-      "location": "",
-      "url": "https://remote.com/jobs/alphasense-c1d69ith/senior-staff-product-designer-j1lyleq7",
-      "postedAt": "2026-10-23T12:25:40.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
-      "id": "getro:accel:97885815",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Staff Product Designer, AI",
-      "location": "",
-      "url": "https://remote.com/jobs/contentsquare-c1e644sf/staff-product-designer-ai-j1n3n5yt",
-      "postedAt": "2026-10-23T12:25:39.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
+      "roleFamily": "product-owner"
     },
     {
       "id": "getro:accel:99280267",
@@ -868,13 +857,24 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "getro:seedcamp:97535444",
+      "id": "getro:hv-capital:99449081",
       "atsProvider": "getro",
-      "company": "Yonder",
-      "title": "Product Designer",
-      "location": "London, UK",
-      "url": "https://yonder.teamtailor.com/jobs/8571147-product-designer",
-      "postedAt": "2026-10-20T12:39:37.000Z",
+      "company": "Scalable Capital",
+      "title": "Digital Product Designer (m/f/x)",
+      "location": "Munich, Germany",
+      "url": "https://jobs.smartrecruiters.com/ScalableGmbH/744000160847599",
+      "postedAt": "2026-11-10T12:20:46.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:hv-capital:99385887",
+      "atsProvider": "getro",
+      "company": "Quantum-Systems",
+      "title": "UX/UI Designer (m/f/d)",
+      "location": "Gilching, Germany",
+      "url": "https://career.quantum-systems.com/o/uxui-designer-mfd",
+      "postedAt": "2026-11-10T09:27:21.000Z",
       "description": "",
       "roleFamily": "uiux"
     },
@@ -987,17 +987,6 @@
       "postedAt": "2026-10-28T13:38:36.000Z",
       "description": "",
       "roleFamily": "senior-pd"
-    },
-    {
-      "id": "getro:insight-partners:97825627",
-      "atsProvider": "getro",
-      "company": "Vector Solutions",
-      "title": "UX Designer",
-      "location": "",
-      "url": "https://jobs.ashbyhq.com/VectorSolutions/cca20bea-472d-46b2-a8b3-f904ab373a6e",
-      "postedAt": "2026-10-23T06:10:55.000Z",
-      "description": "",
-      "roleFamily": "uiux"
     },
     {
       "id": "getro:insight-partners:99027033",
@@ -1143,6 +1132,17 @@
       "roleFamily": "lead-pd"
     },
     {
+      "id": "getro:general-catalyst:97959549",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "Senior UX Designer (Contractor)",
+      "location": "",
+      "url": "https://remote.com/jobs/findem-c1dx73bw/senior-ux-designer-contractor-j1wlu1fi",
+      "postedAt": "2026-10-24T12:17:22.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
       "id": "getro:general-catalyst:97886339",
       "atsProvider": "getro",
       "company": "Verta",
@@ -1154,12 +1154,34 @@
       "roleFamily": "lead-pd"
     },
     {
+      "id": "getro:general-catalyst:97885834",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "Senior/Staff Product Designer",
+      "location": "",
+      "url": "https://remote.com/jobs/alphasense-c1d69ith/senior-staff-product-designer-j1lyleq7",
+      "postedAt": "2026-10-23T12:25:40.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
       "id": "getro:general-catalyst:97885820",
       "atsProvider": "getro",
       "company": "Remote",
       "title": "Staff Product Designer - Platform Design",
       "location": "",
       "url": "https://remote.com/jobs/spotify-c125z3sq/staff-product-designer-platform-design-j1ubqfqc",
+      "postedAt": "2026-10-23T12:25:39.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:general-catalyst:97885815",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "Staff Product Designer, AI",
+      "location": "",
+      "url": "https://remote.com/jobs/contentsquare-c1e644sf/staff-product-designer-ai-j1n3n5yt",
       "postedAt": "2026-10-23T12:25:39.000Z",
       "description": "",
       "roleFamily": "lead-pd"
@@ -1187,28 +1209,6 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "getro:general-catalyst:97515643",
-      "atsProvider": "getro",
-      "company": "ClassPass",
-      "title": "Senior Product Designer, New Verticals (AI Products)",
-      "location": "",
-      "url": "https://co.mindbodyonline.com/careers/opportunities/4718486006",
-      "postedAt": "2026-10-20T12:10:06.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
-    },
-    {
-      "id": "getro:general-catalyst:97470532",
-      "atsProvider": "getro",
-      "company": "Grammarly",
-      "title": "Senior Product Designer, Docs",
-      "location": "Porto, Portugal",
-      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/53b348fa-e47d-4995-aa8e-dc8cd69f9b2a",
-      "postedAt": "2026-10-20T10:09:34.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
-    },
-    {
       "id": "getro:mmc-ventures:98360746",
       "atsProvider": "getro",
       "company": "Beam",
@@ -1218,6 +1218,17 @@
       "postedAt": "2026-10-29T11:14:10.000Z",
       "description": "",
       "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:mmc-ventures:99423133",
+      "atsProvider": "getro",
+      "company": "Condukt",
+      "title": "AI Product Owner",
+      "location": "Porto, Portugal",
+      "url": "https://jobs.ashbyhq.com/condukt/93460b74-8db4-4e32-821c-29ee1fb2ba45",
+      "postedAt": "2026-11-10T11:30:20.000Z",
+      "description": "",
+      "roleFamily": "product-owner"
     }
   ]
 }
