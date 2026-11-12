@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-11T07:03:34.668Z",
-  "filteredAt": "2026-11-11T07:03:36.526Z",
+  "generatedAt": "2026-11-12T07:39:30.003Z",
+  "filteredAt": "2026-11-12T07:39:37.931Z",
   "funnel": {
-    "raw": 16381,
-    "deduped": 13766,
-    "titleMatched": 444,
-    "recencyPassed": 189,
-    "geoPassed": 111
+    "raw": 16400,
+    "deduped": 13809,
+    "titleMatched": 458,
+    "recencyPassed": 194,
+    "geoPassed": 114
   },
   "jobs": [
     {
@@ -21,15 +21,15 @@
       "roleFamily": "product-owner"
     },
     {
-      "id": "lever:spotify:f02fb195-ba10-40bd-a926-0318a34a7fae",
+      "id": "lever:spotify:a9d581f9-1361-4227-b230-94a0d6ffdef4",
       "atsProvider": "lever",
       "company": "Spotify",
-      "title": "Staff Product Designer - Platform Design",
-      "location": "London",
-      "url": "https://jobs.lever.co/spotify/f02fb195-ba10-40bd-a926-0318a34a7fae",
-      "postedAt": "2026-10-21T17:27:06.994Z",
-      "description": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers.\nSpotify runs on the tools we've built for ourselves. They help hundreds of teams ship every day to hundreds of millions of people around the world. Now, we're sharing them.\nSpotify Technology brings our proven tools and services together for engineering organisations everywhere, from global enterprises to individual developers. As AI reshapes how software gets made, we're building on years of experience solving complex engineering challenges at scale.\nPlatform Design makes these powerful tools feel effortless. We shape the services, products and experiences used by Spotify's engineering teams and by developers around the world. We believe great design is a competitive advantage, and developer tools deserve the same care and craft as any consumer product.\nAs a Staff Product Designer, you'll combine product leadership with hands-on design and engineering. You'll shape the experience strategy for a key part of the Spotify Technology portfolio, establish a distinctive visual language, and turn internal tools into products customers love using. You'll work closely with product, engineering and marketing partners, reporting to the Spotify Technology Design Director.\n",
-      "roleFamily": "lead-pd"
+      "title": "Product Designer",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/a9d581f9-1361-4227-b230-94a0d6ffdef4",
+      "postedAt": "2026-11-04T10:00:48.656Z",
+      "description": "Every great Spotify experience starts with access. From creating an account to signing in and managing your identity, these foundational moments shape how millions of people connect with the music, podcasts, and content they love.\nWe're looking for a Senior Product Designer to join our User Platform team and help make these experiences simpler, smarter, and more delightful.\nYou'll work at the intersection of design, product, and engineering, tackling complex challenges across authentication, account management, and emerging AI-powered experiences. This is an opportunity to bring exceptional craft to essential user journeys, explore new technologies, and shape experiences that reach millions of people.\nWe value designers who are curious, hands-on, collaborative, and excited to turn ambitious ideas into beautifully executed products.\n",
+      "roleFamily": "uiux"
     },
     {
       "id": "greenhouse:figma:6247174004",
@@ -54,6 +54,17 @@
       "roleFamily": "senior-pd"
     },
     {
+      "id": "smartrecruiters:DeliveryHero:744000161053929",
+      "atsProvider": "smartrecruiters",
+      "company": "Delivery Hero",
+      "title": "Design Lead",
+      "location": "Praha, , Czechia",
+      "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000161053929",
+      "postedAt": "2026-11-11T09:53:06.596Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
       "id": "smartrecruiters:DeliveryHero:744000160830109",
       "atsProvider": "smartrecruiters",
       "company": "Delivery Hero",
@@ -74,17 +85,6 @@
       "postedAt": "2026-11-09T10:06:29.086Z",
       "description": "",
       "roleFamily": "uiux"
-    },
-    {
-      "id": "smartrecruiters:DeliveryHero:744000160156249",
-      "atsProvider": "smartrecruiters",
-      "company": "Delivery Hero",
-      "title": "Design Lead",
-      "location": "Praha, , Czechia",
-      "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000160156249",
-      "postedAt": "2026-11-06T09:48:55.731Z",
-      "description": "",
-      "roleFamily": "lead-pd"
     },
     {
       "id": "smartrecruiters:DeliveryHero:744000158792679",
@@ -226,8 +226,19 @@
       "location": "United Kingdom",
       "url": "https://job-boards.greenhouse.io/tide/jobs/8178946003",
       "postedAt": "2026-11-03T11:19:54-05:00",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;strong&gt;A&lt;/strong&gt;&lt;strong&gt;BOUT TIDE&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;At Tide, we help SMEs save time and money in the running of their businesses by not only offering business accounts and related banking services, but also a comprehensive set of highly usable and connected administrative solutions, from invoicing to accounting.&lt;/p&gt;\n&lt;p&gt;Tide is transforming the small business banking market and now supports over 2 million members globally across the UK, India, Germany and France.&lt;/p&gt;\n&lt;p&gt;Using advanced technology, all solutions are designed with SMEs in mind. With quick onboarding, low fees and innovative features, we thrive on making data driven decisions to serve our mission: to help SMEs save time and money so they can get back to doing what they love.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Tide facts:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Tide is available for UK, Indian, German and French SMEs&lt;/li&gt;\n&lt;li&gt;Over 2 million members globally and rapidly growing&lt;/li&gt;\n&lt;li&gt;Over $300 million raised in funding&lt;/li&gt;\n&lt;li&gt;3,000 Tideans globally&lt;/li&gt;\n&lt;li&gt;Recognised with Great Place to Work certification three years in a row, and among India’s Top 50 Best Workplaces in Banking, Financial Services, and Insurance in 2026&lt;/li&gt;\n&lt;li&gt;We have offices in Central London, with a member support and technology centre in Sofia, Bulgaria, technology centres in Serbia, Romania, Lithuania and Hyderabad and offices in Gurugram, New Delhi, Berlin, Paris and Luxembourg&lt;/li&gt;\n&lt;/ul&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;ABOUT THE ROLE:&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We are looking for a design leader to help shape the experience for key areas of the member experience as the Tide app continues to evolve across 55+ products.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;As a Product Design Manager, you will act as a true player/coach across 1-2 key product domains (groups of products). You will lead and mentor a team of 4 to 8 Product Designers integrated into individual products across the domains.&lt;/p&gt;\n&lt;p&gt;We are looking for an empowering people manager, who is passionate about the craft. You are ready to jump into the details and lead hands-on design for critical strategic initiatives, while balancing supporting your team &amp;amp; resourcing. You will also work closely with both your domain leaders and design managers in other domains, to help build cohesive experiences across Tide.&lt;br&gt;&lt;br&gt;Flexible hybrid model with an expectation of visiting our London office 2–4 times a month.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;WHAT YOU’LL DO:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Lead and Build the Team:&lt;/strong&gt; Coach, develop, and set actionable career goals for a team of 4 to 8 Product Designers. You will also actively manage resourcing, balance team workloads, and drive hiring to scale the design function.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Act as a Player/Coach:&lt;/strong&gt; Jump into the details and lead hands-on design work for specific, critical strategic initiatives, diving into Figma to deliver validated, high-impact member experiences.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Shape the Domain Experience:&lt;/strong&gt; Partner closely with domain leads (PMs and Engineering) to define OKRs, prioritize roadmaps, and craft the overarching strategy and experience for your specific domains.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Ensure a Connected App Experience:&lt;/strong&gt; Collaborate closely with design managers in other domains to align patterns, share insights, and guarantee a seamless, connected journey across the entire app.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;WHAT WE ARE LOOKING FOR:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Proven Design Leadership:&lt;/strong&gt; Track record of managing or leading product designers in a fast-paced SaaS, fintech, or scale-up environment. You have demonstrable experience of hiring and developing designers, managing resourcing across your team, and balancing team support with strategic project delivery.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Player/Coach Mentality:&lt;/strong&gt; Strong portfolio showing both strategic product thinking and top-tier UI/UX execution.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Agile &amp;amp; Autonomous:&lt;/strong&gt; Highly comfortable navigating ambiguity and collaborating with cross-functional peers in an agile setup.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Ownership &amp;amp; influence:&lt;/strong&gt; Experience balancing user and business needs, working closely with senior stakeholders. You know how to manage trade-offs between in-depth work and quick wins or experiments.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;End-to-End Design Workflow &amp;amp; AI:&lt;/strong&gt; Deep experience working across the full, evolving design lifecycle—from research, concepts, prototyping, testing, and handover. You are also excited to pioneer the inclusion of AI in our processes, leveraging it from early design flows right through to pushing code changes.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Small business knowledge (desirable):&lt;/strong&gt; You understand personally the challenge we’re trying to solve, in having experience of designing for small businesses or even better, having worked around small businesses yourself.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;WHAT YOU’LL GET IN RETURN:&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Our location-specific employee benefits are designed to cater to the unique needs of Tideans:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Competitive Compensation –&amp;nbsp; Competitive salary and share options.&lt;/li&gt;\n&lt;li&gt;Time Off – Generous annual leave on top of bank holidays.&lt;/li&gt;\n&lt;li&gt;Parental Leave – Paid maternity, paternity, and adoption leave to support your family journey.&lt;/li&gt;\n&lt;li&gt;Sabbatical – Extended unpaid and paid leave options after completing milestone years with Tide.&lt;/li&gt;\n&lt;li&gt;Access to salary sacrifice benefits – like Nursery (could save up to 47% on fees!) and Cycle to Work discounts&lt;/li&gt;\n&lt;li&gt;Health Insurance – Comprehensive Private family insurance plan.&lt;/li&gt;\n&lt;li&gt;Life &amp;amp; Accident Cover – Comprehensive accidental and life insurance protection.&lt;/li&gt;\n&lt;li&gt;Mental Wellbeing – Access to therapy sessions, courses, meditations, and workshops.&lt;/li&gt;\n&lt;li&gt;Retirement Planning – Build your retirement fund faster with Tide’s pension scheme on eligible earnings.&lt;/li&gt;\n&lt;li&gt;Volunteering &amp;amp; Development Days – Paid days annually for volunteering or personal growth.&lt;/li&gt;\n&lt;li&gt;Learning &amp;amp; Development – Annual budget for books, courses, coaching, and more.&lt;/li&gt;\n&lt;li&gt;WOO (Work Outside the Office) – Work from abroad for up to 90 days annually.&lt;/li&gt;\n&lt;li&gt;Home Office Setup – Contribution towards setting up your home office&lt;/li&gt;\n&lt;li&gt;Laptop Ownership – Keep your old laptop and get a new one when it’s time for a replacement.&lt;/li&gt;\n&lt;li&gt;Snacks &amp;amp; Meals – Daily breakfast spread with all-day coffee, tea, and juices.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;#LI-NZ1&lt;/strong&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;TIDE IS A PLACE FOR EVERYONE&lt;/h3&gt;\n&lt;p&gt;At Tide, we believe that we can only succeed if we let our differences enrich our culture. Our Tideans come from a variety of backgrounds and experience levels. We consider everyone irrespective of their ethnicity, religion, sexual orientation, gender identity, family or parental status, national origin, veteran, neurodiversity or differently-abled status. We celebrate diversity in our workforce as a cornerstone of our success. Our commitment to a broad spectrum of ideas and backgrounds is what enables us to build products that resonate with our members’ diverse needs and lives.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are One Team and foster a transparent and inclusive environment, where everyone’s voice is heard.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;At Tide, we thrive on diversity, embracing various backgrounds and experiences. We welcome all individuals regardless of ethnicity, religion, sexual orientation, gender identity, or disability. Our inclusive culture is key to our success, helping us build products that meet our members&#39; diverse needs. We are One Team, committed to transparency and ensuring everyone’s voice is heard.&lt;/em&gt;&lt;/p&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;&lt;/div&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;em&gt;It has come to our attention that individuals or agencies are falsely claiming to represent Tide and are reaching out to candidates regarding job opportunities. Please be aware that:&lt;/em&gt;&lt;/div&gt;\n&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet p-rich_text_list--nested&quot; data-stringify-type=&quot;unordered-list&quot; data-list-tree=&quot;true&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;\n&lt;li style=&quot;font-style: italic;&quot; data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&lt;em&gt;Tide does&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;not&lt;/strong&gt;&amp;nbsp;charge any fees at any stage of the recruitment process.&lt;/em&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic;&quot; data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&lt;em&gt;All official Tide job opportunities are listed exclusively on our&amp;nbsp;&lt;a href=&quot;https://www.tide.co/careers/&quot; target=&quot;_blank&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Careers Page&lt;/strong&gt;&lt;/a&gt;&amp;nbsp;and applications should be submitted through this channel.&lt;/em&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic;&quot; data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&lt;em&gt;Communication from Tide will only come from an official&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;@tide&lt;/strong&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;.co&lt;/strong&gt;&amp;nbsp;email address.&lt;/em&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic;&quot; data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&lt;em&gt;Tide does not work with agencies or recruiters without prior formal engagement, and we do not authorize third parties to make job offers on our behalf.&lt;/em&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;If you are contacted by anyone misrepresenting Tide or requesting payment, please treat it as fraudulent and report it to us immediately at &lt;a href=&quot;mailto:talent@tide.co&quot; target=&quot;_blank&quot;&gt;talent@tide.co&lt;/a&gt;&lt;br&gt;Your safety and trust are important to us, and we are committed to ensuring a fair and transparent recruitment process.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;Tide leverages AI to enhance our hiring experience. You can read more about how we use AI in our recruitment process in our &lt;a href=&quot;https://assets.ctfassets.net/3h69mkdgxn20/5MFtWSdG8YLKq3jZkK52NY/3f18633073e6cdbd03bba4b9791c64f4/Using_AI_throughout_the_Hiring_Process.pdf&quot; target=&quot;_blank&quot;&gt;AI Policy&lt;/a&gt;.&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;Your personal data will be processed by Tide for recruitment purposes and in accordance with &lt;/em&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;&lt;a class=&quot;c-link&quot; href=&quot;https://assets.ctfassets.net/3h69mkdgxn20/30JAUcDJMlaCwUKt4zoW0j/dd541981a67b6838d6e54537704bc8aa/Tide_Recruitment_Privacy_Notice_Job_Post_Version.pdf&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://assets.ctfassets.net/3h69mkdgxn20/1MYf6q4ZMWugpeaROVETBN/526e9c160a2de03576413c81657c6466/Recruitment_Privacy_Notice__Final_Draft__Sep_2024_.pdf&quot; data-sk=&quot;tooltip_parent&quot;&gt;Tide&#39;s Recruitment Privacy Notice&lt;/a&gt;&lt;/em&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;.&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;strong&gt;A&lt;/strong&gt;&lt;strong&gt;BOUT TIDE&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;At Tide, we help SMEs save time and money in the running of their businesses by not only offering business accounts and related banking services, but also a comprehensive set of highly usable and connected administrative solutions, from invoicing to accounting.&lt;/p&gt;\n&lt;p&gt;Tide is transforming the small business banking market and now supports over 2 million members globally across the UK, Germany and France.&lt;/p&gt;\n&lt;p&gt;Using advanced technology, all solutions are designed with SMEs in mind. With quick onboarding, low fees and innovative features, we thrive on making data driven decisions to serve our mission: to help SMEs save time and money so they can get back to doing what they love.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Tide facts:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Tide is available for UK, German and French SMEs&lt;/li&gt;\n&lt;li&gt;Over 2 million members globally and rapidly growing&lt;/li&gt;\n&lt;li&gt;Over $300 million raised in funding&lt;/li&gt;\n&lt;li&gt;3,000 Tideans globally&lt;/li&gt;\n&lt;li&gt;We have offices in Central London, with a member support and technology centre in Sofia, Bulgaria, technology centres in Serbia, Romania, Lithuania and Hyderabad and offices in Gurugram, New Delhi, Berlin, Paris and Luxembourg&lt;/li&gt;\n&lt;/ul&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;ABOUT THE ROLE:&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We are looking for a design leader to help shape the experience for key areas of the member experience as the Tide app continues to evolve across 55+ products.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;As a Product Design Manager, you will act as a true player/coach across 1-2 key product domains (groups of products). You will lead and mentor a team of 4 to 8 Product Designers integrated into individual products across the domains.&lt;/p&gt;\n&lt;p&gt;We are looking for an empowering people manager, who is passionate about the craft. You are ready to jump into the details and lead hands-on design for critical strategic initiatives, while balancing supporting your team &amp;amp; resourcing. You will also work closely with both your domain leaders and design managers in other domains, to help build cohesive experiences across Tide.&lt;br&gt;&lt;br&gt;Flexible hybrid model with an expectation of visiting our London office 2–4 times a month.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;WHAT YOU’LL DO:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Lead and Build the Team:&lt;/strong&gt; Coach, develop, and set actionable career goals for a team of 4 to 8 Product Designers. You will also actively manage resourcing, balance team workloads, and drive hiring to scale the design function.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Act as a Player/Coach:&lt;/strong&gt; Jump into the details and lead hands-on design work for specific, critical strategic initiatives, diving into Figma to deliver validated, high-impact member experiences.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Shape the Domain Experience:&lt;/strong&gt; Partner closely with domain leads (PMs and Engineering) to define OKRs, prioritize roadmaps, and craft the overarching strategy and experience for your specific domains.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Ensure a Connected App Experience:&lt;/strong&gt; Collaborate closely with design managers in other domains to align patterns, share insights, and guarantee a seamless, connected journey across the entire app.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;WHAT WE ARE LOOKING FOR:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Proven Design Leadership:&lt;/strong&gt; Track record of managing or leading product designers in a fast-paced SaaS, fintech, or scale-up environment. You have demonstrable experience of hiring and developing designers, managing resourcing across your team, and balancing team support with strategic project delivery.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Player/Coach Mentality:&lt;/strong&gt; Strong portfolio showing both strategic product thinking and top-tier UI/UX execution.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Agile &amp;amp; Autonomous:&lt;/strong&gt; Highly comfortable navigating ambiguity and collaborating with cross-functional peers in an agile setup.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Ownership &amp;amp; influence:&lt;/strong&gt; Experience balancing user and business needs, working closely with senior stakeholders. You know how to manage trade-offs between in-depth work and quick wins or experiments.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;End-to-End Design Workflow &amp;amp; AI:&lt;/strong&gt; Deep experience working across the full, evolving design lifecycle—from research, concepts, prototyping, testing, and handover. You are also excited to pioneer the inclusion of AI in our processes, leveraging it from early design flows right through to pushing code changes.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Small business knowledge (desirable):&lt;/strong&gt; You understand personally the challenge we’re trying to solve, in having experience of designing for small businesses or even better, having worked around small businesses yourself.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;WHAT YOU’LL GET IN RETURN:&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Our location-specific employee benefits are designed to cater to the unique needs of Tideans:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Competitive Compensation –&amp;nbsp; Competitive salary and share options.&lt;/li&gt;\n&lt;li&gt;Time Off – Generous annual leave on top of bank holidays.&lt;/li&gt;\n&lt;li&gt;Parental Leave – Paid maternity, paternity, and adoption leave to support your family journey.&lt;/li&gt;\n&lt;li&gt;Sabbatical – Extended unpaid and paid leave options after completing milestone years with Tide.&lt;/li&gt;\n&lt;li&gt;Access to salary sacrifice benefits – like Nursery (could save up to 47% on fees!) and Cycle to Work discounts&lt;/li&gt;\n&lt;li&gt;Health Insurance – Comprehensive Private family insurance plan.&lt;/li&gt;\n&lt;li&gt;Life &amp;amp; Accident Cover – Comprehensive accidental and life insurance protection.&lt;/li&gt;\n&lt;li&gt;Mental Wellbeing – Access to therapy sessions, courses, meditations, and workshops.&lt;/li&gt;\n&lt;li&gt;Retirement Planning – Build your retirement fund faster with Tide’s pension scheme on eligible earnings.&lt;/li&gt;\n&lt;li&gt;Volunteering &amp;amp; Development Days – Paid days annually for volunteering or personal growth.&lt;/li&gt;\n&lt;li&gt;Learning &amp;amp; Development – Annual budget for books, courses, coaching, and more.&lt;/li&gt;\n&lt;li&gt;WOO (Work Outside the Office) – Work from abroad for up to 90 days annually.&lt;/li&gt;\n&lt;li&gt;Home Office Setup – Contribution towards setting up your home office&lt;/li&gt;\n&lt;li&gt;Laptop Ownership – Keep your old laptop and get a new one when it’s time for a replacement.&lt;/li&gt;\n&lt;li&gt;Snacks &amp;amp; Meals – Daily breakfast spread with all-day coffee, tea, and juices.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;#LI-NZ1&lt;/strong&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;TIDE IS A PLACE FOR EVERYONE&lt;/h3&gt;\n&lt;p&gt;At Tide, we believe that we can only succeed if we let our differences enrich our culture. Our Tideans come from a variety of backgrounds and experience levels. We consider everyone irrespective of their ethnicity, religion, sexual orientation, gender identity, family or parental status, national origin, veteran, neurodiversity or differently-abled status. We celebrate diversity in our workforce as a cornerstone of our success. Our commitment to a broad spectrum of ideas and backgrounds is what enables us to build products that resonate with our members’ diverse needs and lives.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are One Team and foster a transparent and inclusive environment, where everyone’s voice is heard.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;At Tide, we thrive on diversity, embracing various backgrounds and experiences. We welcome all individuals regardless of ethnicity, religion, sexual orientation, gender identity, or disability. Our inclusive culture is key to our success, helping us build products that meet our members&#39; diverse needs. We are One Team, committed to transparency and ensuring everyone’s voice is heard.&lt;/em&gt;&lt;/p&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;&lt;/div&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;em&gt;It has come to our attention that individuals or agencies are falsely claiming to represent Tide and are reaching out to candidates regarding job opportunities. Please be aware that:&lt;/em&gt;&lt;/div&gt;\n&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet p-rich_text_list--nested&quot; data-stringify-type=&quot;unordered-list&quot; data-list-tree=&quot;true&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;\n&lt;li style=&quot;font-style: italic;&quot; data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&lt;em&gt;Tide does&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;not&lt;/strong&gt;&amp;nbsp;charge any fees at any stage of the recruitment process.&lt;/em&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic;&quot; data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&lt;em&gt;All official Tide job opportunities are listed exclusively on our&amp;nbsp;&lt;a href=&quot;https://www.tide.co/careers/&quot; target=&quot;_blank&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Careers Page&lt;/strong&gt;&lt;/a&gt;&amp;nbsp;and applications should be submitted through this channel.&lt;/em&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic;&quot; data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&lt;em&gt;Communication from Tide will only come from an official&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;@tide&lt;/strong&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;.co&lt;/strong&gt;&amp;nbsp;email address.&lt;/em&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic;&quot; data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&lt;em&gt;Tide does not work with agencies or recruiters without prior formal engagement, and we do not authorize third parties to make job offers on our behalf.&lt;/em&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;If you are contacted by anyone misrepresenting Tide or requesting payment, please treat it as fraudulent and report it to us immediately at &lt;a href=&quot;mailto:talent@tide.co&quot; target=&quot;_blank&quot;&gt;talent@tide.co&lt;/a&gt;&lt;br&gt;Your safety and trust are important to us, and we are committed to ensuring a fair and transparent recruitment process.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;Tide leverages AI to enhance our hiring experience. You can read more about how we use AI in our recruitment process in our &lt;a href=&quot;https://assets.ctfassets.net/3h69mkdgxn20/5MFtWSdG8YLKq3jZkK52NY/3f18633073e6cdbd03bba4b9791c64f4/Using_AI_throughout_the_Hiring_Process.pdf&quot; target=&quot;_blank&quot;&gt;AI Policy&lt;/a&gt;.&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;Your personal data will be processed by Tide for recruitment purposes and in accordance with &lt;/em&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;&lt;a class=&quot;c-link&quot; href=&quot;https://assets.ctfassets.net/3h69mkdgxn20/30JAUcDJMlaCwUKt4zoW0j/dd541981a67b6838d6e54537704bc8aa/Tide_Recruitment_Privacy_Notice_Job_Post_Version.pdf&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://assets.ctfassets.net/3h69mkdgxn20/1MYf6q4ZMWugpeaROVETBN/526e9c160a2de03576413c81657c6466/Recruitment_Privacy_Notice__Final_Draft__Sep_2024_.pdf&quot; data-sk=&quot;tooltip_parent&quot;&gt;Tide&#39;s Recruitment Privacy Notice&lt;/a&gt;&lt;/em&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;.&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
       "roleFamily": "uiux"
+    },
+    {
+      "id": "greenhouse:tide:8201236003",
+      "atsProvider": "greenhouse",
+      "company": "Careers at Tide",
+      "title": "Senior Staff Product Designer",
+      "location": "United Kingdom",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/8201236003",
+      "postedAt": "2026-11-11T05:08:22-05:00",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;strong&gt;A&lt;/strong&gt;&lt;strong&gt;BOUT TIDE&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;At Tide, we help SMEs save time and money in the running of their businesses by not only offering business accounts and related banking services, but also a comprehensive set of highly usable and connected administrative solutions, from invoicing to accounting.&lt;/p&gt;\n&lt;p&gt;Tide is transforming the small business banking market and now supports over 2 million members globally across the UK, Germany and France.&lt;/p&gt;\n&lt;p&gt;Using advanced technology, all solutions are designed with SMEs in mind. With quick onboarding, low fees and innovative features, we thrive on making data driven decisions to serve our mission: to help SMEs save time and money so they can get back to doing what they love.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Tide facts:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Tide is available for UK, German and French SMEs&lt;/li&gt;\n&lt;li&gt;Over 2 million members globally and rapidly growing&lt;/li&gt;\n&lt;li&gt;Over $300 million raised in funding&lt;/li&gt;\n&lt;li&gt;3,000 Tideans globally&lt;/li&gt;\n&lt;li&gt;We have offices in Central London, with a member support and technology centre in Sofia, Bulgaria, technology centres in Serbia, Romania, Lithuania and Hyderabad and offices in Gurugram, New Delhi, Berlin, Paris and Luxembourg&lt;/li&gt;\n&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;ABOUT THE TEAM:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Tide is one app with many products for small businesses: business accounts, payments, credit, insurance, invoicing, accounting and more. Over 2 million members across the UK, India, Germany and France use it to run their businesses.&lt;/p&gt;\n&lt;p&gt;Our Product Design team designs every part of that experience. Designers work inside cross-functional teams alongside Product Managers, Engineers, UX Writers and Researchers, and we encourage designers to move between teams so they keep learning and growing.&lt;/p&gt;\n&lt;p&gt;We’re at an exciting point. Under our new design structure, we’re raising the bar on craft, making the whole app feel like one connected experience, and building a stronger design community. We’re also building a senior individual contributor track in design for the first time. This role is one of the first, so you’ll help define what design looks like at Tide.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;ABOUT THE ROLE:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a Senior Staff Product Designer, you’ll work on our most complex and high-visibility problems. You’ll report directly to the Head of Design and work across teams rather than sitting in one, moving to wherever the biggest design challenge is.&lt;/p&gt;\n&lt;p&gt;Projects include continuing to evolve our AI solutions, helping shape the next phase of our app architecture and taking lead on new 0 to 1 initiatives. You will also help actively raise the quality bar across the entire design organization.&lt;/p&gt;\n&lt;p&gt;We’re open to designers operating at Senior-Staff or Principal level. Titles vary across companies, so what matters most is the strength of your craft, the quality of your thinking, and the impact you’ve had.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;As Senior Staff Product Designer, you will:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Lead multiple projects end to end.&lt;/strong&gt; Go from early discovery and concepts to prototyping, testing and handover to engineering, working hands-on in Figma.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Shape the experience strategy.&lt;/strong&gt; Partner with Product and Engineering leaders to turn messy, ambiguous problems into a clear design vision, priorities and roadmap.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Connect the app.&lt;/strong&gt; Work with design leads across Tide to create shared patterns and foundations, as Tide app continues to evolve across 55+ products.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Raise the craft bar.&lt;/strong&gt; Set the example for quality, mentor other designers, and introduce better ways of working.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Pioneer AI.&lt;/strong&gt; Shape how AI shows up in our product, and how we use AI in our own design process, from ideas to code.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Measure and iterate.&lt;/strong&gt; Ship, learn from real member behaviour, and improve. You’d rather launch, learn and refine than wait for perfection.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;WHAT WE ARE LOOKING FOR:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;12+ years in product design, with experience operating at Staff level or above (or equivalent scope) in a SaaS, fintech or scale-up environment&lt;/li&gt;\n&lt;li&gt;A strong track record designing intuitive mobile &amp;amp; web experiences&lt;/li&gt;\n&lt;li&gt;Experience leading complex, cross-team work, such as a product or platform redesign or new 0-to-1 product and iterations.&lt;/li&gt;\n&lt;li&gt;Expert-level craft across the full product lifecycle: from early discovery, research, and concepting to prototyping, validation, and design-to-code handover&lt;/li&gt;\n&lt;li&gt;Systems thinking: you design across features and touchpoints, not just single screens&lt;/li&gt;\n&lt;li&gt;Business acumen: you balance member needs with commercial goals, and speed with quality&lt;/li&gt;\n&lt;li&gt;Comfort with ambiguity and change&lt;/li&gt;\n&lt;li&gt;Confidence working with senior leaders. You can present, shape, defend and adapt your ideas with VPs and SVPs.&lt;/li&gt;\n&lt;li&gt;Open, collaborative style: you enjoy discussing work in the open, being challenged, and working closely with Product Managers and Engineers&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;WHAT YOU’LL GET IN RETURN:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Our location-specific employee benefits are designed to cater to the unique needs of Tideans:&amp;nbsp;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Competitive Compensation –&amp;nbsp; Competitive salary and share options.&lt;/li&gt;\n&lt;li&gt;Time Off – Generous annual leave on top of bank holidays.&lt;/li&gt;\n&lt;li&gt;Parental Leave – Paid maternity, paternity, and adoption leave to support your family journey.&lt;/li&gt;\n&lt;li&gt;Sabbatical – Extended unpaid and paid leave options after completing milestone years with Tide.&lt;/li&gt;\n&lt;li&gt;Access to salary sacrifice benefits – like Nursery (could save up to 47% on fees!) and Cycle to Work discounts&lt;/li&gt;\n&lt;li&gt;Health Insurance – Comprehensive Private family insurance plan.&lt;/li&gt;\n&lt;li&gt;Life &amp;amp; Accident Cover – Comprehensive accidental and life insurance protection.&lt;/li&gt;\n&lt;li&gt;Mental Wellbeing – Access to therapy sessions, courses, meditations, and workshops.&lt;/li&gt;\n&lt;li&gt;Retirement Planning – Build your retirement fund faster with Tide’s pension scheme on eligible earnings.&lt;/li&gt;\n&lt;li&gt;Volunteering &amp;amp; Development Days – Paid days annually for volunteering or personal growth.&lt;/li&gt;\n&lt;li&gt;Learning &amp;amp; Development – Annual budget for books, courses, coaching, and more.&lt;/li&gt;\n&lt;li&gt;WOO (Work Outside the Office) – Work from abroad for up to 90 days annually.&lt;/li&gt;\n&lt;li&gt;Home Office Setup – Contribution towards setting up your home office.&lt;/li&gt;\n&lt;li&gt;Laptop Ownership – Keep your old laptop and get a new one when it’s time for a replacement.&lt;/li&gt;\n&lt;li&gt;Snacks &amp;amp; Meals – Daily breakfast spread with all-day coffee, tea, and juices.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;TIDE IS A PLACE FOR EVERYONE&lt;/h3&gt;\n&lt;p&gt;At Tide, we believe that we can only succeed if we let our differences enrich our culture. Our Tideans come from a variety of backgrounds and experience levels. We consider everyone irrespective of their ethnicity, religion, sexual orientation, gender identity, family or parental status, national origin, veteran, neurodiversity or differently-abled status. We celebrate diversity in our workforce as a cornerstone of our success. Our commitment to a broad spectrum of ideas and backgrounds is what enables us to build products that resonate with our members’ diverse needs and lives.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are One Team and foster a transparent and inclusive environment, where everyone’s voice is heard.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;At Tide, we thrive on diversity, embracing various backgrounds and experiences. We welcome all individuals regardless of ethnicity, religion, sexual orientation, gender identity, or disability. Our inclusive culture is key to our success, helping us build products that meet our members&#39; diverse needs. We are One Team, committed to transparency and ensuring everyone’s voice is heard.&lt;/em&gt;&lt;/p&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;&lt;/div&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;em&gt;It has come to our attention that individuals or agencies are falsely claiming to represent Tide and are reaching out to candidates regarding job opportunities. Please be aware that:&lt;/em&gt;&lt;/div&gt;\n&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet p-rich_text_list--nested&quot; data-stringify-type=&quot;unordered-list&quot; data-list-tree=&quot;true&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;\n&lt;li style=&quot;font-style: italic;&quot; data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&lt;em&gt;Tide does&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;not&lt;/strong&gt;&amp;nbsp;charge any fees at any stage of the recruitment process.&lt;/em&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic;&quot; data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&lt;em&gt;All official Tide job opportunities are listed exclusively on our&amp;nbsp;&lt;a href=&quot;https://www.tide.co/careers/&quot; target=&quot;_blank&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Careers Page&lt;/strong&gt;&lt;/a&gt;&amp;nbsp;and applications should be submitted through this channel.&lt;/em&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic;&quot; data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&lt;em&gt;Communication from Tide will only come from an official&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;@tide&lt;/strong&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;.co&lt;/strong&gt;&amp;nbsp;email address.&lt;/em&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic;&quot; data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&lt;em&gt;Tide does not work with agencies or recruiters without prior formal engagement, and we do not authorize third parties to make job offers on our behalf.&lt;/em&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;If you are contacted by anyone misrepresenting Tide or requesting payment, please treat it as fraudulent and report it to us immediately at &lt;a href=&quot;mailto:talent@tide.co&quot; target=&quot;_blank&quot;&gt;talent@tide.co&lt;/a&gt;&lt;br&gt;Your safety and trust are important to us, and we are committed to ensuring a fair and transparent recruitment process.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;Tide leverages AI to enhance our hiring experience. You can read more about how we use AI in our recruitment process in our &lt;a href=&quot;https://assets.ctfassets.net/3h69mkdgxn20/5MFtWSdG8YLKq3jZkK52NY/3f18633073e6cdbd03bba4b9791c64f4/Using_AI_throughout_the_Hiring_Process.pdf&quot; target=&quot;_blank&quot;&gt;AI Policy&lt;/a&gt;.&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;Your personal data will be processed by Tide for recruitment purposes and in accordance with &lt;/em&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;&lt;a class=&quot;c-link&quot; href=&quot;https://assets.ctfassets.net/3h69mkdgxn20/30JAUcDJMlaCwUKt4zoW0j/dd541981a67b6838d6e54537704bc8aa/Tide_Recruitment_Privacy_Notice_Job_Post_Version.pdf&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://assets.ctfassets.net/3h69mkdgxn20/1MYf6q4ZMWugpeaROVETBN/526e9c160a2de03576413c81657c6466/Recruitment_Privacy_Notice__Final_Draft__Sep_2024_.pdf&quot; data-sk=&quot;tooltip_parent&quot;&gt;Tide&#39;s Recruitment Privacy Notice&lt;/a&gt;&lt;/em&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;.&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+      "roleFamily": "lead-pd"
     },
     {
       "id": "ashby:trainline:bb1f8b61-523b-4e78-81cf-779060de786a",
@@ -252,6 +263,17 @@
       "roleFamily": "senior-pd"
     },
     {
+      "id": "weworkremotely:remote-design-jobs:https://weworkremotely.com/remote-jobs/maptiler-head-of-design-maps-platform-remote-in-europe",
+      "atsProvider": "weworkremotely",
+      "company": "MapTiler",
+      "title": " Head of Design | Maps Platform (Remote in Europe)",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/maptiler-head-of-design-maps-platform-remote-in-europe",
+      "postedAt": "2026-10-26T11:48:42.000Z",
+      "description": "<img src=\"https://we-work-remotely.imgix.net/logos/0144/3523/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress\" />\n\n<p>\n  <strong>Headquarters:</strong> Zug, Switzerland\n    <br /><strong>URL:</strong> <a href=\"https://www.maptiler.com/\">https://www.maptiler.com/</a>\n</p>\n\n<ul>\n<li>Full-time&nbsp;</li>\n<li>Freelance / B2B contract&nbsp;</li>\n<li>Remote in Europe</li>\n</ul>\n<p><strong>Description</strong><br><br>MapTiler is moving toward becoming an AI-accelerated company, and design is a part of that change. We are looking for a <strong>Head of Design</strong> to lead the craft and the design practice across our products and customer experience, and help to define the new setup and processes for how designers should work. This is a completely new role at MapTiler!<br><br><strong>What you will do</strong></p>\n<ul>\n<li>Lead the design team of 5 and make the people decisions that come with it: hiring, performance, wellbeing, career progression and education of designers.</li>\n<li>Work closely with product managers, developers and marketing, and represent design in discussions with the executive team.</li>\n<li>Measurably increase the user-centric mindset and UX maturity of the company: define how we measure it, report it to leadership and act on what you find.</li>\n<li>Lead design's transition to an AI-accelerated way of working and help to decide how designers use AI in their daily practice, in line with the company's overall direction.</li>\n<li>Own design craft, quality standards, and the coherence of the experience across all MapTiler products and services.</li>\n<li>Own the design roadmap, which runs in parallel to the product and marketing roadmaps.</li>\n<li>Make company-wide design decisions, set standards and quality, and speak up when they are not met.</li>\n</ul>\n<p><strong>What we expect from you</strong></p>\n<ul>\n<li>At least 8 years of experience in UX, UI, or product design, including 3+ years in a design leadership role.</li>\n<li>Experience building and leading a design team, including hiring, performance management, and career development.</li>\n<li>Strong design craft, shown by a portfolio or a case study of projects you led, and the ability to set and defend quality standards.</li>\n<li>Hands-on experience using AI tools in design work, and a well-argued view of where they help and where they do not.</li>\n<li>Ability to align with or lead Developer Experience (DX), ensuring B2B / B2D products work effectively for both human users and AI agents.</li>\n<li>The ability to explain design decisions with concrete arguments based on qualitative and quantitative user research.</li>\n<li>The ability to influence and negotiate at the executive level.</li>\n<li>An understanding that good design serves a deeper purpose than looking good.</li>\n<li>A strong drive for self-improvement, learning, sharing knowledge, and trying new approaches.</li>\n</ul>\n<p><strong>Nice to have</strong></p>\n<ul>\n<li>Interest in maps or cartography.</li>\n<li>Knowledge of the GIS or map industry.</li>\n<li>Experience with Agile methodology.</li>\n</ul>\n<p><strong>What we offer</strong></p>\n<ul>\n<li>Competitive financial compensation (€29 – €45 / hour) based on your experience &amp; annual performance bonus.</li>\n<li>Widescreen LCD, a laptop of your choice, and all the resources you need for your work.&nbsp;</li>\n<li>Flexible working hours to help you easily balance your personal and professional life.</li>\n<li>Work remotely from anywhere in Europe, or hang out with us at our hubs in Unterägeri (Switzerland) or Brno (Czechia).</li>\n<li>Collaborate with the best from major <a href=\"https://www.maptiler.com/industry/\">global brands</a>.</li>\n<li>Grow your career with dedicated support for continuous learning, attending conferences, and building your personal brand.</li>\n<li>A friendly, connected <a href=\"https://www.maptiler.com/benefits/\">team</a> and regular team-building events across Europe.</li>\n</ul>\n<p><strong>About MapTiler<br></strong><br>We make maps easy so that everyone can understand the world better. Our platform powers everything from global weather forecasting and humanitarian crisis management to flight trackers and the Swiss railways. Our maps are viewed by hundreds of millions of people worldwide every month.<br>We are deeply rooted in the developer and open-source communities. Since our users and customers are primarily developers, engineers, and geo-experts, we don't only do traditional account management, we also build technical partnerships.</p>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/maptiler-head-of-design-maps-platform-remote-in-europe\">https://weworkremotely.com/remote-jobs/maptiler-head-of-design-maps-platform-remote-in-europe</a></p>",
+      "roleFamily": "lead-pd"
+    },
+    {
       "id": "weworkremotely:remote-product-jobs:https://weworkremotely.com/remote-jobs/carrot-product-design-lead",
       "atsProvider": "weworkremotely",
       "company": "Carrot",
@@ -261,6 +283,28 @@
       "postedAt": "2026-10-28T07:31:07.000Z",
       "description": "<p>\n  <strong>Headquarters:</strong> Remote\n</p>\n\n<div class=\"content-intro\"><p><strong>About Carrot: </strong></p>\n<p><a href=\"https://c212.net/c/link/?t=0&amp;l=en&amp;o=4420559-1&amp;h=3535232987&amp;u=https%3A%2F%2Fwww.carrotfertility.com%2F&amp;a=Carrot+Fertility\">Carrot</a> is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health systems trust Carrot to support millions of members across 195 countries – from pre-pregnancy through menopause and major life moments in between. Carrot's comprehensive clinical program delivers industry-leading cost savings for plan sponsors and award-winning experiences and improved outcomes for millions of people worldwide.<br><br>Carrot is widely regarded as a defining force in healthcare innovation as a recipient of several top-tier awards, including Fast Company's 'Most Innovative Companies' and CNBC's '100 Barrier Breaking Startups'. The company is regularly cited by leading global outlets — including The Economist, Bloomberg, The Wall Street Journal, NPR, ABC News, and Harvard Business Review — as a leading voice on digital health, the future of work, and family health. Learn more at <a href=\"http://get-carrot.com\">get-carrot.com</a>.</p></div><p><strong>About Carrot</strong></p>\n<p>Carrot is the leading global fertility and family-building platform providing care for everyone, everywhere. Trusted by more than a thousand multinational employers, health plans, and health systems, Carrot's comprehensive clinical program delivers industry-leading cost savings for employers and award-winning experiences for millions of people worldwide. From maternity through menopause and pre-pregnancy through parenting, Carrot is dedicated to expanding access and improving outcomes. Carrot empowers members with compassionate, personalized, and inclusive support.</p>\n<p>&nbsp;</p>\n<p><strong>The Opportunity </strong><strong></strong></p>\n<p>We're looking for a Lead Product Designer to shape the end-to-end experience for members. You'll own design from concept through execution for our mobile app priorities. You'll report to our Director of Product and be the design lead for this team, with the opportunity to pair with product designers working on other parts of the Carrot experience.</p>\n<p>The work spans two levels. You'll go deep on individual mobile-first experiences, including Sprints, our program for members working on their metabolic health alongside fertility, pregnancy, and menopause care. You'll also design how distinct pieces of the member experience fit together into one seamless mobile experience.</p>\n<p>&nbsp;</p>\n<p><strong>What You’ll Own </strong><strong></strong></p>\n<p>In this role, you will:</p>\n<ul>\n<li><strong>Own mobile design end to end</strong> — concept through high-fidelity execution on iOS and Android.</li>\n<li><strong>Bring the pieces together </strong>— design the information architecture and navigation that make distinct parts of the member experience feel like one product.</li>\n<li><strong>Design for return, not just first use</strong> — drive adoption and retention through experiences that earn a member's attention daily, weekly, and monthly.</li>\n<li><strong>Make complexity feel simple</strong> — turn large, dynamic, nuanced information into something members trust at a glance.</li>\n<li><strong>Partner closely with our Content Designer</strong> so visual and written communication land as one experience.</li>\n<li><strong>Ground decisions in evidence</strong> — run qualitative and quantitative research, and use it to back what we build.</li>\n<li><strong>Grow our design system</strong> with accessibility, consistency, and scalability in mind.</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>What Success Looks Like </strong><strong>&nbsp;</strong></p>\n<p>In your first 12–18 months, you will have:</p>\n<ul>\n<li>Shipped design work that measurably moved member adoption and engagement, with metrics you can point to.</li>\n<li>Conducted user research and testing and developed a sharp sense of updates to best drive member engagement and business goals.</li>\n<li>Contributed to our design system- letting teams ship faster and more consistently.</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>About You </strong><strong></strong></p>\n<p>You likely have:</p>\n<ul>\n<li>A Bachelor's Degree</li>\n<li>10+ years in product/UX design, with a portfolio of mobile-first work and end-to-end ownership of complex, multi-step journeys&nbsp;</li>\n<li>Experience building and working on consumer apps focused on daily and weekly active usage</li>\n<li>A track record designing for engagement and retention — habit formation, behavior change, wellness, or similar</li>\n<li>AI as a core part of your design practice, plus experience designing AI-powered product experiences</li>\n<li>Systems thinking to create experiences that feel clean and simple for users</li>\n<li>Strong visual and interaction craft, hands-on prototyping, and fluency with building products people love to use</li>\n<li>Experience leading user research or usability testing</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Nice to Have </strong><strong>⭐</strong></p>\n<p>While not required, we would be especially excited if you bring:</p>\n<ul>\n<li>Experience with behavior change frameworks or gamification</li>\n<li>Experience helping teammates develop as designers</li>\n<li>Empathy and sensitivity to the challenges of healthcare journeys</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Why This Role Matters </strong><strong></strong></p>\n<p>Fertility, pregnancy, and menopause care unfold over years, not appointments. Much of what shapes a member's outcome happens between clinical visits. Nobody returns to an app out of obligation — they return because it's useful, respects their time, and doesn't make them feel judged. Design is the difference.</p>\n<p>Engagement here isn't a vanity metric; it's how the product does anything at all for a member's health. You will shape that experience, with the opportunity to put your work in front of millions of people.</p>\n<p>&nbsp;</p>\n<p><strong>Interview Process </strong><strong></strong></p>\n<p>We believe in a thoughtful and transparent interview process designed to create alignment for both candidates and our team.</p>\n<p>For this role, candidates can expect:</p>\n<ol>\n<li>Recruiter Screen — 30 minutes</li>\n<li>Hiring Manager Interview — 30 minutes</li>\n<li>Portfolio Interview — 1 hour</li>\n<li>Final Round Interviews — 2 hours</li>\n</ol>\n<p>Throughout the process, we will share additional context about the team, business priorities, customer landscape, and what success looks like in this role.</p>\n<h2>&nbsp;</h2>\n<h2><strong>Why Candidates Join Carrot </strong></h2>\n<p>Carrot offers the opportunity to do meaningful work in service of a deeply human mission.</p>\n<p>Highlights include:</p>\n<ul>\n<li>A mission-driven company focused on expanding access to fertility and family-forming care globally.</li>\n<li>A high-growth environment where leaders are empowered to shape strategy and drive impact.</li>\n<li>Competitive compensation, equity, and comprehensive benefits.</li>\n<li>Flexible Time Off and a culture that actively encourages employees to recharge.</li>\n<li>Comprehensive parental leave and family-forming benefits.</li>\n<li>A collaborative, inclusive, and values-driven culture.</li>\n<li>The opportunity to work alongside passionate, thoughtful teammates committed to improving healthcare outcomes worldwide.</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Compensation </strong></p>\n<p>Carrot offers a holistic Total Rewards package designed to support our employees in all aspects of their life inside and outside of work, including health and wellness benefits, retirement savings plans, short- and long-term incentives, parental leave, family-forming assistance, and a competitive compensation package. The starting base salary for this position will range from $145,000-$170,000.&nbsp; Actual compensation may vary from posted base salary depending on your confirmed job-related skills and experience.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Fraud and Security Notice: </strong>Please note that all communication regarding job opportunities at Carrot will come exclusively from an @get-carrot.com email address. If you receive messages from any other domain, please disregard them and report the incident to: <a href=\"mailto:securityreporting@get-carrot.com\">securityreporting@get-carrot.com</a></p>\n<p>&nbsp;</p>\n<p><strong>A Note on AI</strong></p>\n<p>At Carrot, we believe AI can help us work smarter, move faster, and create more meaningful experiences for our members, customers, and each other. While not every role requires deep technical AI expertise, we value people who are curious, eager to learn, and excited to thoughtfully incorporate AI into their day-to-day work.</p>\n<p>For some roles, AI fluency is a core requirement—and we'll call that out clearly in the qualifications. For everyone else, we're looking for people who embrace new ways of working, use AI responsibly to improve quality and efficiency, and continue to learn as the technology evolves.</p><div class=\"content-conclusion\"><p><strong>Why Carrot?</strong></p>\n<p>Carrot has received national and international recognition for its pioneering work, including Fast Company's Most Innovative Companies and World Changing Ideas, Inc. Power Partners, and Modern Healthcare’s Innovators. Carrot’s global workforce has been acknowledged with several accolades, including Fortune’s Best Workplaces in Healthcare, Great Place to Work, and Age-Friendly Employer certifications. Carrot is regularly featured in media reporting on issues related to the future of work, women in leadership, and healthcare innovation, including MSNBC, The Economist, Bloomberg, The Wall Street Journal, CNBC, National Public Radio, Harvard Business Review, and more. Learn more at carrotfertility.com.&nbsp;</p>\n<p><span>&nbsp;</span></p></div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/carrot-product-design-lead\">https://weworkremotely.com/remote-jobs/carrot-product-design-lead</a></p>",
       "roleFamily": "lead-pd"
+    },
+    {
+      "id": "jobspresso:senior-staff-product-designer",
+      "atsProvider": "jobspresso",
+      "company": "n8n",
+      "title": "Senior/Staff Product Designer",
+      "location": "Europe",
+      "url": "https://jobspresso.co/job/senior-staff-product-designer/",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "description": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Backed by a fiercely inventive community and 500+ builder-approved integrations, we’re changing",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "jobspresso:senior-ux-designer-2",
+      "atsProvider": "jobspresso",
+      "company": "Wikimedia Foundation",
+      "title": "Senior UX Designer",
+      "location": "Worldwide",
+      "url": "https://jobspresso.co/job/senior-ux-designer-2/",
+      "postedAt": "2026-11-11T00:00:00.000Z",
+      "description": "Location: Remote Duration: Permanent Hours: Full time Summary The Wikimedia Foundation is a non-profit organization supporting Wikipedia and other Wiki projects. The Foundation operates one of the world’s top five websites and has global reach and impact. Technology and innovation are critical in our quest to support every human in freely sharing knowledge. The Product",
+      "roleFamily": "uiux"
     },
     {
       "id": "jobspresso:senior-product-designer-knowledge-graph-germany",
@@ -280,9 +324,20 @@
       "title": "Senior Product Designer Web3",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-web3-bitpanda/155643",
-      "postedAt": "2026-11-05T07:01:41.281Z",
+      "postedAt": "2026-11-05T07:37:42.227Z",
       "description": "",
       "roleFamily": "senior-pd"
+    },
+    {
+      "id": "web3career:155944",
+      "atsProvider": "web3career",
+      "company": "Kraken",
+      "title": "Staff Product Designer AI Products",
+      "location": "London, United Kingdom",
+      "url": "https://web3.career/staff-product-designer-ai-products-kraken/155944",
+      "postedAt": "2026-11-03T07:37:42.227Z",
+      "description": "",
+      "roleFamily": "lead-pd"
     },
     {
       "id": "web3career:155916",
@@ -291,7 +346,7 @@
       "title": "Product Designer India",
       "location": "Remote",
       "url": "https://web3.career/product-designer-india-bitgo/155916",
-      "postedAt": "2026-11-03T07:01:41.282Z",
+      "postedAt": "2026-11-03T07:37:42.228Z",
       "description": "",
       "roleFamily": "uiux"
     },
@@ -351,12 +406,56 @@
       "roleFamily": "uiux"
     },
     {
+      "id": "getro:accel:99578102",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "Senior Product Designer",
+      "location": "",
+      "url": "https://remote.com/jobs/minware-c15d44m1/senior-product-designer-j1sqgi7t",
+      "postedAt": "2026-11-11T12:49:50.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:accel:99549904",
+      "atsProvider": "getro",
+      "company": "Fiverr",
+      "title": "Senior Product Designer",
+      "location": "Tel Aviv-Yafo, Israel",
+      "url": "https://www.comeet.com/jobs/fiverr/60.002/senior-product-designer/DF.473",
+      "postedAt": "2026-11-11T11:50:30.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:accel:99548924",
+      "atsProvider": "getro",
+      "company": "Instana",
+      "title": "Product Designer - Terraform",
+      "location": "",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=138784",
+      "postedAt": "2026-11-11T11:49:08.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:accel:99548786",
+      "atsProvider": "getro",
+      "company": "Instana",
+      "title": "Senior Product Designer",
+      "location": "",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=138828",
+      "postedAt": "2026-11-11T11:48:57.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
       "id": "getro:accel:99481632",
       "atsProvider": "getro",
       "company": "Google",
       "title": "Senior UX Designer, Google Pay India",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/133109869426156230-senior-ux-designer-google-pay-india?page=33",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/133109869426156230-senior-ux-designer-google-pay-india?page=35",
       "postedAt": "2026-11-10T13:47:04.000Z",
       "description": "",
       "roleFamily": "uiux"
@@ -384,15 +483,15 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "getro:accel:99307896",
+      "id": "getro:accel:99280271",
       "atsProvider": "getro",
-      "company": "KAYAK",
-      "title": "Senior Product Designer, K4B",
-      "location": "Berlin, MD, USA",
-      "url": "https://jobs.ashbyhq.com/kayak/28686d98-f30e-422a-a5d9-c8680eff24b6",
-      "postedAt": "2026-11-07T13:46:09.000Z",
+      "company": "Remote",
+      "title": "Staff Product Designer, AI Products",
+      "location": "",
+      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/staff-product-designer-ai-products-j1ovwuyh",
+      "postedAt": "2026-11-07T12:30:38.000Z",
       "description": "",
-      "roleFamily": "senior-pd"
+      "roleFamily": "lead-pd"
     },
     {
       "id": "getro:accel:99280280",
@@ -404,17 +503,6 @@
       "postedAt": "2026-11-07T12:30:38.000Z",
       "description": "",
       "roleFamily": "uiux"
-    },
-    {
-      "id": "getro:accel:99280271",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Staff Product Designer, AI Products",
-      "location": "",
-      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/staff-product-designer-ai-products-j1ovwuyh",
-      "postedAt": "2026-11-07T12:30:38.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
     },
     {
       "id": "getro:accel:99231754",
@@ -538,17 +626,6 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "getro:accel:99065363",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Senior Product Designer",
-      "location": "",
-      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/senior-product-designer-j1l9hklg",
-      "postedAt": "2026-11-05T13:01:20.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
-    },
-    {
       "id": "getro:accel:99065365",
       "atsProvider": "getro",
       "company": "Remote",
@@ -578,17 +655,6 @@
       "location": "",
       "url": "https://remote.com/jobs/wealthfront-c11t6myd/senior-staff-product-designer-investing-j19kz00p",
       "postedAt": "2026-11-04T13:33:52.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
-      "id": "getro:accel:98976877",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Lead Product Designer, Design Systems",
-      "location": "",
-      "url": "https://remote.com/jobs/highlevel-c1hwimg3/lead-product-designer-design-systems-j1s8gjks",
-      "postedAt": "2026-11-04T13:33:50.000Z",
       "description": "",
       "roleFamily": "lead-pd"
     },
@@ -670,17 +736,6 @@
       "roleFamily": "lead-pd"
     },
     {
-      "id": "getro:accel:98667853",
-      "atsProvider": "getro",
-      "company": "Scale AI",
-      "title": "Product Designer, Global Public Sector",
-      "location": "Dubai - United Arab Emirates",
-      "url": "https://ae.linkedin.com/jobs/view/product-designer-global-public-sector-at-scale-4468202383",
-      "postedAt": "2026-10-31T14:23:22.000Z",
-      "description": "",
-      "roleFamily": "uiux"
-    },
-    {
       "id": "getro:accel:98567407",
       "atsProvider": "getro",
       "company": "Credgenics",
@@ -712,17 +767,6 @@
       "postedAt": "2026-10-30T12:39:19.000Z",
       "description": "",
       "roleFamily": "uiux"
-    },
-    {
-      "id": "getro:accel:98061985",
-      "atsProvider": "getro",
-      "company": "Cortex by Palo Alto Networks",
-      "title": "Senior Product Designer (Cortex Platform)",
-      "location": "Tel Aviv-Yafo, Israel",
-      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-product-designer-cortex-platform/47263/102422250448",
-      "postedAt": "2026-10-26T11:48:15.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
     },
     {
       "id": "getro:accel:98034768",
@@ -813,17 +857,6 @@
       "roleFamily": "product-owner"
     },
     {
-      "id": "getro:accel:97677242",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Technical Product Owner, AI-Directed Development",
-      "location": "",
-      "url": "https://remote.com/jobs/cbt-nuggets-c1iqeczu/technical-product-owner-ai-directed-development-j1rvppcf",
-      "postedAt": "2026-10-21T13:22:56.000Z",
-      "description": "",
-      "roleFamily": "product-owner"
-    },
-    {
       "id": "getro:earlybird:99382218",
       "atsProvider": "getro",
       "company": "Aiven",
@@ -888,6 +921,17 @@
       "postedAt": "2026-11-04T12:18:13.000Z",
       "description": "",
       "roleFamily": "product-owner"
+    },
+    {
+      "id": "getro:insight-partners:99600490",
+      "atsProvider": "getro",
+      "company": "Vinted",
+      "title": "Senior Product Designer, Security",
+      "location": "",
+      "url": "https://careers.vinted.com/jobs/j/5032297101",
+      "postedAt": "2026-11-11T13:33:59.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
     },
     {
       "id": "getro:insight-partners:99338714",
@@ -998,6 +1042,17 @@
       "postedAt": "2026-11-05T11:39:06.000Z",
       "description": "",
       "roleFamily": "product-owner"
+    },
+    {
+      "id": "getro:general-catalyst:99583691",
+      "atsProvider": "getro",
+      "company": "Loop Health",
+      "title": "Senior Product Designer",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://loop.keka.com/careers/jobdetails/66681",
+      "postedAt": "2026-11-11T13:00:03.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
     },
     {
       "id": "getro:general-catalyst:99311128",
@@ -1185,28 +1240,6 @@
       "postedAt": "2026-10-23T12:25:39.000Z",
       "description": "",
       "roleFamily": "lead-pd"
-    },
-    {
-      "id": "getro:general-catalyst:97677609",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Senior Product Designer / Design Lead",
-      "location": "",
-      "url": "https://remote.com/jobs/andgo-systems-c1lyc18p/senior-product-designer-design-lead-j1hl79bf",
-      "postedAt": "2026-10-21T13:23:14.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
-      "id": "getro:general-catalyst:97677495",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Product Designer, Contract (Senior - Design Director)",
-      "location": "",
-      "url": "https://remote.com/jobs/instrument-c1j1z7pi/product-designer-contract-senior-design-director-j1nuiynx",
-      "postedAt": "2026-10-21T13:23:08.000Z",
-      "description": "",
-      "roleFamily": "uiux"
     },
     {
       "id": "getro:mmc-ventures:98360746",
