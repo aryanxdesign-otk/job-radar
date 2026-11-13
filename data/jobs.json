@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-12T07:39:30.003Z",
-  "filteredAt": "2026-11-12T07:39:37.931Z",
+  "generatedAt": "2026-11-13T07:10:18.610Z",
+  "filteredAt": "2026-11-13T07:10:20.703Z",
   "funnel": {
-    "raw": 16400,
-    "deduped": 13809,
-    "titleMatched": 458,
-    "recencyPassed": 194,
-    "geoPassed": 114
+    "raw": 16398,
+    "deduped": 13803,
+    "titleMatched": 455,
+    "recencyPassed": 188,
+    "geoPassed": 110
   },
   "jobs": [
     {
@@ -21,17 +21,6 @@
       "roleFamily": "product-owner"
     },
     {
-      "id": "lever:spotify:a9d581f9-1361-4227-b230-94a0d6ffdef4",
-      "atsProvider": "lever",
-      "company": "Spotify",
-      "title": "Product Designer",
-      "location": "Stockholm",
-      "url": "https://jobs.lever.co/spotify/a9d581f9-1361-4227-b230-94a0d6ffdef4",
-      "postedAt": "2026-11-04T10:00:48.656Z",
-      "description": "Every great Spotify experience starts with access. From creating an account to signing in and managing your identity, these foundational moments shape how millions of people connect with the music, podcasts, and content they love.\nWe're looking for a Senior Product Designer to join our User Platform team and help make these experiences simpler, smarter, and more delightful.\nYou'll work at the intersection of design, product, and engineering, tackling complex challenges across authentication, account management, and emerging AI-powered experiences. This is an opportunity to bring exceptional craft to essential user journeys, explore new technologies, and shape experiences that reach millions of people.\nWe value designers who are curious, hands-on, collaborative, and excited to turn ambitious ideas into beautifully executed products.\n",
-      "roleFamily": "uiux"
-    },
-    {
       "id": "greenhouse:figma:6247174004",
       "atsProvider": "greenhouse",
       "company": "Figma",
@@ -43,15 +32,15 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "teamtailor:propertyfinder:d35f96ca-5a37-4cbb-b28e-e78523d75e2f",
-      "atsProvider": "teamtailor",
-      "company": "Propertyfinder",
-      "title": "Senior Product Designer",
-      "location": "Property Finder Egypt",
-      "url": "https://propertyfinder.teamtailor.com/jobs/8593872-senior-product-designer",
-      "postedAt": "2026-10-23T04:51:28.000Z",
-      "description": "<div><p>Property Finder is the leading property portal in the Middle East and North Africa (MENA) region, dedicated to shaping an inclusive future for real estate while spearheading the region’s growing tech ecosystem. At its core is a clear and powerful purpose: To change living for good in the region.</p><p>Founded on the value of great ambitions, Property Finder connects millions of property seekers with thousands of real estate professionals every day. The platform offers a seamless and enriching experience, empowering both buyers and renters to make informed decisions. Since its inception in 2007, Property Finder has evolved into a trusted partner for developers, brokers, and home seekers. As a lighthouse tech company, it continues to create an environment where people can thrive and contribute meaningfully to the transformation of real estate in MENA.</p><p></p><p><span><strong id=\"docs-internal-guid-44becd3d-7fff-6fdd-ae9f-27f2780c3f69\">Position Summary</strong></span></p><p><span>As a Senior Product Designer at PF, you will play a pivotal role in shaping the design and user experience of our B2B products. You will drive the design process from discovery to delivery, taking ownership of projects and collaborating closely with cross-functional teams to deliver high-impact solutions. </span></p><p><span>As a senior member of the design team, you will work alongside other designers, contribute to design strategy, and ensure that our products align with both customer needs and business goals. This role offers you the chance to lead complex design projects, work on strategic initiatives, and be a key player in achieving PF’s mission to become the most trusted partner in real estate across the MENA region. </span></p></div><p></p><p><span><strong>Key responsibilities</strong></span></p><ul><li><p><span><strong>Design Leadership:</strong> Lead the end-to-end design process for one or more B2B products—from discovery and ideation through prototyping, user testing, and delivery. Set a high bar for craft, quality, and execution across the team. </span></p></li><li><p><span><strong>User-Centred Design:</strong> Champion user needs throughout the product development lifecycle, creating intuitive, effective experiences that balance customer value with business goals. </span></p></li><li><p><span><strong>UI &amp; Visual Design:</strong> Demonstrate exceptional UI and visual design skills, with a strong eye for detail, interaction design, motion, micro-interactions, and creating moments of delight. </span></p></li><li><p><span><strong>Rapid Execution:</strong> Produce high-quality design work in fast-paced environments while maintaining strong design thinking, process, and attention to detail. </span></p></li><li><p><span><strong>Problem Solving:</strong> Translate user research, data, and business objectives into thoughtful product solutions. Continuously iterate to improve usability, engagement, and outcomes.</span></p></li><li><p><span><strong>Collaboration:</strong> Partner closely with product managers, researchers, engineers, and fellow designers to define problems, align on solutions, and deliver exceptional product experiences. </span></p></li><li><p><span><strong>Design Strategy:</strong> Help shape the design strategy for the B2B product suite, ensuring a consistent experience across web and mobile. Collaborate with other design teams to evolve a unified product vision and design language. </span></p></li><li><p><span><strong>Testing &amp; Iteration:</strong> Validate concepts through prototyping, user testing, and experimentation, using feedback and data to refine designs and improve product outcomes.</span></p></li><li><p><span><strong>Content Creation:</strong> Experience creating product videos, motion graphics, or other visual content is a plus. </span></p></li></ul><p></p><p><span><strong>Desired Experience</strong></span></p><ul><li><p><span>8+ years of experience in Product Design, UX, or a related discipline, with a proven track record of shipping high-quality digital products in fast-paced environments. </span></p></li><li><p><span>Design Craft: Expertise across product discovery, UX, interaction design, visual design, prototyping, and design systems.</span></p></li><li><p><span>Strong ability to use research and data to inform decisions.</span></p></li><li><p><span>Strategic Thinking: Ability to connect user needs with business objectives and contribute to product and design strategy.</span></p></li><li><p><span>Communication &amp; Collaboration: Outstanding communication and stakeholder management skills, with experience influencing cross-functional teams and presenting design rationale with confidence. </span></p></li><li><p><span>Mentorship: Passion for supporting and developing other designers through coaching, feedback, and leading by example. </span></p></li><li><p><span>Ownership &amp; Execution: Self-driven and accountable, with the ability to lead complex initiatives from concept through launch while maintaining a high standard of quality. </span></p></li><li><p><span>Attention to Detail: A strong eye for visual polish, usability, accessibility, and the small details that create exceptional user experiences. </span></p></li><li><p><span>AI Proficiency: Fluency with AI tools across the design process, from research synthesis to rapid prototyping. Critical evaluation of AI output and knowledge when generative capabilities genuinely improve an experience versus when they don't.</span></p></li></ul><p></p><h3><strong>Our promise to talent</strong></h3><p>At Property Finder, we believe talent thrives in an environment where you can be your best self. Where you are empowered to create, elevate, grow, and care. Our team is made up of the best and brightest, united by a shared ambition to change living for good in the region. We attract top talent who want to make an impact. We firmly believe that when our people grow, we all succeed.</p><h2><strong>Property Finder Guiding Principles</strong></h2><div><div><div><div><div><div><div><ol><li><p>Think Future First</p></li><li><p>Data Beats Opinions, Speed Beats Perfection</p></li><li><p>Optimise for Impact</p></li><li><p>Act Like An Owner</p></li><li><p>The Biggest Risk is Taking no Risk at All</p></li></ol></div></div></div></div></div></div></div><div><div><h2><strong>Find us at:</strong></h2></div></div><h2><a target=\"_blank\" href=\"https://twitter.com/propertyfinder?lang=en\">Twitter</a></h2><h2><a target=\"_blank\" href=\"https://www.facebook.com/propertyfinderuae/\">Facebook</a></h2><h2><a target=\"_blank\" href=\"https://www.instagram.com/propertyfinder/?hl=en\">Instagram</a></h2><h2><a target=\"_blank\" href=\"https://www.linkedin.com/company/propertyfinder-ae/\">Linkedin</a></h2><h2><a target=\"_blank\" href=\"https://www.glassdoor.com/Overview/Working-at-propertyfinder-EI_IE1176641.11,25.htm\">Glassdoor</a></h2>",
-      "roleFamily": "senior-pd"
+      "id": "lever:spotify:a9d581f9-1361-4227-b230-94a0d6ffdef4",
+      "atsProvider": "lever",
+      "company": "Spotify",
+      "title": "Product Designer",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/a9d581f9-1361-4227-b230-94a0d6ffdef4",
+      "postedAt": "2026-11-04T10:00:48.656Z",
+      "description": "Every great Spotify experience starts with access. From creating an account to signing in and managing your identity, these foundational moments shape how millions of people connect with the music, podcasts, and content they love.\nWe're looking for a Senior Product Designer to join our User Platform team and help make these experiences simpler, smarter, and more delightful.\nYou'll work at the intersection of design, product, and engineering, tackling complex challenges across authentication, account management, and emerging AI-powered experiences. This is an opportunity to bring exceptional craft to essential user journeys, explore new technologies, and shape experiences that reach millions of people.\nWe value designers who are curious, hands-on, collaborative, and excited to turn ambitious ideas into beautifully executed products.\n",
+      "roleFamily": "uiux"
     },
     {
       "id": "smartrecruiters:DeliveryHero:744000161053929",
@@ -140,39 +129,6 @@
       "postedAt": "2026-11-06T07:34:58.504Z",
       "description": "",
       "roleFamily": "lead-pd"
-    },
-    {
-      "id": "smartrecruiters:wise:744000159887999",
-      "atsProvider": "smartrecruiters",
-      "company": "Wise",
-      "title": "Senior Product Designer - Spend - Credit",
-      "location": "London, , United Kingdom",
-      "url": "https://jobs.smartrecruiters.com/wise/744000159887999",
-      "postedAt": "2026-11-05T14:50:53.781Z",
-      "description": "",
-      "roleFamily": "senior-pd"
-    },
-    {
-      "id": "ashby:synthesia:4721d2c3-3d94-45d3-b9f7-ea5e1f549ce2",
-      "atsProvider": "ashby",
-      "company": "Synthesia",
-      "title": "Product Designer, AI-Native Products (Staff-Level / L6)",
-      "location": "Europe",
-      "url": "https://jobs.ashbyhq.com/synthesia/4721d2c3-3d94-45d3-b9f7-ea5e1f549ce2",
-      "postedAt": "2026-10-22T15:59:09.491+00:00",
-      "description": "Synthesia is the world’s leading AI video platform for business, used by over 90% of the Fortune 100. Founded in 2017, the company is headquartered in London, with offices and teams across Europe and the US. \n\nAs AI continues to shape the way we live and work, Synthesia develops products to enhance visual communication and enterprise skill development, helping people work better and stay at the center of successful organizations.\n\nFollowing our recent Series E funding round, where we raised $200 million, our valuation stands at $4 billion. Our total funding exceeds $530 million from premier investors including Accel, NVentures (Nvidia's VC arm), Kleiner Perkins, GV, and Evantic Capital, alongside the founders and operators of Stripe, Datadog, Miro, and Webflow.\n\n\n\n\n\n\nTHE ROLE: \n\nWe're looking for a Staff (L6) Product Designer to lead design for some of Synthesia's AI-native, agentic Sessions product surfaces.\n\nSessions are the experiences where employees learn through conversation, companies lrun a survey at scale, and AI becomes a direct participant in how work gets done - not just a tool behind the scenes.\n\nThis area is central to redefining what a video platform can be: moving upstream from content creation into workforce development, and making complex AI capabilities feel natural, trustworthy, and effective for everyday users.\n\nYou'll operate as a senior IC: setting direction, influencing roadmap decisions, shaping bets with Product and Engineering leaders, and raising the craft bar.\n\nIn practice, this role is about solving AI-native design problems, for example:\n\n - Designing real-time, conversational avatar experiences that feel engaging and natural - not robotic or gimmicky - for employees learning and practising skills at work.\n\n - Creating interaction patterns for AI-driven workflows that give users the right amount of control, transparency, and trust without overwhelming them with complexity.\n\n - Improving output quality through better structure, guidance, and feedback loops - helping users understand what the AI is doing, catch issues early, and iterate with confidence.\n\n - Working at the frontier where AI changes what \"interaction\" means, and the best patterns are genuinely still being invented.\n   \n   \n\n\nIN THIS ROLE YOU WILL:\n\n - Own major AI-native bets end-to-end, from problem framing to shipped outcomes and iteration.\n\n - Set a design vision for our \"Sessions\" surface, and influence adjacent product areas to stay coherent.\n\n - Partner closely with Product and Engineering to define what \"great\" looks like (principles, quality bar, success metrics) and then drive toward it.\n\n - Prototype and test interaction models quickly - including novel agentic and conversational patterns - and know when high-fidelity matters.\n\n - Raise the bar on craft: interaction design, UI quality, systems thinking, and consistency across AI-native experiences.\n   \n   \n\n\nYOU SHOULD APPLY IF YOU BRING:\n\n - Significant experience designing complex, high-usage product surfaces - ideally including AI-native products, agentic features, conversational interfaces, or products where the system takes meaningful autonomous action.\n\n - Strong craft in interaction design and visual design, and a track record of shipping work that measurably improves the product experience.\n\n - Comfort operating in ambiguity: you can turn unclear and fast-moving problem spaces into crisp direction, and you do not wait for perfect clarity.\n\n - Systems thinking: you understand how AI capabilities, model constraints, and product architecture shape what's actually possible in the UX - not just what looks good on a screen.\n\n - Excellent communication in design reviews and cross-functional decision-making contexts.\n\n - Experience designing workflows where trust, transparency, and user control are central - helping users feel confident in AI-driven outputs rather than confused or excluded.\n\n - A track record of tackling novel problems in maturing product spaces, and shaping the product from early-stage bets through to execution.\n\n - The ability to leverage feedback from users and customers to ensure the product continues to meet real needs - including enterprise users with high stakes around quality, compliance, and scale.\n   \n   \n\n\nAT SYNTHESIA WE EXPECT EVERYONE TO:\n\n - Put the Customer First\n\n - Own it & Go Direct\n\n - Be Fast & Experimental\n\n - Make the Journey Fun\n\nYou can read more about this in this public Notion page: https://synthesia.notion.site/How-we-work-at-Synthesia-f794caa72f8446efb6be22b551ce0fa2\n\n\n\n\n\nBENEFITS\n\n - A flexible, remote friendly role based out of Europe or one of our hubs in London, Copenhagen, Munich, or Zurich. \n\n -  25 days of annual leave + public holidays in the country where you are based.\n\n - A generous referral scheme.\n\n -  Work from home set up.\n\n - At Synthesia, you can work from anywhere (within reason) in the world for up to 60 days per year!\n\n - A huge opportunity for career growth as you’ll help shape a market-defining product.\n\n",
-      "roleFamily": "uiux"
-    },
-    {
-      "id": "ashby:synthesia:72144066-ff3f-4cdd-b648-743592e414ca",
-      "atsProvider": "ashby",
-      "company": "Synthesia",
-      "title": "Product Designer, Enterprise (Staff-level / L6) ",
-      "location": "London",
-      "url": "https://jobs.ashbyhq.com/synthesia/72144066-ff3f-4cdd-b648-743592e414ca",
-      "postedAt": "2026-10-22T15:58:20.967+00:00",
-      "description": "Synthesia is the world’s leading AI video platform for business, used by over 90% of the Fortune 100. Founded in 2017, the company is headquartered in London, with offices and teams across Europe and the US. \n\nAs AI continues to shape the way we live and work, Synthesia develops products to enhance visual communication and enterprise skill development, helping people work better and stay at the center of successful organizations.\n\nFollowing our recent Series E funding round, where we raised $200 million, our valuation stands at $4 billion. Our total funding exceeds $530 million from premier investors including Accel, NVentures (Nvidia's VC arm), Kleiner Perkins, GV, and Evantic Capital, alongside the founders and operators of Stripe, Datadog, Miro, and Webflow.\n\n\n\nLocation: Europe remote or London hybrid\n\n\n\n\nTHE ROLE:\n\nSynthesia is used by over 90% of the Fortune 100. The largest deployments now run thousands of creators across dozens of markets, languages, and compliance regimes. What decides whether those accounts expand or stall is not another avatar - it's whether admins, legal teams, and programme owners can actually stay in control.\n\nWe're looking for a Staff (L6) Product Designer to own that layer end-to-end: workspace setup and governance, the content lifecycle, and the analytics and integrations that close the loop. This is the work that turns a proof of concept into a seven-figure renewal, and right now it is wide open.\n\nYou'll operate as a senior IC: setting direction, influencing roadmap decisions (not just contributing), shaping bets with Product and Engineering leaders, and raising the bar on how we think about enterprise design problems.\n\n\n\n\nWHAT YOU'LL BE DOING:\n\n - Own the Enterprise surface end-to-end, from problem framing to shipped outcomes and iteration - often dealing with ambiguity. You'll reach out to the right stakeholders, get the right eyes in the room, and make decisions independently.\n\n - Design complex governance and compliance systems that give admins, legal teams, and compliance officers genuine control and transparency. Examples include:\n   \n   - Permission models and role hierarchies that scale across thousands of creators without collapsing into chaos.\n   \n   - Audit log experiences that make compliance auditable - not just for the system, but for the humans who need to understand what happened.\n   \n   - Workspace setup and identity workflows that integrate with real enterprise infrastructure (SSO, SCIM, MCP).\n   \n   - License and billing models that admins can actually understand and manage at scale.\n   \n   - Analytics and reporting that tell admins whether their deployment is working as intended.\n\n - Work with technical constraints and possibilities. You'll develop fluency in APIs, widget architectures, developer hub patterns, and how backend systems shape what's actually achievable in the UX. You're not designing in isolation from engineering - you're designing in partnership with it.\n\n - Drive pragmatic iteration. You'll scope ruthlessly, build POCs to get signal early, and iterate based on what you learn from enterprise customers. \n\n - Set a design vision for our Enterprise surface and influence adjacent product areas to stay coherent. As things scale across SSO, compliance, analytics, and billing, you're keeping the mental model consistent.\n   \n   \n\n\nYOU SHOULD APPLY IF YOU BRING:\n\n - Significant experience designing complex, large-scale product surfaces - ideally admin dashboards, governance layers, analytics platforms, or other domains where system thinking matters.\n\n - Technical fluency. You understand APIs, integrations, how services communicate, how widgets and developer hubs work. You can read a technical architecture doc and understand the constraints it creates for design. You don't need to be an engineer, but you think like one.\n\n - Systems thinking: not just about interaction flows, but about enterprise systems. You understand how identity systems, compliance regimes, and scale constraints shape what's actually possible in the UX. You think in mental models and multi-step workflows, not single screens.\n\n - Comfort operating in ambiguity: you can turn unclear and fast-moving problem spaces into crisp direction, and you do not wait for perfect clarity.\n\n - Excellent communication in design reviews and cross-functional decision-making contexts.\n\n - Experience designing workflows where trust, transparency, and user control are central - helping users feel confident in AI-driven outputs rather than confused or excluded.\n\n - The ability to leverage feedback from users and customers to ensure the product continues to meet real needs - including enterprise users with high stakes around quality, compliance, and scale.\n   \n   \n\n\nAT SYNTHESIA WE EXPECT EVERYONE TO:\n\n - Put the Customer First\n\n - Own it & Go Direct\n\n - Be Fast & Experimental\n\n - Make the Journey Fun\n\nYou can read more about this in this public Notion page: https://synthesia.notion.site/How-we-work-at-Synthesia-f794caa72f8446efb6be22b551ce0fa2\n\n\n\n\n\nBENEFITS\n\n - A flexible, remote friendly role based out of Europe or one of our hubs in London, Copenhagen, Munich, or Zurich. \n\n -  25 days of annual leave + public holidays in the country where you are based.\n\n - A generous referral scheme.\n\n -  Work from home set up.\n\n - At Synthesia, you can work from anywhere (within reason) in the world for up to 60 days per year!\n\n - A huge opportunity for career growth as you’ll help shape a market-defining product.\n\n ",
-      "roleFamily": "uiux"
     },
     {
       "id": "ashby:marshmallow:0aef1ce7-b6f1-409e-8656-5fd177eded62",
@@ -307,24 +263,13 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "jobspresso:senior-product-designer-knowledge-graph-germany",
-      "atsProvider": "jobspresso",
-      "company": "Grafana Labs",
-      "title": "Senior Product Designer, Knowledge Graph",
-      "location": "Europe",
-      "url": "https://jobspresso.co/job/senior-product-designer-knowledge-graph-germany/",
-      "postedAt": "2026-11-09T00:00:00.000Z",
-      "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving",
-      "roleFamily": "senior-pd"
-    },
-    {
       "id": "web3career:155643",
       "atsProvider": "web3career",
       "company": "Bitpanda",
       "title": "Senior Product Designer Web3",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-web3-bitpanda/155643",
-      "postedAt": "2026-11-05T07:37:42.227Z",
+      "postedAt": "2026-11-12T18:08:33.078Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -335,7 +280,7 @@
       "title": "Staff Product Designer AI Products",
       "location": "London, United Kingdom",
       "url": "https://web3.career/staff-product-designer-ai-products-kraken/155944",
-      "postedAt": "2026-11-03T07:37:42.227Z",
+      "postedAt": "2026-11-03T07:08:33.079Z",
       "description": "",
       "roleFamily": "lead-pd"
     },
@@ -346,7 +291,7 @@
       "title": "Product Designer India",
       "location": "Remote",
       "url": "https://web3.career/product-designer-india-bitgo/155916",
-      "postedAt": "2026-11-03T07:37:42.228Z",
+      "postedAt": "2026-11-03T07:08:33.079Z",
       "description": "",
       "roleFamily": "uiux"
     },
@@ -384,17 +329,6 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "getro:point-nine:97823744",
-      "atsProvider": "getro",
-      "company": "F13",
-      "title": "Product Designer",
-      "location": "",
-      "url": "https://www.f13.com/jobs/product-designer",
-      "postedAt": "2026-10-22T20:16:13.000Z",
-      "description": "",
-      "roleFamily": "uiux"
-    },
-    {
       "id": "getro:point-nine:99279883",
       "atsProvider": "getro",
       "company": "Omnea",
@@ -404,6 +338,39 @@
       "postedAt": "2026-11-07T12:30:02.000Z",
       "description": "",
       "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:accel:99662038",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "Senior UX Designer",
+      "location": "",
+      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/senior-ux-designer-j18wam7n",
+      "postedAt": "2026-11-12T11:51:56.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:accel:99662041",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "Product Designer - Mid level",
+      "location": "",
+      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/product-designer-mid-level-j1gckxq3",
+      "postedAt": "2026-11-12T11:51:56.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:accel:99630084",
+      "atsProvider": "getro",
+      "company": "Carwow",
+      "title": "Staff Product Designer",
+      "location": "London, UK",
+      "url": "https://jobs.ashbyhq.com/carwow/3a4608d5-737b-4c81-a912-7eff7bdfd320",
+      "postedAt": "2026-11-12T10:33:01.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
     },
     {
       "id": "getro:accel:99578102",
@@ -455,7 +422,7 @@
       "company": "Google",
       "title": "Senior UX Designer, Google Pay India",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/133109869426156230-senior-ux-designer-google-pay-india?page=35",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/133109869426156230-senior-ux-designer-google-pay-india?page=36",
       "postedAt": "2026-11-10T13:47:04.000Z",
       "description": "",
       "roleFamily": "uiux"
@@ -505,17 +472,6 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "getro:accel:99231754",
-      "atsProvider": "getro",
-      "company": "Carwow",
-      "title": "Staff Product Designer",
-      "location": "London, UK",
-      "url": "https://jobs.ashbyhq.com/carwow/438e6ecd-aa2c-42a9-8c6a-724ffd7e3ad4",
-      "postedAt": "2026-11-07T10:40:44.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
       "id": "getro:accel:99227391",
       "atsProvider": "getro",
       "company": "Melio",
@@ -531,7 +487,7 @@
       "atsProvider": "getro",
       "company": "Swiftkey",
       "title": "Principal Product Designer - Xbox",
-      "location": "Prague, Czechia, Stockholm, Sweden, United Kingdom, Washington, DC, USA",
+      "location": "Spain, Prague, Czechia, Stockholm, Sweden, United Kingdom, Washington, DC, USA",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557055076",
       "postedAt": "2026-11-06T13:55:53.000Z",
       "description": "",
@@ -912,6 +868,17 @@
       "roleFamily": "uiux"
     },
     {
+      "id": "getro:seedcamp:99676980",
+      "atsProvider": "getro",
+      "company": "9fin",
+      "title": "Senior Product Designer",
+      "location": "London, UK",
+      "url": "https://jobs.ashbyhq.com/9fin/fbfb0578-11c7-46bd-b935-33fd1e6db7d0",
+      "postedAt": "2026-11-12T12:20:00.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
       "id": "getro:seedcamp:98934750",
       "atsProvider": "getro",
       "company": "spektr",
@@ -921,17 +888,6 @@
       "postedAt": "2026-11-04T12:18:13.000Z",
       "description": "",
       "roleFamily": "product-owner"
-    },
-    {
-      "id": "getro:insight-partners:99600490",
-      "atsProvider": "getro",
-      "company": "Vinted",
-      "title": "Senior Product Designer, Security",
-      "location": "",
-      "url": "https://careers.vinted.com/jobs/j/5032297101",
-      "postedAt": "2026-11-11T13:33:59.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
     },
     {
       "id": "getro:insight-partners:99338714",
@@ -1220,23 +1176,23 @@
       "roleFamily": "lead-pd"
     },
     {
-      "id": "getro:general-catalyst:97885820",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Staff Product Designer - Platform Design",
-      "location": "",
-      "url": "https://remote.com/jobs/spotify-c125z3sq/staff-product-designer-platform-design-j1ubqfqc",
-      "postedAt": "2026-10-23T12:25:39.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
       "id": "getro:general-catalyst:97885815",
       "atsProvider": "getro",
       "company": "Remote",
       "title": "Staff Product Designer, AI",
       "location": "",
       "url": "https://remote.com/jobs/contentsquare-c1e644sf/staff-product-designer-ai-j1n3n5yt",
+      "postedAt": "2026-10-23T12:25:39.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:general-catalyst:97885820",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "Staff Product Designer - Platform Design",
+      "location": "",
+      "url": "https://remote.com/jobs/spotify-c125z3sq/staff-product-designer-platform-design-j1ubqfqc",
       "postedAt": "2026-10-23T12:25:39.000Z",
       "description": "",
       "roleFamily": "lead-pd"
