@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-11-13T07:10:18.610Z",
-  "filteredAt": "2026-11-13T07:10:20.703Z",
+  "generatedAt": "2026-11-14T07:00:14.093Z",
+  "filteredAt": "2026-11-14T07:00:15.455Z",
   "funnel": {
-    "raw": 16398,
-    "deduped": 13803,
-    "titleMatched": 455,
-    "recencyPassed": 188,
-    "geoPassed": 110
+    "raw": 16382,
+    "deduped": 13782,
+    "titleMatched": 458,
+    "recencyPassed": 191,
+    "geoPassed": 108
   },
   "jobs": [
     {
-      "id": "recruitee:bunq:2478238",
-      "atsProvider": "recruitee",
-      "company": "bunq",
-      "title": "Product Owner - Credit",
-      "location": "Amsterdam, Noord-Holland, Netherlands",
-      "url": "https://careers.bunq.com/o/product-owner-credit",
-      "postedAt": "2026-10-23 14:15:18 UTC",
-      "description": "<p>At bunq, we're not just building a banking app; we're reshaping how people around the world experience financial freedom. As a Product Lead - Credit, you’ll be instrumental in empowering our users with the flexible credit they need to support their lifestyle. You'll spearhead the entire credit domain, from ideation to international launch, building innovative solutions that are simple, transparent, and instantly accessible.</p><p style=\"min-height: 1.7em;\"></p><p><strong>Take Ownership</strong></p><p>As Product Lead - Credit, you’ll play a critical role in building a product that truly supports our users' lifestyles. You'll be the driving force behind the mission: \"Give me a credit line to support my lifestyle.\"</p><ul><li><p>Own the entire product lifecycle for our credit offerings, from designing and implementing the product and its underlying infrastructure to continuous maintenance and improvement.</p></li><li><p>Drive the strategic launch and expansion of our credit products into our current and new markets, navigating the unique complexities of each region.</p></li><li><p>Obsess over the user journey, collaborating with design and engineering teams to craft a world-class, seamless, and bug-free credit experience.</p></li><li><p>Work hand-in-hand with legal, risk, and compliance teams to ensure our credit products are not only innovative but also fully compliant with all regulatory requirements.</p></li></ul><p style=\"min-height: 1.7em;\"></p>",
-      "roleFamily": "product-owner"
+      "id": "lever:spotify:a9d581f9-1361-4227-b230-94a0d6ffdef4",
+      "atsProvider": "lever",
+      "company": "Spotify",
+      "title": "Product Designer",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/a9d581f9-1361-4227-b230-94a0d6ffdef4",
+      "postedAt": "2026-11-04T10:00:48.656Z",
+      "description": "Every great Spotify experience starts with access. From creating an account to signing in and managing your identity, these foundational moments shape how millions of people connect with the music, podcasts, and content they love.\nWe're looking for a Senior Product Designer to join our User Platform team and help make these experiences simpler, smarter, and more delightful.\nYou'll work at the intersection of design, product, and engineering, tackling complex challenges across authentication, account management, and emerging AI-powered experiences. This is an opportunity to bring exceptional craft to essential user journeys, explore new technologies, and shape experiences that reach millions of people.\nWe value designers who are curious, hands-on, collaborative, and excited to turn ambitious ideas into beautifully executed products.\n",
+      "roleFamily": "uiux"
     },
     {
       "id": "greenhouse:figma:6247174004",
@@ -29,17 +29,6 @@
       "url": "https://boards.greenhouse.io/figma/jobs/6247174004?gh_jid=6247174004",
       "postedAt": "2026-11-10T04:48:39-05:00",
       "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you&#39;re brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you&#39;re excited to shape the future of design and collaboration, join us!&lt;/p&gt;&lt;/div&gt;&lt;p&gt;We&#39;re building the next chapter of AI-native craft and creativity - where craft and technology meet. Our unified platform bridges the gap between AI capabilities and human creativity, and lets professional creatives and designers harness the power of the world’s leading AI models without losing precision, expression, or soul. Together, we’re building tools that help people move faster without sacrificing quality, precision, or craft — a platform where AI supports creativity instead of flattening it.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Figma-Weave designers are highly collaborative self-starters who push their teams to build amazing experiences for all our users. We have a diverse range of experiences and expertise and love learning from each other. Our designers thrive on solving hard problems, considering every detail, and achieving ambitious goals.&lt;/p&gt;\n&lt;p&gt;We are looking for a Product Designer to join Figma Weave, this role sits at the intersection of generative AI, node-based workflow editing, and creative tools, building a platform that makes sophisticated AI generation accessible through visual workflows. You&#39;ll work directly with our founding team to drive critical initiatives - from our workflow editor, to team collaboration features, to strategic integrations with Figma. This is a rare opportunity to join at the ground floor where you&#39;ll have outsized impact on product direction and help define how creators interact with cutting-edge generative AI.&lt;/p&gt;\n&lt;h4&gt;What you’ll do at Figma Weave:&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Contribute to overall strategy and decision-making about product direction&lt;/li&gt;\n&lt;li&gt;Help deliver clear storytelling around customer needs and business opportunities&lt;/li&gt;\n&lt;li&gt;Work cross-functionally with product management, engineering, and design peers&lt;/li&gt;\n&lt;li&gt;Create, collaborate, and iterate on flows, prototypes, and high-fidelity visuals&lt;/li&gt;\n&lt;li&gt;Design and ship high-quality features and product improvements&lt;/li&gt;\n&lt;li&gt;Be a mentor and provide thoughtful feedback to your peers (and benefit from strong personal and professional mentorship opportunities yourself!)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div class=&quot;section page-centered&quot;&gt;\n&lt;h4&gt;We&#39;d love to hear from you if you have:&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of experience working as a product designer&lt;/li&gt;\n&lt;li&gt;3+ years of experience working on a software product with similar scale or complexity&lt;/li&gt;\n&lt;li&gt;Experience using node-based design tools or broader design/ development tools&lt;/li&gt;\n&lt;li&gt;Excellent communication and presentation skills; you’re able to explain your design decisions and strategy with clear rationale and storytelling&lt;/li&gt;\n&lt;li&gt;Great attention to detail, and an eye for visual craft, such as composition, typography, and layout&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;While it’s not required, it’s an added plus if you also have:&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Familiarity with technical things like HTML/CSS, prototyping tools such as Origami, or advanced Figma features like Auto Layout, Variables, and Components&lt;/li&gt;\n&lt;li&gt;Past experience designing for developers, or partnering closely with developing on complex problems&lt;/li&gt;\n&lt;li&gt;A design/development hybrid background, or experience building websites or apps&lt;/li&gt;\n&lt;li&gt;A history of working on canvas-based interfaces or tools that support creative workflows&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div class=&quot;section page-centered&quot;&gt;At Figma, one of our values is Grow as you go. We believe in hiring smart, curious people who are excited to learn and develop their skills. If you’re excited about this role but your past experience doesn’t align perfectly with the points outlined in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles.&lt;/div&gt;\n&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;At Figma we celebrate and support our differences. We know employing a team rich in diverse thoughts, experiences, and opinions allows our employees, our product and our community to flourish. Figma is an &lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2022-10/EEOC_KnowYourRights_screen_reader_10_20.pdf&quot;&gt;equal opportunity workplace&lt;/a&gt; - we are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity/expression, veteran status&lt;strong&gt;, &lt;/strong&gt;or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.&lt;/p&gt;\n&lt;p&gt;We will work to ensure individuals with disabilities are provided reasonable accommodation to apply for a role, participate in the interview process, perform essential job functions, and receive other benefits and privileges of employment. If you require accommodation, please reach out to &lt;a href=&quot;mailto:accommodations-ext@figma.com&quot;&gt;accommodations-ext@figma.com&lt;/a&gt;. These modifications enable an individual with a disability to have an equal opportunity not only to get a job, but successfully perform their job tasks to the same extent as people without disabilities.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Examples of accommodations include but are not limited to:&amp;nbsp;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Holding interviews in an accessible location&lt;/li&gt;\n&lt;li&gt;Enabling closed captioning on video conferencing&lt;/li&gt;\n&lt;li&gt;Ensuring all written communication be compatible with screen readers&lt;/li&gt;\n&lt;li&gt;Changing the mode or format of interviews&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;To ensure the integrity of our hiring process and facilitate a more personal connection, we require all candidates keep their cameras on during video interviews. Additionally, if hired you will be required to attend in person onboarding.&lt;/p&gt;\n&lt;p&gt;By applying for this job, the candidate acknowledges and agrees that any personal data contained in their application or supporting materials will be processed in accordance with &lt;a class=&quot;c-link c-link--underline&quot; href=&quot;https://www.figma.com/legal/candidate-privacy-notice/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.figma.com/legal/candidate-privacy-notice/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Figma&#39;s Candidate Privacy Notice&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Application limits:&lt;/strong&gt; To help candidates focus on the opportunities most relevant to their skills and experience, Figma limits the number and frequency of applications. These limits apply to all roles:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Candidates may submit up to 5 applications during any rolling 30-day period.&lt;/li&gt;\n&lt;li&gt;Candidates may not reapply to the same role while an application is active or within 90 days of receiving a rejection.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Once the applicable days has passed, candidates are welcome to apply again.&lt;/p&gt;&lt;/div&gt;",
-      "roleFamily": "uiux"
-    },
-    {
-      "id": "lever:spotify:a9d581f9-1361-4227-b230-94a0d6ffdef4",
-      "atsProvider": "lever",
-      "company": "Spotify",
-      "title": "Product Designer",
-      "location": "Stockholm",
-      "url": "https://jobs.lever.co/spotify/a9d581f9-1361-4227-b230-94a0d6ffdef4",
-      "postedAt": "2026-11-04T10:00:48.656Z",
-      "description": "Every great Spotify experience starts with access. From creating an account to signing in and managing your identity, these foundational moments shape how millions of people connect with the music, podcasts, and content they love.\nWe're looking for a Senior Product Designer to join our User Platform team and help make these experiences simpler, smarter, and more delightful.\nYou'll work at the intersection of design, product, and engineering, tackling complex challenges across authentication, account management, and emerging AI-powered experiences. This is an opportunity to bring exceptional craft to essential user journeys, explore new technologies, and shape experiences that reach millions of people.\nWe value designers who are curious, hands-on, collaborative, and excited to turn ambitious ideas into beautifully executed products.\n",
       "roleFamily": "uiux"
     },
     {
@@ -98,17 +87,6 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "smartrecruiters:DeliveryHero:744000157408964",
-      "atsProvider": "smartrecruiters",
-      "company": "Delivery Hero",
-      "title": "Staff Product Designer",
-      "location": "Dubai, , United Arab Emirates",
-      "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000157408964",
-      "postedAt": "2026-10-23T08:15:09.456Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
       "id": "teamtailor:fishbrain:1d97543b-0138-4095-a983-832ffe23c9bf",
       "atsProvider": "teamtailor",
       "company": "Fishbrain",
@@ -138,7 +116,7 @@
       "location": "London",
       "url": "https://jobs.ashbyhq.com/marshmallow/0aef1ce7-b6f1-409e-8656-5fd177eded62",
       "postedAt": "2026-11-04T14:32:09.436+00:00",
-      "description": "We started building Marshmallow in 2017. Since then, we’ve grown from 3 to 700+ people, gained unicorn status, raised ~£140M over three funding rounds, turned profitable, insured millions of drivers and lent millions in car loans.\n\n\n\nBut we’re only just getting started. Our goal is to become one of the largest financial services providers in the world. Over the next 10 years we’ll grow exponentially, not only by scaling our existing products, but also by building new ones.\n\n\n\nTo achieve our goals we need incredibly ambitious, commercially driven people who never settle for ‘good enough’. Marshmallowers are hungry for autonomy and ownership, and would rather improve than coast. Everyone raises standards and has an impact, with a focus on collective success over self-interest.\n\n\n\nWe’ve created an environment where curious, tenacious people win and grow together. If that sounds motivating, this could be the place for you.\n\n\n\n\nLONDON (HYBRID, 3 DAYS IN OFFICE)\n\nWe are not able to offer visa sponsorship for this position.\n\n\n\nMarshmallow makes insurance work for everyone, including people the industry has overlooked. Your difference makes the difference, and we design for it.\n\nWe’re looking for a Product Designer to join our Telematics team. Telematics is a key part of Marshmallow’s future that sits within Acquisition and how we grow our user base.\n\nIn a nutshell, you’ll help more people get onboarded into Marshmallow by reducing friction in our sign up and activation flow. Longer term, you’ll be part of the team that build customer stickiness by working out how to reward and engage customers for being good drivers. You’ll work with a team that will back you up, and you’ll own problems from day one.\n\n\n\n\nWHAT YOU’LL BE DOING\n\n - Starting with the problem. You’ll shape what we’re solving by doing research with customers, spotting patterns, and turning what you hear into clear themes and needs the team can act on.\n\n - Designing the whole journey. Wireframes, prototypes, flow to polished screens. You’ll be translating complex concepts into clear, benefit-led experiences. You’ll be thinking about the content on the screen and edge cases too. It’s primarily customer facing, web and app but if your work touches our internal tools, you’ll be thinking about that too.\n\n - Letting data point the way. You’ll use funnel and analytics data to find where customers get stuck and where we could be causing harm. Then you’ll work with your team to fix it.\n\n - Building with engineers. You’ll work alongside them from the first idea to what’s shipped. Clear specs and smooth handoffs. If a design tweak is quicker to ship yourself, you can raise the PR.\n\n - Working in a cross-functional team. Product managers, engineers, operations, data and other designers. You’ll continuously challenge and learn from each other.\n\n - Bringing stakeholders with you. Acquisition gets a lot of attention here. You’ll form your own opinions, explain your thinking, and keep people in the loop. You won’t be doing it alone, and we’ll help you build the skill.\n\n - Looking after the design system. Contribute to it, keep things consistent with our brand, and flag anything that doesn’t fit so we can sort it.\n\n - Using AI every day. For research, analysis and production. Try tools, keep what works, and share it with the team.\n\n\nYOU SHOULD APPLY IF\n\n - You have a commercial instinct. You have good gut instinct on what makes a product work and a portfolio that backs up what you’ve shipped having good business impact.\n\n - You have a proactive mind-set. You look to make continuous improvement to the products that you are working on. You find issues and features, write up tickets and ship them when they’re ready.\n\n - You are actively using AI. You’ve used AI to optimise your workflow and create efficiency gains whether that’s building prototypes,  shipping to production, analysing data or conducting research.\n\n - You prefer to ship quickly and learn. We like to move quickly and learn from real data. This means being able to spot when good is good enough and iterating.\n\n - You have 2+ years experience working somewhere fast moving (startup, fintech, scale-up etc).\n\n\n\n\nPERKS OF THE JOB\n\n - Bonus scheme designed to reward high performance\n\n - Private medical insurance with Vitality, mental health support with Oliva\n\n - Personal learning budget and 2 dedicated L&D days a year\n\n - Monthly flexible benefits budget to spend as you choose\n\n - 25 days holiday plus bank holidays\n\n - 4 weeks Work From Anywhere per year\n\n\nOUR PROCESS\n\n - Initial call with a member from our Talent Team (30 mins)\n\n - Past Experience interview with Hiring Manager (60 mins)\n\n - Onsite Case Study session with a couple of the team (90 mins)\n\n - Culture interview (60 mins)\n\nDiversity of thought\n\nWe know the best ideas come from having different perspectives in the room - and we're committed to hiring fairly, regardless of background, identity or experience. If you see yourself in this role, we'd encourage you to apply.",
+      "description": "We started building Marshmallow in 2017. Since then, we’ve grown from 3 to 700+ people, gained unicorn status, raised ~£140M over three funding rounds, turned profitable, insured millions of drivers and lent millions in car loans.\n\n\n\nBut we’re only just getting started. Our goal is to become one of the largest financial services providers in the world. Over the next 10 years we’ll grow exponentially, not only by scaling our existing products, but also by building new ones.\n\n\n\nTo achieve our goals we need incredibly ambitious, commercially driven people who never settle for ‘good enough’. Marshmallowers are hungry for autonomy and ownership, and would rather improve than coast. Everyone raises standards and has an impact, with a focus on collective success over self-interest.\n\n\n\nWe’ve created an environment where curious, tenacious people win and grow together. If that sounds motivating, this could be the place for you.\n\n\n\n\nLONDON (HYBRID, 3 DAYS IN OFFICE)\n\nWe are not able to offer visa sponsorship for this position.\n\n\n\nMarshmallow makes insurance work for everyone, including people the industry has overlooked. Your difference makes the difference, and we design for it.\n\nWe’re looking for a Product Designer to join our Telematics team. Telematics is a key part of Marshmallow’s future that sits within Acquisition and how we grow our user base. This is a mid-level role, ideally suited to someone with around 2–5 years of product design experience. You’ll have experience designing and shipping digital products, and you’re ready to take more ownership of your work while continuing to develop your craft.\n\nIn a nutshell, you’ll help more people get onboarded into Marshmallow by reducing friction in our sign up and activation flow. Longer term, you’ll be part of the team that build customer stickiness by working out how to reward and engage customers for being good drivers. You’ll work with a team that will back you up, and you’ll own problems from day one.\n\n\n\n\nWHAT YOU’LL BE DOING\n\n - Starting with the problem. You’ll shape what we’re solving by doing research with customers, spotting patterns, and turning what you hear into clear themes and needs the team can act on.\n\n - Designing the whole journey. Wireframes, prototypes, flow to polished screens. You’ll be translating complex concepts into clear, benefit-led experiences. You’ll be thinking about the content on the screen and edge cases too. It’s primarily customer facing, web and app but if your work touches our internal tools, you’ll be thinking about that too.\n\n - Letting data point the way. You’ll use funnel and analytics data to find where customers get stuck and where we could be causing harm. Then you’ll work with your team to fix it.\n\n - Building with engineers. You’ll work alongside them from the first idea to what’s shipped. Clear specs and smooth handoffs. If a design tweak is quicker to ship yourself, you can raise the PR.\n\n - Working in a cross-functional team. Product managers, engineers, operations, data and other designers. You’ll continuously challenge and learn from each other.\n\n - Bringing stakeholders with you. Acquisition gets a lot of attention here. You’ll form your own opinions, explain your thinking, and keep people in the loop. You won’t be doing it alone, and we’ll help you build the skill.\n\n - Looking after the design system. Contribute to it, keep things consistent with our brand, and flag anything that doesn’t fit so we can sort it.\n\n - Using AI every day. For research, analysis and production. Try tools, keep what works, and share it with the team.\n\n\nYOU SHOULD APPLY IF\n\n - You have a commercial instinct. You have good gut instinct on what makes a product work and a portfolio that backs up what you’ve shipped having good business impact.\n\n - You have a proactive mind-set. You look to make continuous improvement to the products that you are working on. You find issues and features, write up tickets and ship them when they’re ready.\n\n - You are actively using AI. You’ve used AI to optimise your workflow and create efficiency gains whether that’s building prototypes,  shipping to production, analysing data or conducting research.\n\n - You prefer to ship quickly and learn. We like to move quickly and learn from real data. This means being able to spot when good is good enough and iterating.\n\n - You have 2+ years experience working somewhere fast moving (startup, fintech, scale-up etc).\n\n\n\n\nPERKS OF THE JOB\n\n - Bonus scheme designed to reward high performance\n\n - Private medical insurance with Vitality, mental health support with Oliva\n\n - Personal learning budget and 2 dedicated L&D days a year\n\n - Monthly flexible benefits budget to spend as you choose\n\n - 25 days holiday plus bank holidays\n\n - 4 weeks Work From Anywhere per year\n\n\nOUR PROCESS\n\n - Initial call with a member from our Talent Team (30 mins)\n\n - Past Experience interview with Hiring Manager (60 mins)\n\n - Onsite Case Study session with a couple of the team (90 mins)\n\n - Culture interview (60 mins)\n\nDiversity of thought\n\nWe know the best ideas come from having different perspectives in the room - and we're committed to hiring fairly, regardless of background, identity or experience. If you see yourself in this role, we'd encourage you to apply.",
       "roleFamily": "uiux"
     },
     {
@@ -173,6 +151,17 @@
       "postedAt": "2026-11-05T01:00:00-05:00",
       "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Catawiki, every day brings the extraordinary! Whether it’s &lt;a href=&quot;https://www.catawiki.com/en/c/583-sports-memorabilia&quot;&gt;Daniel Ricciardo’s Formula 1 Car&lt;/a&gt;, a &lt;a href=&quot;https://www.catawiki.com/en/c/579-fossils&quot;&gt;Woolly Mammoth’s Skeleton&lt;/a&gt;, &lt;a href=&quot;https://www.catawiki.com/en/l/10035805&quot;&gt;Lady Gaga&#39;s Jumpsuit&lt;/a&gt; or &lt;a href=&quot;https://www.catawiki.com/en/c/583-sports-memorabilia&quot;&gt;Usain Bolt’s running shoe&lt;/a&gt;, we encounter exceptional objects every day.&lt;/p&gt;\n&lt;p&gt;We’re a one-of-a-kind marketplace for buying and selling special objects. Each week, more than 100,000 unique items are auctioned, all carefully curated by our passionate in-house experts.&lt;/p&gt;\n&lt;p&gt;Having sold over 25 million unique objects, our mission is to become the world’s most popular destination for special objects. As a growing, diverse and sustainable scale-up, we proudly live by three core values. If these values resonate with you, we’d love to explore how you can join us.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Taking ownership and driving impact&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Being open to change and feedback&lt;/li&gt;\n&lt;li&gt;Being passionate about our mission and our customers.&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;Your Mission&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Join Catawiki as a &lt;em&gt;UX Designer&lt;/em&gt; shaping the experience of buying and selling special objects, from discovery through to the experience after a sale. This role is not tied to a single product vertical: its scope can sit within Demand (buyer-side features), Supply (seller-side features) or Fulfilment (post-sale experiences, including payments, shipping and customer service).&lt;br&gt;You&#39;ll bring a connected view of the marketplace to your product area, understanding how buyer, seller and post-sale experiences influence one another. You&#39;ll identify where people need support and where design can make the greatest difference, balancing customer needs, business goals and technical constraints. You&#39;ll lead through your work and influence, rather than people management.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;What You&#39;ll Do&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead design for parts of the seller and expert experience, from research and early concepts through prototyping, delivery and learning after launch.&lt;/li&gt;\n&lt;li&gt;Use customer research, behavioural data and business insight to frame problems, identify needs and prioritise design opportunities.&lt;/li&gt;\n&lt;li&gt;Turn complex problems into clear journeys, interaction and interface designs, prototypes and service flows. Test ideas with customers and colleagues, and use what you learn to improve them.&lt;/li&gt;\n&lt;li&gt;Partner with Product Managers, Engineers, Data Scientists, UX Writers, supply stakeholders and other designers to shape and deliver solutions.&lt;/li&gt;\n&lt;li&gt;Balance user empathy with business goals and technical constraints, connecting your design decisions to measurable customer and commercial impact.&lt;/li&gt;\n&lt;li&gt;Contribute to design systems and shared patterns that create coherent experiences across Catawiki.&lt;/li&gt;\n&lt;li&gt;Use Figma and practical AI-assisted workflows to explore ideas and build prototypes, applying judgment to the outputs.&lt;/li&gt;\n&lt;li&gt;Communicate your thinking clearly, tell the story behind your decisions and iterate in response to feedback.&lt;/li&gt;\n&lt;li&gt;Navigate ambiguity and competing priorities, getting up to speed quickly with the aim of contributing productively within your first month.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;What You&#39;ll Bring&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;5+ years of experience owning UX or product design work end to end&lt;/strong&gt;, with a portfolio showing how you approached complex problems, the decisions you made and the outcomes you contributed to.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Strong interaction design, prototyping and visual communication skills&lt;/strong&gt;, with an understanding of how to use and improve design systems and shared patterns.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Experience conducting or contributing to customer research and translating research&lt;/strong&gt;, data and direct feedback into design decisions.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Strong Figma skills and practical experience using AI for design ideation or prototyping&lt;/strong&gt;, alongside a willingness to keep experimenting.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Clear, structured communication in English&lt;/strong&gt; and the ability to explain your approach to design and non-design partners.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Structured problem solving, independent decision-making and systems thinking&lt;/strong&gt;: understanding how decisions within one product area affect connected journeys and the wider marketplace.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;The ability to manage stakeholders&lt;/strong&gt;, collaborate across disciplines and influence decisions without formal authority.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Adaptability and openness to feedback as priorities&lt;/strong&gt;, processes and design tools evolve.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Helpful experience&lt;/span&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Working in a smaller product company, e-commerce platform or marketplace.&lt;/li&gt;\n&lt;li&gt;Designing seller journeys or working on marketplace experiences.&lt;/li&gt;\n&lt;li&gt;Delivering in less structured environments with several competing priorities.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;How We Work&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Across disciplines&lt;/span&gt;: You&#39;ll work closely with Product Managers, Engineers, Data Scientists, UX Writers, supply stakeholders and other designers, bringing customer needs, business goals and technical constraints into shared decisions.&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;From evidence to iteration&lt;/span&gt;: Customer research, behavioural data and direct feedback help shape the work. You&#39;ll explore and test ideas, iterate with customers and colleagues, and keep learning after launch.&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;With ownership and openness&lt;/span&gt;: You&#39;ll own design decisions, explain your rationale and bring feedback into the process. Clear communication and influence matter more than formal authority.&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;With shared patterns and practical tools&lt;/span&gt;: We use Figma, design systems and shared patterns to build coherent experiences. AI-assisted workflows and rapid prototyping help us explore ideas and test assumptions, with design judgment guiding how we use the results.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Where You’ll Be&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;This is a &lt;em&gt;&lt;em class=&quot;textItalic&quot;&gt;Hybrid&lt;/em&gt;&lt;/em&gt; role based in Lisbon. &lt;strong&gt;&lt;strong class=&quot;textBold&quot;&gt;You will work from our &lt;span style=&quot;text-decoration: underline;&quot;&gt;Lisbon Hub&lt;/span&gt; a minimum of 2 days per week.&lt;/strong&gt;&lt;/strong&gt;&lt;br&gt;At this time, we are only considering candidates who are already based in the &lt;strong&gt;&lt;strong class=&quot;textBold&quot;&gt;Portugal&lt;/strong&gt;&lt;/strong&gt;. As a result, visa sponsorship and relocation support are not available for this position.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;In Return&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;You&#39;ll be part of an enthusiastic, highly motivated team of &lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;800+ Catawikians&lt;/strong&gt;&lt;/span&gt;.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;A competitive &lt;span style=&quot;text-decoration: underline;&quot;&gt;Annual Gross Base Salary&lt;/span&gt;&amp;nbsp;depending on your level, competencies, and overall experience.&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Meal Allowance Card&lt;/span&gt; stipend per working day, in addition to salary.&lt;/li&gt;\n&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Health Insurance&lt;/span&gt; from day 1 (including dental coverage), with access to multiple hospitals and clinics and a vast wellness network.&lt;/li&gt;\n&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;A &lt;span style=&quot;text-decoration: underline;&quot;&gt;Work From Home Allowance&lt;/span&gt; to help with your monthly household bills.&lt;/li&gt;\n&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Commuting&lt;/span&gt; between your home and our office is covered by Catawiki.&lt;/li&gt;\n&lt;li&gt;Amazing&amp;nbsp;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Office&lt;/span&gt; right in the centre of Lisbon.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;div class=&quot;text text-align-left &quot;&gt;\n&lt;h3&gt;&lt;strong&gt;Why You&#39;ll Love Working with Us&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Create a visible impact &lt;/strong&gt;by working at scale in a global organisation serving millions of customers across 80+ categories. In our flat structure, every role has a broad scope and directly impacts both our customers and the business.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Learn and grow&lt;/strong&gt; through our Learning &amp;amp; Development initiatives, including clear development plans and mentorship programmes to support your career progression.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;A culture of connection defines us&lt;/strong&gt;. We’re a passionate, diverse team of 800+ Catawikians representing 60+ nationalities. We foster an inclusive and queer-friendly environment where everyone is encouraged to bring their full self to work.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Celebrate life’s moments with us. &lt;/strong&gt;You’ll receive a €100 Catavoucher when you join, a €50 Catavoucher on your birthday, and an extra day off each year to “Pursue Your Passion&lt;strong&gt;”&lt;/strong&gt;. We also offer additional leave for key work anniversaries and important life events. Benefits may vary by location.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Our Offices and Way of Working&lt;/strong&gt;&lt;/h3&gt;\n&lt;p class=&quot;p1&quot;&gt;Our vibrant offices in Amsterdam and Lisbon are designed to inspire collaboration. Most Catawikians operate in a hybrid setup, combining office-based and remote work, with a minimum of two days per week in the office, unless a role is explicitly stated as fully remote or fully office-based.&lt;/p&gt;\n&lt;/div&gt;\n&lt;h3&gt;&lt;strong&gt;Interested?&lt;/strong&gt;&lt;/h3&gt;\n&lt;p class=&quot;p1&quot;&gt;Apply with an English CV and Cover Letter. By applying, you agree to &lt;a href=&quot;https://www.catawiki.com/conditions/applicant-privacy-policy.pdf&quot;&gt;Catawiki’s Applicant Privacy Policy.&lt;/a&gt; If you’re excited about this role but don’t meet every requirement, we still encourage you to apply anyway. You may be just the right candidate for this or other roles.&lt;br&gt;&lt;br&gt;We may use artificial intelligence (AI) tools to support the review of your application. AI may help us assess how your experience matches the requirements of the role, but hiring decisions are always made by our recruitment team&lt;/p&gt;&lt;/div&gt;",
       "roleFamily": "uiux"
+    },
+    {
+      "id": "greenhouse:tide:8203048003",
+      "atsProvider": "greenhouse",
+      "company": "Careers at Tide",
+      "title": "Lead Product Designer",
+      "location": "India, Bengaluru; India, Delhi NCR; India, Hyderabad",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/8203048003",
+      "postedAt": "2026-11-13T11:38:45-05:00",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;strong&gt;A&lt;/strong&gt;&lt;strong&gt;BOUT TIDE&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;At Tide, we help SMEs save time and money in the running of their businesses by not only offering business accounts and related banking services, but also a comprehensive set of highly usable and connected administrative solutions, from invoicing to accounting.&lt;/p&gt;\n&lt;p&gt;Tide is transforming the small business banking market and now supports over 2 million members globally across the UK, Germany and France.&lt;/p&gt;\n&lt;p&gt;Using advanced technology, all solutions are designed with SMEs in mind. With quick onboarding, low fees and innovative features, we thrive on making data driven decisions to serve our mission: to help SMEs save time and money so they can get back to doing what they love.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Tide facts:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Tide is available for UK, German and French SMEs&lt;/li&gt;\n&lt;li&gt;Over 2 million members globally and rapidly growing&lt;/li&gt;\n&lt;li&gt;Over $300 million raised in funding&lt;/li&gt;\n&lt;li&gt;3,000 Tideans globally&lt;/li&gt;\n&lt;li&gt;We have offices in Central London, with a member support and technology centre in Sofia, Bulgaria, technology centres in Serbia, Romania, Lithuania and Hyderabad and offices in Gurugram, New Delhi, Berlin, Paris and Luxembourg&lt;/li&gt;\n&lt;/ul&gt;&lt;/div&gt;&lt;h3&gt;ABOUT THE ROLE:&amp;nbsp;&lt;/h3&gt;\n&lt;p&gt;We’re looking for an experienced Product Designer to help shape key areas of the member experience as the Tide app continues to evolve across 55+ products.&lt;/p&gt;\n&lt;p&gt;At Tide, we approach design with a relentless focus on our members. We love turning the complexity of a chaotic financial world into simple, beautiful and scalable experiences that make running a business easier.&lt;/p&gt;\n&lt;p&gt;In this role, you’ll take ownership of design across high-impact products, working within dedicated cross-functional teams. You’ll have significant autonomy to shape the direction of your work, partnering closely with Product and Engineering to balance exceptional member experiences with technical, regulatory and commercial considerations.&lt;/p&gt;\n&lt;p&gt;We’re open to designers operating at Senior, Senior II or Lead level. What matters most is the strength of your craft, the quality of your thinking, your ability to navigate complexity and the impact you’ve had on the products you’ve helped build.&lt;/p&gt;\n&lt;p&gt;If you enjoy solving difficult problems, thinking in systems and creating thoughtful experiences that make a genuine difference to small businesses, we’d love to hear from you.&lt;/p&gt;\n&lt;h3&gt;WHAT YOU’LL DO:&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Own End-to-End Product Design: &lt;/strong&gt;Take ownership of complex product challenges, from early discovery and problem definition through to detailed design and delivery. Create intuitive, engaging experiences that simplify the way our members run their businesses.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Shape Product Direction: &lt;/strong&gt;Partner closely with Product, Engineering, Data and Operations to understand customer and business needs, challenge assumptions and influence product priorities. Bring a strong design perspective to product strategy, not just execution.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Design for Scale and Simplicity: &lt;/strong&gt;Translate complex technical requirements, workflows and regulatory constraints into clear, elegant and scalable experiences. Think beyond individual screens to create cohesive journeys across iOS, Android and web.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Use Research and Data to Drive Decisions: &lt;/strong&gt;Combine qualitative research, quantitative insights, experimentation and product metrics to understand problems, validate solutions and continuously improve the member experience.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Set a High Bar for Craft: &lt;/strong&gt;Deliver exceptional interaction and visual design, with a sharp eye for typography, layout, usability and detail. Contribute to the evolution of Tide’s cross-platform design system and ensure consistency without compromising innovation.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Influence and Elevate Design Quality: &lt;/strong&gt;Bring clarity to ambiguous challenges, communicate your thinking effectively and collaborate constructively with stakeholders. Share knowledge, provide thoughtful feedback and help raise the quality of design across the wider team.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;WHAT WE ARE LOOKING FOR:&amp;nbsp;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Exceptional Product Design Craft: &lt;/strong&gt;A strong portfolio demonstrating high-quality, end-to-end product design work, including complex digital products, workflows or systems. We’re interested in the problems you’ve solved, the decisions you’ve made and the outcomes you’ve influenced, rather than a specific number of years of experience.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Strong Systems Thinking: &lt;/strong&gt;The ability to think holistically about products, user journeys and interconnected experiences rather than isolated features or screens. You understand how design decisions scale across platforms, markets and technical or regulatory constraints.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Product Thinking and Commercial Awareness: &lt;/strong&gt;You connect customer needs with business objectives and understand how good design contributes to meaningful product outcomes. You’re comfortable using evidence to inform decisions and making thoughtful trade-offs.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Collaboration and Influence: &lt;/strong&gt;A proven ability to work effectively within cross-functional teams, build strong relationships and constructively challenge assumptions. You can communicate complex design decisions clearly and bring others along with your thinking.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Advanced Interaction and Visual Design: &lt;/strong&gt;Strong proficiency in Figma, prototyping and modern design systems, combined with an excellent understanding of interaction patterns, accessibility and the technical implications of your decisions.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Autonomy and Comfort with Ambiguity: &lt;/strong&gt;You’re confident taking ownership of complex challenges, identifying the right problems to solve and creating clarity where requirements aren’t always fully defined. You know when to move independently and when to bring others into the conversation.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Empathy and Curiosity: &lt;/strong&gt;You care deeply about understanding the people you’re designing for and are motivated by making their lives easier. You’re curious, open to feedback and continuously looking for ways to improve your work.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;AI and Future-Focused Thinking: &lt;/strong&gt;You’re curious about how AI is changing the way products are designed and experienced. You’re interested in experimenting with emerging tools, evolving your workflows and exploring how new technologies can create meaningful value for members.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;We’re more interested in your capabilities, judgement and impact than your previous job title or the number of years you’ve spent in design. Experience in fintech or other complex, regulated environments is valuable, but not essential.&lt;/p&gt;\n&lt;h3&gt;WHAT YOU’LL GET IN RETURN:&amp;nbsp;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Competitive Compensation – competitive salary&lt;/li&gt;\n&lt;li&gt;Time Off – Generous annual leave on top of bank holidays.&lt;/li&gt;\n&lt;li&gt;Parental Leave – Paid maternity, paternity, and adoption leave to support your family journey.&lt;/li&gt;\n&lt;li&gt;Sabbatical – Extended unpaid and paid leave options after completing milestone years with Tide.&lt;/li&gt;\n&lt;li&gt;Health Insurance – Private family insurance with additional OPD coverage and top-up options.&lt;/li&gt;\n&lt;li&gt;Life &amp;amp; Accident Cover – Comprehensive accidental and life insurance protection.&lt;/li&gt;\n&lt;li&gt;Mental Wellbeing – Access to therapy sessions, courses, meditations, and workshops.&lt;/li&gt;\n&lt;li&gt;Volunteering &amp;amp; Development Days – Paid days annually for volunteering or personal growth.&lt;/li&gt;\n&lt;li&gt;Learning &amp;amp; Development – Annual budget for books, courses, coaching, and more.&lt;/li&gt;\n&lt;li&gt;WOO (Work Outside the Office) – Work from abroad for up to 90 days annually.&lt;/li&gt;\n&lt;li&gt;Home Office Setup – Contribution towards setting up your home office&lt;/li&gt;\n&lt;li&gt;Laptop Ownership – Keep your old laptop and get a new one when it&#39;s time for a replacement.&lt;/li&gt;\n&lt;li&gt;Snacks &amp;amp; Meals – Office perks with snacks, coffee, tea, and lunch (location dependent).&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;TIDEAN WAYS OF WORKING&lt;/h3&gt;\n&lt;p&gt;At Tide, we champion a &lt;strong&gt;flexible workplace &lt;/strong&gt;model that&lt;strong&gt; &lt;/strong&gt;supports both in-person and remote work to cater to the specific needs of our different teams.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;While remote work is supported, we believe in the power of face-to-face interactions to foster team spirit and collaboration. Our offices are designed as hubs for innovation and team-building, where we encourage regular in-person gatherings to foster a strong sense of community.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;#LI-NZ1&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;#LI-Remote&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;TIDE IS A PLACE FOR EVERYONE&lt;/h3&gt;\n&lt;p&gt;At Tide, we believe that we can only succeed if we let our differences enrich our culture. Our Tideans come from a variety of backgrounds and experience levels. We consider everyone irrespective of their ethnicity, religion, sexual orientation, gender identity, family or parental status, national origin, veteran, neurodiversity or differently-abled status. We celebrate diversity in our workforce as a cornerstone of our success. Our commitment to a broad spectrum of ideas and backgrounds is what enables us to build products that resonate with our members’ diverse needs and lives.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are One Team and foster a transparent and inclusive environment, where everyone’s voice is heard.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;At Tide, we thrive on diversity, embracing various backgrounds and experiences. We welcome all individuals regardless of ethnicity, religion, sexual orientation, gender identity, or disability. Our inclusive culture is key to our success, helping us build products that meet our members&#39; diverse needs. We are One Team, committed to transparency and ensuring everyone’s voice is heard.&lt;/em&gt;&lt;/p&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;&lt;/div&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;em&gt;It has come to our attention that individuals or agencies are falsely claiming to represent Tide and are reaching out to candidates regarding job opportunities. Please be aware that:&lt;/em&gt;&lt;/div&gt;\n&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet p-rich_text_list--nested&quot; data-stringify-type=&quot;unordered-list&quot; data-list-tree=&quot;true&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;\n&lt;li style=&quot;font-style: italic;&quot; data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&lt;em&gt;Tide does&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;not&lt;/strong&gt;&amp;nbsp;charge any fees at any stage of the recruitment process.&lt;/em&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic;&quot; data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&lt;em&gt;All official Tide job opportunities are listed exclusively on our&amp;nbsp;&lt;a href=&quot;https://www.tide.co/careers/&quot; target=&quot;_blank&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Careers Page&lt;/strong&gt;&lt;/a&gt;&amp;nbsp;and applications should be submitted through this channel.&lt;/em&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic;&quot; data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&lt;em&gt;Communication from Tide will only come from an official&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;@tide&lt;/strong&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;.co&lt;/strong&gt;&amp;nbsp;email address.&lt;/em&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic;&quot; data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&lt;em&gt;Tide does not work with agencies or recruiters without prior formal engagement, and we do not authorize third parties to make job offers on our behalf.&lt;/em&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;If you are contacted by anyone misrepresenting Tide or requesting payment, please treat it as fraudulent and report it to us immediately at &lt;a href=&quot;mailto:talent@tide.co&quot; target=&quot;_blank&quot;&gt;talent@tide.co&lt;/a&gt;&lt;br&gt;Your safety and trust are important to us, and we are committed to ensuring a fair and transparent recruitment process.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;Tide leverages AI to enhance our hiring experience. You can read more about how we use AI in our recruitment process in our &lt;a href=&quot;https://assets.ctfassets.net/3h69mkdgxn20/5MFtWSdG8YLKq3jZkK52NY/3f18633073e6cdbd03bba4b9791c64f4/Using_AI_throughout_the_Hiring_Process.pdf&quot; target=&quot;_blank&quot;&gt;AI Policy&lt;/a&gt;.&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;Your personal data will be processed by Tide for recruitment purposes and in accordance with &lt;/em&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;&lt;a class=&quot;c-link&quot; href=&quot;https://assets.ctfassets.net/3h69mkdgxn20/30JAUcDJMlaCwUKt4zoW0j/dd541981a67b6838d6e54537704bc8aa/Tide_Recruitment_Privacy_Notice_Job_Post_Version.pdf&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://assets.ctfassets.net/3h69mkdgxn20/1MYf6q4ZMWugpeaROVETBN/526e9c160a2de03576413c81657c6466/Recruitment_Privacy_Notice__Final_Draft__Sep_2024_.pdf&quot; data-sk=&quot;tooltip_parent&quot;&gt;Tide&#39;s Recruitment Privacy Notice&lt;/a&gt;&lt;/em&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;.&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+      "roleFamily": "lead-pd"
     },
     {
       "id": "greenhouse:tide:8178946003",
@@ -269,7 +258,7 @@
       "title": "Senior Product Designer Web3",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-web3-bitpanda/155643",
-      "postedAt": "2026-11-12T18:08:33.078Z",
+      "postedAt": "2026-11-13T06:58:26.630Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -280,7 +269,7 @@
       "title": "Staff Product Designer AI Products",
       "location": "London, United Kingdom",
       "url": "https://web3.career/staff-product-designer-ai-products-kraken/155944",
-      "postedAt": "2026-11-03T07:08:33.079Z",
+      "postedAt": "2026-11-03T06:58:26.631Z",
       "description": "",
       "roleFamily": "lead-pd"
     },
@@ -291,20 +280,9 @@
       "title": "Product Designer India",
       "location": "Remote",
       "url": "https://web3.career/product-designer-india-bitgo/155916",
-      "postedAt": "2026-11-03T07:08:33.079Z",
+      "postedAt": "2026-11-03T06:58:26.632Z",
       "description": "",
       "roleFamily": "uiux"
-    },
-    {
-      "id": "getro:point-nine:99448568",
-      "atsProvider": "getro",
-      "company": "Duplo",
-      "title": "Senior Product Designer",
-      "location": "Lagos, Nigeria",
-      "url": "https://duplo.bamboohr.com/careers/176",
-      "postedAt": "2026-11-10T12:19:18.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
     },
     {
       "id": "getro:point-nine:99279921",
@@ -336,6 +314,17 @@
       "location": "London, UK",
       "url": "https://jobs.ashbyhq.com/Omnea/4a267bbc-881c-4729-9c00-d82741e13893",
       "postedAt": "2026-11-07T12:30:02.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:accel:99721699",
+      "atsProvider": "getro",
+      "company": "Despegar",
+      "title": "UX/UI Designer",
+      "location": "",
+      "url": "https://jobs.lever.co/despegar/ea4a9388-e5ad-4d38-a59a-abc21bcab4d1",
+      "postedAt": "2026-11-13T10:10:00.000Z",
       "description": "",
       "roleFamily": "uiux"
     },
@@ -725,39 +714,6 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "getro:accel:98034768",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "UX Designer (Remote)",
-      "location": "",
-      "url": "https://remote.com/jobs/rainfocus-c155qf2t/ux-designer-remote-j1ne1pu3",
-      "postedAt": "2026-10-25T12:23:16.000Z",
-      "description": "",
-      "roleFamily": "uiux"
-    },
-    {
-      "id": "getro:accel:98034678",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Senior UX/UI Designer",
-      "location": "",
-      "url": "https://remote.com/jobs/terra-c1bicin6/senior-ux-ui-designer-j1cl6o04",
-      "postedAt": "2026-10-25T12:23:11.000Z",
-      "description": "",
-      "roleFamily": "uiux"
-    },
-    {
-      "id": "getro:accel:98024713",
-      "atsProvider": "getro",
-      "company": "Redotpay",
-      "title": "Product Designer (Web3 Payment)",
-      "location": "hong kong",
-      "url": "https://hk.linkedin.com/jobs/view/product-designer-web3-payment-at-redotpay-4482828457",
-      "postedAt": "2026-10-24T16:48:28.000Z",
-      "description": "",
-      "roleFamily": "uiux"
-    },
-    {
       "id": "getro:accel:99470735",
       "atsProvider": "getro",
       "company": "DriveWealth",
@@ -890,6 +846,28 @@
       "roleFamily": "product-owner"
     },
     {
+      "id": "getro:insight-partners:99799558",
+      "atsProvider": "getro",
+      "company": "CompanyCam",
+      "title": "Senior Product Designer",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/companycam/a6b467d7-22bf-40f8-bad4-54e26c0f18e8",
+      "postedAt": "2026-11-13T13:25:45.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:insight-partners:99772845",
+      "atsProvider": "getro",
+      "company": "Epignosis",
+      "title": "Senior UX Designer (Research & Prototyping) - Athens",
+      "location": "",
+      "url": "https://epignosis.workable.com/jobs/6268729",
+      "postedAt": "2026-11-13T12:22:57.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
       "id": "getro:insight-partners:99338714",
       "atsProvider": "getro",
       "company": "Sensi.AI",
@@ -989,15 +967,37 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "getro:insight-partners:99027033",
+      "id": "getro:general-catalyst:99796271",
       "atsProvider": "getro",
-      "company": "Optimizely",
-      "title": "Associate Product Owner, Internal AI",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://careers.optimizely.com/job/Dhaka-Associate-Product-Owner%2C-Internal-AI-1212-BD/1375713755/",
-      "postedAt": "2026-11-05T11:39:06.000Z",
+      "company": "Mark43",
+      "title": "Senior Product Designer",
+      "location": "Manchester, UK",
+      "url": "https://boards.greenhouse.io/mark43/jobs/8383879",
+      "postedAt": "2026-11-13T13:14:20.000Z",
       "description": "",
-      "roleFamily": "product-owner"
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:general-catalyst:99771054",
+      "atsProvider": "getro",
+      "company": "Bounce",
+      "title": "Senior Product Designer",
+      "location": "Lisbon, Portugal",
+      "url": "https://jobs.ashbyhq.com/Bounce/a787155b-7784-41df-9e5f-a845615a6aa7",
+      "postedAt": "2026-11-13T12:19:50.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
+    },
+    {
+      "id": "getro:general-catalyst:99724201",
+      "atsProvider": "getro",
+      "company": "ClassPass",
+      "title": "Senior Product Designer, New Verticals (AI Products)",
+      "location": "",
+      "url": "https://co.mindbodyonline.com/careers/opportunities/a200ff5f-7192-45e3-b5f7-6a4f669711bf",
+      "postedAt": "2026-11-13T10:25:18.000Z",
+      "description": "",
+      "roleFamily": "senior-pd"
     },
     {
       "id": "getro:general-catalyst:99583691",
@@ -1143,6 +1143,28 @@
       "roleFamily": "lead-pd"
     },
     {
+      "id": "getro:general-catalyst:98034768",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "UX Designer (Remote)",
+      "location": "",
+      "url": "https://remote.com/jobs/rainfocus-c155qf2t/ux-designer-remote-j1ne1pu3",
+      "postedAt": "2026-10-25T12:23:16.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:general-catalyst:98034678",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "Senior UX/UI Designer",
+      "location": "",
+      "url": "https://remote.com/jobs/terra-c1bicin6/senior-ux-ui-designer-j1cl6o04",
+      "postedAt": "2026-10-25T12:23:11.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
       "id": "getro:general-catalyst:97959549",
       "atsProvider": "getro",
       "company": "Remote",
@@ -1152,50 +1174,6 @@
       "postedAt": "2026-10-24T12:17:22.000Z",
       "description": "",
       "roleFamily": "uiux"
-    },
-    {
-      "id": "getro:general-catalyst:97886339",
-      "atsProvider": "getro",
-      "company": "Verta",
-      "title": "Lead Product Designer",
-      "location": "Prague, Czechia",
-      "url": "https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Czech-Republic-Prague/Lead-Product-Designer_261489-1",
-      "postedAt": "2026-10-23T12:26:06.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
-      "id": "getro:general-catalyst:97885834",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Senior/Staff Product Designer",
-      "location": "",
-      "url": "https://remote.com/jobs/alphasense-c1d69ith/senior-staff-product-designer-j1lyleq7",
-      "postedAt": "2026-10-23T12:25:40.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
-      "id": "getro:general-catalyst:97885815",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Staff Product Designer, AI",
-      "location": "",
-      "url": "https://remote.com/jobs/contentsquare-c1e644sf/staff-product-designer-ai-j1n3n5yt",
-      "postedAt": "2026-10-23T12:25:39.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
-      "id": "getro:general-catalyst:97885820",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Staff Product Designer - Platform Design",
-      "location": "",
-      "url": "https://remote.com/jobs/spotify-c125z3sq/staff-product-designer-platform-design-j1ubqfqc",
-      "postedAt": "2026-10-23T12:25:39.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
     },
     {
       "id": "getro:mmc-ventures:98360746",
