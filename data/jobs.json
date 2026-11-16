@@ -1,25 +1,14 @@
 {
-  "generatedAt": "2026-11-15T07:04:11.616Z",
-  "filteredAt": "2026-11-15T07:04:12.976Z",
+  "generatedAt": "2026-11-16T07:10:22.101Z",
+  "filteredAt": "2026-11-16T07:10:23.810Z",
   "funnel": {
-    "raw": 16594,
-    "deduped": 13979,
+    "raw": 16349,
+    "deduped": 13761,
     "titleMatched": 455,
-    "recencyPassed": 185,
-    "geoPassed": 107
+    "recencyPassed": 187,
+    "geoPassed": 105
   },
   "jobs": [
-    {
-      "id": "lever:spotify:a9d581f9-1361-4227-b230-94a0d6ffdef4",
-      "atsProvider": "lever",
-      "company": "Spotify",
-      "title": "Product Designer",
-      "location": "Stockholm",
-      "url": "https://jobs.lever.co/spotify/a9d581f9-1361-4227-b230-94a0d6ffdef4",
-      "postedAt": "2026-11-04T10:00:48.656Z",
-      "description": "Every great Spotify experience starts with access. From creating an account to signing in and managing your identity, these foundational moments shape how millions of people connect with the music, podcasts, and content they love.\nWe're looking for a Senior Product Designer to join our User Platform team and help make these experiences simpler, smarter, and more delightful.\nYou'll work at the intersection of design, product, and engineering, tackling complex challenges across authentication, account management, and emerging AI-powered experiences. This is an opportunity to bring exceptional craft to essential user journeys, explore new technologies, and shape experiences that reach millions of people.\nWe value designers who are curious, hands-on, collaborative, and excited to turn ambitious ideas into beautifully executed products.\n",
-      "roleFamily": "uiux"
-    },
     {
       "id": "greenhouse:figma:6247174004",
       "atsProvider": "greenhouse",
@@ -32,15 +21,15 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "workable:exotec:6DAEC7AD22",
-      "atsProvider": "workable",
-      "company": "Exotec",
-      "title": "Product Owner WIFI, RF & Embedded Systems",
-      "location": "Lille, France",
-      "url": "https://apply.workable.com/j/6DAEC7AD22",
-      "postedAt": "2026-11-05",
-      "description": "<p>Chez&nbsp;<strong>Exotec</strong>, nous mettons l’excellence technologique au service de la redéfinition des relations entre humains et robots. A travers le monde, nos solutions révolutionnent la façon dont nos client·e·s délivrent leurs produits aux personnes consommatrices finales. Nous contribuons au succès des plus grandes marques du commerce et de l’industrie, tout en améliorant les conditions de travail de leurs salarié·e·s.</p><p>Par l’alliance de l’intelligence artificielle et d’un hardware performant, nos robots sont désormais déployés dans le monde entier et leur succès a fait de nous la première licorne industrielle française.</p><p>Rejoindre&nbsp;Exotec, c’est l’opportunité de donner du sens à vos compétences. Grandissez avec nos ExoPeople dans le monde entier pour faire de vos idées, des réalités.</p><p>La révolution robotique portée par Exotec ne fait que commencer, vous en êtes ?</p><p></p><p>Au sein de l'équipe <strong>Product Management ASRS</strong>, le Product Owner Connectivity est responsable de la stratégie produit, du développement, de la performance et de la fiabilité des solutions de connectivité déployées sur une flotte mondiale de plus de 12 000 robots autonomes.</p><p>Le Product Owner Connectivity pilote l'ensemble des solutions de communication sans fil utilisées au sein des systèmes robotiques et équipements associés. Il garantit leur performance, leur robustesse, leur évolutivité et leur conformité aux exigences opérationnelles et de sécurité.</p><p>À l'interface entre les équipes Software, Electrical, Safety, Architecture, Validation et Opérations, il définit la roadmap produit et assure la livraison de solutions de connectivité répondant aux besoins actuels et futurs de l'entreprise.</p><p></p><h3>Missions :</h3><p><strong>Solutions de connectivité</strong></p><ul><li>Pilotage du développement et de l'évolution du nouveau module WiFi propriétaire développé en interne.</li><li>Pilotage des organes de sécurité utilisant des technologies RF.</li><li>Responsabilité des équipements électriques intégrant ces technologies de communication.</li><li>Définition et suivi de la stratégie de connectivité des systèmes robotiques.</li></ul><p><strong>Gestion produit</strong></p><ul><li>Construire et maintenir la roadmap produit Connectivity.</li><li>Prioriser les évolutions fonctionnelles et techniques en fonction des enjeux business et opérationnels.</li><li>Recueillir et challenger les besoins des parties prenantes internes.</li><li>Piloter les arbitrages entre performance, coût, fiabilité et délais.</li></ul><p><strong>Performance &amp; fiabilité</strong></p><ul><li>Assurer la disponibilité et la robustesse des communications sans fil à grande échelle.</li><li>Analyser les incidents terrain et définir les plans d'amélioration continue.</li><li>Suivre les indicateurs de performance et de qualité des solutions déployées.</li><li>Garantir la scalabilité des solutions pour accompagner la croissance de la flotte.</li></ul><p><strong>Coordination technique</strong></p><ul><li>Collaborer étroitement avec les équipes Embedded Software, Electrical Engineering, Systems Engineering et Safety.</li><li>Contribuer aux choix d'architecture des futures générations de produits.</li><li>Assurer la cohérence des solutions développées avec la stratégie technologique globale.</li></ul><p></p><h3>Profil </h3><ul><li><strong>8 à 10 ans d'expérience</strong> dans le développement de produits ou systèmes technologiques complexes, idéalement dans un environnement industriel.</li><li>Solides connaissances en <strong>connectivité sans fil</strong> (WiFi 5 GHz / 6 GHz, technologies RF, couverture, roaming et performance réseau).</li><li>Bonne compréhension des <strong>systèmes embarqués</strong>, de leurs architectures logicielles et des contraintes associées (temps réel, cybersécurité, sécurité fonctionnelle).</li><li>Connaissance des <strong>architectures électriques et systèmes industriels</strong>, avec la capacité à collaborer efficacement avec des experts hardware, software et systèmes.</li><li>Expérience du pilotage de sujets techniques complexes et de la coordination d'équipes multidisciplinaires.</li><li>Excellentes capacités d'analyse, de résolution de problèmes, de communication et d'influence.</li><li>Fort intérêt pour l'innovation technologique, l'amélioration continue et les environnements industriels exigeants.</li></ul><p><strong>Benefits</strong></p><p></p><ul><li>Couverture mutuelle et prévoyance santé compétitive</li><li>Politique famille avantageuse</li><li>Programme de mobilité interne et internationale</li><li>Nombreuses opportunités de formation et de développement</li></ul><p></p><p><em>Chez Exotec, nous garantissons l’égalité des chances dans notre processus de recrutement. L’ensemble des candidatures reçues sont étudiées indépendamment de l’âge, du genre, de l’origine, de la religion, de la couleur de peau, de la nationalité, du sexe, du handicap, de l’orientation sexuelle ou de toute autre distinction protégée par la loi.</em></p><p><em>Nous mettons en place un environnement de travail inclusif et respectueux de toutes les différences.<br>En rejoignant le Pacte Parité, Exotec s’engage pour un écosystème French Tech plus paritaire.</em></p><p>Pour postuler, veuillez envoyer votre CV. Seul·e·s les candidat·e·s présélectionné·e·s seront contacté·e·s pour les prochaines étapes du processus de recrutement. Au plaisir de recevoir votre candidature ! Si vous postulez à un poste en Europe, veuillez consulter notre politique de confidentialité pour plus de détails.</p><p></p><p><br> </p>",
-      "roleFamily": "product-owner"
+      "id": "lever:spotify:a9d581f9-1361-4227-b230-94a0d6ffdef4",
+      "atsProvider": "lever",
+      "company": "Spotify",
+      "title": "Product Designer",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/a9d581f9-1361-4227-b230-94a0d6ffdef4",
+      "postedAt": "2026-11-04T10:00:48.656Z",
+      "description": "Every great Spotify experience starts with access. From creating an account to signing in and managing your identity, these foundational moments shape how millions of people connect with the music, podcasts, and content they love.\nWe're looking for a Senior Product Designer to join our User Platform team and help make these experiences simpler, smarter, and more delightful.\nYou'll work at the intersection of design, product, and engineering, tackling complex challenges across authentication, account management, and emerging AI-powered experiences. This is an opportunity to bring exceptional craft to essential user journeys, explore new technologies, and shape experiences that reach millions of people.\nWe value designers who are curious, hands-on, collaborative, and excited to turn ambitious ideas into beautifully executed products.\n",
+      "roleFamily": "uiux"
     },
     {
       "id": "smartrecruiters:DeliveryHero:744000161053929",
@@ -247,7 +236,7 @@
       "title": "Senior Product Designer Web3",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-web3-bitpanda/155643",
-      "postedAt": "2026-11-12T07:02:28.946Z",
+      "postedAt": "2026-11-12T07:08:35.038Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -258,7 +247,7 @@
       "title": "Staff Product Designer AI Products",
       "location": "London, United Kingdom",
       "url": "https://web3.career/staff-product-designer-ai-products-kraken/155944",
-      "postedAt": "2026-11-03T07:02:28.948Z",
+      "postedAt": "2026-11-03T07:08:35.039Z",
       "description": "",
       "roleFamily": "lead-pd"
     },
@@ -269,7 +258,7 @@
       "title": "Product Designer India",
       "location": "Remote",
       "url": "https://web3.career/product-designer-india-bitgo/155916",
-      "postedAt": "2026-11-03T07:02:28.948Z",
+      "postedAt": "2026-11-03T07:08:35.039Z",
       "description": "",
       "roleFamily": "uiux"
     },
@@ -303,6 +292,17 @@
       "location": "London, UK",
       "url": "https://jobs.ashbyhq.com/Omnea/4a267bbc-881c-4729-9c00-d82741e13893",
       "postedAt": "2026-11-07T12:30:02.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:accel:99930635",
+      "atsProvider": "getro",
+      "company": "Paper",
+      "title": "Product Designer",
+      "location": "Remote",
+      "url": "https://paper.design/careers/product-designer",
+      "postedAt": "2026-11-15T18:50:57.000Z",
       "description": "",
       "roleFamily": "uiux"
     },
@@ -1141,28 +1141,6 @@
       "postedAt": "2026-11-04T13:04:30.000Z",
       "description": "",
       "roleFamily": "lead-pd"
-    },
-    {
-      "id": "getro:general-catalyst:98034768",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "UX Designer (Remote)",
-      "location": "",
-      "url": "https://remote.com/jobs/rainfocus-c155qf2t/ux-designer-remote-j1ne1pu3",
-      "postedAt": "2026-10-25T12:23:16.000Z",
-      "description": "",
-      "roleFamily": "uiux"
-    },
-    {
-      "id": "getro:general-catalyst:98034678",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Senior UX/UI Designer",
-      "location": "",
-      "url": "https://remote.com/jobs/terra-c1bicin6/senior-ux-ui-designer-j1cl6o04",
-      "postedAt": "2026-10-25T12:23:11.000Z",
-      "description": "",
-      "roleFamily": "uiux"
     },
     {
       "id": "getro:mmc-ventures:98360746",
