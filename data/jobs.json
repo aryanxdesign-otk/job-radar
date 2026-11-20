@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-19T07:53:10.757Z",
-  "filteredAt": "2026-11-19T07:53:12.178Z",
+  "generatedAt": "2026-11-20T07:45:26.835Z",
+  "filteredAt": "2026-11-20T07:45:28.599Z",
   "funnel": {
-    "raw": 16054,
-    "deduped": 13541,
-    "titleMatched": 467,
-    "recencyPassed": 200,
+    "raw": 16388,
+    "deduped": 13825,
+    "titleMatched": 476,
+    "recencyPassed": 197,
     "geoPassed": 113
   },
   "jobs": [
@@ -21,14 +21,25 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "lever:spotify:a9d581f9-1361-4227-b230-94a0d6ffdef4",
-      "atsProvider": "lever",
-      "company": "Spotify",
-      "title": "Product Designer",
-      "location": "Stockholm",
-      "url": "https://jobs.lever.co/spotify/a9d581f9-1361-4227-b230-94a0d6ffdef4",
-      "postedAt": "2026-11-04T10:00:48.656Z",
-      "description": "Every great Spotify experience starts with access. From creating an account to signing in and managing your identity, these foundational moments shape how millions of people connect with the music, podcasts, and content they love.\nWe're looking for a Senior Product Designer to join our User Platform team and help make these experiences simpler, smarter, and more delightful.\nYou'll work at the intersection of design, product, and engineering, tackling complex challenges across authentication, account management, and emerging AI-powered experiences. This is an opportunity to bring exceptional craft to essential user journeys, explore new technologies, and shape experiences that reach millions of people.\nWe value designers who are curious, hands-on, collaborative, and excited to turn ambitious ideas into beautifully executed products.\n",
+      "id": "workable:exotec:6DAEC7AD22",
+      "atsProvider": "workable",
+      "company": "Exotec",
+      "title": "Product Owner WIFI, RF & Embedded Systems",
+      "location": "Lille, France",
+      "url": "https://apply.workable.com/j/6DAEC7AD22",
+      "postedAt": "2026-11-05",
+      "description": "<p>Chez&nbsp;<strong>Exotec</strong>, nous mettons l’excellence technologique au service de la redéfinition des relations entre humains et robots. A travers le monde, nos solutions révolutionnent la façon dont nos client·e·s délivrent leurs produits aux personnes consommatrices finales. Nous contribuons au succès des plus grandes marques du commerce et de l’industrie, tout en améliorant les conditions de travail de leurs salarié·e·s.</p><p>Par l’alliance de l’intelligence artificielle et d’un hardware performant, nos robots sont désormais déployés dans le monde entier et leur succès a fait de nous la première licorne industrielle française.</p><p>Rejoindre&nbsp;Exotec, c’est l’opportunité de donner du sens à vos compétences. Grandissez avec nos ExoPeople dans le monde entier pour faire de vos idées, des réalités.</p><p>La révolution robotique portée par Exotec ne fait que commencer, vous en êtes ?</p><p></p><p>Au sein de l'équipe <strong>Product Management ASRS</strong>, le Product Owner Connectivity est responsable de la stratégie produit, du développement, de la performance et de la fiabilité des solutions de connectivité déployées sur une flotte mondiale de plus de 12 000 robots autonomes.</p><p>Le Product Owner Connectivity pilote l'ensemble des solutions de communication sans fil utilisées au sein des systèmes robotiques et équipements associés. Il garantit leur performance, leur robustesse, leur évolutivité et leur conformité aux exigences opérationnelles et de sécurité.</p><p>À l'interface entre les équipes Software, Electrical, Safety, Architecture, Validation et Opérations, il définit la roadmap produit et assure la livraison de solutions de connectivité répondant aux besoins actuels et futurs de l'entreprise.</p><p></p><h3>Missions :</h3><p><strong>Solutions de connectivité</strong></p><ul><li>Pilotage du développement et de l'évolution du nouveau module WiFi propriétaire développé en interne.</li><li>Pilotage des organes de sécurité utilisant des technologies RF.</li><li>Responsabilité des équipements électriques intégrant ces technologies de communication.</li><li>Définition et suivi de la stratégie de connectivité des systèmes robotiques.</li></ul><p><strong>Gestion produit</strong></p><ul><li>Construire et maintenir la roadmap produit Connectivity.</li><li>Prioriser les évolutions fonctionnelles et techniques en fonction des enjeux business et opérationnels.</li><li>Recueillir et challenger les besoins des parties prenantes internes.</li><li>Piloter les arbitrages entre performance, coût, fiabilité et délais.</li></ul><p><strong>Performance &amp; fiabilité</strong></p><ul><li>Assurer la disponibilité et la robustesse des communications sans fil à grande échelle.</li><li>Analyser les incidents terrain et définir les plans d'amélioration continue.</li><li>Suivre les indicateurs de performance et de qualité des solutions déployées.</li><li>Garantir la scalabilité des solutions pour accompagner la croissance de la flotte.</li></ul><p><strong>Coordination technique</strong></p><ul><li>Collaborer étroitement avec les équipes Embedded Software, Electrical Engineering, Systems Engineering et Safety.</li><li>Contribuer aux choix d'architecture des futures générations de produits.</li><li>Assurer la cohérence des solutions développées avec la stratégie technologique globale.</li></ul><p></p><h3>Profil </h3><ul><li><strong>8 à 10 ans d'expérience</strong> dans le développement de produits ou systèmes technologiques complexes, idéalement dans un environnement industriel.</li><li>Solides connaissances en <strong>connectivité sans fil</strong> (WiFi 5 GHz / 6 GHz, technologies RF, couverture, roaming et performance réseau).</li><li>Bonne compréhension des <strong>systèmes embarqués</strong>, de leurs architectures logicielles et des contraintes associées (temps réel, cybersécurité, sécurité fonctionnelle).</li><li>Connaissance des <strong>architectures électriques et systèmes industriels</strong>, avec la capacité à collaborer efficacement avec des experts hardware, software et systèmes.</li><li>Expérience du pilotage de sujets techniques complexes et de la coordination d'équipes multidisciplinaires.</li><li>Excellentes capacités d'analyse, de résolution de problèmes, de communication et d'influence.</li><li>Fort intérêt pour l'innovation technologique, l'amélioration continue et les environnements industriels exigeants.</li></ul><p><strong>Benefits</strong></p><p></p><ul><li>Couverture mutuelle et prévoyance santé compétitive</li><li>Politique famille avantageuse</li><li>Programme de mobilité interne et internationale</li><li>Nombreuses opportunités de formation et de développement</li></ul><p></p><p><em>Chez Exotec, nous garantissons l’égalité des chances dans notre processus de recrutement. L’ensemble des candidatures reçues sont étudiées indépendamment de l’âge, du genre, de l’origine, de la religion, de la couleur de peau, de la nationalité, du sexe, du handicap, de l’orientation sexuelle ou de toute autre distinction protégée par la loi.</em></p><p><em>Nous mettons en place un environnement de travail inclusif et respectueux de toutes les différences.<br>En rejoignant le Pacte Parité, Exotec s’engage pour un écosystème French Tech plus paritaire.</em></p><p>Pour postuler, veuillez envoyer votre CV. Seul·e·s les candidat·e·s présélectionné·e·s seront contacté·e·s pour les prochaines étapes du processus de recrutement. Au plaisir de recevoir votre candidature ! Si vous postulez à un poste en Europe, veuillez consulter notre politique de confidentialité pour plus de détails.</p><p></p><p><br> </p>",
+      "roleFamily": "product-owner"
+    },
+    {
+      "id": "smartrecruiters:DeliveryHero:744000162547160",
+      "atsProvider": "smartrecruiters",
+      "company": "Delivery Hero",
+      "title": "UX Designer ",
+      "location": "Montevideo, Montevideo Department, Uruguay",
+      "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000162547160",
+      "postedAt": "2026-11-19T15:48:40.681Z",
+      "description": "",
       "roleFamily": "uiux"
     },
     {
@@ -131,17 +142,6 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "greenhouse:raisin:5035931101",
-      "atsProvider": "greenhouse",
-      "company": "Raisin",
-      "title": "Senior Product Designer (m/f/d)",
-      "location": "Berlin, Berlin, Germany",
-      "url": "https://job-boards.eu.greenhouse.io/raisin/jobs/5035931101",
-      "postedAt": "2026-11-17T04:19:35-05:00",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p class=&quot;sc-gEkIjz cjtSrT MuiTypography-root MuiTypography-body1 sc-hoLEA&quot;&gt;Raisin is the world’s leading platform for savings and investment products. Founded in 2012, the&amp;nbsp;&lt;strong&gt;FinTech&lt;/strong&gt; connects consumers with banks in the EU, the UK and the US. This gives consumers &lt;strong&gt;better interest rates&lt;/strong&gt; and banks a &lt;strong&gt;diversified form of refinancing&lt;/strong&gt;. Our vision is to offer savings and investments without barriers and thus open up the global 160 trillion euro market.&lt;/p&gt;\n&lt;p class=&quot;sc-gEkIjz cjtSrT MuiTypography-root MuiTypography-body1 sc-hoLEA&quot;&gt;Raisin currently employs more than 800 people from over 75 countries worldwide. Today, the platform holds over 80 billion euros in assets from&amp;nbsp;&lt;strong&gt;more than one million investors&lt;/strong&gt; which have accrued over 5 billion euros in returns.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;strong&gt;Team&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;The Design team at Raisin brings together product designers and brand &amp;amp; marketing designers; we are united by our shared belief in the power of respect, creativity, and the purpose to give people financial peace of mind. We’ve built a place where empathy and innovation thrive, where integrity and high quality standards underpin our work. We love our diversity and use the strength of our perspectives to reach our goals.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We build with heart to create solutions that empower users, shake up industries, and leave a lasting mark, all while working to make Raisin a leader in our field.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Your Responsibilities&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Create desirable, usable digital products and features:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead design activities to launch and improve features that help customers explore and manage their portfolio or products and services offered by Raisin -&amp;nbsp; and confidently move from information to action - across app, web, and email.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Proactively identify&amp;nbsp; places where AI can simplify complex financial journeys.&lt;/li&gt;\n&lt;li&gt;Lead rapid prototyping activities. Use generative and agentic tools to turn bold concepts into something people can try and share feedback on.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Co-lead - with Product Managers and Engineers -&amp;nbsp; larger end-to-end design discovery and delivery.&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Hold the bar on quality and ethical guardrails:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Make quality a habit: validate quickly, and iterate. Use qualitative research, flow analytics, industry best practices, operational metrics, and security and compliance feedback to keep UX guardrails clear and real.&lt;/li&gt;\n&lt;li&gt;Support final delivery - working side-by-side with engineering team to keep the final work true to its original design intent, and manifestation. Own design QA checks, and support implementation by contributing to-be-reviewed code (through agentic tools) for the small things that make the experience better.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Run feedback loops so AI-generated work meets a high ethical and quality standard.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Collaborate across functions:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Team-up&amp;nbsp; with product managers, engineers, and data specialists to design and ship high-quality experiences. Be proactive in the way you work together.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Spar with other designers - within and outside your tribe - to review and ideate solutions you propose - in order to create consistency across different parts of the experience.&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Use your depth of knowledge of customer expectations, behaviors (with support of emerging AI capabilities) to work with product managers - in order to define strategic goals and critical hypotheses of what makes a highly desirable, usable, and trustworthy product.&lt;/li&gt;\n&lt;li&gt;Partner with peers, engineers, and data specialists to experiment and to put in place the UX infrastructure for AI-driven features. Co-create products that are personal and highly secure.&lt;/li&gt;\n&lt;li&gt;Tell a clear story. Explain your design intent, choices, and trade-offs to team and stakeholders. Ask for feedback, and give it clearly and openly.&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Turn technical and compliance requirements into usable experiences:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Translate complex backend and platform capabilities, including AI/ML models and agentic logic, into interfaces that customers and internal teams can easily use.&lt;/li&gt;\n&lt;li&gt;Surface compliance requirements, and use them to shape experiences that are robust and friendly at the same time.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Contribute to a living design system:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Adopt reusable, flexible UX patterns, and add new ones when needed, so we make micro-frontends look - and feel - cohesive.&lt;/li&gt;\n&lt;li&gt;Work closely with the team responsible for the Raisin Design System, so components and patterns stay accessible, consistent and well documented across platforms.&lt;/li&gt;\n&lt;li&gt;Help the live design system grow: contribute spec-to-code delivery of components and scalable UX patterns when they support the features, services, and experiences you are designing.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Stay curious, and keep experimenting:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Contribute to the evolving practices and principles of the overall Raisin Design team, by owning definition of specific design and validation approaches, tooling, workflows.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Keep your craft fresh. Stay current on AI capabilities and on how design work changes when agents are in the loop, so Raisin’s design practice stays sharp.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Your Profile&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of experience in product design, ideally within fintech, digital brokerage, or other highly regulated, complex environments (e.g., healthtech, legaltech, or high-stakes SaaS) where designing for trust, long-term user decisions, and compliance is critical. Experience in complex e-commerce offerings may also be beneficial to help customers understand a faceted product offering and non-linear decision-making.&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;A portfolio that shows strong product design experience in complex products and systems: user-centered methods, and real examples of AI/ML-driven features, agentic workflows, or conversational interfaces.&lt;/li&gt;\n&lt;li&gt;Deep understanding of AI UX design paradigms, specifically how to design for system uncertainty, predictability, user trust, error prevention, and &quot;human-in-the-loop&quot; feedback mechanisms.&lt;/li&gt;\n&lt;li&gt;Extensive experience in various user-driven validation techniques, including qualitative, quantitative, and analytics-based approaches&lt;/li&gt;\n&lt;li&gt;Experienced with prototyping using Generative and Agentic tools to accelerate concept exploration and build high-fidelity work - for both discovery and delivery.&lt;/li&gt;\n&lt;li&gt;Mastery of execution and delivery processes, including project management and resource allocation&lt;/li&gt;\n&lt;li&gt;Confident facilitating cross-functional workshops and aligning engineering-heavy stakeholders, including business owners, product managers, developers, data scientists and AI/ML engineers&lt;/li&gt;\n&lt;li&gt;Data-informed mindset, comfortable working with security, compliance, operational KPIs, and AI system metrics (such as model accuracy, latency, and user feedback loops)&lt;/li&gt;\n&lt;li&gt;Mastery of storytelling techniques to engage stakeholders and users throughout the design process, including explaining complex AI logic or automated systems in simple, human terms&lt;/li&gt;\n&lt;li&gt;Proactive, continuous learner who actively integrates AI-augmented workflows (e.g., for research synthesis, copywriting, ideation, delivery) to optimize personal design velocity and output&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Join our mission, join our team – and grow with us!&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Raisin, we care about each other and it is one of our top priorities to foster an open and caring environment in which everyone feels welcome and comfortable. Our culture is strongly driven by our ambitious team, which connects more than 75 different nationalities.&lt;/p&gt;\n&lt;p&gt;As part of our team, you will benefit from:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Employee Development Budget of €2,000 and four full training days per year.&lt;/li&gt;\n&lt;li&gt;Flexible working hours, home office and 30 vacation days.&lt;/li&gt;\n&lt;li&gt;A company pension scheme (Betriebliche Altersvorsorge), which we support with 20%.&lt;/li&gt;\n&lt;li&gt;Enjoy more than 50+ different sports with Urban Sports Club: We subsidize your membership with more than €20 per month.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Do you miss being in the office? The Deutschland Ticket gets you there, which we subsidize with €25 per month.&lt;/li&gt;\n&lt;li&gt;Love cycling? With JobRad, lease the bike of your choice and enjoy tax savings, plus Raisin covers your monthly insurance costs.&lt;/li&gt;\n&lt;li&gt;Hungry all the time? Snacks, daily fresh fruit as well as drinks provided at the office.&lt;/li&gt;\n&lt;li&gt;You are moving from another country or city to join us? We may support your relocation.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.raisin.com/corporate/raisin-applicant-privacy-policy/&quot;&gt;&lt;em&gt;Raisin Applicant Privacy Policy&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;\n&lt;p data-start=&quot;728&quot; data-end=&quot;900&quot;&gt;We value diversity and the unique experiences each individual brings. If you’re excited about this role but don’t meet every requirement, we still encourage you to apply.&lt;/p&gt;\n&lt;p data-start=&quot;907&quot; data-end=&quot;1013&quot;&gt;We are an equal opportunity employer and are committed to creating an inclusive environment for everyone, regardless of race, colour, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity.&lt;/p&gt;&lt;/div&gt;",
-      "roleFamily": "senior-pd"
-    },
-    {
       "id": "ashby:docplanner:4eff3016-4665-477e-80d1-c06f24057f69",
       "atsProvider": "ashby",
       "company": "Docplanner",
@@ -164,6 +164,17 @@
       "roleFamily": "lead-pd"
     },
     {
+      "id": "greenhouse:raisin:5035931101",
+      "atsProvider": "greenhouse",
+      "company": "Raisin",
+      "title": "Senior Product Designer (m/f/d)",
+      "location": "Berlin, Berlin, Germany",
+      "url": "https://job-boards.eu.greenhouse.io/raisin/jobs/5035931101",
+      "postedAt": "2026-11-17T04:19:35-05:00",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p class=&quot;sc-gEkIjz cjtSrT MuiTypography-root MuiTypography-body1 sc-hoLEA&quot;&gt;Raisin is the world’s leading platform for savings and investment products. Founded in 2012, the&amp;nbsp;&lt;strong&gt;FinTech&lt;/strong&gt; connects consumers with banks in the EU, the UK and the US. This gives consumers &lt;strong&gt;better interest rates&lt;/strong&gt; and banks a &lt;strong&gt;diversified form of refinancing&lt;/strong&gt;. Our vision is to offer savings and investments without barriers and thus open up the global 160 trillion euro market.&lt;/p&gt;\n&lt;p class=&quot;sc-gEkIjz cjtSrT MuiTypography-root MuiTypography-body1 sc-hoLEA&quot;&gt;Raisin currently employs more than 800 people from over 75 countries worldwide. Today, the platform holds over 80 billion euros in assets from&amp;nbsp;&lt;strong&gt;more than one million investors&lt;/strong&gt; which have accrued over 5 billion euros in returns.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;strong&gt;Team&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;The Design team at Raisin brings together product designers and brand &amp;amp; marketing designers; we are united by our shared belief in the power of respect, creativity, and the purpose to give people financial peace of mind. We’ve built a place where empathy and innovation thrive, where integrity and high quality standards underpin our work. We love our diversity and use the strength of our perspectives to reach our goals.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We build with heart to create solutions that empower users, shake up industries, and leave a lasting mark, all while working to make Raisin a leader in our field.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Your Responsibilities&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Create desirable, usable digital products and features:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead design activities to launch and improve features that help customers explore and manage their portfolio or products and services offered by Raisin -&amp;nbsp; and confidently move from information to action - across app, web, and email.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Proactively identify&amp;nbsp; places where AI can simplify complex financial journeys.&lt;/li&gt;\n&lt;li&gt;Lead rapid prototyping activities. Use generative and agentic tools to turn bold concepts into something people can try and share feedback on.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Co-lead - with Product Managers and Engineers -&amp;nbsp; larger end-to-end design discovery and delivery.&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Hold the bar on quality and ethical guardrails:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Make quality a habit: validate quickly, and iterate. Use qualitative research, flow analytics, industry best practices, operational metrics, and security and compliance feedback to keep UX guardrails clear and real.&lt;/li&gt;\n&lt;li&gt;Support final delivery - working side-by-side with engineering team to keep the final work true to its original design intent, and manifestation. Own design QA checks, and support implementation by contributing to-be-reviewed code (through agentic tools) for the small things that make the experience better.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Run feedback loops so AI-generated work meets a high ethical and quality standard.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Collaborate across functions:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Team-up&amp;nbsp; with product managers, engineers, and data specialists to design and ship high-quality experiences. Be proactive in the way you work together.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Spar with other designers - within and outside your tribe - to review and ideate solutions you propose - in order to create consistency across different parts of the experience.&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Use your depth of knowledge of customer expectations, behaviors (with support of emerging AI capabilities) to work with product managers - in order to define strategic goals and critical hypotheses of what makes a highly desirable, usable, and trustworthy product.&lt;/li&gt;\n&lt;li&gt;Partner with peers, engineers, and data specialists to experiment and to put in place the UX infrastructure for AI-driven features. Co-create products that are personal and highly secure.&lt;/li&gt;\n&lt;li&gt;Tell a clear story. Explain your design intent, choices, and trade-offs to team and stakeholders. Ask for feedback, and give it clearly and openly.&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Turn technical and compliance requirements into usable experiences:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Translate complex backend and platform capabilities, including AI/ML models and agentic logic, into interfaces that customers and internal teams can easily use.&lt;/li&gt;\n&lt;li&gt;Surface compliance requirements, and use them to shape experiences that are robust and friendly at the same time.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Contribute to a living design system:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Adopt reusable, flexible UX patterns, and add new ones when needed, so we make micro-frontends look - and feel - cohesive.&lt;/li&gt;\n&lt;li&gt;Work closely with the team responsible for the Raisin Design System, so components and patterns stay accessible, consistent and well documented across platforms.&lt;/li&gt;\n&lt;li&gt;Help the live design system grow: contribute spec-to-code delivery of components and scalable UX patterns when they support the features, services, and experiences you are designing.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Stay curious, and keep experimenting:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Contribute to the evolving practices and principles of the overall Raisin Design team, by owning definition of specific design and validation approaches, tooling, workflows.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Keep your craft fresh. Stay current on AI capabilities and on how design work changes when agents are in the loop, so Raisin’s design practice stays sharp.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Your Profile&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of experience in product design, ideally within fintech, digital brokerage, or other highly regulated, complex environments (e.g., healthtech, legaltech, or high-stakes SaaS) where designing for trust, long-term user decisions, and compliance is critical. Experience in complex e-commerce offerings may also be beneficial to help customers understand a faceted product offering and non-linear decision-making.&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;A portfolio that shows strong product design experience in complex products and systems: user-centered methods, and real examples of AI/ML-driven features, agentic workflows, or conversational interfaces.&lt;/li&gt;\n&lt;li&gt;Deep understanding of AI UX design paradigms, specifically how to design for system uncertainty, predictability, user trust, error prevention, and &quot;human-in-the-loop&quot; feedback mechanisms.&lt;/li&gt;\n&lt;li&gt;Extensive experience in various user-driven validation techniques, including qualitative, quantitative, and analytics-based approaches&lt;/li&gt;\n&lt;li&gt;Experienced with prototyping using Generative and Agentic tools to accelerate concept exploration and build high-fidelity work - for both discovery and delivery.&lt;/li&gt;\n&lt;li&gt;Mastery of execution and delivery processes, including project management and resource allocation&lt;/li&gt;\n&lt;li&gt;Confident facilitating cross-functional workshops and aligning engineering-heavy stakeholders, including business owners, product managers, developers, data scientists and AI/ML engineers&lt;/li&gt;\n&lt;li&gt;Data-informed mindset, comfortable working with security, compliance, operational KPIs, and AI system metrics (such as model accuracy, latency, and user feedback loops)&lt;/li&gt;\n&lt;li&gt;Mastery of storytelling techniques to engage stakeholders and users throughout the design process, including explaining complex AI logic or automated systems in simple, human terms&lt;/li&gt;\n&lt;li&gt;Proactive, continuous learner who actively integrates AI-augmented workflows (e.g., for research synthesis, copywriting, ideation, delivery) to optimize personal design velocity and output&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Join our mission, join our team – and grow with us!&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Raisin, we care about each other and it is one of our top priorities to foster an open and caring environment in which everyone feels welcome and comfortable. Our culture is strongly driven by our ambitious team, which connects more than 75 different nationalities.&lt;/p&gt;\n&lt;p&gt;As part of our team, you will benefit from:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Employee Development Budget of €2,000 and four full training days per year.&lt;/li&gt;\n&lt;li&gt;Flexible working hours, home office and 30 vacation days.&lt;/li&gt;\n&lt;li&gt;A company pension scheme (Betriebliche Altersvorsorge), which we support with 20%.&lt;/li&gt;\n&lt;li&gt;Enjoy more than 50+ different sports with Urban Sports Club: We subsidize your membership with more than €20 per month.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Do you miss being in the office? The Deutschland Ticket gets you there, which we subsidize with €25 per month.&lt;/li&gt;\n&lt;li&gt;Love cycling? With JobRad, lease the bike of your choice and enjoy tax savings, plus Raisin covers your monthly insurance costs.&lt;/li&gt;\n&lt;li&gt;Hungry all the time? Snacks, daily fresh fruit as well as drinks provided at the office.&lt;/li&gt;\n&lt;li&gt;You are moving from another country or city to join us? We may support your relocation.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.raisin.com/corporate/raisin-applicant-privacy-policy/&quot;&gt;&lt;em&gt;Raisin Applicant Privacy Policy&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;\n&lt;p data-start=&quot;728&quot; data-end=&quot;900&quot;&gt;We value diversity and the unique experiences each individual brings. If you’re excited about this role but don’t meet every requirement, we still encourage you to apply.&lt;/p&gt;\n&lt;p data-start=&quot;907&quot; data-end=&quot;1013&quot;&gt;We are an equal opportunity employer and are committed to creating an inclusive environment for everyone, regardless of race, colour, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity.&lt;/p&gt;&lt;/div&gt;",
+      "roleFamily": "senior-pd"
+    },
+    {
       "id": "ashby:nord-security:32669d32-3901-49be-81d5-9c8ca880568a",
       "atsProvider": "ashby",
       "company": "Nord Security",
@@ -183,6 +194,17 @@
       "url": "https://job-boards.greenhouse.io/catawiki/jobs/8354353",
       "postedAt": "2026-11-05T01:00:00-05:00",
       "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Catawiki, every day brings the extraordinary! Whether it’s &lt;a href=&quot;https://www.catawiki.com/en/c/583-sports-memorabilia&quot;&gt;Daniel Ricciardo’s Formula 1 Car&lt;/a&gt;, a &lt;a href=&quot;https://www.catawiki.com/en/c/579-fossils&quot;&gt;Woolly Mammoth’s Skeleton&lt;/a&gt;, &lt;a href=&quot;https://www.catawiki.com/en/l/10035805&quot;&gt;Lady Gaga&#39;s Jumpsuit&lt;/a&gt; or &lt;a href=&quot;https://www.catawiki.com/en/c/583-sports-memorabilia&quot;&gt;Usain Bolt’s running shoe&lt;/a&gt;, we encounter exceptional objects every day.&lt;/p&gt;\n&lt;p&gt;We’re a one-of-a-kind marketplace for buying and selling special objects. Each week, more than 100,000 unique items are auctioned, all carefully curated by our passionate in-house experts.&lt;/p&gt;\n&lt;p&gt;Having sold over 25 million unique objects, our mission is to become the world’s most popular destination for special objects. As a growing, diverse and sustainable scale-up, we proudly live by three core values. If these values resonate with you, we’d love to explore how you can join us.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Taking ownership and driving impact&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Being open to change and feedback&lt;/li&gt;\n&lt;li&gt;Being passionate about our mission and our customers.&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;Your Mission&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Join Catawiki as a &lt;em&gt;UX Designer&lt;/em&gt; shaping the experience of buying and selling special objects, from discovery through to the experience after a sale. This role is not tied to a single product vertical: its scope can sit within Demand (buyer-side features), Supply (seller-side features) or Fulfilment (post-sale experiences, including payments, shipping and customer service).&lt;br&gt;You&#39;ll bring a connected view of the marketplace to your product area, understanding how buyer, seller and post-sale experiences influence one another. You&#39;ll identify where people need support and where design can make the greatest difference, balancing customer needs, business goals and technical constraints. You&#39;ll lead through your work and influence, rather than people management.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;What You&#39;ll Do&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead design for parts of the seller and expert experience, from research and early concepts through prototyping, delivery and learning after launch.&lt;/li&gt;\n&lt;li&gt;Use customer research, behavioural data and business insight to frame problems, identify needs and prioritise design opportunities.&lt;/li&gt;\n&lt;li&gt;Turn complex problems into clear journeys, interaction and interface designs, prototypes and service flows. Test ideas with customers and colleagues, and use what you learn to improve them.&lt;/li&gt;\n&lt;li&gt;Partner with Product Managers, Engineers, Data Scientists, UX Writers, supply stakeholders and other designers to shape and deliver solutions.&lt;/li&gt;\n&lt;li&gt;Balance user empathy with business goals and technical constraints, connecting your design decisions to measurable customer and commercial impact.&lt;/li&gt;\n&lt;li&gt;Contribute to design systems and shared patterns that create coherent experiences across Catawiki.&lt;/li&gt;\n&lt;li&gt;Use Figma and practical AI-assisted workflows to explore ideas and build prototypes, applying judgment to the outputs.&lt;/li&gt;\n&lt;li&gt;Communicate your thinking clearly, tell the story behind your decisions and iterate in response to feedback.&lt;/li&gt;\n&lt;li&gt;Navigate ambiguity and competing priorities, getting up to speed quickly with the aim of contributing productively within your first month.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;What You&#39;ll Bring&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;5+ years of experience owning UX or product design work end to end&lt;/strong&gt;, with a portfolio showing how you approached complex problems, the decisions you made and the outcomes you contributed to.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Strong interaction design, prototyping and visual communication skills&lt;/strong&gt;, with an understanding of how to use and improve design systems and shared patterns.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Experience conducting or contributing to customer research and translating research&lt;/strong&gt;, data and direct feedback into design decisions.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Strong Figma skills and practical experience using AI for design ideation or prototyping&lt;/strong&gt;, alongside a willingness to keep experimenting.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Clear, structured communication in English&lt;/strong&gt; and the ability to explain your approach to design and non-design partners.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Structured problem solving, independent decision-making and systems thinking&lt;/strong&gt;: understanding how decisions within one product area affect connected journeys and the wider marketplace.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;The ability to manage stakeholders&lt;/strong&gt;, collaborate across disciplines and influence decisions without formal authority.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Adaptability and openness to feedback as priorities&lt;/strong&gt;, processes and design tools evolve.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Helpful experience&lt;/span&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Working in a smaller product company, e-commerce platform or marketplace.&lt;/li&gt;\n&lt;li&gt;Designing seller journeys or working on marketplace experiences.&lt;/li&gt;\n&lt;li&gt;Delivering in less structured environments with several competing priorities.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;How We Work&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Across disciplines&lt;/span&gt;: You&#39;ll work closely with Product Managers, Engineers, Data Scientists, UX Writers, supply stakeholders and other designers, bringing customer needs, business goals and technical constraints into shared decisions.&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;From evidence to iteration&lt;/span&gt;: Customer research, behavioural data and direct feedback help shape the work. You&#39;ll explore and test ideas, iterate with customers and colleagues, and keep learning after launch.&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;With ownership and openness&lt;/span&gt;: You&#39;ll own design decisions, explain your rationale and bring feedback into the process. Clear communication and influence matter more than formal authority.&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;With shared patterns and practical tools&lt;/span&gt;: We use Figma, design systems and shared patterns to build coherent experiences. AI-assisted workflows and rapid prototyping help us explore ideas and test assumptions, with design judgment guiding how we use the results.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Where You’ll Be&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;This is a &lt;em&gt;&lt;em class=&quot;textItalic&quot;&gt;Hybrid&lt;/em&gt;&lt;/em&gt; role based in Lisbon. &lt;strong&gt;&lt;strong class=&quot;textBold&quot;&gt;You will work from our &lt;span style=&quot;text-decoration: underline;&quot;&gt;Lisbon Hub&lt;/span&gt; a minimum of 2 days per week.&lt;/strong&gt;&lt;/strong&gt;&lt;br&gt;At this time, we are only considering candidates who are already based in the &lt;strong&gt;&lt;strong class=&quot;textBold&quot;&gt;Portugal&lt;/strong&gt;&lt;/strong&gt;. As a result, visa sponsorship and relocation support are not available for this position.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;In Return&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;You&#39;ll be part of an enthusiastic, highly motivated team of &lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;800+ Catawikians&lt;/strong&gt;&lt;/span&gt;.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;A competitive &lt;span style=&quot;text-decoration: underline;&quot;&gt;Annual Gross Base Salary&lt;/span&gt;&amp;nbsp;depending on your level, competencies, and overall experience.&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Meal Allowance Card&lt;/span&gt; stipend per working day, in addition to salary.&lt;/li&gt;\n&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Health Insurance&lt;/span&gt; from day 1 (including dental coverage), with access to multiple hospitals and clinics and a vast wellness network.&lt;/li&gt;\n&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;A &lt;span style=&quot;text-decoration: underline;&quot;&gt;Work From Home Allowance&lt;/span&gt; to help with your monthly household bills.&lt;/li&gt;\n&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Commuting&lt;/span&gt; between your home and our office is covered by Catawiki.&lt;/li&gt;\n&lt;li&gt;Amazing&amp;nbsp;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Office&lt;/span&gt; right in the centre of Lisbon.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;div class=&quot;text text-align-left &quot;&gt;\n&lt;h3&gt;&lt;strong&gt;Why You&#39;ll Love Working with Us&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Create a visible impact &lt;/strong&gt;by working at scale in a global organisation serving millions of customers across 80+ categories. In our flat structure, every role has a broad scope and directly impacts both our customers and the business.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Learn and grow&lt;/strong&gt; through our Learning &amp;amp; Development initiatives, including clear development plans and mentorship programmes to support your career progression.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;A culture of connection defines us&lt;/strong&gt;. We’re a passionate, diverse team of 800+ Catawikians representing 60+ nationalities. We foster an inclusive and queer-friendly environment where everyone is encouraged to bring their full self to work.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Celebrate life’s moments with us. &lt;/strong&gt;You’ll receive a €100 Catavoucher when you join, a €50 Catavoucher on your birthday, and an extra day off each year to “Pursue Your Passion&lt;strong&gt;”&lt;/strong&gt;. We also offer additional leave for key work anniversaries and important life events. Benefits may vary by location.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Our Offices and Way of Working&lt;/strong&gt;&lt;/h3&gt;\n&lt;p class=&quot;p1&quot;&gt;Our vibrant offices in Amsterdam and Lisbon are designed to inspire collaboration. Most Catawikians operate in a hybrid setup, combining office-based and remote work, with a minimum of two days per week in the office, unless a role is explicitly stated as fully remote or fully office-based.&lt;/p&gt;\n&lt;/div&gt;\n&lt;h3&gt;&lt;strong&gt;Interested?&lt;/strong&gt;&lt;/h3&gt;\n&lt;p class=&quot;p1&quot;&gt;Apply with an English CV and Cover Letter. By applying, you agree to &lt;a href=&quot;https://www.catawiki.com/conditions/applicant-privacy-policy.pdf&quot;&gt;Catawiki’s Applicant Privacy Policy.&lt;/a&gt; If you’re excited about this role but don’t meet every requirement, we still encourage you to apply anyway. You may be just the right candidate for this or other roles.&lt;br&gt;&lt;br&gt;We may use artificial intelligence (AI) tools to support the review of your application. AI may help us assess how your experience matches the requirements of the role, but hiring decisions are always made by our recruitment team&lt;/p&gt;&lt;/div&gt;",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "lever:zeta:078ed081-2d3e-4120-ab19-36063272cf8d",
+      "atsProvider": "lever",
+      "company": "Zeta",
+      "title": "Lead UX Designer",
+      "location": "Bangalore - DD",
+      "url": "https://jobs.lever.co/zeta/078ed081-2d3e-4120-ab19-36063272cf8d",
+      "postedAt": "2026-11-19T09:20:54.892Z",
+      "description": "",
       "roleFamily": "uiux"
     },
     {
@@ -241,6 +263,28 @@
       "roleFamily": "senior-pd"
     },
     {
+      "id": "weworkremotely:remote-design-jobs:https://weworkremotely.com/remote-jobs/tebra-product-designer",
+      "atsProvider": "weworkremotely",
+      "company": "Tebra",
+      "title": "Product Designer",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/tebra-product-designer",
+      "postedAt": "2026-11-19T18:31:26.000Z",
+      "description": "<p>\n  <strong>Headquarters:</strong> United States - Remote\n</p>\n\n<div class=\"content-intro\"><p>Tebra only initiates contact with candidates via email from an official Tebra email address (@<a class=\"c-link\" href=\"http://tebra.com/\">tebra.com</a>, @<a class=\"c-link\" href=\"http://patientpop.com/\">patientpop.com</a>, or @<a class=\"c-link\" href=\"http://kareo.com/\">kareo.com</a>) or through our applicant tracking system, Greenhouse.&nbsp;We will only ask you to provide sensitive personal information through our official application portal — not via social media or text message. We do not conduct interviews via instant messaging.</p></div><h1>About the Role</h1>\n<p>We are looking for a customer-focused individual to help shape the future of our Tebra platform. This role is an exciting and challenging opportunity to be a partner in an embedded team of cross-functional counterparts. You will be joining a close-knit, collaborative product design culture with a focus on raising the bar of the day-to-day product experience for our healthcare providers and their patients.</p>\n<h1>Your Area of Focus</h1>\n<ul>\n<li>You contribute to the vision and design strategy that connects customer and business value.</li>\n<li>You have strong creative and conceptual design skills and the ability to evolve ideas that drive innovation.</li>\n<li>You have an effortless working knowledge of design fundamentals, principles, and core skills.&nbsp;</li>\n<li>You build and utilize your product knowledge to navigate ambiguity, identify opportunities and define customer problem statements.&nbsp;</li>\n<li>You need minimal direction on design methods and approaches to validate solutions.&nbsp;</li>\n<li>You can facilitate cross-functional, collaborative ideation sessions using a variety of methods.</li>\n<li>You make proficient use of design system guidelines and contribute to components and patterns that include optimization and refinements to structural elements and patterns.</li>\n<li>You are a strong collaborator and communicator who creates understanding, drives alignment, and can work independently.&nbsp;&nbsp;</li>\n<li>You are an effective presenter with the ability to anticipate questions and concerns, articulate a data supported point of view, synthesize and process feedback, and determine next steps.</li>\n<li>You have a working knowledge of business logic and dependencies between design, front-end development, and back-end technologies and the ability to successfully navigate the capabilities and constraints of existing technical systems.</li>\n<li>You work closely and in partnership with your product and engineering counterparts and outside of your core team inclusive of other designers, research, marketing, sales, and customer service.</li>\n<li>You can lead customer research sessions with some support and: interview customers effectively; guide the process to glean effective insights; and uncover and socialize areas of opportunity.&nbsp;</li>\n<li>You possess a working understanding of various research methods, including rapid prototyping, card sorting, affinity mapping.&nbsp;</li>\n<li>You are comfortable evaluating and leveraging AI tools to augment processes that result in efficiency and quality improvement.</li>\n<li>You seek out and incorporate both quantitative and qualitative data for use in reasoning and decision making.</li>\n<li>You seek out feedback and inputs from a variety of sources in order to move solutions forward, drive innovation, contribute to a connected and holistic overall experience for our customers and users, and invest in your relationships with peers and stakeholders.</li>\n</ul>\n<h1>Your Professional Qualifications</h1>\n<ul>\n<li>3+ years of experience in a Product Design role (or comparable equivalent experience).</li>\n<li>Experience in B2B and/or B2C (SMB customer experience a plus; previous Healthcare a plus).</li>\n<li>Has a portfolio that demonstrates the following:</li>\n<ul>\n<li>Ability to deliver simplified, intuitive, and responsive user experiences for complex operations and flows (desktop web, mobile web, native app).</li>\n<li>Ability to use data insights to iterate on design solutions.</li>\n<li>Accomplished to expert level in several of the following skills:</li>\n<ul>\n<li>UX Design</li>\n<li>Visual User Interface Design</li>\n<li>Interaction Design</li>\n<li>Responsive Design</li>\n<li>Mobile + native mobile design</li>\n<li>Rapid Prototyping + iterative design</li>\n<li>Information Architecture</li>\n<li>Accessibility</li>\n<li>Qualitative + Quantitative data synthesis</li>\n</ul>\n<li>Experience working with a design system.</li>\n<li>Expert with Figma and FigJam.</li>\n<li>Proficiency in a variety of modern AI tools (such as Figma Make, Claude, Gemini, or Codex).</li>\n<li>Growth Mindset.</li>\n</ul>\n</ul>\n<p><strong>#LI-SS1 #LI-Remote</strong></p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><p>In compliance with California's pay transparency laws, the compensation range for this position will be provided and may include an hourly rate, annual salary, or On-Target Earnings (OTE), depending on the nature of the role. The specific compensation structure and detailed range will be discussed with qualified candidates during the initial talent screen.</p></div><div class=\"title\">Remote Pay Range</div><div class=\"pay-range\"><span>$121,500</span><span class=\"divider\">—</span><span>$143,000 USD</span></div></div></div><div class=\"content-conclusion\"><p>&nbsp;</p>\n<h1>About Tebra</h1>\n<p>Tebra is the only all-in-one EHR+ platform built exclusively for independent healthcare practices. Designed to replace the clunky, fragmented tools built for corporate systems, Tebra connects EHR software, billing, automation, telehealth solution, and marketing — so providers can spend less time on admin and more time with patients. More than 42,000 private practices trust Tebra to streamline operations, increase revenue, and reduce burnout — helping clinicians leave work on time and rediscover their purpose. Learn more at&nbsp;<a href=\"http://www.tebra.com/\">www.tebra.com</a>.</p>\n<h1>Our Values</h1>\n<h2>Start with the Customer&nbsp;</h2>\n<p>We get to know our customers - and their patients - and look at the world through their lens.</p>\n<h2>Keep It Simple</h2>\n<p>Healthcare is too complex. We aim to simplify it for everyone.</p>\n<h2>Stay Entrepreneurial&nbsp;</h2>\n<p>We reject the status quo and solve problems with creativity, perseverance, and a bias to action.</p>\n<h2>Better Together</h2>\n<p>We are diverse, humble, and collaborative. We put the team first and win together.</p>\n<h2>Celebrate Success</h2>\n<p>Life is short and joy is underrated. We take time to have fun and celebrate success.</p>\n<h1>Perks &amp; Benefits&nbsp;</h1>\n<p>United States: In addition to our healthcare benefits, we also offer amazing perks! Need work from home basics? We offer a discount through Dell! We also offer a number of resources to help you keep your mind and body healthy. Check out Gympass for a great workout, or TelusEmployee Assistance Program to find mental health resources, along with other resources for everyday occurrences.</p>\n<p>Costa Rica: To assist with all of life’s needs, Tebra also offers a wellness and childcare subsidy and a University/Education discount! We also offer a number of resources to help you keep your mind and body healthy. Check out Gympass for access to health and fitness apps, or Telus Employee Assistance Program to find mental health resources, along with other resources for everyday occurrences.</p>\n<h1>Compliance &amp; Privacy Disclosures</h1>\n<p><em><span>NOTE: Tebra is an equal opportunity employer. All applicants will be considered for employment without attention to age, race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.</span></em></p>\n<p><em><span>California residents who apply or are recruited for a job with us: please carefully review our California-specific Privacy Notice under the California Consumer Protection Act here: <a href=\"https://www.tebra.com/privacy-policy/california-supplemental-notice/\">https://www.tebra.com/privacy-policy/california-supplemental-notice/</a></span></em></p>\n<p><em><span>If you would like to report a fraudulent Tebra job posting, please contact us at&nbsp;<a class=\"c-link\" href=\"mailto:talentacquisition@tebra.com\">talentacquisition@tebra.com</a>&nbsp;and consider reporting your experience to the FBI's Internet Crime Complaint Center or the Better Business Bureau to help keep others safe online, too.</span></em></p>\n<p></p>\n<p><em>As part of our commitment to a fair and efficient hiring process, Tebra utilizes Greenhouse Notetaker, Greenhouse's native interview intelligence tool, for our phone and video screenings. This technology records and transcribes interviews to help us ensure consistency, reduce bias, and make more informed hiring decisions. By applying for this position, you acknowledge that your interview may be recorded.</em></p>\n<p></p></div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/tebra-product-designer\">https://weworkremotely.com/remote-jobs/tebra-product-designer</a></p>",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "remotejobsplace:b25e8407",
+      "atsProvider": "remotejobsplace",
+      "company": "1password",
+      "title": "Sr Product Designer (Apono)",
+      "location": "worldwide",
+      "url": "https://jobs.ashbyhq.com/1password/420396fb-c0d2-40bf-8f31-729a27a815f1",
+      "postedAt": "2026-11-19T22:47:55.971933+00:00",
+      "description": "Join 1password as a Sr Product Designer (Apono). This Full-time position in Tel Aviv, Israel offers an exciting opportunity to work with a leading company in the industry. You'll be working with the Apono team.",
+      "roleFamily": "senior-pd"
+    },
+    {
       "id": "remotejobsplace:05390430",
       "atsProvider": "remotejobsplace",
       "company": "Kraken",
@@ -274,35 +318,13 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "jobspresso:senior-product-designer-product-growth",
-      "atsProvider": "jobspresso",
-      "company": "Kit",
-      "title": "Senior Product Designer – Product Growth",
-      "location": "Worldwide",
-      "url": "https://jobspresso.co/job/senior-product-designer-product-growth/",
-      "postedAt": "2026-11-18T00:00:00.000Z",
-      "description": "Kit is the email marketing platform experts choose to grow their audience, deepen their relationships, and build a business around the work they love. For coaches, YouTubers, authors, podcasters, and other creatives, there isn’t a better marketing hub to rely on to grow audiences, automate email marketing, and sell digital products — all within one",
-      "roleFamily": "senior-pd"
-    },
-    {
-      "id": "jobspresso:product-designer-4",
-      "atsProvider": "jobspresso",
-      "company": "Binance",
-      "title": "Product Designer",
-      "location": "Asia-Pacific",
-      "url": "https://jobspresso.co/job/product-designer-4/",
-      "postedAt": "2026-11-17T00:00:00.000Z",
-      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance",
-      "roleFamily": "uiux"
-    },
-    {
       "id": "web3career:155643",
       "atsProvider": "web3career",
       "company": "Bitpanda",
       "title": "Senior Product Designer Web3",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-web3-bitpanda/155643",
-      "postedAt": "2026-11-18T07:51:25.779Z",
+      "postedAt": "2026-11-17T07:43:41.716Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -313,7 +335,7 @@
       "title": "Staff Product Designer AI Products",
       "location": "London, United Kingdom",
       "url": "https://web3.career/staff-product-designer-ai-products-kraken/155944",
-      "postedAt": "2026-11-03T07:51:25.779Z",
+      "postedAt": "2026-11-03T07:43:41.716Z",
       "description": "",
       "roleFamily": "lead-pd"
     },
@@ -324,7 +346,7 @@
       "title": "Product Designer India",
       "location": "Remote",
       "url": "https://web3.career/product-designer-india-bitgo/155916",
-      "postedAt": "2026-11-03T07:51:25.780Z",
+      "postedAt": "2026-11-03T07:43:41.716Z",
       "description": "",
       "roleFamily": "uiux"
     },
@@ -384,6 +406,17 @@
       "roleFamily": "product-owner"
     },
     {
+      "id": "getro:accel:100228510",
+      "atsProvider": "getro",
+      "company": "Prophet Security",
+      "title": "Principal Product Designer",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/prophet-security/11f278b2-fa82-419c-9464-88c5e366f733",
+      "postedAt": "2026-11-19T11:22:24.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
       "id": "getro:accel:100153200",
       "atsProvider": "getro",
       "company": "Cortex by Palo Alto Networks",
@@ -406,28 +439,6 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "getro:accel:99778364",
-      "atsProvider": "getro",
-      "company": "Perplexity",
-      "title": "Lead Product Designer, Mobile (Native & Mobile)",
-      "location": "",
-      "url": "https://jobs.ashbyhq.com/Perplexity/1354f2e8-56c8-4a66-81f8-eb5d5b944506",
-      "postedAt": "2026-11-13T12:34:09.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
-      "id": "getro:accel:99778367",
-      "atsProvider": "getro",
-      "company": "Perplexity",
-      "title": "Lead Product Designer, Growth (Mobile)",
-      "location": "",
-      "url": "https://jobs.ashbyhq.com/Perplexity/14a45e74-9cde-4622-8172-1b6968810802",
-      "postedAt": "2026-11-13T12:34:09.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
       "id": "getro:accel:99721699",
       "atsProvider": "getro",
       "company": "Despegar",
@@ -435,6 +446,17 @@
       "location": "",
       "url": "https://jobs.lever.co/despegar/ea4a9388-e5ad-4d38-a59a-abc21bcab4d1",
       "postedAt": "2026-11-13T10:10:00.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:accel:99680279",
+      "atsProvider": "getro",
+      "company": "Spotify",
+      "title": "Product Designer",
+      "location": "Stockholm, Sweden, London, UK",
+      "url": "https://www.lifeatspotify.com/jobs/product-designer",
+      "postedAt": "2026-11-12T12:29:53.000Z",
       "description": "",
       "roleFamily": "uiux"
     },
@@ -956,17 +978,6 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "getro:insight-partners:99772845",
-      "atsProvider": "getro",
-      "company": "Epignosis",
-      "title": "Senior UX Designer (Research & Prototyping) - Athens",
-      "location": "",
-      "url": "https://epignosis.workable.com/jobs/6268729",
-      "postedAt": "2026-11-13T12:22:57.000Z",
-      "description": "",
-      "roleFamily": "uiux"
-    },
-    {
       "id": "getro:insight-partners:99338714",
       "atsProvider": "getro",
       "company": "Sensi.AI",
@@ -1209,17 +1220,6 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "getro:general-catalyst:98962270",
-      "atsProvider": "getro",
-      "company": "Lemonade",
-      "title": "Senior Product Designer",
-      "location": "Tel Aviv-Yafo, Israel",
-      "url": "https://makers.lemonade.com/role/senior-product-designer-tel-aviv-israel-663819c6",
-      "postedAt": "2026-11-04T13:04:30.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
-    },
-    {
       "id": "getro:general-catalyst:98962271",
       "atsProvider": "getro",
       "company": "Lemonade",
@@ -1231,13 +1231,13 @@
       "roleFamily": "lead-pd"
     },
     {
-      "id": "getro:mmc-ventures:98360746",
+      "id": "getro:general-catalyst:98962270",
       "atsProvider": "getro",
-      "company": "Beam",
+      "company": "Lemonade",
       "title": "Senior Product Designer",
-      "location": "London, UK",
-      "url": "https://jobs.ashbyhq.com/beam-up/fab75975-5636-413f-9ce5-e41c82424111",
-      "postedAt": "2026-10-29T11:14:10.000Z",
+      "location": "Tel Aviv-Yafo, Israel",
+      "url": "https://makers.lemonade.com/role/senior-product-designer-tel-aviv-israel-663819c6",
+      "postedAt": "2026-11-04T13:04:30.000Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
