@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-21T07:40:48.322Z",
-  "filteredAt": "2026-11-21T07:40:49.995Z",
+  "generatedAt": "2026-11-22T07:21:28.039Z",
+  "filteredAt": "2026-11-22T07:21:29.702Z",
   "funnel": {
-    "raw": 16116,
-    "deduped": 13547,
-    "titleMatched": 472,
-    "recencyPassed": 187,
-    "geoPassed": 107
+    "raw": 16127,
+    "deduped": 13546,
+    "titleMatched": 467,
+    "recencyPassed": 193,
+    "geoPassed": 110
   },
   "jobs": [
     {
@@ -118,17 +118,6 @@
       "postedAt": "2026-11-06T07:34:58.504Z",
       "description": "",
       "roleFamily": "lead-pd"
-    },
-    {
-      "id": "lever:zeta:078ed081-2d3e-4120-ab19-36063272cf8d",
-      "atsProvider": "lever",
-      "company": "Zeta",
-      "title": "Lead UX Designer",
-      "location": "Bangalore - DD",
-      "url": "https://jobs.lever.co/zeta/078ed081-2d3e-4120-ab19-36063272cf8d",
-      "postedAt": "2026-11-19T09:20:54.892Z",
-      "description": "",
-      "roleFamily": "uiux"
     },
     {
       "id": "ashby:marshmallow:0aef1ce7-b6f1-409e-8656-5fd177eded62",
@@ -252,6 +241,17 @@
       "roleFamily": "lead-pd"
     },
     {
+      "id": "lever:zeta:078ed081-2d3e-4120-ab19-36063272cf8d",
+      "atsProvider": "lever",
+      "company": "Zeta",
+      "title": "Lead UX Designer",
+      "location": "Bangalore - DD",
+      "url": "https://jobs.lever.co/zeta/078ed081-2d3e-4120-ab19-36063272cf8d",
+      "postedAt": "2026-11-19T09:20:54.892Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
       "id": "greenhouse:mentimeter:5027644101",
       "atsProvider": "greenhouse",
       "company": "Mentimeter",
@@ -261,6 +261,39 @@
       "postedAt": "2026-11-05T01:54:07-05:00",
       "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Mentimeter is an engagement company with a simple goal: to make every leader better. Through interaction, insights and recommendations, its platform helps organizations turn participation into better understanding and stronger performance.&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Founded in Stockholm in 2012, Mentimeter is used by 20 million people each month across 1.3 million organizations. At Mentimeter, we believe better leadership starts with listening and that the strongest results are achieved together. That’s why we foster a culture built on curiosity, collaboration and shared ownership. By joining us, you’ll help leaders turn participation into deeper understanding and stronger performance, advancing our ambition to help more than one billion people listen, learn and work better together.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;About the role&lt;/h2&gt;\n&lt;p&gt;As a Product Designer at Mentimeter, you own the experience your team ships and how it fits into the whole: making sure it works, solves a problem people actually have, and holds together as we build more. Millions of leaders use Mentimeter to lead: to make a decision, bring people with them, understand what their organisation actually thinks.&lt;/p&gt;\n&lt;p&gt;You join at the point where the work gets hardest and most interesting. Mentimeter has grown from one tool into an engagement suite, and making those pieces feel like one experience leaders and organisations can build on is now one of our hardest problems. The payoff is turning a great moment of engagement into results people act on, insight that holds over time, and value that spreads across an organisation, powered by AI that helps leaders see what matters and act on it.&lt;/p&gt;\n&lt;p&gt;You’ll report to the Design Director for that area and work day to day inside a product team, alongside a Product Manager and Product Engineers. Beyond the team, you’ll work with other competences such as User Research, Analytics, Content Design, Accessibility, Design Systems, Marketing and Sales to understand users and keep the suite coherent.&lt;/p&gt;\n&lt;h2&gt;What you’ll do&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Design end-to-end experiences across the full development model, from problem framing through shipped and refined iteration: interaction, visual design, usability, prototyping and testing.&lt;/li&gt;\n&lt;li&gt;Take an ambiguous problem and leave the room with a clear problem statement, hypotheses and success criteria you can evaluate.&lt;/li&gt;\n&lt;li&gt;Ground direction in user evidence. Spend real time with users, read the signal, and read the release data afterwards to know whether anything actually changed.&lt;/li&gt;\n&lt;li&gt;Name the trade-offs between user value, usability, coherence and technical constraint instead of letting them sit implicit.&lt;/li&gt;\n&lt;li&gt;Design patterns that scale across surfaces and teams, and protect product-wide coherence as the suite grows.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Who you are&lt;/h2&gt;\n&lt;p&gt;You own the experience, not the handoff. You work from the problem through to what shipped and what it changed, and you treat &quot;did this work for the user?&quot; as part of your job, not someone else&#39;s follow-up. You can hold a strong design opinion without needing to win the room, and you’d rather get to the right solution to the right problem than polish the wrong one.&lt;/p&gt;\n&lt;p&gt;You work through AI as part of how you design, not a tool you reach for occasionally. You use it across research, exploration and execution, you read its output critically rather than ship it, and you hold a real view of where it strengthens the work and where it degrades the experience. Autocomplete is not what we mean.&lt;/p&gt;\n&lt;p&gt;You treat insight and data as design material, not reporting. You&#39;re comfortable close to users and close to the numbers, and you bring the team closer to both.&lt;/p&gt;\n&lt;h2&gt;This role might not be for you if…&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;You use AI only as autocomplete, or steer clear of it, rather than making it part of how you design and solve problems.&lt;/li&gt;\n&lt;li&gt;You want the problem handed to you fully framed, with the user need and success criteria already decided.&lt;/li&gt;\n&lt;li&gt;You see design as what happens after the real decisions are made.&lt;/li&gt;\n&lt;li&gt;You treat research and data as someone else&#39;s job.&lt;/li&gt;\n&lt;li&gt;You consider the work done when the design ships, rather than when you know whether it changed something for users.&lt;/li&gt;\n&lt;li&gt;You want to stay in visual polish and avoid the ambiguity of early product work.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Requirements&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;A portfolio that shows end-to-end product design: problem framing, interaction and visual craft, and shipped outcomes, not only final screens.&lt;/li&gt;\n&lt;li&gt;Evidence that you ground design in user research and data, and change direction based on what you learn.&lt;/li&gt;\n&lt;li&gt;AI built into how you already work, across research, exploration and delivery.&lt;/li&gt;\n&lt;li&gt;Strong product thinking: you frame design decisions in terms of user value, business impact and risk.&lt;/li&gt;\n&lt;li&gt;Systems awareness: you design patterns that hold across surfaces and teams.&lt;/li&gt;\n&lt;li&gt;Excellent communication, and comfort working independently and in a cross-functional team.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Not required&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;You don&#39;t have to know Swedish. Daily work is carried out in English and the Mentimeter team currently boasts over 50 nationalities!&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Location&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;This is primarily an on-site role at Mentimeter HQ in Stockholm.&lt;/p&gt;\n&lt;h3&gt;Compensation&lt;/h3&gt;\n&lt;p&gt;&lt;em&gt;At Mentimeter, we believe in fair and transparent compensation that grows with you. The salary range for this role is SEK 65,000–SEK 82,000 per month. It’s intentionally broad to reflect the different stages of growth within the role: from early development to deep expertise and meaningful impact.&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;Where an individual is placed within the range depends on factors such as relevant experience, demonstrated skills, and alignment with the role’s requirements. We’re committed to supporting your growth. You’ll have ongoing development conversations with your manager, and your salary will evolve as you build skills and contribute to our mission.&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;em&gt;In addition to your monthly salary, we offer a comprehensive benefits package—learn more about it here: &lt;/em&gt;&lt;/strong&gt;https://www.mentimeter.com/benefits/stockholm&lt;strong&gt;&lt;em&gt;.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;What Mentimeter can offer&lt;br&gt;&lt;/strong&gt;At Mentimeter we can offer a diverse and inclusive work environment supported by smart and driven colleagues. We believe in continuous professional development for all of our colleagues and therefore offer access to a leadership program (including external personal coach) and relevant education to ensure that we continue to be state-of-the-art when it comes to innovating and building Mentimeter. Your place will be in a growing company with lots of career opportunities, working on a beloved product used by more than 300 million people. It’s not all about work though, we also offer a very healthy view on work-life balance.&lt;/p&gt;\n&lt;p&gt;All of this comes attached with a competitive compensation and benefits package, including pension contributions. Learn more about our benefits by visiting our &lt;a href=&quot;https://www.mentimeter.com/benefits&quot;&gt;Benefits &amp;amp; Perks page&lt;/a&gt;&lt;/p&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;AI and Hiring at Mentimeter&lt;/strong&gt;&lt;br&gt;At Mentimeter, we believe AI helps us work smarter - but it never replaces the human assessment, curiosity, and personal connection that define our culture and our hiring. We use AI as a sparring partner: to bounce ideas, bring new perspectives, support structure, and make our work more efficient. But the meaning, decisions, and interactions always come from people.&amp;nbsp;AI strengthens our work, but it does not define it. At Mentimeter, we’re not building an AI-driven hiring process - we’re building a people-first culture, where technology helps us listen, learn, and grow together.&lt;/div&gt;\n&lt;p&gt;&lt;strong&gt;Culture at Mentimeter&lt;br&gt;&lt;/strong&gt;At Mentimeter we believe in giving everyone a voice - regardless of who you are. So we build a platform that does just that. Our platform is not only our product but also our organization. A platform where people feel safe, where differences are embraced, a place where you can have fun. We strongly encourage applicants who are people of color, LGBTQ+, women, people with disabilities, and/or formerly incarcerated people, and a college degree is not strictly required. In order to give everyone a voice, we need to be as diverse as our users.&lt;/p&gt;\n&lt;p&gt;Learn more about our culture by visiting our&amp;nbsp;&lt;a href=&quot;https://www.mentimeter.com/culture&quot;&gt;Culture page&lt;/a&gt;.&lt;br&gt;Review our&amp;nbsp;&lt;a href=&quot;https://www.mentimeter.com/trust/legal/candidate-privacy-policy&quot;&gt;Privacy Policy&lt;/a&gt; for more information.&lt;/p&gt;&lt;/div&gt;",
       "roleFamily": "senior-pd"
+    },
+    {
+      "id": "remoteok:1137928",
+      "atsProvider": "remoteok",
+      "company": "LastPass",
+      "title": "Senior Product Design Manager",
+      "location": "Europe",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-product-design-manager-lastpass-1137928",
+      "postedAt": "2026-11-21T02:00:05+00:00",
+      "description": "<div><p><strong>About LastPass</strong><br />LastPass delivers Secure Access Essentials, helping individuals and organizations manage and protect access to AI, applications, and credentials straight from the browser. Trusted by more than 100,000 businesses and millions of users worldwide, LastPass blends strong security with everyday simplicity. From discovering unapproved AI and applications to reducing login friction and securing credentials across the business, LastPass delivers on its mission to give everyone seamless access to everything they need to work, move fast, and stay protected as their environments evolve.</p>\n<p><strong><span>Curious about our products? Visit our websiteÂ and <a href=\"https://www.lastpass.com/products/personal?utm_campaign=glb-b2c-mkr-jbap&amp;utm_medium=referral&amp;utm_source=greenhouse\">try it free!</a>Â </span></strong></p>\n<p><strong>We welcome new ideas, support your growth, and recognize your value, if this aligns with what you are looking for in your next career move, Join Us!</strong></p></div><p><strong>LastPass is looking for a Senior Product Design Manager:Â </strong></p>\n<p>In this role, you will lead product design and the design system team. As a senior leader, you will raise craft standards and guide designers, helping LastPass deliver on its mission to give everyone seamless access to everything they need to work, move fast, and stay protected.</p>\n<p><strong>About the team:</strong></p>\n<p>The User Experience team partners with engineering and product management to deliver usability, visual, interaction, and content solutions across LastPass. You will lead the product design and design system teams, covering web, extension, desktop, and native mobile, while raising craft standards and improving how designers and engineers work together every day.</p>\n<p><strong>If you are passionate about complex problem solving and motivated by scale, then this is the role for you!</strong></p>\n<p><strong>Who will you work with?</strong></p>\n<p>You will report to the VP of Product UX Design and Growth, and partner closely with the Senior Director of UX Research and the Head of Content. Day to day, you will work with product management and engineering leaders to clarify priorities, shape roadmaps, surface tradeoffs, and protect the customer experience.</p>\n<p><strong>What are some of the exciting challenges you will be working on?</strong></p>\n<ul>\n<li>Set design objectives and quality standards, so every product experience meets a higher bar for craft and usability</li>\n<li>Lead and develop the product design and design system teams, building talent through coaching, feedback, and career growth</li>\n<li>Own design quality across web, extension, desktop, and native mobile, so customers get a consistent experience</li>\n<li>Shape design system strategy with Engineering, so designers and engineers ship faster with greater consistency</li>\n<li>Introduce AI-assisted workflows for exploration, prototyping, and documentation, accelerating delivery without lowering quality</li>\n<li>Run critiques, reviews, and user testing, catching issues before customers see the work</li>\n<li>Partner with product and engineering leaders to clarify priorities, shape roadmaps, and surface tradeoffs early</li>\n<li>Identify delivery risks early and recommend policy and process changes, clearing blockers at the root cause</li>\n</ul>\n<p><strong>What does it take to work at LastPass?</strong></p>\n<ul>\n<li>Proven experience designing engaging product experiences across mobile, desktop, and web, backed by a strong portfolio</li>\n<li>A track record of leading, coaching, and developing designers and researchers, including senior designers</li>\n<li>Hands-on experience in usability testing, UX research methods, and agile and Double Diamond processes</li>\n<li>Professional working proficiency in English and Hungarian, needed to collaborate with team members and stakeholders</li>\n<li>Background in design or a related field, with hands-on knowledge of design and prototyping tools</li>\n<li>Recognised internally as a leader who connects design quality to business goals</li>\n<li>Regarded internally as a coach who helps others learn from mistakes and keeps morale high</li>\n<li>Respected internally for acting without waiting for permission and fixing what is broken</li>\n</ul>\n<p><strong>It's great, but not required: </strong></p>\n<ul>\n<li>Experience with AI-assisted design workflows for exploration, prototyping, and evaluation</li>\n<li>Hands-on experience in design system strategy or governance</li>\n</ul><div><p><strong><span>Why LastPass?</span></strong></p>\n<ul>\n<li><strong>The leader in secure access</strong></li>\n<li><strong>High-growth, collaborative environment with inclusive teams</strong></li>\n<li><strong>Remote-first culture</strong></li>\n<li><strong>Competitive compensation</strong></li>\n<li><strong>Flexible Paid Time Off policies</strong>, including but not limited to: Quarterly Self-Care Days (4 extra paid days off annually) and Volunteer Days</li>\n<li><strong>Parental leave</strong></li>\n<li><strong>Comprehensive health coverage</strong>, including dependents</li>\n<li><strong>Home office setup support</strong></li>\n<li><strong>LastPass Families free account</strong> for up to 5 members</li>\n<li><strong>Continuous learning and development opportunities</strong>, including an annual learning stipend to invest in your growth</li>\n<li><strong>Peer-to-peer recognition</strong> through Quantum Workplace</li>\n<li><strong>Employee Assistance Program</strong> for well-being support</li>\n<li><strong>Remote work stipend</strong> to support your home office needs</li>\n<li><strong>Short-Term or Remote-Centric Work Arrangements</strong> for added flexibility</li>\n</ul>\n<p><span><strong><em>Unlock your potential with us - your skills, experience, and unique perspective matter more than just checking the boxes. Apply today, and let's build the future together!</em></strong></span></p>\n<p>Weâre building an inclusive community that reflects the people of all races, genders, sexual orientations, national origins, backgrounds, and perspectives who share our world.</p>\n<p>For more information about how we process your personal data and your rights, please refer to our <a href=\"https://www.lastpass.com/-/media/925ED6EB59CF457EBA0CDE6C9CADDA50.pdf\">Candidate Privacy Notice</a>.Â </p></div><br/><br/>Please mention the word **REAFFIRM** and tag RMjAuMTA5LjM5LjU2 when applying to show you read the job post completely (#RMjAuMTA5LjM5LjU2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "remoteok:1137927",
+      "atsProvider": "remoteok",
+      "company": "Carrot",
+      "title": "Manager, Product Design",
+      "location": "Worldwide",
+      "url": "https://remoteOK.com/remote-jobs/remote-manager-product-design-carrot-1137927",
+      "postedAt": "2026-11-21T01:40:26+00:00",
+      "description": "<div><p><strong>About Carrot: </strong></p>\n<p><a href=\"https://c212.net/c/link/?t=0&amp;l=en&amp;o=4420559-1&amp;h=3535232987&amp;u=https%3A%2F%2Fwww.carrotfertility.com%2F&amp;a=Carrot+Fertility\">Carrot</a> is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each memberâs life. More than a thousand multinational employers, health plans, and health systems trust Carrot to support millions of members across 195 countries â from pre-pregnancy through menopause and major life moments in between. Carrot's comprehensive clinical program delivers industry-leading cost savings for plan sponsors and award-winning experiences and improved outcomes for millions of people worldwide.<br /><br />Carrot is widely regarded as a defining force in healthcare innovation as a recipient of several top-tier awards, including Fast Company's 'Most Innovative Companies' and CNBC's '100 Barrier Breaking Startups'. The company is regularly cited by leading global outlets â including The Economist, Bloomberg, The Wall Street Journal, NPR, ABC News, and Harvard Business Review â as a leading voice on digital health, the future of work, and family health. Learn more at <a href=\"http://get-carrot.com\">get-carrot.com</a>.</p></div><p><strong>The Opportunity </strong><strong>ð</strong></p>\n<p>Carrotâs User Experience team is seeking a Manager, Product Design to lead a team of senior product designers building our member-facing products. Youâll lead project work, raise the craft bar through direct feedback, and help our design function evolve as AI tools reshape the boundaries between design, product management, and engineering. Youâll partner with Content Design, Product Management, and Engineering leaders to deliver products that scale our impact to members worldwide.</p>\n<p>This is a true player-coach role: roughly half your time goes to hands-on design work, including design system and foundational direction, and half to leading and coaching the team. If you love sharpening experienced designersâ work, designing for a diverse set of member needs across all paths to parenthood, and shaping how a design team works in an AI-enabled future, this role is for you.</p>\n<p>Â </p>\n<p><strong>What Youâll OwnÂ </strong><strong>ð¼</strong></p>\n<p>In this role, you will:</p>\n<ul>\n<li>Lead design initiatives from strategy to launch, ensuring work meets project goals, timelines, and business priorities.</li>\n<li>Give clear, actionable craft feedback through critiques and design reviews, holding a high bar for quality, consistency, and accessibility.</li>\n<li>Contribute hands-on design, prototypes, or direction on complex, high-visibility initiatives, including design system and foundational work.</li>\n<li>Coach designers to plan and run their own research, from study design through synthesis, and ensure qualitative and quantitative evidence shapes design decisions.</li>\n<li>Partner with Product and Engineering leaders on goals, scope, and delivery, and communicate the teamâs results and design rationale to senior stakeholders.</li>\n<li>Drive adoption of AI tools that help designers work faster, more consistently, and with greater capacity, and evaluate what works.</li>\n<li>Help redefine how design works with product and engineering as role boundaries shift, and recommend process changes to the product development lifecycle.</li>\n<li>Hold regular 1:1s and coach designers on craft, influence, and career growth, tied to Carrotâs leveling framework.</li>\n<li>Own performance management, including goal-setting, reviews, and calibration input, and address gaps directly and fairly.</li>\n<li>Build an inclusive, psychologically safe culture where designers feel ownership of their work.</li>\n</ul>\n<p>Â </p>\n<p><strong>What Success Looks Like </strong><strong>Â ð</strong></p>\n<p>In your first 12â18 months, you will have:</p>\n<ul>\n<li>Delivered design work on high-visibility initiatives that met project goals, timelines, and business priorities.</li>\n<li>Established a critique and design review rhythm that has visibly raised the quality, consistency, and accessibility of what the team ships.</li>\n<li>Introduced AI tools and practices that improved the teamâs speed, consistency, or capacity, and helped clarify how design works with product and engineering as roles shift.</li>\n<li>Built a research practice in which designers plan and run their own studies, and evidence shapes design decisions.</li>\n<li>Coached each designer with clear goals, regular feedback, and a development path tied to Carrotâs leveling framework, and built a team culture where designers feel ownership of their work.</li>\n</ul>\n<p>Â </p>\n<p><strong>About You </strong><strong>â¨</strong></p>\n<p>You likely have:</p>\n<ul>\n<li>A Bachelorâs degree</li>\n<li>10+ years in product design or UX/UI, including 2+ years managing designers.</li>\n<li>A portfolio of shipped, user-centered, member- or consumer-facing digital products, with evidence of leading a teamâs output.</li>\n<li>A track record of coaching experienced designers, giving direct craft feedback, and handling performance conversations.</li>\n<li>Hands-on experience using AI tools to prototype and ship design work, and helping a team adapt its practices as roles evolve.</li>\n<li>Experience evolving a design system in collaboration with engineers, ideally across multiple products.</li>\n<li>Strong knowledge of interaction design, visual design, WCAG accessibility, and responsive and mobile design.</li>\n<li>Experience planning and running user research, from interviews and usability testing to quantitative analysis, and coaching designers to do the same.</li>\n<li>Excellent communication skills, including influencing senior stakeholders and articulating design rationale.</li>\n<li>Comfort with ambiguity and change in a fast-paced agile environment, with clear trade-off decisions.</li>\n</ul>\n<p>Â </p>\n<p><strong>Nice to Have </strong><strong>â­</strong></p>\n<p>While not required, we would be especially excited if you bring:</p>\n<ul>\n<li>Experience designing configuration-driven products, where rules and settings (such as eligibility or plan rules) determine what each person sees.</li>\n<li>Familiarity with the healthcare industry, insurance, finance, and compliance, alongside sensitivity to the challenges of fertility health and family forming around the world.</li>\n<li>Familiarity with front-end development principles (HTML, CSS, JavaScript) to collaborate effectively with engineers.</li>\n<li>Experience managing distributed or global teams across time zones.</li>\n<li>Demonstrated track record with strategic headcount allocation, resource budgeting, and external partner management.</li>\n</ul>\n<p><strong>Â </strong></p>\n<p><strong>Why This Role Matters </strong><strong>ð§¡</strong></p>\n<p>Carrotâs members come to us at some of the most personal and consequential moments of their lives, across every path to parenthood and lifelong fertility healthcare. The quality of our design shapes whether they feel understood, supported, and able to get the care they need.</p>\n<p>At the same time, the way design teams work is changing quickly. Youâll help define how a senior team adopts AI tools, how design works alongside product and engineering as role boundaries shift, and what great craft looks like in that environment, while staying close to the work yourself.</p>\n<p><strong>Â </strong></p>\n<p><strong>Interview Process </strong><strong>ð¤</strong></p>\n<p>We believe in a thoughtful and transparent interview process designed to create alignment for both candidates and our team.</p>\n<p>For this role, candidates can expect:</p>\n<ol>\n<li>Recruiter Screen â 30 minutes</li>\n<li>Hiring Manager Interview â 30 minutes</li>\n<li>Portfolio Review Interviewâ 60 minutes</li>\n<li>Executive Leadership Conversation â 30 minutes</li>\n</ol>\n<p>Throughout the process, we will share additional context about the team, business priorities, customer landscape, and what success looks like in this role.</p>\n<p>Â </p>\n<p><strong>Why Candidates Join Carrot ð</strong></p>\n<p>Carrot offers the opportunity to do meaningful work in service of a deeply human mission.</p>\n<p>Highlights include:</p>\n<ul>\n<li>A mission-driven company focused on expanding access to fertility and family-forming care globally.</li>\n<li>A high-growth environment where leaders are empowered to shape strategy and drive impact.</li>\n<li>Competitive compensation, equity, and comprehensive benefits.</li>\n<li>Flexible Time Off and a culture that actively encourages employees to recharge.</li>\n<li>Comprehensive parental leave and family-forming benefits.</li>\n<li>A collaborative, inclusive, and values-driven culture.</li>\n<li>The opportunity to work alongside passionate, thoughtful teammates committed to improving healthcare outcomes worldwide.</li>\n</ul>\n<p>Â </p>\n<p><strong>Compensation ð°</strong></p>\n<p>Carrot offers a holistic Total Rewards package designed to support our employees in all aspects of their life inside and outside of work, including health and wellness benefits, retirement savings plans, short- and long-term incentives, parental leave, family-forming assistance, and a competitive compensation package.Â Compensation for this role is structured as base salary plus equity, giving you ownership in Carrotâs long-term growth. This role does not include an annual bonus or variable compensation.</p>\n<ul>\n<li><strong>Base Salary Range:</strong> $162,000- $190,000</li>\n<li><strong>Geo-Tier Adjustment:</strong> Up to $200,000 for highly experienced candidates within 50 miles of San Francisco, NYC, or Seattle.</li>\n</ul>\n<p>Â </p>\n<p><strong>Fraud and Security Notice: </strong>Please note that all communication regarding job opportunities at Carrot will come exclusively from an @get-carrot.com email address. If you receive messages from any other domain, please disregard them and report the incident to: <a href=\"mailto:securityreporting@get-carrot.com\">securityreporting@get-carrot.com</a></p>\n<p>Â </p>\n<p><strong>A Note on AI</strong></p>\n<p>At Carrot, we believe AI can help us work smarter, move faster, and create more meaningful experiences for our members, customers, and each other. While not every role requires deep technical AI expertise, we value people who are curious, eager to learn, and excited to thoughtfully incorporate AI into their day-to-day work.</p>\n<p>For some roles, AI fluency is a core requirementâand we'll call that out clearly in the qualifications. For everyone else, we're looking for people who embrace new ways of working, use AI responsibly to improve quality and efficiency, and continue to learn as the technology evolves.</p><div><p><strong>Why Carrot?</strong></p>\n<p>Carrot has received national and international recognition for its pioneering work, including Fast Company's Most Innovative Companies and World Changing Ideas, Inc. Power Partners, and Modern Healthcareâs Innovators. Carrotâs global workforce has been acknowledged with several accolades, including Fortuneâs Best Workplaces in Healthcare, Great Place to Work, and Age-Friendly Employer certifications. Carrot is regularly featured in media reporting on issues related to the future of work, women in leadership, and healthcare innovation, including MSNBC, The Economist, Bloomberg, The Wall Street Journal, CNBC, National Public Radio, Harvard Business Review, and more. Learn more at carrotfertility.com.Â </p>\n<p><span>Â </span></p></div><br/><br/>Please mention the word **BREAKTHROUGHS** and tag RMjAuMTA5LjM5LjU2 when applying to show you read the job post completely (#RMjAuMTA5LjM5LjU2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "weworkremotely:remote-design-jobs:https://weworkremotely.com/remote-jobs/gusto-inc-staff-product-designer",
+      "atsProvider": "weworkremotely",
+      "company": "Gusto, Inc.",
+      "title": "Staff Product Designer",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/gusto-inc-staff-product-designer",
+      "postedAt": "2026-11-21T18:31:36.000Z",
+      "description": "<p>\n  <strong>Headquarters:</strong> Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Toronto, Ontario - Remote\n</p>\n\n<div class=\"content-intro\"><p>&nbsp;</p>\n<hr>\n<p><strong>About Gusto</strong></p>\n<p>At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff — payroll, health insurance, 401(k)s, and HR — so owners can focus on their craft and their customers. With teams in Denver, San Francisco, and New York, we support more than 500,000 small businesses nationwide and are building a workplace that reflects the people we serve.</p>\n<p>All full-time employees receive competitive base pay, benefits, and equity (RSUs) — because everyone who helps build Gusto should share in its success. Offer amounts are determined by role, level, and location. Learn more about our<a href=\"https://gusto.com/about/careers/total-rewards\"> Total Rewards philosophy</a>.</p>\n<p>AI is a fundamental part of how work gets done at Gusto. We expect all team members to actively engage with AI tools relevant to their role and grow their fluency as the technology evolves. AI experience requirements vary by role and will be assessed during the interview process.</p></div><p><strong>About the Role:</strong></p>\n<p>Gusto’s looking to bring on several Staff Product Designers across our Money and HR Experience product organizations. These teams sit on some of the highest-stakes, most AI-native surfaces at Gusto, where small businesses make financial and people decisions that carry real impact, and where getting the experience right is what builds durable trust. That's exactly why judgment, taste, and craft matter here.</p>\n<p>As a Staff Product Designer, you'll own experiences end to end within a specific domain, turning ambiguity into clear, trustworthy products and helping define patterns that don't yet exist at Gusto. You'll be deeply embedded in the product quartet, driving design decisions in partnership with Product Managers and Engineers, and demonstrating high craft and storytelling every step of the way.</p>\n<p><strong>This is one job posting for five open roles in Gusto Money, Banking, and HR Experiences product orgs. </strong>You'll be matched to the opportunity that best fits your strengths and interests. Here are the teams currently hiring:</p>\n<ul>\n<li><strong>Consumer Banking: </strong>Consumer Banking builds financial products for the millions of employees paid through Gusto, anchored to Gusto Wallet — spend accounts, savings goals, paycheck splitting, and on-demand access to earned wages. Because Gusto runs payroll, the team sits at the source of income itself, helping workers smooth cash flow between paychecks, save automatically, and avoid predatory alternatives like payday lenders and overdraft fees. One of the fastest-growing engines in Gusto Banking, it moves at a startup pace while incubating 0→1 foundational technology in a regulated space where trust, reliability, and craft are everything.</li>\n<li>\n<p><strong>Gusto Money: </strong>MoneyOS is the team within Gusto Money focused on helping small businesses better understand, manage, and improve their financial position. This is an especially exciting moment for the team. The space is still taking shape, which means there’s real room to define the product, the patterns, and the customer expectations. MoneyOS works at the intersection of product strategy, financial systems, customer trust, and emerging AI-native ways of building—making it a strong fit for a designer who wants to have outsized influence on both what we build and how we build it.</p>\n</li>\n<li><strong>HR Experiences (HRX):</strong> HRX helps small businesses get expert HR help right inside the product — a customer simply says what they need, and Gusto takes the action, answers the question, or brings in a human expert when the stakes are high. You'll design AI-native experiences across a two-sided service — the everyday self-serve moments, the AI that guides and does the work, and the human HR experts who step in when it matters most — so it all feels like one Gusto, in a domain where judgment and trust matter enormously.</li>\n</ul>\n<p><strong>Here's what you'll do day-to-day:</strong></p>\n<ul>\n<li>Own design end to end in your domain — from framing ambiguous problems to shipping high-craft, accessible experiences that hide the underlying complexity from customers.</li>\n<li>Shape goals, priorities, and roadmap in partnership with your PM and engineering lead, balancing customer trust, business value, and technical realities.</li>\n<li>Translate ambiguous, often 0→1 strategy into clear scopes, flows, and interaction patterns — including patterns that don't yet exist at Gusto.</li>\n<li>Design the experience of AI thoughtfully — representing uncertainty, surfacing errors gracefully, preserving customer agency, and knowing when a human should step in.</li>\n<li>Ground your decisions in customer insight, leading or partnering on research, competitive audits, and hypothesis-driven exploration in high-stakes, sometimes compliance-sensitive domains.</li>\n<li>Raise the craft and systems bar, evolving Gusto's design system where existing patterns fall short.</li>\n<li>Work in fast cycles and use AI tools in your own practice — set a clear target, prototype and ship real things to customers, and let what you learn sharpen the direction.</li>\n</ul>\n<p><strong>Here's what we're looking for:</strong></p>\n<ul>\n<li>6+ years of product design experience owning and shipping end-to-end work, ideally in B2B SaaS, fintech, or another high-trust domain, with strong craft across web.</li>\n<li>Experience designing AI-enabled or conversational experiences shipped to real users, and you can speak concretely to how you handled uncertainty, errors, and human override.</li>\n<li>Comfort with ambiguity and 0→1, you frame the problem, scope the work, and move forward without waiting for perfect information.</li>\n<li>Strong systems thinking, you use and contribute to a design system and know when to evolve it.</li>\n<li>Judgment to evaluate and direct AI outputs, when to use them, when to override them, and how to raise the bar, especially where the cost of being wrong is high.</li>\n<li>Strong collaboration and communication across design, product, engineering, and data.</li>\n</ul>\n<p><strong>Bonus points</strong></p>\n<ul>\n<li>Experience in a high-stakes or regulated domain, fintech, financial services, HR, compliance, legal, or healthcare.</li>\n<li>Hands-on experience designing AI-driven or agentic product experiences, shaping how an AI or agent behaves, communicates, and hands off to a human.</li>\n<li>Service-design fluency across two-sided or multi-stakeholder products: real journey mapping and blueprinting with operational handoffs, not workshop exercises.</li>\n<li>Helped lead a team's shift to AI-native workflows, and can speak to what changed about the work itself, not just the tools.</li>\n<li>Background contributing to AI governance, evaluation practices, or AI experience design patterns.</li>\n</ul>\n<p>Our cash compensation range for this role is $146,000/yr to $183,000/yr in Denver, and $177,000/yr to $222,000/yr in San Francisco &amp; New York. Final offer amounts are determined by multiple factors, including candidate experience and expertise, and may vary from the amounts listed above.</p><div class=\"content-conclusion\"><hr>\n<p>At Gusto, we don't use titles the traditional way, as a signal of rank or hierarchy. Instead, our titles describe two things at once — your craft (what you do, e.g. Engineering, Design) and your scope of ownership (what you're accountable for) — which is why you'll see something like \"Head of X\" instead of a rank word like \"Director\" that tells you neither. Because of this, the title on this posting may look different from what you'd expect based on the scope and seniority of the role, and from how similar roles are typically titled elsewhere. If you have questions about how this role compares to your current title or level, your recruiter can help translate.</p>\n<hr>\n<p>Gusto has physical office spaces in Denver, San Francisco, and New York City. Employees who are based in those locations will be expected to work from the office on designated days approximately 2-3 days per week (or more depending on role). The same office expectations apply to all Symmetry roles, Gusto's subsidiary, whose physical office is in Scottsdale.</p>\n<p>Note: The San Francisco office expectations encompass both the San Francisco and San Jose metro areas.&nbsp;</p>\n<p>When approved to work from a location other than a Gusto office, a secure, reliable, and consistent internet connection is required. This includes non-office days for hybrid employees.</p>\n<p><strong>Reliable, consistent presence: </strong>We expect regular and predictable attendance, whether you're working in-office, hybrid, or fully remote, so that you stay closely connected to your team, customers, and stakeholders in real time and ensure colleagues and customers receive the timely support and responsiveness they deserve.</p>\n<hr>\n<p><span>Our customers come from all walks of life and so do we. We hire great people from a wide variety of backgrounds, not just because it's the right thing to do, but because it makes our company stronger. If you share our values and our enthusiasm for small businesses, you will find a home at Gusto.&nbsp;</span></p>\n<p><span>Gusto is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Gusto considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Gusto is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. We want to see our candidates perform to the best of their ability. If you require a medical or religious accommodation at any time throughout your candidate journey, please fill out <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdEfl7Bp-Twz7LLlhGlha46CrxZ9Kacgakmarf3K2TbnaEgKQ/viewform\">this form</a> and a member of our team will get in touch with you.</span></p>\n<p>Gusto takes security and protection of your personal information very seriously. Please review our <a href=\"https://gusto.com/about/careers/fraudulent-activity-disclaimer\">Fraudulent Activity Disclaimer</a>.</p>\n<p>Personal information collected and processed as part of your Gusto application will be subject to&nbsp;<a href=\"https://gusto.com/about/careers/applicant-privacy-notice\">Gusto's Applicant Privacy Notice</a>.</p></div>\n\n<p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/gusto-inc-staff-product-designer\">https://weworkremotely.com/remote-jobs/gusto-inc-staff-product-designer</a></p>",
+      "roleFamily": "lead-pd"
     },
     {
       "id": "weworkremotely:remote-design-jobs:https://weworkremotely.com/remote-jobs/elation-health-head-of-design",
@@ -313,7 +346,7 @@
       "title": "Senior Product Designer Web3",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-web3-bitpanda/155643",
-      "postedAt": "2026-11-17T07:39:00.004Z",
+      "postedAt": "2026-11-17T07:19:44.686Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -324,7 +357,7 @@
       "title": "Staff Product Designer AI Products",
       "location": "London, United Kingdom",
       "url": "https://web3.career/staff-product-designer-ai-products-kraken/155944",
-      "postedAt": "2026-11-03T07:39:00.004Z",
+      "postedAt": "2026-11-03T07:19:44.687Z",
       "description": "",
       "roleFamily": "lead-pd"
     },
@@ -335,7 +368,7 @@
       "title": "Product Designer India",
       "location": "Remote",
       "url": "https://web3.career/product-designer-india-bitgo/155916",
-      "postedAt": "2026-11-03T07:39:00.004Z",
+      "postedAt": "2026-11-03T07:19:44.687Z",
       "description": "",
       "roleFamily": "uiux"
     },
@@ -395,12 +428,23 @@
       "roleFamily": "product-owner"
     },
     {
+      "id": "getro:accel:100403942",
+      "atsProvider": "getro",
+      "company": "Jifflenow",
+      "title": "UI UX Designer",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://indiacareers-cvent.icims.com/jobs/11866/job",
+      "postedAt": "2026-11-21T09:42:46.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
       "id": "getro:accel:100355837",
       "atsProvider": "getro",
       "company": "Google",
       "title": "UX Designer, YouTube Creator Ads",
       "location": "Zürich, Switzerland",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/100996523508015814-ux-designer-youtube-creator-ads?page=86",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/100996523508015814-ux-designer-youtube-creator-ads?page=84",
       "postedAt": "2026-11-20T12:06:39.000Z",
       "description": "",
       "roleFamily": "uiux"
@@ -543,7 +587,7 @@
       "company": "Google",
       "title": "Senior UX Designer, Google Pay India",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/133109869426156230-senior-ux-designer-google-pay-india?page=37",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/133109869426156230-senior-ux-designer-google-pay-india?page=36",
       "postedAt": "2026-11-10T13:47:04.000Z",
       "description": "",
       "roleFamily": "uiux"
@@ -681,6 +725,17 @@
       "roleFamily": "senior-pd"
     },
     {
+      "id": "getro:accel:99065358",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "Product Designer",
+      "location": "",
+      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/product-designer-j1qowgsg",
+      "postedAt": "2026-11-05T13:01:20.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
       "id": "getro:accel:99065365",
       "atsProvider": "getro",
       "company": "Remote",
@@ -698,17 +753,6 @@
       "title": "UX/UI Designer (LatAm)",
       "location": "",
       "url": "https://remote.com/jobs/terra-c1bicin6/ux-ui-designer-latam-j1pia8vv",
-      "postedAt": "2026-11-05T13:01:20.000Z",
-      "description": "",
-      "roleFamily": "uiux"
-    },
-    {
-      "id": "getro:accel:99065358",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Product Designer",
-      "location": "",
-      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/product-designer-j1qowgsg",
       "postedAt": "2026-11-05T13:01:20.000Z",
       "description": "",
       "roleFamily": "uiux"
@@ -857,17 +901,6 @@
       "roleFamily": "product-owner"
     },
     {
-      "id": "getro:accel:98666480",
-      "atsProvider": "getro",
-      "company": "ServiceChannel",
-      "title": "Technical Product Owner",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/technical-product-owner-at-servicechannel-4483009012",
-      "postedAt": "2026-10-31T14:17:35.000Z",
-      "description": "",
-      "roleFamily": "product-owner"
-    },
-    {
       "id": "getro:earlybird:99382218",
       "atsProvider": "getro",
       "company": "Aiven",
@@ -923,17 +956,6 @@
       "roleFamily": "product-owner"
     },
     {
-      "id": "getro:insight-partners:100070157",
-      "atsProvider": "getro",
-      "company": "Monolith AI",
-      "title": "Staff Product Designer",
-      "location": "London, UK",
-      "url": "https://uk.linkedin.com/jobs/view/staff-product-designer-at-coreweave-4488935512",
-      "postedAt": "2026-11-17T14:07:36.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
       "id": "getro:insight-partners:99338714",
       "atsProvider": "getro",
       "company": "Sensi.AI",
@@ -974,6 +996,28 @@
       "location": "United Kingdom",
       "url": "https://jobs.ashbyhq.com/immersivelabs/9bda6d12-3424-4e7e-8a49-1a1829af53ca",
       "postedAt": "2026-11-04T12:18:27.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:insight-partners:100498973",
+      "atsProvider": "getro",
+      "company": "Wonderskin",
+      "title": "Digital Design Lead",
+      "location": "London, UK",
+      "url": "https://uk.linkedin.com/jobs/view/digital-design-lead-at-wonderskin-4492449394",
+      "postedAt": "2026-11-21T13:31:43.000Z",
+      "description": "",
+      "roleFamily": "lead-pd"
+    },
+    {
+      "id": "getro:general-catalyst:100513969",
+      "atsProvider": "getro",
+      "company": "Parloa",
+      "title": "Staff Product Designer - Expert Experience",
+      "location": "Berlin, Germany",
+      "url": "https://jobs.ashbyhq.com/parloa/bd30916a-ec2e-4552-b898-75ed28449b65",
+      "postedAt": "2026-11-22T05:57:10.000Z",
       "description": "",
       "roleFamily": "lead-pd"
     },
@@ -1042,17 +1086,6 @@
       "postedAt": "2026-11-11T13:00:03.000Z",
       "description": "",
       "roleFamily": "senior-pd"
-    },
-    {
-      "id": "getro:general-catalyst:99311128",
-      "atsProvider": "getro",
-      "company": "Parloa",
-      "title": "Staff Product Designer - Expert Experience",
-      "location": "Berlin, Germany",
-      "url": "https://de.linkedin.com/jobs/view/staff-product-designer-expert-experience-at-parloa-4488407595",
-      "postedAt": "2026-11-07T13:54:12.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
     },
     {
       "id": "getro:general-catalyst:99261592",
