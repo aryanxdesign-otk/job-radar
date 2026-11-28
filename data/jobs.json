@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-27T09:02:42.486Z",
-  "filteredAt": "2026-11-27T09:02:44.179Z",
+  "generatedAt": "2026-11-28T08:23:47.234Z",
+  "filteredAt": "2026-11-28T08:23:48.889Z",
   "funnel": {
-    "raw": 16084,
-    "deduped": 13546,
-    "titleMatched": 462,
-    "recencyPassed": 182,
-    "geoPassed": 97
+    "raw": 16083,
+    "deduped": 13545,
+    "titleMatched": 457,
+    "recencyPassed": 165,
+    "geoPassed": 85
   },
   "jobs": [
     {
@@ -76,6 +76,17 @@
       "roleFamily": "uiux"
     },
     {
+      "id": "teamtailor:fishbrain:277cea11-2b59-47f7-84c8-4669a95f2f4d",
+      "atsProvider": "teamtailor",
+      "company": "Fishbrain",
+      "title": "Senior Product Designer - Conversion",
+      "location": "Stockholm, Sweden",
+      "url": "https://careers.fishbrain.com/jobs/8748447-senior-product-designer-conversion",
+      "postedAt": "2026-11-16T13:17:19.000Z",
+      "description": "<p>The <strong>Fishbrain </strong>Team has built and maintains the <strong>#1 fishing app</strong> in the US, designed for people who are passionate about fishing and outdoors. Our mission is to deliver an incredible experience that helps anglers achieve their fishing dreams, today and tomorrow.</p><p>Want to take the #1 fishing app in the US with millions of users to the next level? Now's your chance! We're currently recruiting a<strong> Senior Product Designer </strong>to join our team at Fishbrain.</p><p><strong id=\"docs-internal-guid-e24d6c7b-7fff-1223-8f13-6b049e9aead8\">Why this role, why now</strong></p><p><span>We're looking for a Senior Product Designer to join our Conversion team. You'll shape how millions of anglers discover Fishbrain, get started, and decide to go Pro.</span></p><p><span>Our conversion journey runs from the first search result to the first paid month. Right now, AI is reshaping what Fishbrain Pro can do, and we need a designer who can make that value obvious at every step. Your work shows up directly in our business metrics, so you'll see the impact of every decision you make.</span></p><p><span><strong>The role</strong></span></p><p><span>You'll be the designer in the Conversion team, working day to day with your PM and engineers. You report to our Head of Design and are part of a design guild with three other designers. Together you'll set the standards and rituals that raise the bar across Fishbrain.</span></p><p><span><strong>You own the end-to-end experience for Conversion:</strong></span></p><ul><li><p><span>Acquisition: web and SEO pages that turn searches into app downloads</span></p></li><li><p><span>Monetization: trials, paywalls, subscription flows, and ad experiences</span></p></li></ul><p><span>This is a senior role. Beyond delivery, you'll shape the team's roadmap and experiment strategy alongside your PM and EM.</span></p><h3><span><strong>What you'll be working on</strong></span></h3><ul><li><p><span>Own the funnel end to end. Design high-quality, intuitive experiences from website to onboarding, trial, and subscription.</span></p></li><li><p><span>Move the numbers. Find gaps and opportunities in reg-to-trial, trial-to-Pro, website downloads, AI-visibility score and early retention.</span></p></li><li><p><span>Run experiments that teach us something. Shape hypotheses with your PM and EM, design for A/B tests, and read the results.</span></p></li><li><p><span>Keep discovery continuous. Talk to anglers regularly, prototype fast, and blend qualitative insight with data.</span></p></li><li><p><span>Make Pro's value clear. Show what Pro and AI-powered features like Fishing Intelligence do for anglers, without dark patterns.</span></p></li><li><p><span>Raise the craft. Contribute to our design system, critiques, and guild standards in Figma and beyond.</span></p></li><li><p><span>Work AI-first. Use AI tools from research synthesis to coded prototypes, and help the guild find better ways of working.</span></p></li></ul><h3>What we’re fishing for</h3><ul><li><p><span>5+ years in product design, with a portfolio that shows conversion or growth work and its measurable impact.</span></p></li><li><p><span>AI as part of your daily workflow, from discovery and synthesis to prototyping in code.</span></p></li><li><p><span>Strong mobile craft on iOS and Android, with a deep understanding of </span>Apple’s Human Interface Guidelines and Material Design.<span>.</span></p></li><li><p><span>Web design experience, ideally SEO or landing pages built to drive app downloads.</span></p></li><li><p><span>Hands-on experimentation: you design for A/B tests and are comfortable in analytics tools like Amplitude.</span></p></li><li><p><span>Subscription or freemium experience, and an understanding of how people decide to pay.</span></p></li><li><p>Expert Figma skills across design systems, prototyping and handoff, and curiosity about the tools that come next.</p></li><li><p><span>A clear communicator who can explain the why behind a design to any stakeholder.</span></p></li><li><p>A degree in design, HCI or a related field, or equivalent experience.</p></li></ul><p><span><strong>Bonus, but not required</strong></span></p><ul><li><p><span>Fishing experience, or an eagerness to learn</span></p></li></ul><p><br><br><strong>Where you’ll work</strong></p><p><span>We operate in a <strong>hybrid work</strong> environment, with all team members expected to work from our <strong>Stockholm HQ</strong>, <strong>The Lighthouse, located at Hötorget</strong>, at least three days a week.</span></p><p></p><p>Please submit applications in<span> </span><strong>ENGLISH</strong>, those that are not will not be reviewed.<strong><br></strong></p><p><strong>Our Bait</strong></p><p>We’re a product-focused startup, and every individual is important. That means you get to contribute to the direction of the company and the impact we have on millions of anglers. We at Fishbrain work with the latest tech and challenge ourselves every day. We have a work culture that encourages innovation, passion and teamwork. And most importantly, we want you to enjoy coming to work every single day.</p><p><strong>In addition, Fishbrain also offers:</strong>&nbsp;</p><h3 style=\"text-align:center;\">🌴 30 days annual vacation</h3><p style=\"text-align:center;\">Each year you’ll get 30 days vacation to use however, whenever</p><h3 style=\"text-align:center;\">🤸‍♀️ Wellness bonus</h3><p style=\"text-align:center;\">5000 sek annual allowance to put towards anything in the realm of health and fitness</p><h3 style=\"text-align:center;\">🧑‍🎓 Learning &amp; development days</h3><p style=\"text-align:center;\">Fishbrain provides five paid Learning &amp; Development days per year to its employees</p><h3 style=\"text-align:center;\">💻📱 Technology of your choice</h3><p style=\"text-align:center;\">Mac or PC, you decide</p><h3 style=\"text-align:center;\">🌎 Commitment to sustainability</h3><p style=\"text-align:center;\">Our global data set, among the largest in the world, is selectively provided in a managed and controlled manner to scientific research partners in both North America and Europe to better understand and improve fisheries research</p><h3 style=\"text-align:center;\">🤧🫷Flu vaccination</h3><p style=\"text-align:center;\">To support your health and well-being, we’ll be offering complimentary flu vaccinations every year</p><h3 style=\"text-align:center;\">🎣 Fishing rods in the office</h3><p style=\"text-align:center;\">Grab one and go fishing. We have fishing guides and experts working among us that can help you catch your dream fish</p><h3 style=\"text-align:center;\">🐕 Dog friendly</h3><p style=\"text-align:center;\">Feel free to bring your furry friend to the office</p><h3 style=\"text-align:center;\">🥳 Social activities</h3><p style=\"text-align:center;\">Quizzes, virtual escape rooms, parties, regular fikas, fishing tournaments and much more!</p><h3 style=\"text-align:center;\">🥪 Breakfast</h3><p style=\"text-align:center;\">Every Wednesday we start the day with a breakfast together</p><h3 style=\"text-align:center;\">🍭 Candy, soda, fruits &amp; snacks</h3><h3 style=\"text-align:center;\">☕️ Coffee and tea</h3><h3 style=\"text-align:center;\">🎮 Gaming corner</h3><h3 style=\"text-align:center;\">🏓 Ping pong</h3><p></p><p></p><p><br>&nbsp;</p><p style=\"text-align:center;\"><strong>Feeling hooked? Throw us a line!</strong>&nbsp;</p>",
+      "roleFamily": "senior-pd"
+    },
+    {
       "id": "smartrecruiters:wise:744000163886936",
       "atsProvider": "smartrecruiters",
       "company": "Wise",
@@ -96,17 +107,6 @@
       "postedAt": "2026-11-23T12:59:59.578Z",
       "description": "",
       "roleFamily": "lead-pd"
-    },
-    {
-      "id": "teamtailor:fishbrain:277cea11-2b59-47f7-84c8-4669a95f2f4d",
-      "atsProvider": "teamtailor",
-      "company": "Fishbrain",
-      "title": "Senior Product Designer - Conversion",
-      "location": "Stockholm, Sweden",
-      "url": "https://careers.fishbrain.com/jobs/8748447-senior-product-designer-conversion",
-      "postedAt": "2026-11-16T13:17:19.000Z",
-      "description": "<p>The <strong>Fishbrain </strong>Team has built and maintains the <strong>#1 fishing app</strong> in the US, designed for people who are passionate about fishing and outdoors. Our mission is to deliver an incredible experience that helps anglers achieve their fishing dreams, today and tomorrow.</p><p>Want to take the #1 fishing app in the US with millions of users to the next level? Now's your chance! We're currently recruiting a<strong> Senior Product Designer </strong>to join our team at Fishbrain.</p><p><strong id=\"docs-internal-guid-e24d6c7b-7fff-1223-8f13-6b049e9aead8\">Why this role, why now</strong></p><p><span>We're looking for a Senior Product Designer to join our Conversion team. You'll shape how millions of anglers discover Fishbrain, get started, and decide to go Pro.</span></p><p><span>Our conversion journey runs from the first search result to the first paid month. Right now, AI is reshaping what Fishbrain Pro can do, and we need a designer who can make that value obvious at every step. Your work shows up directly in our business metrics, so you'll see the impact of every decision you make.</span></p><p><span><strong>The role</strong></span></p><p><span>You'll be the designer in the Conversion team, working day to day with your PM and engineers. You report to our Head of Design and are part of a design guild with three other designers. Together you'll set the standards and rituals that raise the bar across Fishbrain.</span></p><p><span><strong>You own the end-to-end experience for Conversion:</strong></span></p><ul><li><p><span>Acquisition: web and SEO pages that turn searches into app downloads</span></p></li><li><p><span>Monetization: trials, paywalls, subscription flows, and ad experiences</span></p></li></ul><p><span>This is a senior role. Beyond delivery, you'll shape the team's roadmap and experiment strategy alongside your PM and EM.</span></p><h3><span><strong>What you'll be working on</strong></span></h3><ul><li><p><span>Own the funnel end to end. Design high-quality, intuitive experiences from website to onboarding, trial, and subscription.</span></p></li><li><p><span>Move the numbers. Find gaps and opportunities in reg-to-trial, trial-to-Pro, website downloads, AI-visibility score and early retention.</span></p></li><li><p><span>Run experiments that teach us something. Shape hypotheses with your PM and EM, design for A/B tests, and read the results.</span></p></li><li><p><span>Keep discovery continuous. Talk to anglers regularly, prototype fast, and blend qualitative insight with data.</span></p></li><li><p><span>Make Pro's value clear. Show what Pro and AI-powered features like Fishing Intelligence do for anglers, without dark patterns.</span></p></li><li><p><span>Raise the craft. Contribute to our design system, critiques, and guild standards in Figma and beyond.</span></p></li><li><p><span>Work AI-first. Use AI tools from research synthesis to coded prototypes, and help the guild find better ways of working.</span></p></li></ul><h3>What we’re fishing for</h3><ul><li><p><span>5+ years in product design, with a portfolio that shows conversion or growth work and its measurable impact.</span></p></li><li><p><span>AI as part of your daily workflow, from discovery and synthesis to prototyping in code.</span></p></li><li><p><span>Strong mobile craft on iOS and Android, with a deep understanding of </span>Apple’s Human Interface Guidelines and Material Design.<span>.</span></p></li><li><p><span>Web design experience, ideally SEO or landing pages built to drive app downloads.</span></p></li><li><p><span>Hands-on experimentation: you design for A/B tests and are comfortable in analytics tools like Amplitude.</span></p></li><li><p><span>Subscription or freemium experience, and an understanding of how people decide to pay.</span></p></li><li><p>Expert Figma skills across design systems, prototyping and handoff, and curiosity about the tools that come next.</p></li><li><p><span>A clear communicator who can explain the why behind a design to any stakeholder.</span></p></li><li><p>A degree in design, HCI or a related field, or equivalent experience.</p></li></ul><p><span><strong>Bonus, but not required</strong></span></p><ul><li><p><span>Fishing experience, or an eagerness to learn</span></p></li></ul><p><br><br><strong>Where you’ll work</strong></p><p><span>We operate in a <strong>hybrid work</strong> environment, with all team members expected to work from our <strong>Stockholm HQ</strong>, <strong>The Lighthouse, located at Hötorget</strong>, at least three days a week.</span></p><p></p><p>Please submit applications in<span> </span><strong>ENGLISH</strong>, those that are not will not be reviewed.<strong><br></strong></p><p><strong>Our Bait</strong></p><p>We’re a product-focused startup, and every individual is important. That means you get to contribute to the direction of the company and the impact we have on millions of anglers. We at Fishbrain work with the latest tech and challenge ourselves every day. We have a work culture that encourages innovation, passion and teamwork. And most importantly, we want you to enjoy coming to work every single day.</p><p><strong>In addition, Fishbrain also offers:</strong>&nbsp;</p><h3 style=\"text-align:center;\">🌴 30 days annual vacation</h3><p style=\"text-align:center;\">Each year you’ll get 30 days vacation to use however, whenever</p><h3 style=\"text-align:center;\">🤸‍♀️ Wellness bonus</h3><p style=\"text-align:center;\">5000 sek annual allowance to put towards anything in the realm of health and fitness</p><h3 style=\"text-align:center;\">🧑‍🎓 Learning &amp; development days</h3><p style=\"text-align:center;\">Fishbrain provides five paid Learning &amp; Development days per year to its employees</p><h3 style=\"text-align:center;\">💻📱 Technology of your choice</h3><p style=\"text-align:center;\">Mac or PC, you decide</p><h3 style=\"text-align:center;\">🌎 Commitment to sustainability</h3><p style=\"text-align:center;\">Our global data set, among the largest in the world, is selectively provided in a managed and controlled manner to scientific research partners in both North America and Europe to better understand and improve fisheries research</p><h3 style=\"text-align:center;\">🤧🫷Flu vaccination</h3><p style=\"text-align:center;\">To support your health and well-being, we’ll be offering complimentary flu vaccinations every year</p><h3 style=\"text-align:center;\">🎣 Fishing rods in the office</h3><p style=\"text-align:center;\">Grab one and go fishing. We have fishing guides and experts working among us that can help you catch your dream fish</p><h3 style=\"text-align:center;\">🐕 Dog friendly</h3><p style=\"text-align:center;\">Feel free to bring your furry friend to the office</p><h3 style=\"text-align:center;\">🥳 Social activities</h3><p style=\"text-align:center;\">Quizzes, virtual escape rooms, parties, regular fikas, fishing tournaments and much more!</p><h3 style=\"text-align:center;\">🥪 Breakfast</h3><p style=\"text-align:center;\">Every Wednesday we start the day with a breakfast together</p><h3 style=\"text-align:center;\">🍭 Candy, soda, fruits &amp; snacks</h3><h3 style=\"text-align:center;\">☕️ Coffee and tea</h3><h3 style=\"text-align:center;\">🎮 Gaming corner</h3><h3 style=\"text-align:center;\">🏓 Ping pong</h3><p></p><p></p><p><br>&nbsp;</p><p style=\"text-align:center;\"><strong>Feeling hooked? Throw us a line!</strong>&nbsp;</p>",
-      "roleFamily": "senior-pd"
     },
     {
       "id": "greenhouse:n26:8355849",
@@ -357,7 +357,7 @@
       "title": "Senior Product Designer Consumer Mobile",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-consumer-mobile-ondofinance/156537",
-      "postedAt": "2026-11-26T09:00:57.757Z",
+      "postedAt": "2026-11-26T08:22:02.891Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -368,7 +368,7 @@
       "title": "Senior Product Designer Web3",
       "location": "Remote",
       "url": "https://web3.career/senior-product-designer-web3-bitpanda/155643",
-      "postedAt": "2026-11-24T09:00:57.757Z",
+      "postedAt": "2026-11-24T08:22:02.892Z",
       "description": "",
       "roleFamily": "senior-pd"
     },
@@ -379,7 +379,7 @@
       "title": "Sr Staff Product Designer Krak",
       "location": "London, United Kingdom",
       "url": "https://web3.career/sr-staff-product-designer-krak-kraken/156339",
-      "postedAt": "2026-11-19T09:00:57.758Z",
+      "postedAt": "2026-11-19T08:22:02.893Z",
       "description": "",
       "roleFamily": "lead-pd"
     },
@@ -417,15 +417,15 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "getro:point-nine:100120112",
+      "id": "getro:accel:100900409",
       "atsProvider": "getro",
-      "company": "Revolut",
-      "title": "UX Product Owner (Personal Loans)",
-      "location": "Madrid, Spain, Spain, Mumbai, Maharashtra, India, India, Bengaluru, Karnataka, India, São Paulo, SP, Brazil, Brazil, Poland, Kraków, Poland, Mexico, Mexico City, Mexico, Barcelona, Spain, Chennai, Tamil Nadu, India, Remote, Dubai - United Arab Emirates, United Arab Emirates, Bucharest, Romania, Romania, Lithuania, Portugal, Lisbon, Portugal, Gurugram, Haryana, India, Porto, Portugal, Vilnius, Lithuania, Indore, Madhya Pradesh, India, Silesian Voivodeship, Poland",
-      "url": "https://www.revolut.com/careers/position/1733a05c-8d43-4624-adfa-0d1318584f16",
-      "postedAt": "2026-11-18T11:19:56.000Z",
+      "company": "Legora",
+      "title": "Staff Product Designer",
+      "location": "Stockholm, Sweden",
+      "url": "https://jobs.ashbyhq.com/legora/74caf8aa-f849-4edf-b5b0-fce1bc82a2ba",
+      "postedAt": "2026-11-27T12:37:06.000Z",
       "description": "",
-      "roleFamily": "product-owner"
+      "roleFamily": "lead-pd"
     },
     {
       "id": "getro:accel:100571534",
@@ -455,7 +455,7 @@
       "company": "Google",
       "title": "UX Designer, YouTube Creator Ads",
       "location": "Zürich, Switzerland",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/100996523508015814-ux-designer-youtube-creator-ads?page=85",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/100996523508015814-ux-designer-youtube-creator-ads?page=83",
       "postedAt": "2026-11-20T12:06:39.000Z",
       "description": "",
       "roleFamily": "uiux"
@@ -571,15 +571,15 @@
       "roleFamily": "senior-pd"
     },
     {
-      "id": "getro:accel:99548924",
+      "id": "getro:accel:99548786",
       "atsProvider": "getro",
       "company": "Instana",
-      "title": "Product Designer - Terraform",
+      "title": "Senior Product Designer",
       "location": "",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=138784",
-      "postedAt": "2026-11-11T11:49:08.000Z",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=138828",
+      "postedAt": "2026-11-11T11:48:57.000Z",
       "description": "",
-      "roleFamily": "uiux"
+      "roleFamily": "senior-pd"
     },
     {
       "id": "getro:accel:99481632",
@@ -587,7 +587,7 @@
       "company": "Google",
       "title": "Senior UX Designer, Google Pay India",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/133109869426156230-senior-ux-designer-google-pay-india?page=37",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/133109869426156230-senior-ux-designer-google-pay-india?page=36",
       "postedAt": "2026-11-10T13:47:04.000Z",
       "description": "",
       "roleFamily": "uiux"
@@ -637,94 +637,6 @@
       "roleFamily": "uiux"
     },
     {
-      "id": "getro:accel:99227391",
-      "atsProvider": "getro",
-      "company": "Melio",
-      "title": "Senior Product Designer",
-      "location": "94 Haarbach, Germany",
-      "url": "https://jobs.ashbyhq.com/Melio-payments/6a8a0f65-5443-41fd-a464-d484026883dd",
-      "postedAt": "2026-11-07T10:16:17.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
-    },
-    {
-      "id": "getro:accel:99132747",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Product Designer (Enterprise Web SaaS)",
-      "location": "",
-      "url": "https://remote.com/jobs/kyivstar-c1a63u43/product-designer-enterprise-web-saas-j1lnk73r",
-      "postedAt": "2026-11-06T11:41:59.000Z",
-      "description": "",
-      "roleFamily": "uiux"
-    },
-    {
-      "id": "getro:accel:99132735",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Senior Staff Product Designer - AI",
-      "location": "",
-      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/senior-staff-product-designer-ai-j1ciwdqo",
-      "postedAt": "2026-11-06T11:41:58.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
-      "id": "getro:accel:99132738",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Staff Product Designer",
-      "location": "",
-      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/staff-product-designer-j1cxvcdl",
-      "postedAt": "2026-11-06T11:41:58.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
-      "id": "getro:accel:99132742",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Staff Product Designer, Growth",
-      "location": "",
-      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/staff-product-designer-growth-j1xrwaqh",
-      "postedAt": "2026-11-06T11:41:58.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
-      "id": "getro:accel:99132691",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Senior Product Designer, Knowledge Graph | Spain | Remote",
-      "location": "",
-      "url": "https://remote.com/jobs/grafana-labs-c17v751x/senior-product-designer-knowledge-graph-spain-remote-j1ciq8lg",
-      "postedAt": "2026-11-06T11:41:57.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
-    },
-    {
-      "id": "getro:accel:99132675",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Senior Product Designer, Design Systems",
-      "location": "",
-      "url": "https://remote.com/jobs/ondo-finance-c1tq08yh/senior-product-designer-design-systems-j14ojvxk",
-      "postedAt": "2026-11-06T11:41:56.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
-    },
-    {
-      "id": "getro:accel:99132594",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Senior Product Designer, Knowledge Graph | Ireland | Remote",
-      "location": "",
-      "url": "https://remote.com/jobs/grafana-labs-c17v751x/senior-product-designer-knowledge-graph-ireland-remote-j1tjog8k",
-      "postedAt": "2026-11-06T11:41:53.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
-    },
-    {
       "id": "getro:accel:100815123",
       "atsProvider": "getro",
       "company": "Causal",
@@ -758,23 +670,23 @@
       "roleFamily": "product-owner"
     },
     {
-      "id": "getro:accel:99280267",
-      "atsProvider": "getro",
-      "company": "Remote",
-      "title": "Product Owner",
-      "location": "",
-      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/product-owner-j1ktw8jg",
-      "postedAt": "2026-11-07T12:30:37.000Z",
-      "description": "",
-      "roleFamily": "product-owner"
-    },
-    {
       "id": "getro:accel:99280269",
       "atsProvider": "getro",
       "company": "Remote",
       "title": "Senior Product Owner (HRIS)",
       "location": "",
       "url": "https://remote.com/jobs/jobgether-c1xcbjrw/senior-product-owner-hris-j1w66gxj",
+      "postedAt": "2026-11-07T12:30:37.000Z",
+      "description": "",
+      "roleFamily": "product-owner"
+    },
+    {
+      "id": "getro:accel:99280267",
+      "atsProvider": "getro",
+      "company": "Remote",
+      "title": "Product Owner",
+      "location": "",
+      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/product-owner-j1ktw8jg",
       "postedAt": "2026-11-07T12:30:37.000Z",
       "description": "",
       "roleFamily": "product-owner"
@@ -798,6 +710,17 @@
       "location": "Gilching, Germany",
       "url": "https://career.quantum-systems.com/o/uxui-designer-mfd",
       "postedAt": "2026-11-10T09:27:21.000Z",
+      "description": "",
+      "roleFamily": "uiux"
+    },
+    {
+      "id": "getro:seedcamp:100875881",
+      "atsProvider": "getro",
+      "company": "Zinc",
+      "title": "Product Designer",
+      "location": "London, UK",
+      "url": "https://zincwork.pinpointhq.com/en/postings/95857e3d-c2f5-40f4-bea1-52c88fa7bee0",
+      "postedAt": "2026-11-27T10:52:16.000Z",
       "description": "",
       "roleFamily": "uiux"
     },
@@ -868,12 +791,12 @@
       "roleFamily": "lead-pd"
     },
     {
-      "id": "getro:insight-partners:100548758",
+      "id": "getro:insight-partners:100548757",
       "atsProvider": "getro",
       "company": "Vinted",
       "title": "Senior Product Designer, Security (2-year fixed-term contract)",
-      "location": "Kaunas, Lithuania",
-      "url": "https://boards.greenhouse.io/vinteden/jobs/5008236101",
+      "location": "Vilnius, Lithuania",
+      "url": "https://boards.greenhouse.io/vinteden/jobs/5003008101",
       "postedAt": "2026-11-23T11:01:58.000Z",
       "description": "",
       "roleFamily": "senior-pd"
@@ -1009,61 +932,6 @@
       "postedAt": "2026-11-07T12:01:04.000Z",
       "description": "",
       "roleFamily": "uiux"
-    },
-    {
-      "id": "getro:general-catalyst:99207062",
-      "atsProvider": "getro",
-      "company": "Deel",
-      "title": "Senior Staff Product Designer - AI",
-      "location": "France, Italy, Spain, Switzerland, Israel, Brazil, Poland, Germany, Denmark, Portugal, Cyprus, United Kingdom",
-      "url": "https://jobs.deel.com/deel/job-details/f203cb23-b977-4178-a1d9-50a5184f2e9c/overview",
-      "postedAt": "2026-11-06T13:47:16.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
-      "id": "getro:general-catalyst:99207038",
-      "atsProvider": "getro",
-      "company": "Deel",
-      "title": "Staff Product Designer",
-      "location": "Canada, France, Spain, Israel, Brazil, Poland, Germany, Austria, Denmark, Argentina, Czechia, Belgium, Greece, Cyprus, United Kingdom",
-      "url": "https://jobs.deel.com/deel/job-details/4c625548-3f8e-4444-a8b8-e071c6b2128c/overview",
-      "postedAt": "2026-11-06T13:47:11.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
-      "id": "getro:general-catalyst:99207029",
-      "atsProvider": "getro",
-      "company": "Deel",
-      "title": "Staff Product Designer, Growth",
-      "location": "Canada, France, Italy, Spain, Israel, Brazil, Poland, Austria, Denmark, Argentina, Belgium, Portugal, United Kingdom",
-      "url": "https://jobs.deel.com/deel/job-details/44f2c04d-5950-467a-be9c-db47ff121a36/overview",
-      "postedAt": "2026-11-06T13:47:09.000Z",
-      "description": "",
-      "roleFamily": "lead-pd"
-    },
-    {
-      "id": "getro:general-catalyst:99207020",
-      "atsProvider": "getro",
-      "company": "Deel",
-      "title": "Senior Product Designer, Growth/Website",
-      "location": "France, Spain, Switzerland, Israel, Brazil, Poland, Germany, Sweden, Belgium, Estonia, Portugal, Greece, United Kingdom",
-      "url": "https://jobs.deel.com/deel/job-details/f34be643-8bea-4ed7-88f0-92a20d24cd5e/overview",
-      "postedAt": "2026-11-06T13:47:08.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
-    },
-    {
-      "id": "getro:general-catalyst:99206991",
-      "atsProvider": "getro",
-      "company": "Deel",
-      "title": "Senior Product Designer",
-      "location": "Ireland, France, Spain, Israel, Brazil, Poland, Germany, Norway, Austria, Denmark, Argentina, United Arab Emirates, Sweden, Finland, United Kingdom",
-      "url": "https://jobs.deel.com/deel/job-details/7cb0dbe9-2185-4ce9-9dad-466f90331988/overview",
-      "postedAt": "2026-11-06T13:47:01.000Z",
-      "description": "",
-      "roleFamily": "senior-pd"
     },
     {
       "id": "getro:mmc-ventures:99423133",
